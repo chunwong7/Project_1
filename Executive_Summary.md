@@ -13,6 +13,7 @@
 3. Census Data 
 ## Task Distribution
 * Ryan:
+  * Retrieval and clean up of SAPIE data
 * Frankie: 
 * Evan: 
 * Mahamat:
