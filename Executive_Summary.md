@@ -20,7 +20,8 @@
   * Obtain money data from FEMA Web Decleration Summaries API specifically the money distributed per disaster
   * Clean the data obtained from FEMA
 * Evan:
-  * Obtain and clean data of racial makeup of counties
+  * Find API or other Data source for racial makeup of counties
+  * Collect data and clean it.
 * Mahamat:
   * Obtain data about county relief efforts by disaster from FEMA's Disaster Decleration Summaries V2 API
   * Clean data from FEMA
