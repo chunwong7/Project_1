@@ -1,0 +1,25 @@
+# Meeting from class on Thursday March, 12th
+## Accomplished
+* Decided on Disaster Decleration Summary V2 API from FEMA
+* Decided on Public Assistance Mission Summary API from FEMA
+* Decided on XLS files from SAPIE for household income data
+  * Decided to convert to CSV files
+* Decided time scope will be 2003 - 2018
+* Cleaned SAPIE data to County and Median Houselhold Income
+* Began pull and clean from Public Assistance API
+* Began pull and clean from Disaster Decleration API
+* Created template for FEMA URL calls
+# Pulled Disaster Decleration Summary V2 API
+## Goals for Saturday
+* Ryan:
+  * Continue cleaning of SAPIE data
+  * Look for data sources for demographics of counties w/ Evan
+* Evan:
+  * Find data source for demographics of counties w/ Ryan
+  * Pull demographics data and clean
+* Frankie:
+  * Continue to clean Public Assistance Mission Summary data
+* Muhamat:
+  * Clean Disaster Decleration Summary V2 data
+
+Zoom meeting for 3/13: https://cwru.zoom.us/j/137658409
