@@ -1,0 +1,433 @@
+State County FIPS,Postal Code,Name,Median Household Income,Year
+"2 , 13",AK,Aleutians East Borough,39239,2003
+"2 , 16",AK,Aleutians West Census Area,50367,2003
+"2 , 20",AK,Anchorage Borough,55197,2003
+"2 , 50",AK,Bethel Census Area,35326,2003
+"2 , 60",AK,Bristol Bay Borough,55876,2003
+"2 , 68",AK,Denali Borough,52230,2003
+"2 , 70",AK,Dillingham Census Area,40477,2003
+"2 , 90",AK,Fairbanks North Star Borough,52492,2003
+"2 , 100",AK,Haines Borough,39003,2003
+"2 , 110",AK,Juneau Borough,60024,2003
+"2 , 122",AK,Kenai Peninsula Borough,48697,2003
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2003
+"2 , 150",AK,Kodiak Island Borough,51809,2003
+"2 , 164",AK,Lake and Peninsula Borough,32617,2003
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2003
+"2 , 180",AK,Nome Census Area,38925,2003
+"2 , 185",AK,North Slope Borough,57822,2003
+"2 , 188",AK,Northwest Arctic Borough,42230,2003
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2003
+"2 , 220",AK,Sitka Borough,51207,2003
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2003
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2003
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2003
+"2 , 270",AK,Wade Hampton Census Area,27650,2003
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2003
+"2 , 282",AK,Yakutat Borough,40404,2003
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2003
+"2 , 13",AK,Aleutians East Borough,39239,2004
+"2 , 16",AK,Aleutians West Census Area,50367,2004
+"2 , 20",AK,Anchorage Borough,55197,2004
+"2 , 50",AK,Bethel Census Area,35326,2004
+"2 , 60",AK,Bristol Bay Borough,55876,2004
+"2 , 68",AK,Denali Borough,52230,2004
+"2 , 70",AK,Dillingham Census Area,40477,2004
+"2 , 90",AK,Fairbanks North Star Borough,52492,2004
+"2 , 100",AK,Haines Borough,39003,2004
+"2 , 110",AK,Juneau Borough,60024,2004
+"2 , 122",AK,Kenai Peninsula Borough,48697,2004
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2004
+"2 , 150",AK,Kodiak Island Borough,51809,2004
+"2 , 164",AK,Lake and Peninsula Borough,32617,2004
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2004
+"2 , 180",AK,Nome Census Area,38925,2004
+"2 , 185",AK,North Slope Borough,57822,2004
+"2 , 188",AK,Northwest Arctic Borough,42230,2004
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2004
+"2 , 220",AK,Sitka Borough,51207,2004
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2004
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2004
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2004
+"2 , 270",AK,Wade Hampton Census Area,27650,2004
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2004
+"2 , 282",AK,Yakutat Borough,40404,2004
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2004
+"2 , 13",AK,Aleutians East Borough,39239,2005
+"2 , 16",AK,Aleutians West Census Area,50367,2005
+"2 , 20",AK,Anchorage Borough,55197,2005
+"2 , 50",AK,Bethel Census Area,35326,2005
+"2 , 60",AK,Bristol Bay Borough,55876,2005
+"2 , 68",AK,Denali Borough,52230,2005
+"2 , 70",AK,Dillingham Census Area,40477,2005
+"2 , 90",AK,Fairbanks North Star Borough,52492,2005
+"2 , 100",AK,Haines Borough,39003,2005
+"2 , 110",AK,Juneau Borough,60024,2005
+"2 , 122",AK,Kenai Peninsula Borough,48697,2005
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2005
+"2 , 150",AK,Kodiak Island Borough,51809,2005
+"2 , 164",AK,Lake and Peninsula Borough,32617,2005
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2005
+"2 , 180",AK,Nome Census Area,38925,2005
+"2 , 185",AK,North Slope Borough,57822,2005
+"2 , 188",AK,Northwest Arctic Borough,42230,2005
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2005
+"2 , 220",AK,Sitka Borough,51207,2005
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2005
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2005
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2005
+"2 , 270",AK,Wade Hampton Census Area,27650,2005
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2005
+"2 , 282",AK,Yakutat Borough,40404,2005
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2005
+"2 , 13",AK,Aleutians East Borough,39239,2006
+"2 , 16",AK,Aleutians West Census Area,50367,2006
+"2 , 20",AK,Anchorage Borough,55197,2006
+"2 , 50",AK,Bethel Census Area,35326,2006
+"2 , 60",AK,Bristol Bay Borough,55876,2006
+"2 , 68",AK,Denali Borough,52230,2006
+"2 , 70",AK,Dillingham Census Area,40477,2006
+"2 , 90",AK,Fairbanks North Star Borough,52492,2006
+"2 , 100",AK,Haines Borough,39003,2006
+"2 , 110",AK,Juneau Borough,60024,2006
+"2 , 122",AK,Kenai Peninsula Borough,48697,2006
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2006
+"2 , 150",AK,Kodiak Island Borough,51809,2006
+"2 , 164",AK,Lake and Peninsula Borough,32617,2006
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2006
+"2 , 180",AK,Nome Census Area,38925,2006
+"2 , 185",AK,North Slope Borough,57822,2006
+"2 , 188",AK,Northwest Arctic Borough,42230,2006
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2006
+"2 , 220",AK,Sitka Borough,51207,2006
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2006
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2006
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2006
+"2 , 270",AK,Wade Hampton Census Area,27650,2006
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2006
+"2 , 282",AK,Yakutat Borough,40404,2006
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2006
+"2 , 13",AK,Aleutians East Borough,39239,2007
+"2 , 16",AK,Aleutians West Census Area,50367,2007
+"2 , 20",AK,Anchorage Borough,55197,2007
+"2 , 50",AK,Bethel Census Area,35326,2007
+"2 , 60",AK,Bristol Bay Borough,55876,2007
+"2 , 68",AK,Denali Borough,52230,2007
+"2 , 70",AK,Dillingham Census Area,40477,2007
+"2 , 90",AK,Fairbanks North Star Borough,52492,2007
+"2 , 100",AK,Haines Borough,39003,2007
+"2 , 110",AK,Juneau Borough,60024,2007
+"2 , 122",AK,Kenai Peninsula Borough,48697,2007
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2007
+"2 , 150",AK,Kodiak Island Borough,51809,2007
+"2 , 164",AK,Lake and Peninsula Borough,32617,2007
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2007
+"2 , 180",AK,Nome Census Area,38925,2007
+"2 , 185",AK,North Slope Borough,57822,2007
+"2 , 188",AK,Northwest Arctic Borough,42230,2007
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2007
+"2 , 220",AK,Sitka Borough,51207,2007
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2007
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2007
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2007
+"2 , 270",AK,Wade Hampton Census Area,27650,2007
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2007
+"2 , 282",AK,Yakutat Borough,40404,2007
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2007
+"2 , 13",AK,Aleutians East Borough,39239,2008
+"2 , 16",AK,Aleutians West Census Area,50367,2008
+"2 , 20",AK,Anchorage Borough,55197,2008
+"2 , 50",AK,Bethel Census Area,35326,2008
+"2 , 60",AK,Bristol Bay Borough,55876,2008
+"2 , 68",AK,Denali Borough,52230,2008
+"2 , 70",AK,Dillingham Census Area,40477,2008
+"2 , 90",AK,Fairbanks North Star Borough,52492,2008
+"2 , 100",AK,Haines Borough,39003,2008
+"2 , 110",AK,Juneau Borough,60024,2008
+"2 , 122",AK,Kenai Peninsula Borough,48697,2008
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2008
+"2 , 150",AK,Kodiak Island Borough,51809,2008
+"2 , 164",AK,Lake and Peninsula Borough,32617,2008
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2008
+"2 , 180",AK,Nome Census Area,38925,2008
+"2 , 185",AK,North Slope Borough,57822,2008
+"2 , 188",AK,Northwest Arctic Borough,42230,2008
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2008
+"2 , 220",AK,Sitka Borough,51207,2008
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2008
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2008
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2008
+"2 , 270",AK,Wade Hampton Census Area,27650,2008
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2008
+"2 , 282",AK,Yakutat Borough,40404,2008
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2008
+"2 , 13",AK,Aleutians East Borough,39239,2009
+"2 , 16",AK,Aleutians West Census Area,50367,2009
+"2 , 20",AK,Anchorage Borough,55197,2009
+"2 , 50",AK,Bethel Census Area,35326,2009
+"2 , 60",AK,Bristol Bay Borough,55876,2009
+"2 , 68",AK,Denali Borough,52230,2009
+"2 , 70",AK,Dillingham Census Area,40477,2009
+"2 , 90",AK,Fairbanks North Star Borough,52492,2009
+"2 , 100",AK,Haines Borough,39003,2009
+"2 , 110",AK,Juneau Borough,60024,2009
+"2 , 122",AK,Kenai Peninsula Borough,48697,2009
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2009
+"2 , 150",AK,Kodiak Island Borough,51809,2009
+"2 , 164",AK,Lake and Peninsula Borough,32617,2009
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2009
+"2 , 180",AK,Nome Census Area,38925,2009
+"2 , 185",AK,North Slope Borough,57822,2009
+"2 , 188",AK,Northwest Arctic Borough,42230,2009
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2009
+"2 , 220",AK,Sitka Borough,51207,2009
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2009
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2009
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2009
+"2 , 270",AK,Wade Hampton Census Area,27650,2009
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2009
+"2 , 282",AK,Yakutat Borough,40404,2009
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2009
+"2 , 13",AK,Aleutians East Borough,39239,2010
+"2 , 16",AK,Aleutians West Census Area,50367,2010
+"2 , 20",AK,Anchorage Borough,55197,2010
+"2 , 50",AK,Bethel Census Area,35326,2010
+"2 , 60",AK,Bristol Bay Borough,55876,2010
+"2 , 68",AK,Denali Borough,52230,2010
+"2 , 70",AK,Dillingham Census Area,40477,2010
+"2 , 90",AK,Fairbanks North Star Borough,52492,2010
+"2 , 100",AK,Haines Borough,39003,2010
+"2 , 110",AK,Juneau Borough,60024,2010
+"2 , 122",AK,Kenai Peninsula Borough,48697,2010
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2010
+"2 , 150",AK,Kodiak Island Borough,51809,2010
+"2 , 164",AK,Lake and Peninsula Borough,32617,2010
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2010
+"2 , 180",AK,Nome Census Area,38925,2010
+"2 , 185",AK,North Slope Borough,57822,2010
+"2 , 188",AK,Northwest Arctic Borough,42230,2010
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2010
+"2 , 220",AK,Sitka Borough,51207,2010
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2010
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2010
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2010
+"2 , 270",AK,Wade Hampton Census Area,27650,2010
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2010
+"2 , 282",AK,Yakutat Borough,40404,2010
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2010
+"2 , 13",AK,Aleutians East Borough,39239,2011
+"2 , 16",AK,Aleutians West Census Area,50367,2011
+"2 , 20",AK,Anchorage Borough,55197,2011
+"2 , 50",AK,Bethel Census Area,35326,2011
+"2 , 60",AK,Bristol Bay Borough,55876,2011
+"2 , 68",AK,Denali Borough,52230,2011
+"2 , 70",AK,Dillingham Census Area,40477,2011
+"2 , 90",AK,Fairbanks North Star Borough,52492,2011
+"2 , 100",AK,Haines Borough,39003,2011
+"2 , 110",AK,Juneau Borough,60024,2011
+"2 , 122",AK,Kenai Peninsula Borough,48697,2011
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2011
+"2 , 150",AK,Kodiak Island Borough,51809,2011
+"2 , 164",AK,Lake and Peninsula Borough,32617,2011
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2011
+"2 , 180",AK,Nome Census Area,38925,2011
+"2 , 185",AK,North Slope Borough,57822,2011
+"2 , 188",AK,Northwest Arctic Borough,42230,2011
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2011
+"2 , 220",AK,Sitka Borough,51207,2011
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2011
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2011
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2011
+"2 , 270",AK,Wade Hampton Census Area,27650,2011
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2011
+"2 , 282",AK,Yakutat Borough,40404,2011
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2011
+"2 , 13",AK,Aleutians East Borough,39239,2012
+"2 , 16",AK,Aleutians West Census Area,50367,2012
+"2 , 20",AK,Anchorage Borough,55197,2012
+"2 , 50",AK,Bethel Census Area,35326,2012
+"2 , 60",AK,Bristol Bay Borough,55876,2012
+"2 , 68",AK,Denali Borough,52230,2012
+"2 , 70",AK,Dillingham Census Area,40477,2012
+"2 , 90",AK,Fairbanks North Star Borough,52492,2012
+"2 , 100",AK,Haines Borough,39003,2012
+"2 , 110",AK,Juneau Borough,60024,2012
+"2 , 122",AK,Kenai Peninsula Borough,48697,2012
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2012
+"2 , 150",AK,Kodiak Island Borough,51809,2012
+"2 , 164",AK,Lake and Peninsula Borough,32617,2012
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2012
+"2 , 180",AK,Nome Census Area,38925,2012
+"2 , 185",AK,North Slope Borough,57822,2012
+"2 , 188",AK,Northwest Arctic Borough,42230,2012
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2012
+"2 , 220",AK,Sitka Borough,51207,2012
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2012
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2012
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2012
+"2 , 270",AK,Wade Hampton Census Area,27650,2012
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2012
+"2 , 282",AK,Yakutat Borough,40404,2012
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2012
+"2 , 13",AK,Aleutians East Borough,39239,2013
+"2 , 16",AK,Aleutians West Census Area,50367,2013
+"2 , 20",AK,Anchorage Borough,55197,2013
+"2 , 50",AK,Bethel Census Area,35326,2013
+"2 , 60",AK,Bristol Bay Borough,55876,2013
+"2 , 68",AK,Denali Borough,52230,2013
+"2 , 70",AK,Dillingham Census Area,40477,2013
+"2 , 90",AK,Fairbanks North Star Borough,52492,2013
+"2 , 100",AK,Haines Borough,39003,2013
+"2 , 110",AK,Juneau Borough,60024,2013
+"2 , 122",AK,Kenai Peninsula Borough,48697,2013
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2013
+"2 , 150",AK,Kodiak Island Borough,51809,2013
+"2 , 164",AK,Lake and Peninsula Borough,32617,2013
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2013
+"2 , 180",AK,Nome Census Area,38925,2013
+"2 , 185",AK,North Slope Borough,57822,2013
+"2 , 188",AK,Northwest Arctic Borough,42230,2013
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2013
+"2 , 220",AK,Sitka Borough,51207,2013
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2013
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2013
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2013
+"2 , 270",AK,Wade Hampton Census Area,27650,2013
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2013
+"2 , 282",AK,Yakutat Borough,40404,2013
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2013
+"2 , 13",AK,Aleutians East Borough,39239,2014
+"2 , 16",AK,Aleutians West Census Area,50367,2014
+"2 , 20",AK,Anchorage Borough,55197,2014
+"2 , 50",AK,Bethel Census Area,35326,2014
+"2 , 60",AK,Bristol Bay Borough,55876,2014
+"2 , 68",AK,Denali Borough,52230,2014
+"2 , 70",AK,Dillingham Census Area,40477,2014
+"2 , 90",AK,Fairbanks North Star Borough,52492,2014
+"2 , 100",AK,Haines Borough,39003,2014
+"2 , 110",AK,Juneau Borough,60024,2014
+"2 , 122",AK,Kenai Peninsula Borough,48697,2014
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2014
+"2 , 150",AK,Kodiak Island Borough,51809,2014
+"2 , 164",AK,Lake and Peninsula Borough,32617,2014
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2014
+"2 , 180",AK,Nome Census Area,38925,2014
+"2 , 185",AK,North Slope Borough,57822,2014
+"2 , 188",AK,Northwest Arctic Borough,42230,2014
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2014
+"2 , 220",AK,Sitka Borough,51207,2014
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2014
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2014
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2014
+"2 , 270",AK,Wade Hampton Census Area,27650,2014
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2014
+"2 , 282",AK,Yakutat Borough,40404,2014
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2014
+"2 , 13",AK,Aleutians East Borough,39239,2015
+"2 , 16",AK,Aleutians West Census Area,50367,2015
+"2 , 20",AK,Anchorage Borough,55197,2015
+"2 , 50",AK,Bethel Census Area,35326,2015
+"2 , 60",AK,Bristol Bay Borough,55876,2015
+"2 , 68",AK,Denali Borough,52230,2015
+"2 , 70",AK,Dillingham Census Area,40477,2015
+"2 , 90",AK,Fairbanks North Star Borough,52492,2015
+"2 , 100",AK,Haines Borough,39003,2015
+"2 , 110",AK,Juneau Borough,60024,2015
+"2 , 122",AK,Kenai Peninsula Borough,48697,2015
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2015
+"2 , 150",AK,Kodiak Island Borough,51809,2015
+"2 , 164",AK,Lake and Peninsula Borough,32617,2015
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2015
+"2 , 180",AK,Nome Census Area,38925,2015
+"2 , 185",AK,North Slope Borough,57822,2015
+"2 , 188",AK,Northwest Arctic Borough,42230,2015
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2015
+"2 , 220",AK,Sitka Borough,51207,2015
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2015
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2015
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2015
+"2 , 270",AK,Wade Hampton Census Area,27650,2015
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2015
+"2 , 282",AK,Yakutat Borough,40404,2015
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2015
+"2 , 13",AK,Aleutians East Borough,39239,2016
+"2 , 16",AK,Aleutians West Census Area,50367,2016
+"2 , 20",AK,Anchorage Borough,55197,2016
+"2 , 50",AK,Bethel Census Area,35326,2016
+"2 , 60",AK,Bristol Bay Borough,55876,2016
+"2 , 68",AK,Denali Borough,52230,2016
+"2 , 70",AK,Dillingham Census Area,40477,2016
+"2 , 90",AK,Fairbanks North Star Borough,52492,2016
+"2 , 100",AK,Haines Borough,39003,2016
+"2 , 110",AK,Juneau Borough,60024,2016
+"2 , 122",AK,Kenai Peninsula Borough,48697,2016
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2016
+"2 , 150",AK,Kodiak Island Borough,51809,2016
+"2 , 164",AK,Lake and Peninsula Borough,32617,2016
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2016
+"2 , 180",AK,Nome Census Area,38925,2016
+"2 , 185",AK,North Slope Borough,57822,2016
+"2 , 188",AK,Northwest Arctic Borough,42230,2016
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2016
+"2 , 220",AK,Sitka Borough,51207,2016
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2016
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2016
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2016
+"2 , 270",AK,Wade Hampton Census Area,27650,2016
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2016
+"2 , 282",AK,Yakutat Borough,40404,2016
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2016
+"2 , 13",AK,Aleutians East Borough,39239,2017
+"2 , 16",AK,Aleutians West Census Area,50367,2017
+"2 , 20",AK,Anchorage Borough,55197,2017
+"2 , 50",AK,Bethel Census Area,35326,2017
+"2 , 60",AK,Bristol Bay Borough,55876,2017
+"2 , 68",AK,Denali Borough,52230,2017
+"2 , 70",AK,Dillingham Census Area,40477,2017
+"2 , 90",AK,Fairbanks North Star Borough,52492,2017
+"2 , 100",AK,Haines Borough,39003,2017
+"2 , 110",AK,Juneau Borough,60024,2017
+"2 , 122",AK,Kenai Peninsula Borough,48697,2017
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2017
+"2 , 150",AK,Kodiak Island Borough,51809,2017
+"2 , 164",AK,Lake and Peninsula Borough,32617,2017
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2017
+"2 , 180",AK,Nome Census Area,38925,2017
+"2 , 185",AK,North Slope Borough,57822,2017
+"2 , 188",AK,Northwest Arctic Borough,42230,2017
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2017
+"2 , 220",AK,Sitka Borough,51207,2017
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2017
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2017
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2017
+"2 , 270",AK,Wade Hampton Census Area,27650,2017
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2017
+"2 , 282",AK,Yakutat Borough,40404,2017
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2017
+"2 , 13",AK,Aleutians East Borough,39239,2018
+"2 , 16",AK,Aleutians West Census Area,50367,2018
+"2 , 20",AK,Anchorage Borough,55197,2018
+"2 , 50",AK,Bethel Census Area,35326,2018
+"2 , 60",AK,Bristol Bay Borough,55876,2018
+"2 , 68",AK,Denali Borough,52230,2018
+"2 , 70",AK,Dillingham Census Area,40477,2018
+"2 , 90",AK,Fairbanks North Star Borough,52492,2018
+"2 , 100",AK,Haines Borough,39003,2018
+"2 , 110",AK,Juneau Borough,60024,2018
+"2 , 122",AK,Kenai Peninsula Borough,48697,2018
+"2 , 130",AK,Ketchikan Gateway Borough,50154,2018
+"2 , 150",AK,Kodiak Island Borough,51809,2018
+"2 , 164",AK,Lake and Peninsula Borough,32617,2018
+"2 , 170",AK,Matanuska-Susitna Borough,54725,2018
+"2 , 180",AK,Nome Census Area,38925,2018
+"2 , 185",AK,North Slope Borough,57822,2018
+"2 , 188",AK,Northwest Arctic Borough,42230,2018
+"2 , 201",AK,Prince of Wales-Outer Ketchikan Census Area,35393,2018
+"2 , 220",AK,Sitka Borough,51207,2018
+"2 , 232",AK,Skagway-Hoonah-Angoon Census Area,41072,2018
+"2 , 240",AK,Southeast Fairbanks Census Area,40894,2018
+"2 , 261",AK,Valdez-Cordova Census Area,50408,2018
+"2 , 270",AK,Wade Hampton Census Area,27650,2018
+"2 , 280",AK,Wrangell-Petersburg Census Area,45724,2018
+"2 , 282",AK,Yakutat Borough,40404,2018
+"2 , 290",AK,Yukon-Koyukuk Census Area,29952,2018
