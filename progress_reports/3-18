@@ -1,0 +1,22 @@
+# Combining of Data by Thursday
+## Mahamat + Ryan
+* Take the FEMA and merge with SAPIE Data
+* Combined data set should include:
+  * Year (On both)
+  * State (On both)
+  * Disaster ID (FEMA)
+  * Declaration Type (FEMA)
+  * Median Income (SAPIE)
+  * Obligated Amount (FEMA) - Waiting on Frankie to upload
+## Frankie + Evan
+* Take FEMA data and merge with demographic data
+* Combined data set should include:
+  * Year (On both)
+  * State (On both)
+  * Disaster ID (FEMA)
+  * Declaration Type (FEMA)
+  * Obligated Amount (FEMA) - Waiting on Frankie to upload
+  * Demographic distribution (Census)
+## Analysis needs to begin ASAP
+Same teams can work using Matplotlib and scripy.stats to run analysis on combined datasets
+## Goal is to be getting our presentation mostly done by end of class Thursday
