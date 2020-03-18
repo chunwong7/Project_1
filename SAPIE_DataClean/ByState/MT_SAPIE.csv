@@ -1,897 +1,897 @@
-State County FIPS,Postal Code,Name,Median Household Income,Year
-"30 , 1",MT,Beaverhead County,31605,2003
-"30 , 3",MT,Big Horn County,27719,2003
-"30 , 5",MT,Blaine County,25373,2003
-"30 , 7",MT,Broadwater County,33360,2003
-"30 , 9",MT,Carbon County,34499,2003
-"30 , 11",MT,Carter County,26301,2003
-"30 , 13",MT,Cascade County,34546,2003
-"30 , 15",MT,Chouteau County,28774,2003
-"30 , 17",MT,Custer County,31980,2003
-"30 , 19",MT,Daniels County,28081,2003
-"30 , 21",MT,Dawson County,33900,2003
-"30 , 23",MT,Deer Lodge County,28553,2003
-"30 , 25",MT,Fallon County,35354,2003
-"30 , 27",MT,Fergus County,31612,2003
-"30 , 29",MT,Flathead County,37492,2003
-"30 , 31",MT,Gallatin County,40724,2003
-"30 , 33",MT,Garfield County,28572,2003
-"30 , 35",MT,Glacier County,27129,2003
-"30 , 37",MT,Golden Valley County,24739,2003
-"30 , 39",MT,Granite County,30988,2003
-"30 , 41",MT,Hill County,32365,2003
-"30 , 43",MT,Jefferson County,45407,2003
-"30 , 45",MT,Judith Basin County,27014,2003
-"30 , 47",MT,Lake County,30362,2003
-"30 , 49",MT,Lewis and Clark County,40578,2003
-"30 , 51",MT,Liberty County,28258,2003
-"30 , 53",MT,Lincoln County,29331,2003
-"30 , 55",MT,McCone County,27921,2003
-"30 , 57",MT,Madison County,31856,2003
-"30 , 59",MT,Meagher County,26010,2003
-"30 , 61",MT,Mineral County,29904,2003
-"30 , 63",MT,Missoula County,36790,2003
-"30 , 65",MT,Musselshell County,27499,2003
-"30 , 67",MT,Park County,32837,2003
-"30 , 69",MT,Petroleum County,23622,2003
-"30 , 71",MT,Phillips County,29472,2003
-"30 , 73",MT,Pondera County,29420,2003
-"30 , 75",MT,Powder River County,28851,2003
-"30 , 77",MT,Powell County,29676,2003
-"30 , 79",MT,Prairie County,28238,2003
-"30 , 81",MT,Ravalli County,34907,2003
-"30 , 83",MT,Richland County,34365,2003
-"30 , 85",MT,Roosevelt County,25677,2003
-"30 , 87",MT,Rosebud County,38696,2003
-"30 , 89",MT,Sanders County,28456,2003
-"30 , 91",MT,Sheridan County,29651,2003
-"30 , 93",MT,Silver Bow County,32263,2003
-"30 , 95",MT,Stillwater County,44890,2003
-"30 , 97",MT,Sweet Grass County,34253,2003
-"30 , 99",MT,Teton County,30928,2003
-"30 , 101",MT,Toole County,29946,2003
-"30 , 103",MT,Treasure County,30961,2003
-"30 , 105",MT,Valley County,32391,2003
-"30 , 107",MT,Wheatland County,23620,2003
-"30 , 109",MT,Wibaux County,29653,2003
-"30 , 111",MT,Yellowstone County,41174,2003
-"30 , 1",MT,Beaverhead County,31605,2004
-"30 , 3",MT,Big Horn County,27719,2004
-"30 , 5",MT,Blaine County,25373,2004
-"30 , 7",MT,Broadwater County,33360,2004
-"30 , 9",MT,Carbon County,34499,2004
-"30 , 11",MT,Carter County,26301,2004
-"30 , 13",MT,Cascade County,34546,2004
-"30 , 15",MT,Chouteau County,28774,2004
-"30 , 17",MT,Custer County,31980,2004
-"30 , 19",MT,Daniels County,28081,2004
-"30 , 21",MT,Dawson County,33900,2004
-"30 , 23",MT,Deer Lodge County,28553,2004
-"30 , 25",MT,Fallon County,35354,2004
-"30 , 27",MT,Fergus County,31612,2004
-"30 , 29",MT,Flathead County,37492,2004
-"30 , 31",MT,Gallatin County,40724,2004
-"30 , 33",MT,Garfield County,28572,2004
-"30 , 35",MT,Glacier County,27129,2004
-"30 , 37",MT,Golden Valley County,24739,2004
-"30 , 39",MT,Granite County,30988,2004
-"30 , 41",MT,Hill County,32365,2004
-"30 , 43",MT,Jefferson County,45407,2004
-"30 , 45",MT,Judith Basin County,27014,2004
-"30 , 47",MT,Lake County,30362,2004
-"30 , 49",MT,Lewis and Clark County,40578,2004
-"30 , 51",MT,Liberty County,28258,2004
-"30 , 53",MT,Lincoln County,29331,2004
-"30 , 55",MT,McCone County,27921,2004
-"30 , 57",MT,Madison County,31856,2004
-"30 , 59",MT,Meagher County,26010,2004
-"30 , 61",MT,Mineral County,29904,2004
-"30 , 63",MT,Missoula County,36790,2004
-"30 , 65",MT,Musselshell County,27499,2004
-"30 , 67",MT,Park County,32837,2004
-"30 , 69",MT,Petroleum County,23622,2004
-"30 , 71",MT,Phillips County,29472,2004
-"30 , 73",MT,Pondera County,29420,2004
-"30 , 75",MT,Powder River County,28851,2004
-"30 , 77",MT,Powell County,29676,2004
-"30 , 79",MT,Prairie County,28238,2004
-"30 , 81",MT,Ravalli County,34907,2004
-"30 , 83",MT,Richland County,34365,2004
-"30 , 85",MT,Roosevelt County,25677,2004
-"30 , 87",MT,Rosebud County,38696,2004
-"30 , 89",MT,Sanders County,28456,2004
-"30 , 91",MT,Sheridan County,29651,2004
-"30 , 93",MT,Silver Bow County,32263,2004
-"30 , 95",MT,Stillwater County,44890,2004
-"30 , 97",MT,Sweet Grass County,34253,2004
-"30 , 99",MT,Teton County,30928,2004
-"30 , 101",MT,Toole County,29946,2004
-"30 , 103",MT,Treasure County,30961,2004
-"30 , 105",MT,Valley County,32391,2004
-"30 , 107",MT,Wheatland County,23620,2004
-"30 , 109",MT,Wibaux County,29653,2004
-"30 , 111",MT,Yellowstone County,41174,2004
-"30 , 1",MT,Beaverhead County,31605,2005
-"30 , 3",MT,Big Horn County,27719,2005
-"30 , 5",MT,Blaine County,25373,2005
-"30 , 7",MT,Broadwater County,33360,2005
-"30 , 9",MT,Carbon County,34499,2005
-"30 , 11",MT,Carter County,26301,2005
-"30 , 13",MT,Cascade County,34546,2005
-"30 , 15",MT,Chouteau County,28774,2005
-"30 , 17",MT,Custer County,31980,2005
-"30 , 19",MT,Daniels County,28081,2005
-"30 , 21",MT,Dawson County,33900,2005
-"30 , 23",MT,Deer Lodge County,28553,2005
-"30 , 25",MT,Fallon County,35354,2005
-"30 , 27",MT,Fergus County,31612,2005
-"30 , 29",MT,Flathead County,37492,2005
-"30 , 31",MT,Gallatin County,40724,2005
-"30 , 33",MT,Garfield County,28572,2005
-"30 , 35",MT,Glacier County,27129,2005
-"30 , 37",MT,Golden Valley County,24739,2005
-"30 , 39",MT,Granite County,30988,2005
-"30 , 41",MT,Hill County,32365,2005
-"30 , 43",MT,Jefferson County,45407,2005
-"30 , 45",MT,Judith Basin County,27014,2005
-"30 , 47",MT,Lake County,30362,2005
-"30 , 49",MT,Lewis and Clark County,40578,2005
-"30 , 51",MT,Liberty County,28258,2005
-"30 , 53",MT,Lincoln County,29331,2005
-"30 , 55",MT,McCone County,27921,2005
-"30 , 57",MT,Madison County,31856,2005
-"30 , 59",MT,Meagher County,26010,2005
-"30 , 61",MT,Mineral County,29904,2005
-"30 , 63",MT,Missoula County,36790,2005
-"30 , 65",MT,Musselshell County,27499,2005
-"30 , 67",MT,Park County,32837,2005
-"30 , 69",MT,Petroleum County,23622,2005
-"30 , 71",MT,Phillips County,29472,2005
-"30 , 73",MT,Pondera County,29420,2005
-"30 , 75",MT,Powder River County,28851,2005
-"30 , 77",MT,Powell County,29676,2005
-"30 , 79",MT,Prairie County,28238,2005
-"30 , 81",MT,Ravalli County,34907,2005
-"30 , 83",MT,Richland County,34365,2005
-"30 , 85",MT,Roosevelt County,25677,2005
-"30 , 87",MT,Rosebud County,38696,2005
-"30 , 89",MT,Sanders County,28456,2005
-"30 , 91",MT,Sheridan County,29651,2005
-"30 , 93",MT,Silver Bow County,32263,2005
-"30 , 95",MT,Stillwater County,44890,2005
-"30 , 97",MT,Sweet Grass County,34253,2005
-"30 , 99",MT,Teton County,30928,2005
-"30 , 101",MT,Toole County,29946,2005
-"30 , 103",MT,Treasure County,30961,2005
-"30 , 105",MT,Valley County,32391,2005
-"30 , 107",MT,Wheatland County,23620,2005
-"30 , 109",MT,Wibaux County,29653,2005
-"30 , 111",MT,Yellowstone County,41174,2005
-"30 , 1",MT,Beaverhead County,31605,2006
-"30 , 3",MT,Big Horn County,27719,2006
-"30 , 5",MT,Blaine County,25373,2006
-"30 , 7",MT,Broadwater County,33360,2006
-"30 , 9",MT,Carbon County,34499,2006
-"30 , 11",MT,Carter County,26301,2006
-"30 , 13",MT,Cascade County,34546,2006
-"30 , 15",MT,Chouteau County,28774,2006
-"30 , 17",MT,Custer County,31980,2006
-"30 , 19",MT,Daniels County,28081,2006
-"30 , 21",MT,Dawson County,33900,2006
-"30 , 23",MT,Deer Lodge County,28553,2006
-"30 , 25",MT,Fallon County,35354,2006
-"30 , 27",MT,Fergus County,31612,2006
-"30 , 29",MT,Flathead County,37492,2006
-"30 , 31",MT,Gallatin County,40724,2006
-"30 , 33",MT,Garfield County,28572,2006
-"30 , 35",MT,Glacier County,27129,2006
-"30 , 37",MT,Golden Valley County,24739,2006
-"30 , 39",MT,Granite County,30988,2006
-"30 , 41",MT,Hill County,32365,2006
-"30 , 43",MT,Jefferson County,45407,2006
-"30 , 45",MT,Judith Basin County,27014,2006
-"30 , 47",MT,Lake County,30362,2006
-"30 , 49",MT,Lewis and Clark County,40578,2006
-"30 , 51",MT,Liberty County,28258,2006
-"30 , 53",MT,Lincoln County,29331,2006
-"30 , 55",MT,McCone County,27921,2006
-"30 , 57",MT,Madison County,31856,2006
-"30 , 59",MT,Meagher County,26010,2006
-"30 , 61",MT,Mineral County,29904,2006
-"30 , 63",MT,Missoula County,36790,2006
-"30 , 65",MT,Musselshell County,27499,2006
-"30 , 67",MT,Park County,32837,2006
-"30 , 69",MT,Petroleum County,23622,2006
-"30 , 71",MT,Phillips County,29472,2006
-"30 , 73",MT,Pondera County,29420,2006
-"30 , 75",MT,Powder River County,28851,2006
-"30 , 77",MT,Powell County,29676,2006
-"30 , 79",MT,Prairie County,28238,2006
-"30 , 81",MT,Ravalli County,34907,2006
-"30 , 83",MT,Richland County,34365,2006
-"30 , 85",MT,Roosevelt County,25677,2006
-"30 , 87",MT,Rosebud County,38696,2006
-"30 , 89",MT,Sanders County,28456,2006
-"30 , 91",MT,Sheridan County,29651,2006
-"30 , 93",MT,Silver Bow County,32263,2006
-"30 , 95",MT,Stillwater County,44890,2006
-"30 , 97",MT,Sweet Grass County,34253,2006
-"30 , 99",MT,Teton County,30928,2006
-"30 , 101",MT,Toole County,29946,2006
-"30 , 103",MT,Treasure County,30961,2006
-"30 , 105",MT,Valley County,32391,2006
-"30 , 107",MT,Wheatland County,23620,2006
-"30 , 109",MT,Wibaux County,29653,2006
-"30 , 111",MT,Yellowstone County,41174,2006
-"30 , 1",MT,Beaverhead County,31605,2007
-"30 , 3",MT,Big Horn County,27719,2007
-"30 , 5",MT,Blaine County,25373,2007
-"30 , 7",MT,Broadwater County,33360,2007
-"30 , 9",MT,Carbon County,34499,2007
-"30 , 11",MT,Carter County,26301,2007
-"30 , 13",MT,Cascade County,34546,2007
-"30 , 15",MT,Chouteau County,28774,2007
-"30 , 17",MT,Custer County,31980,2007
-"30 , 19",MT,Daniels County,28081,2007
-"30 , 21",MT,Dawson County,33900,2007
-"30 , 23",MT,Deer Lodge County,28553,2007
-"30 , 25",MT,Fallon County,35354,2007
-"30 , 27",MT,Fergus County,31612,2007
-"30 , 29",MT,Flathead County,37492,2007
-"30 , 31",MT,Gallatin County,40724,2007
-"30 , 33",MT,Garfield County,28572,2007
-"30 , 35",MT,Glacier County,27129,2007
-"30 , 37",MT,Golden Valley County,24739,2007
-"30 , 39",MT,Granite County,30988,2007
-"30 , 41",MT,Hill County,32365,2007
-"30 , 43",MT,Jefferson County,45407,2007
-"30 , 45",MT,Judith Basin County,27014,2007
-"30 , 47",MT,Lake County,30362,2007
-"30 , 49",MT,Lewis and Clark County,40578,2007
-"30 , 51",MT,Liberty County,28258,2007
-"30 , 53",MT,Lincoln County,29331,2007
-"30 , 55",MT,McCone County,27921,2007
-"30 , 57",MT,Madison County,31856,2007
-"30 , 59",MT,Meagher County,26010,2007
-"30 , 61",MT,Mineral County,29904,2007
-"30 , 63",MT,Missoula County,36790,2007
-"30 , 65",MT,Musselshell County,27499,2007
-"30 , 67",MT,Park County,32837,2007
-"30 , 69",MT,Petroleum County,23622,2007
-"30 , 71",MT,Phillips County,29472,2007
-"30 , 73",MT,Pondera County,29420,2007
-"30 , 75",MT,Powder River County,28851,2007
-"30 , 77",MT,Powell County,29676,2007
-"30 , 79",MT,Prairie County,28238,2007
-"30 , 81",MT,Ravalli County,34907,2007
-"30 , 83",MT,Richland County,34365,2007
-"30 , 85",MT,Roosevelt County,25677,2007
-"30 , 87",MT,Rosebud County,38696,2007
-"30 , 89",MT,Sanders County,28456,2007
-"30 , 91",MT,Sheridan County,29651,2007
-"30 , 93",MT,Silver Bow County,32263,2007
-"30 , 95",MT,Stillwater County,44890,2007
-"30 , 97",MT,Sweet Grass County,34253,2007
-"30 , 99",MT,Teton County,30928,2007
-"30 , 101",MT,Toole County,29946,2007
-"30 , 103",MT,Treasure County,30961,2007
-"30 , 105",MT,Valley County,32391,2007
-"30 , 107",MT,Wheatland County,23620,2007
-"30 , 109",MT,Wibaux County,29653,2007
-"30 , 111",MT,Yellowstone County,41174,2007
-"30 , 1",MT,Beaverhead County,31605,2008
-"30 , 3",MT,Big Horn County,27719,2008
-"30 , 5",MT,Blaine County,25373,2008
-"30 , 7",MT,Broadwater County,33360,2008
-"30 , 9",MT,Carbon County,34499,2008
-"30 , 11",MT,Carter County,26301,2008
-"30 , 13",MT,Cascade County,34546,2008
-"30 , 15",MT,Chouteau County,28774,2008
-"30 , 17",MT,Custer County,31980,2008
-"30 , 19",MT,Daniels County,28081,2008
-"30 , 21",MT,Dawson County,33900,2008
-"30 , 23",MT,Deer Lodge County,28553,2008
-"30 , 25",MT,Fallon County,35354,2008
-"30 , 27",MT,Fergus County,31612,2008
-"30 , 29",MT,Flathead County,37492,2008
-"30 , 31",MT,Gallatin County,40724,2008
-"30 , 33",MT,Garfield County,28572,2008
-"30 , 35",MT,Glacier County,27129,2008
-"30 , 37",MT,Golden Valley County,24739,2008
-"30 , 39",MT,Granite County,30988,2008
-"30 , 41",MT,Hill County,32365,2008
-"30 , 43",MT,Jefferson County,45407,2008
-"30 , 45",MT,Judith Basin County,27014,2008
-"30 , 47",MT,Lake County,30362,2008
-"30 , 49",MT,Lewis and Clark County,40578,2008
-"30 , 51",MT,Liberty County,28258,2008
-"30 , 53",MT,Lincoln County,29331,2008
-"30 , 55",MT,McCone County,27921,2008
-"30 , 57",MT,Madison County,31856,2008
-"30 , 59",MT,Meagher County,26010,2008
-"30 , 61",MT,Mineral County,29904,2008
-"30 , 63",MT,Missoula County,36790,2008
-"30 , 65",MT,Musselshell County,27499,2008
-"30 , 67",MT,Park County,32837,2008
-"30 , 69",MT,Petroleum County,23622,2008
-"30 , 71",MT,Phillips County,29472,2008
-"30 , 73",MT,Pondera County,29420,2008
-"30 , 75",MT,Powder River County,28851,2008
-"30 , 77",MT,Powell County,29676,2008
-"30 , 79",MT,Prairie County,28238,2008
-"30 , 81",MT,Ravalli County,34907,2008
-"30 , 83",MT,Richland County,34365,2008
-"30 , 85",MT,Roosevelt County,25677,2008
-"30 , 87",MT,Rosebud County,38696,2008
-"30 , 89",MT,Sanders County,28456,2008
-"30 , 91",MT,Sheridan County,29651,2008
-"30 , 93",MT,Silver Bow County,32263,2008
-"30 , 95",MT,Stillwater County,44890,2008
-"30 , 97",MT,Sweet Grass County,34253,2008
-"30 , 99",MT,Teton County,30928,2008
-"30 , 101",MT,Toole County,29946,2008
-"30 , 103",MT,Treasure County,30961,2008
-"30 , 105",MT,Valley County,32391,2008
-"30 , 107",MT,Wheatland County,23620,2008
-"30 , 109",MT,Wibaux County,29653,2008
-"30 , 111",MT,Yellowstone County,41174,2008
-"30 , 1",MT,Beaverhead County,31605,2009
-"30 , 3",MT,Big Horn County,27719,2009
-"30 , 5",MT,Blaine County,25373,2009
-"30 , 7",MT,Broadwater County,33360,2009
-"30 , 9",MT,Carbon County,34499,2009
-"30 , 11",MT,Carter County,26301,2009
-"30 , 13",MT,Cascade County,34546,2009
-"30 , 15",MT,Chouteau County,28774,2009
-"30 , 17",MT,Custer County,31980,2009
-"30 , 19",MT,Daniels County,28081,2009
-"30 , 21",MT,Dawson County,33900,2009
-"30 , 23",MT,Deer Lodge County,28553,2009
-"30 , 25",MT,Fallon County,35354,2009
-"30 , 27",MT,Fergus County,31612,2009
-"30 , 29",MT,Flathead County,37492,2009
-"30 , 31",MT,Gallatin County,40724,2009
-"30 , 33",MT,Garfield County,28572,2009
-"30 , 35",MT,Glacier County,27129,2009
-"30 , 37",MT,Golden Valley County,24739,2009
-"30 , 39",MT,Granite County,30988,2009
-"30 , 41",MT,Hill County,32365,2009
-"30 , 43",MT,Jefferson County,45407,2009
-"30 , 45",MT,Judith Basin County,27014,2009
-"30 , 47",MT,Lake County,30362,2009
-"30 , 49",MT,Lewis and Clark County,40578,2009
-"30 , 51",MT,Liberty County,28258,2009
-"30 , 53",MT,Lincoln County,29331,2009
-"30 , 55",MT,McCone County,27921,2009
-"30 , 57",MT,Madison County,31856,2009
-"30 , 59",MT,Meagher County,26010,2009
-"30 , 61",MT,Mineral County,29904,2009
-"30 , 63",MT,Missoula County,36790,2009
-"30 , 65",MT,Musselshell County,27499,2009
-"30 , 67",MT,Park County,32837,2009
-"30 , 69",MT,Petroleum County,23622,2009
-"30 , 71",MT,Phillips County,29472,2009
-"30 , 73",MT,Pondera County,29420,2009
-"30 , 75",MT,Powder River County,28851,2009
-"30 , 77",MT,Powell County,29676,2009
-"30 , 79",MT,Prairie County,28238,2009
-"30 , 81",MT,Ravalli County,34907,2009
-"30 , 83",MT,Richland County,34365,2009
-"30 , 85",MT,Roosevelt County,25677,2009
-"30 , 87",MT,Rosebud County,38696,2009
-"30 , 89",MT,Sanders County,28456,2009
-"30 , 91",MT,Sheridan County,29651,2009
-"30 , 93",MT,Silver Bow County,32263,2009
-"30 , 95",MT,Stillwater County,44890,2009
-"30 , 97",MT,Sweet Grass County,34253,2009
-"30 , 99",MT,Teton County,30928,2009
-"30 , 101",MT,Toole County,29946,2009
-"30 , 103",MT,Treasure County,30961,2009
-"30 , 105",MT,Valley County,32391,2009
-"30 , 107",MT,Wheatland County,23620,2009
-"30 , 109",MT,Wibaux County,29653,2009
-"30 , 111",MT,Yellowstone County,41174,2009
-"30 , 1",MT,Beaverhead County,31605,2010
-"30 , 3",MT,Big Horn County,27719,2010
-"30 , 5",MT,Blaine County,25373,2010
-"30 , 7",MT,Broadwater County,33360,2010
-"30 , 9",MT,Carbon County,34499,2010
-"30 , 11",MT,Carter County,26301,2010
-"30 , 13",MT,Cascade County,34546,2010
-"30 , 15",MT,Chouteau County,28774,2010
-"30 , 17",MT,Custer County,31980,2010
-"30 , 19",MT,Daniels County,28081,2010
-"30 , 21",MT,Dawson County,33900,2010
-"30 , 23",MT,Deer Lodge County,28553,2010
-"30 , 25",MT,Fallon County,35354,2010
-"30 , 27",MT,Fergus County,31612,2010
-"30 , 29",MT,Flathead County,37492,2010
-"30 , 31",MT,Gallatin County,40724,2010
-"30 , 33",MT,Garfield County,28572,2010
-"30 , 35",MT,Glacier County,27129,2010
-"30 , 37",MT,Golden Valley County,24739,2010
-"30 , 39",MT,Granite County,30988,2010
-"30 , 41",MT,Hill County,32365,2010
-"30 , 43",MT,Jefferson County,45407,2010
-"30 , 45",MT,Judith Basin County,27014,2010
-"30 , 47",MT,Lake County,30362,2010
-"30 , 49",MT,Lewis and Clark County,40578,2010
-"30 , 51",MT,Liberty County,28258,2010
-"30 , 53",MT,Lincoln County,29331,2010
-"30 , 55",MT,McCone County,27921,2010
-"30 , 57",MT,Madison County,31856,2010
-"30 , 59",MT,Meagher County,26010,2010
-"30 , 61",MT,Mineral County,29904,2010
-"30 , 63",MT,Missoula County,36790,2010
-"30 , 65",MT,Musselshell County,27499,2010
-"30 , 67",MT,Park County,32837,2010
-"30 , 69",MT,Petroleum County,23622,2010
-"30 , 71",MT,Phillips County,29472,2010
-"30 , 73",MT,Pondera County,29420,2010
-"30 , 75",MT,Powder River County,28851,2010
-"30 , 77",MT,Powell County,29676,2010
-"30 , 79",MT,Prairie County,28238,2010
-"30 , 81",MT,Ravalli County,34907,2010
-"30 , 83",MT,Richland County,34365,2010
-"30 , 85",MT,Roosevelt County,25677,2010
-"30 , 87",MT,Rosebud County,38696,2010
-"30 , 89",MT,Sanders County,28456,2010
-"30 , 91",MT,Sheridan County,29651,2010
-"30 , 93",MT,Silver Bow County,32263,2010
-"30 , 95",MT,Stillwater County,44890,2010
-"30 , 97",MT,Sweet Grass County,34253,2010
-"30 , 99",MT,Teton County,30928,2010
-"30 , 101",MT,Toole County,29946,2010
-"30 , 103",MT,Treasure County,30961,2010
-"30 , 105",MT,Valley County,32391,2010
-"30 , 107",MT,Wheatland County,23620,2010
-"30 , 109",MT,Wibaux County,29653,2010
-"30 , 111",MT,Yellowstone County,41174,2010
-"30 , 1",MT,Beaverhead County,31605,2011
-"30 , 3",MT,Big Horn County,27719,2011
-"30 , 5",MT,Blaine County,25373,2011
-"30 , 7",MT,Broadwater County,33360,2011
-"30 , 9",MT,Carbon County,34499,2011
-"30 , 11",MT,Carter County,26301,2011
-"30 , 13",MT,Cascade County,34546,2011
-"30 , 15",MT,Chouteau County,28774,2011
-"30 , 17",MT,Custer County,31980,2011
-"30 , 19",MT,Daniels County,28081,2011
-"30 , 21",MT,Dawson County,33900,2011
-"30 , 23",MT,Deer Lodge County,28553,2011
-"30 , 25",MT,Fallon County,35354,2011
-"30 , 27",MT,Fergus County,31612,2011
-"30 , 29",MT,Flathead County,37492,2011
-"30 , 31",MT,Gallatin County,40724,2011
-"30 , 33",MT,Garfield County,28572,2011
-"30 , 35",MT,Glacier County,27129,2011
-"30 , 37",MT,Golden Valley County,24739,2011
-"30 , 39",MT,Granite County,30988,2011
-"30 , 41",MT,Hill County,32365,2011
-"30 , 43",MT,Jefferson County,45407,2011
-"30 , 45",MT,Judith Basin County,27014,2011
-"30 , 47",MT,Lake County,30362,2011
-"30 , 49",MT,Lewis and Clark County,40578,2011
-"30 , 51",MT,Liberty County,28258,2011
-"30 , 53",MT,Lincoln County,29331,2011
-"30 , 55",MT,McCone County,27921,2011
-"30 , 57",MT,Madison County,31856,2011
-"30 , 59",MT,Meagher County,26010,2011
-"30 , 61",MT,Mineral County,29904,2011
-"30 , 63",MT,Missoula County,36790,2011
-"30 , 65",MT,Musselshell County,27499,2011
-"30 , 67",MT,Park County,32837,2011
-"30 , 69",MT,Petroleum County,23622,2011
-"30 , 71",MT,Phillips County,29472,2011
-"30 , 73",MT,Pondera County,29420,2011
-"30 , 75",MT,Powder River County,28851,2011
-"30 , 77",MT,Powell County,29676,2011
-"30 , 79",MT,Prairie County,28238,2011
-"30 , 81",MT,Ravalli County,34907,2011
-"30 , 83",MT,Richland County,34365,2011
-"30 , 85",MT,Roosevelt County,25677,2011
-"30 , 87",MT,Rosebud County,38696,2011
-"30 , 89",MT,Sanders County,28456,2011
-"30 , 91",MT,Sheridan County,29651,2011
-"30 , 93",MT,Silver Bow County,32263,2011
-"30 , 95",MT,Stillwater County,44890,2011
-"30 , 97",MT,Sweet Grass County,34253,2011
-"30 , 99",MT,Teton County,30928,2011
-"30 , 101",MT,Toole County,29946,2011
-"30 , 103",MT,Treasure County,30961,2011
-"30 , 105",MT,Valley County,32391,2011
-"30 , 107",MT,Wheatland County,23620,2011
-"30 , 109",MT,Wibaux County,29653,2011
-"30 , 111",MT,Yellowstone County,41174,2011
-"30 , 1",MT,Beaverhead County,31605,2012
-"30 , 3",MT,Big Horn County,27719,2012
-"30 , 5",MT,Blaine County,25373,2012
-"30 , 7",MT,Broadwater County,33360,2012
-"30 , 9",MT,Carbon County,34499,2012
-"30 , 11",MT,Carter County,26301,2012
-"30 , 13",MT,Cascade County,34546,2012
-"30 , 15",MT,Chouteau County,28774,2012
-"30 , 17",MT,Custer County,31980,2012
-"30 , 19",MT,Daniels County,28081,2012
-"30 , 21",MT,Dawson County,33900,2012
-"30 , 23",MT,Deer Lodge County,28553,2012
-"30 , 25",MT,Fallon County,35354,2012
-"30 , 27",MT,Fergus County,31612,2012
-"30 , 29",MT,Flathead County,37492,2012
-"30 , 31",MT,Gallatin County,40724,2012
-"30 , 33",MT,Garfield County,28572,2012
-"30 , 35",MT,Glacier County,27129,2012
-"30 , 37",MT,Golden Valley County,24739,2012
-"30 , 39",MT,Granite County,30988,2012
-"30 , 41",MT,Hill County,32365,2012
-"30 , 43",MT,Jefferson County,45407,2012
-"30 , 45",MT,Judith Basin County,27014,2012
-"30 , 47",MT,Lake County,30362,2012
-"30 , 49",MT,Lewis and Clark County,40578,2012
-"30 , 51",MT,Liberty County,28258,2012
-"30 , 53",MT,Lincoln County,29331,2012
-"30 , 55",MT,McCone County,27921,2012
-"30 , 57",MT,Madison County,31856,2012
-"30 , 59",MT,Meagher County,26010,2012
-"30 , 61",MT,Mineral County,29904,2012
-"30 , 63",MT,Missoula County,36790,2012
-"30 , 65",MT,Musselshell County,27499,2012
-"30 , 67",MT,Park County,32837,2012
-"30 , 69",MT,Petroleum County,23622,2012
-"30 , 71",MT,Phillips County,29472,2012
-"30 , 73",MT,Pondera County,29420,2012
-"30 , 75",MT,Powder River County,28851,2012
-"30 , 77",MT,Powell County,29676,2012
-"30 , 79",MT,Prairie County,28238,2012
-"30 , 81",MT,Ravalli County,34907,2012
-"30 , 83",MT,Richland County,34365,2012
-"30 , 85",MT,Roosevelt County,25677,2012
-"30 , 87",MT,Rosebud County,38696,2012
-"30 , 89",MT,Sanders County,28456,2012
-"30 , 91",MT,Sheridan County,29651,2012
-"30 , 93",MT,Silver Bow County,32263,2012
-"30 , 95",MT,Stillwater County,44890,2012
-"30 , 97",MT,Sweet Grass County,34253,2012
-"30 , 99",MT,Teton County,30928,2012
-"30 , 101",MT,Toole County,29946,2012
-"30 , 103",MT,Treasure County,30961,2012
-"30 , 105",MT,Valley County,32391,2012
-"30 , 107",MT,Wheatland County,23620,2012
-"30 , 109",MT,Wibaux County,29653,2012
-"30 , 111",MT,Yellowstone County,41174,2012
-"30 , 1",MT,Beaverhead County,31605,2013
-"30 , 3",MT,Big Horn County,27719,2013
-"30 , 5",MT,Blaine County,25373,2013
-"30 , 7",MT,Broadwater County,33360,2013
-"30 , 9",MT,Carbon County,34499,2013
-"30 , 11",MT,Carter County,26301,2013
-"30 , 13",MT,Cascade County,34546,2013
-"30 , 15",MT,Chouteau County,28774,2013
-"30 , 17",MT,Custer County,31980,2013
-"30 , 19",MT,Daniels County,28081,2013
-"30 , 21",MT,Dawson County,33900,2013
-"30 , 23",MT,Deer Lodge County,28553,2013
-"30 , 25",MT,Fallon County,35354,2013
-"30 , 27",MT,Fergus County,31612,2013
-"30 , 29",MT,Flathead County,37492,2013
-"30 , 31",MT,Gallatin County,40724,2013
-"30 , 33",MT,Garfield County,28572,2013
-"30 , 35",MT,Glacier County,27129,2013
-"30 , 37",MT,Golden Valley County,24739,2013
-"30 , 39",MT,Granite County,30988,2013
-"30 , 41",MT,Hill County,32365,2013
-"30 , 43",MT,Jefferson County,45407,2013
-"30 , 45",MT,Judith Basin County,27014,2013
-"30 , 47",MT,Lake County,30362,2013
-"30 , 49",MT,Lewis and Clark County,40578,2013
-"30 , 51",MT,Liberty County,28258,2013
-"30 , 53",MT,Lincoln County,29331,2013
-"30 , 55",MT,McCone County,27921,2013
-"30 , 57",MT,Madison County,31856,2013
-"30 , 59",MT,Meagher County,26010,2013
-"30 , 61",MT,Mineral County,29904,2013
-"30 , 63",MT,Missoula County,36790,2013
-"30 , 65",MT,Musselshell County,27499,2013
-"30 , 67",MT,Park County,32837,2013
-"30 , 69",MT,Petroleum County,23622,2013
-"30 , 71",MT,Phillips County,29472,2013
-"30 , 73",MT,Pondera County,29420,2013
-"30 , 75",MT,Powder River County,28851,2013
-"30 , 77",MT,Powell County,29676,2013
-"30 , 79",MT,Prairie County,28238,2013
-"30 , 81",MT,Ravalli County,34907,2013
-"30 , 83",MT,Richland County,34365,2013
-"30 , 85",MT,Roosevelt County,25677,2013
-"30 , 87",MT,Rosebud County,38696,2013
-"30 , 89",MT,Sanders County,28456,2013
-"30 , 91",MT,Sheridan County,29651,2013
-"30 , 93",MT,Silver Bow County,32263,2013
-"30 , 95",MT,Stillwater County,44890,2013
-"30 , 97",MT,Sweet Grass County,34253,2013
-"30 , 99",MT,Teton County,30928,2013
-"30 , 101",MT,Toole County,29946,2013
-"30 , 103",MT,Treasure County,30961,2013
-"30 , 105",MT,Valley County,32391,2013
-"30 , 107",MT,Wheatland County,23620,2013
-"30 , 109",MT,Wibaux County,29653,2013
-"30 , 111",MT,Yellowstone County,41174,2013
-"30 , 1",MT,Beaverhead County,31605,2014
-"30 , 3",MT,Big Horn County,27719,2014
-"30 , 5",MT,Blaine County,25373,2014
-"30 , 7",MT,Broadwater County,33360,2014
-"30 , 9",MT,Carbon County,34499,2014
-"30 , 11",MT,Carter County,26301,2014
-"30 , 13",MT,Cascade County,34546,2014
-"30 , 15",MT,Chouteau County,28774,2014
-"30 , 17",MT,Custer County,31980,2014
-"30 , 19",MT,Daniels County,28081,2014
-"30 , 21",MT,Dawson County,33900,2014
-"30 , 23",MT,Deer Lodge County,28553,2014
-"30 , 25",MT,Fallon County,35354,2014
-"30 , 27",MT,Fergus County,31612,2014
-"30 , 29",MT,Flathead County,37492,2014
-"30 , 31",MT,Gallatin County,40724,2014
-"30 , 33",MT,Garfield County,28572,2014
-"30 , 35",MT,Glacier County,27129,2014
-"30 , 37",MT,Golden Valley County,24739,2014
-"30 , 39",MT,Granite County,30988,2014
-"30 , 41",MT,Hill County,32365,2014
-"30 , 43",MT,Jefferson County,45407,2014
-"30 , 45",MT,Judith Basin County,27014,2014
-"30 , 47",MT,Lake County,30362,2014
-"30 , 49",MT,Lewis and Clark County,40578,2014
-"30 , 51",MT,Liberty County,28258,2014
-"30 , 53",MT,Lincoln County,29331,2014
-"30 , 55",MT,McCone County,27921,2014
-"30 , 57",MT,Madison County,31856,2014
-"30 , 59",MT,Meagher County,26010,2014
-"30 , 61",MT,Mineral County,29904,2014
-"30 , 63",MT,Missoula County,36790,2014
-"30 , 65",MT,Musselshell County,27499,2014
-"30 , 67",MT,Park County,32837,2014
-"30 , 69",MT,Petroleum County,23622,2014
-"30 , 71",MT,Phillips County,29472,2014
-"30 , 73",MT,Pondera County,29420,2014
-"30 , 75",MT,Powder River County,28851,2014
-"30 , 77",MT,Powell County,29676,2014
-"30 , 79",MT,Prairie County,28238,2014
-"30 , 81",MT,Ravalli County,34907,2014
-"30 , 83",MT,Richland County,34365,2014
-"30 , 85",MT,Roosevelt County,25677,2014
-"30 , 87",MT,Rosebud County,38696,2014
-"30 , 89",MT,Sanders County,28456,2014
-"30 , 91",MT,Sheridan County,29651,2014
-"30 , 93",MT,Silver Bow County,32263,2014
-"30 , 95",MT,Stillwater County,44890,2014
-"30 , 97",MT,Sweet Grass County,34253,2014
-"30 , 99",MT,Teton County,30928,2014
-"30 , 101",MT,Toole County,29946,2014
-"30 , 103",MT,Treasure County,30961,2014
-"30 , 105",MT,Valley County,32391,2014
-"30 , 107",MT,Wheatland County,23620,2014
-"30 , 109",MT,Wibaux County,29653,2014
-"30 , 111",MT,Yellowstone County,41174,2014
-"30 , 1",MT,Beaverhead County,31605,2015
-"30 , 3",MT,Big Horn County,27719,2015
-"30 , 5",MT,Blaine County,25373,2015
-"30 , 7",MT,Broadwater County,33360,2015
-"30 , 9",MT,Carbon County,34499,2015
-"30 , 11",MT,Carter County,26301,2015
-"30 , 13",MT,Cascade County,34546,2015
-"30 , 15",MT,Chouteau County,28774,2015
-"30 , 17",MT,Custer County,31980,2015
-"30 , 19",MT,Daniels County,28081,2015
-"30 , 21",MT,Dawson County,33900,2015
-"30 , 23",MT,Deer Lodge County,28553,2015
-"30 , 25",MT,Fallon County,35354,2015
-"30 , 27",MT,Fergus County,31612,2015
-"30 , 29",MT,Flathead County,37492,2015
-"30 , 31",MT,Gallatin County,40724,2015
-"30 , 33",MT,Garfield County,28572,2015
-"30 , 35",MT,Glacier County,27129,2015
-"30 , 37",MT,Golden Valley County,24739,2015
-"30 , 39",MT,Granite County,30988,2015
-"30 , 41",MT,Hill County,32365,2015
-"30 , 43",MT,Jefferson County,45407,2015
-"30 , 45",MT,Judith Basin County,27014,2015
-"30 , 47",MT,Lake County,30362,2015
-"30 , 49",MT,Lewis and Clark County,40578,2015
-"30 , 51",MT,Liberty County,28258,2015
-"30 , 53",MT,Lincoln County,29331,2015
-"30 , 55",MT,McCone County,27921,2015
-"30 , 57",MT,Madison County,31856,2015
-"30 , 59",MT,Meagher County,26010,2015
-"30 , 61",MT,Mineral County,29904,2015
-"30 , 63",MT,Missoula County,36790,2015
-"30 , 65",MT,Musselshell County,27499,2015
-"30 , 67",MT,Park County,32837,2015
-"30 , 69",MT,Petroleum County,23622,2015
-"30 , 71",MT,Phillips County,29472,2015
-"30 , 73",MT,Pondera County,29420,2015
-"30 , 75",MT,Powder River County,28851,2015
-"30 , 77",MT,Powell County,29676,2015
-"30 , 79",MT,Prairie County,28238,2015
-"30 , 81",MT,Ravalli County,34907,2015
-"30 , 83",MT,Richland County,34365,2015
-"30 , 85",MT,Roosevelt County,25677,2015
-"30 , 87",MT,Rosebud County,38696,2015
-"30 , 89",MT,Sanders County,28456,2015
-"30 , 91",MT,Sheridan County,29651,2015
-"30 , 93",MT,Silver Bow County,32263,2015
-"30 , 95",MT,Stillwater County,44890,2015
-"30 , 97",MT,Sweet Grass County,34253,2015
-"30 , 99",MT,Teton County,30928,2015
-"30 , 101",MT,Toole County,29946,2015
-"30 , 103",MT,Treasure County,30961,2015
-"30 , 105",MT,Valley County,32391,2015
-"30 , 107",MT,Wheatland County,23620,2015
-"30 , 109",MT,Wibaux County,29653,2015
-"30 , 111",MT,Yellowstone County,41174,2015
-"30 , 1",MT,Beaverhead County,31605,2016
-"30 , 3",MT,Big Horn County,27719,2016
-"30 , 5",MT,Blaine County,25373,2016
-"30 , 7",MT,Broadwater County,33360,2016
-"30 , 9",MT,Carbon County,34499,2016
-"30 , 11",MT,Carter County,26301,2016
-"30 , 13",MT,Cascade County,34546,2016
-"30 , 15",MT,Chouteau County,28774,2016
-"30 , 17",MT,Custer County,31980,2016
-"30 , 19",MT,Daniels County,28081,2016
-"30 , 21",MT,Dawson County,33900,2016
-"30 , 23",MT,Deer Lodge County,28553,2016
-"30 , 25",MT,Fallon County,35354,2016
-"30 , 27",MT,Fergus County,31612,2016
-"30 , 29",MT,Flathead County,37492,2016
-"30 , 31",MT,Gallatin County,40724,2016
-"30 , 33",MT,Garfield County,28572,2016
-"30 , 35",MT,Glacier County,27129,2016
-"30 , 37",MT,Golden Valley County,24739,2016
-"30 , 39",MT,Granite County,30988,2016
-"30 , 41",MT,Hill County,32365,2016
-"30 , 43",MT,Jefferson County,45407,2016
-"30 , 45",MT,Judith Basin County,27014,2016
-"30 , 47",MT,Lake County,30362,2016
-"30 , 49",MT,Lewis and Clark County,40578,2016
-"30 , 51",MT,Liberty County,28258,2016
-"30 , 53",MT,Lincoln County,29331,2016
-"30 , 55",MT,McCone County,27921,2016
-"30 , 57",MT,Madison County,31856,2016
-"30 , 59",MT,Meagher County,26010,2016
-"30 , 61",MT,Mineral County,29904,2016
-"30 , 63",MT,Missoula County,36790,2016
-"30 , 65",MT,Musselshell County,27499,2016
-"30 , 67",MT,Park County,32837,2016
-"30 , 69",MT,Petroleum County,23622,2016
-"30 , 71",MT,Phillips County,29472,2016
-"30 , 73",MT,Pondera County,29420,2016
-"30 , 75",MT,Powder River County,28851,2016
-"30 , 77",MT,Powell County,29676,2016
-"30 , 79",MT,Prairie County,28238,2016
-"30 , 81",MT,Ravalli County,34907,2016
-"30 , 83",MT,Richland County,34365,2016
-"30 , 85",MT,Roosevelt County,25677,2016
-"30 , 87",MT,Rosebud County,38696,2016
-"30 , 89",MT,Sanders County,28456,2016
-"30 , 91",MT,Sheridan County,29651,2016
-"30 , 93",MT,Silver Bow County,32263,2016
-"30 , 95",MT,Stillwater County,44890,2016
-"30 , 97",MT,Sweet Grass County,34253,2016
-"30 , 99",MT,Teton County,30928,2016
-"30 , 101",MT,Toole County,29946,2016
-"30 , 103",MT,Treasure County,30961,2016
-"30 , 105",MT,Valley County,32391,2016
-"30 , 107",MT,Wheatland County,23620,2016
-"30 , 109",MT,Wibaux County,29653,2016
-"30 , 111",MT,Yellowstone County,41174,2016
-"30 , 1",MT,Beaverhead County,31605,2017
-"30 , 3",MT,Big Horn County,27719,2017
-"30 , 5",MT,Blaine County,25373,2017
-"30 , 7",MT,Broadwater County,33360,2017
-"30 , 9",MT,Carbon County,34499,2017
-"30 , 11",MT,Carter County,26301,2017
-"30 , 13",MT,Cascade County,34546,2017
-"30 , 15",MT,Chouteau County,28774,2017
-"30 , 17",MT,Custer County,31980,2017
-"30 , 19",MT,Daniels County,28081,2017
-"30 , 21",MT,Dawson County,33900,2017
-"30 , 23",MT,Deer Lodge County,28553,2017
-"30 , 25",MT,Fallon County,35354,2017
-"30 , 27",MT,Fergus County,31612,2017
-"30 , 29",MT,Flathead County,37492,2017
-"30 , 31",MT,Gallatin County,40724,2017
-"30 , 33",MT,Garfield County,28572,2017
-"30 , 35",MT,Glacier County,27129,2017
-"30 , 37",MT,Golden Valley County,24739,2017
-"30 , 39",MT,Granite County,30988,2017
-"30 , 41",MT,Hill County,32365,2017
-"30 , 43",MT,Jefferson County,45407,2017
-"30 , 45",MT,Judith Basin County,27014,2017
-"30 , 47",MT,Lake County,30362,2017
-"30 , 49",MT,Lewis and Clark County,40578,2017
-"30 , 51",MT,Liberty County,28258,2017
-"30 , 53",MT,Lincoln County,29331,2017
-"30 , 55",MT,McCone County,27921,2017
-"30 , 57",MT,Madison County,31856,2017
-"30 , 59",MT,Meagher County,26010,2017
-"30 , 61",MT,Mineral County,29904,2017
-"30 , 63",MT,Missoula County,36790,2017
-"30 , 65",MT,Musselshell County,27499,2017
-"30 , 67",MT,Park County,32837,2017
-"30 , 69",MT,Petroleum County,23622,2017
-"30 , 71",MT,Phillips County,29472,2017
-"30 , 73",MT,Pondera County,29420,2017
-"30 , 75",MT,Powder River County,28851,2017
-"30 , 77",MT,Powell County,29676,2017
-"30 , 79",MT,Prairie County,28238,2017
-"30 , 81",MT,Ravalli County,34907,2017
-"30 , 83",MT,Richland County,34365,2017
-"30 , 85",MT,Roosevelt County,25677,2017
-"30 , 87",MT,Rosebud County,38696,2017
-"30 , 89",MT,Sanders County,28456,2017
-"30 , 91",MT,Sheridan County,29651,2017
-"30 , 93",MT,Silver Bow County,32263,2017
-"30 , 95",MT,Stillwater County,44890,2017
-"30 , 97",MT,Sweet Grass County,34253,2017
-"30 , 99",MT,Teton County,30928,2017
-"30 , 101",MT,Toole County,29946,2017
-"30 , 103",MT,Treasure County,30961,2017
-"30 , 105",MT,Valley County,32391,2017
-"30 , 107",MT,Wheatland County,23620,2017
-"30 , 109",MT,Wibaux County,29653,2017
-"30 , 111",MT,Yellowstone County,41174,2017
-"30 , 1",MT,Beaverhead County,31605,2018
-"30 , 3",MT,Big Horn County,27719,2018
-"30 , 5",MT,Blaine County,25373,2018
-"30 , 7",MT,Broadwater County,33360,2018
-"30 , 9",MT,Carbon County,34499,2018
-"30 , 11",MT,Carter County,26301,2018
-"30 , 13",MT,Cascade County,34546,2018
-"30 , 15",MT,Chouteau County,28774,2018
-"30 , 17",MT,Custer County,31980,2018
-"30 , 19",MT,Daniels County,28081,2018
-"30 , 21",MT,Dawson County,33900,2018
-"30 , 23",MT,Deer Lodge County,28553,2018
-"30 , 25",MT,Fallon County,35354,2018
-"30 , 27",MT,Fergus County,31612,2018
-"30 , 29",MT,Flathead County,37492,2018
-"30 , 31",MT,Gallatin County,40724,2018
-"30 , 33",MT,Garfield County,28572,2018
-"30 , 35",MT,Glacier County,27129,2018
-"30 , 37",MT,Golden Valley County,24739,2018
-"30 , 39",MT,Granite County,30988,2018
-"30 , 41",MT,Hill County,32365,2018
-"30 , 43",MT,Jefferson County,45407,2018
-"30 , 45",MT,Judith Basin County,27014,2018
-"30 , 47",MT,Lake County,30362,2018
-"30 , 49",MT,Lewis and Clark County,40578,2018
-"30 , 51",MT,Liberty County,28258,2018
-"30 , 53",MT,Lincoln County,29331,2018
-"30 , 55",MT,McCone County,27921,2018
-"30 , 57",MT,Madison County,31856,2018
-"30 , 59",MT,Meagher County,26010,2018
-"30 , 61",MT,Mineral County,29904,2018
-"30 , 63",MT,Missoula County,36790,2018
-"30 , 65",MT,Musselshell County,27499,2018
-"30 , 67",MT,Park County,32837,2018
-"30 , 69",MT,Petroleum County,23622,2018
-"30 , 71",MT,Phillips County,29472,2018
-"30 , 73",MT,Pondera County,29420,2018
-"30 , 75",MT,Powder River County,28851,2018
-"30 , 77",MT,Powell County,29676,2018
-"30 , 79",MT,Prairie County,28238,2018
-"30 , 81",MT,Ravalli County,34907,2018
-"30 , 83",MT,Richland County,34365,2018
-"30 , 85",MT,Roosevelt County,25677,2018
-"30 , 87",MT,Rosebud County,38696,2018
-"30 , 89",MT,Sanders County,28456,2018
-"30 , 91",MT,Sheridan County,29651,2018
-"30 , 93",MT,Silver Bow County,32263,2018
-"30 , 95",MT,Stillwater County,44890,2018
-"30 , 97",MT,Sweet Grass County,34253,2018
-"30 , 99",MT,Teton County,30928,2018
-"30 , 101",MT,Toole County,29946,2018
-"30 , 103",MT,Treasure County,30961,2018
-"30 , 105",MT,Valley County,32391,2018
-"30 , 107",MT,Wheatland County,23620,2018
-"30 , 109",MT,Wibaux County,29653,2018
-"30 , 111",MT,Yellowstone County,41174,2018
+,State County FIPS,Postal Code,Name,Median Household Income,Year
+1596,"30 , 1",MT,Beaverhead County,31605,2003
+1597,"30 , 3",MT,Big Horn County,27719,2003
+1598,"30 , 5",MT,Blaine County,25373,2003
+1599,"30 , 7",MT,Broadwater County,33360,2003
+1600,"30 , 9",MT,Carbon County,34499,2003
+1601,"30 , 11",MT,Carter County,26301,2003
+1602,"30 , 13",MT,Cascade County,34546,2003
+1603,"30 , 15",MT,Chouteau County,28774,2003
+1604,"30 , 17",MT,Custer County,31980,2003
+1605,"30 , 19",MT,Daniels County,28081,2003
+1606,"30 , 21",MT,Dawson County,33900,2003
+1607,"30 , 23",MT,Deer Lodge County,28553,2003
+1608,"30 , 25",MT,Fallon County,35354,2003
+1609,"30 , 27",MT,Fergus County,31612,2003
+1610,"30 , 29",MT,Flathead County,37492,2003
+1611,"30 , 31",MT,Gallatin County,40724,2003
+1612,"30 , 33",MT,Garfield County,28572,2003
+1613,"30 , 35",MT,Glacier County,27129,2003
+1614,"30 , 37",MT,Golden Valley County,24739,2003
+1615,"30 , 39",MT,Granite County,30988,2003
+1616,"30 , 41",MT,Hill County,32365,2003
+1617,"30 , 43",MT,Jefferson County,45407,2003
+1618,"30 , 45",MT,Judith Basin County,27014,2003
+1619,"30 , 47",MT,Lake County,30362,2003
+1620,"30 , 49",MT,Lewis and Clark County,40578,2003
+1621,"30 , 51",MT,Liberty County,28258,2003
+1622,"30 , 53",MT,Lincoln County,29331,2003
+1623,"30 , 55",MT,McCone County,27921,2003
+1624,"30 , 57",MT,Madison County,31856,2003
+1625,"30 , 59",MT,Meagher County,26010,2003
+1626,"30 , 61",MT,Mineral County,29904,2003
+1627,"30 , 63",MT,Missoula County,36790,2003
+1628,"30 , 65",MT,Musselshell County,27499,2003
+1629,"30 , 67",MT,Park County,32837,2003
+1630,"30 , 69",MT,Petroleum County,23622,2003
+1631,"30 , 71",MT,Phillips County,29472,2003
+1632,"30 , 73",MT,Pondera County,29420,2003
+1633,"30 , 75",MT,Powder River County,28851,2003
+1634,"30 , 77",MT,Powell County,29676,2003
+1635,"30 , 79",MT,Prairie County,28238,2003
+1636,"30 , 81",MT,Ravalli County,34907,2003
+1637,"30 , 83",MT,Richland County,34365,2003
+1638,"30 , 85",MT,Roosevelt County,25677,2003
+1639,"30 , 87",MT,Rosebud County,38696,2003
+1640,"30 , 89",MT,Sanders County,28456,2003
+1641,"30 , 91",MT,Sheridan County,29651,2003
+1642,"30 , 93",MT,Silver Bow County,32263,2003
+1643,"30 , 95",MT,Stillwater County,44890,2003
+1644,"30 , 97",MT,Sweet Grass County,34253,2003
+1645,"30 , 99",MT,Teton County,30928,2003
+1646,"30 , 101",MT,Toole County,29946,2003
+1647,"30 , 103",MT,Treasure County,30961,2003
+1648,"30 , 105",MT,Valley County,32391,2003
+1649,"30 , 107",MT,Wheatland County,23620,2003
+1650,"30 , 109",MT,Wibaux County,29653,2003
+1651,"30 , 111",MT,Yellowstone County,41174,2003
+1596,"30 , 1",MT,Beaverhead County,31605,2004
+1597,"30 , 3",MT,Big Horn County,27719,2004
+1598,"30 , 5",MT,Blaine County,25373,2004
+1599,"30 , 7",MT,Broadwater County,33360,2004
+1600,"30 , 9",MT,Carbon County,34499,2004
+1601,"30 , 11",MT,Carter County,26301,2004
+1602,"30 , 13",MT,Cascade County,34546,2004
+1603,"30 , 15",MT,Chouteau County,28774,2004
+1604,"30 , 17",MT,Custer County,31980,2004
+1605,"30 , 19",MT,Daniels County,28081,2004
+1606,"30 , 21",MT,Dawson County,33900,2004
+1607,"30 , 23",MT,Deer Lodge County,28553,2004
+1608,"30 , 25",MT,Fallon County,35354,2004
+1609,"30 , 27",MT,Fergus County,31612,2004
+1610,"30 , 29",MT,Flathead County,37492,2004
+1611,"30 , 31",MT,Gallatin County,40724,2004
+1612,"30 , 33",MT,Garfield County,28572,2004
+1613,"30 , 35",MT,Glacier County,27129,2004
+1614,"30 , 37",MT,Golden Valley County,24739,2004
+1615,"30 , 39",MT,Granite County,30988,2004
+1616,"30 , 41",MT,Hill County,32365,2004
+1617,"30 , 43",MT,Jefferson County,45407,2004
+1618,"30 , 45",MT,Judith Basin County,27014,2004
+1619,"30 , 47",MT,Lake County,30362,2004
+1620,"30 , 49",MT,Lewis and Clark County,40578,2004
+1621,"30 , 51",MT,Liberty County,28258,2004
+1622,"30 , 53",MT,Lincoln County,29331,2004
+1623,"30 , 55",MT,McCone County,27921,2004
+1624,"30 , 57",MT,Madison County,31856,2004
+1625,"30 , 59",MT,Meagher County,26010,2004
+1626,"30 , 61",MT,Mineral County,29904,2004
+1627,"30 , 63",MT,Missoula County,36790,2004
+1628,"30 , 65",MT,Musselshell County,27499,2004
+1629,"30 , 67",MT,Park County,32837,2004
+1630,"30 , 69",MT,Petroleum County,23622,2004
+1631,"30 , 71",MT,Phillips County,29472,2004
+1632,"30 , 73",MT,Pondera County,29420,2004
+1633,"30 , 75",MT,Powder River County,28851,2004
+1634,"30 , 77",MT,Powell County,29676,2004
+1635,"30 , 79",MT,Prairie County,28238,2004
+1636,"30 , 81",MT,Ravalli County,34907,2004
+1637,"30 , 83",MT,Richland County,34365,2004
+1638,"30 , 85",MT,Roosevelt County,25677,2004
+1639,"30 , 87",MT,Rosebud County,38696,2004
+1640,"30 , 89",MT,Sanders County,28456,2004
+1641,"30 , 91",MT,Sheridan County,29651,2004
+1642,"30 , 93",MT,Silver Bow County,32263,2004
+1643,"30 , 95",MT,Stillwater County,44890,2004
+1644,"30 , 97",MT,Sweet Grass County,34253,2004
+1645,"30 , 99",MT,Teton County,30928,2004
+1646,"30 , 101",MT,Toole County,29946,2004
+1647,"30 , 103",MT,Treasure County,30961,2004
+1648,"30 , 105",MT,Valley County,32391,2004
+1649,"30 , 107",MT,Wheatland County,23620,2004
+1650,"30 , 109",MT,Wibaux County,29653,2004
+1651,"30 , 111",MT,Yellowstone County,41174,2004
+1596,"30 , 1",MT,Beaverhead County,31605,2005
+1597,"30 , 3",MT,Big Horn County,27719,2005
+1598,"30 , 5",MT,Blaine County,25373,2005
+1599,"30 , 7",MT,Broadwater County,33360,2005
+1600,"30 , 9",MT,Carbon County,34499,2005
+1601,"30 , 11",MT,Carter County,26301,2005
+1602,"30 , 13",MT,Cascade County,34546,2005
+1603,"30 , 15",MT,Chouteau County,28774,2005
+1604,"30 , 17",MT,Custer County,31980,2005
+1605,"30 , 19",MT,Daniels County,28081,2005
+1606,"30 , 21",MT,Dawson County,33900,2005
+1607,"30 , 23",MT,Deer Lodge County,28553,2005
+1608,"30 , 25",MT,Fallon County,35354,2005
+1609,"30 , 27",MT,Fergus County,31612,2005
+1610,"30 , 29",MT,Flathead County,37492,2005
+1611,"30 , 31",MT,Gallatin County,40724,2005
+1612,"30 , 33",MT,Garfield County,28572,2005
+1613,"30 , 35",MT,Glacier County,27129,2005
+1614,"30 , 37",MT,Golden Valley County,24739,2005
+1615,"30 , 39",MT,Granite County,30988,2005
+1616,"30 , 41",MT,Hill County,32365,2005
+1617,"30 , 43",MT,Jefferson County,45407,2005
+1618,"30 , 45",MT,Judith Basin County,27014,2005
+1619,"30 , 47",MT,Lake County,30362,2005
+1620,"30 , 49",MT,Lewis and Clark County,40578,2005
+1621,"30 , 51",MT,Liberty County,28258,2005
+1622,"30 , 53",MT,Lincoln County,29331,2005
+1623,"30 , 55",MT,McCone County,27921,2005
+1624,"30 , 57",MT,Madison County,31856,2005
+1625,"30 , 59",MT,Meagher County,26010,2005
+1626,"30 , 61",MT,Mineral County,29904,2005
+1627,"30 , 63",MT,Missoula County,36790,2005
+1628,"30 , 65",MT,Musselshell County,27499,2005
+1629,"30 , 67",MT,Park County,32837,2005
+1630,"30 , 69",MT,Petroleum County,23622,2005
+1631,"30 , 71",MT,Phillips County,29472,2005
+1632,"30 , 73",MT,Pondera County,29420,2005
+1633,"30 , 75",MT,Powder River County,28851,2005
+1634,"30 , 77",MT,Powell County,29676,2005
+1635,"30 , 79",MT,Prairie County,28238,2005
+1636,"30 , 81",MT,Ravalli County,34907,2005
+1637,"30 , 83",MT,Richland County,34365,2005
+1638,"30 , 85",MT,Roosevelt County,25677,2005
+1639,"30 , 87",MT,Rosebud County,38696,2005
+1640,"30 , 89",MT,Sanders County,28456,2005
+1641,"30 , 91",MT,Sheridan County,29651,2005
+1642,"30 , 93",MT,Silver Bow County,32263,2005
+1643,"30 , 95",MT,Stillwater County,44890,2005
+1644,"30 , 97",MT,Sweet Grass County,34253,2005
+1645,"30 , 99",MT,Teton County,30928,2005
+1646,"30 , 101",MT,Toole County,29946,2005
+1647,"30 , 103",MT,Treasure County,30961,2005
+1648,"30 , 105",MT,Valley County,32391,2005
+1649,"30 , 107",MT,Wheatland County,23620,2005
+1650,"30 , 109",MT,Wibaux County,29653,2005
+1651,"30 , 111",MT,Yellowstone County,41174,2005
+1596,"30 , 1",MT,Beaverhead County,31605,2006
+1597,"30 , 3",MT,Big Horn County,27719,2006
+1598,"30 , 5",MT,Blaine County,25373,2006
+1599,"30 , 7",MT,Broadwater County,33360,2006
+1600,"30 , 9",MT,Carbon County,34499,2006
+1601,"30 , 11",MT,Carter County,26301,2006
+1602,"30 , 13",MT,Cascade County,34546,2006
+1603,"30 , 15",MT,Chouteau County,28774,2006
+1604,"30 , 17",MT,Custer County,31980,2006
+1605,"30 , 19",MT,Daniels County,28081,2006
+1606,"30 , 21",MT,Dawson County,33900,2006
+1607,"30 , 23",MT,Deer Lodge County,28553,2006
+1608,"30 , 25",MT,Fallon County,35354,2006
+1609,"30 , 27",MT,Fergus County,31612,2006
+1610,"30 , 29",MT,Flathead County,37492,2006
+1611,"30 , 31",MT,Gallatin County,40724,2006
+1612,"30 , 33",MT,Garfield County,28572,2006
+1613,"30 , 35",MT,Glacier County,27129,2006
+1614,"30 , 37",MT,Golden Valley County,24739,2006
+1615,"30 , 39",MT,Granite County,30988,2006
+1616,"30 , 41",MT,Hill County,32365,2006
+1617,"30 , 43",MT,Jefferson County,45407,2006
+1618,"30 , 45",MT,Judith Basin County,27014,2006
+1619,"30 , 47",MT,Lake County,30362,2006
+1620,"30 , 49",MT,Lewis and Clark County,40578,2006
+1621,"30 , 51",MT,Liberty County,28258,2006
+1622,"30 , 53",MT,Lincoln County,29331,2006
+1623,"30 , 55",MT,McCone County,27921,2006
+1624,"30 , 57",MT,Madison County,31856,2006
+1625,"30 , 59",MT,Meagher County,26010,2006
+1626,"30 , 61",MT,Mineral County,29904,2006
+1627,"30 , 63",MT,Missoula County,36790,2006
+1628,"30 , 65",MT,Musselshell County,27499,2006
+1629,"30 , 67",MT,Park County,32837,2006
+1630,"30 , 69",MT,Petroleum County,23622,2006
+1631,"30 , 71",MT,Phillips County,29472,2006
+1632,"30 , 73",MT,Pondera County,29420,2006
+1633,"30 , 75",MT,Powder River County,28851,2006
+1634,"30 , 77",MT,Powell County,29676,2006
+1635,"30 , 79",MT,Prairie County,28238,2006
+1636,"30 , 81",MT,Ravalli County,34907,2006
+1637,"30 , 83",MT,Richland County,34365,2006
+1638,"30 , 85",MT,Roosevelt County,25677,2006
+1639,"30 , 87",MT,Rosebud County,38696,2006
+1640,"30 , 89",MT,Sanders County,28456,2006
+1641,"30 , 91",MT,Sheridan County,29651,2006
+1642,"30 , 93",MT,Silver Bow County,32263,2006
+1643,"30 , 95",MT,Stillwater County,44890,2006
+1644,"30 , 97",MT,Sweet Grass County,34253,2006
+1645,"30 , 99",MT,Teton County,30928,2006
+1646,"30 , 101",MT,Toole County,29946,2006
+1647,"30 , 103",MT,Treasure County,30961,2006
+1648,"30 , 105",MT,Valley County,32391,2006
+1649,"30 , 107",MT,Wheatland County,23620,2006
+1650,"30 , 109",MT,Wibaux County,29653,2006
+1651,"30 , 111",MT,Yellowstone County,41174,2006
+1596,"30 , 1",MT,Beaverhead County,31605,2007
+1597,"30 , 3",MT,Big Horn County,27719,2007
+1598,"30 , 5",MT,Blaine County,25373,2007
+1599,"30 , 7",MT,Broadwater County,33360,2007
+1600,"30 , 9",MT,Carbon County,34499,2007
+1601,"30 , 11",MT,Carter County,26301,2007
+1602,"30 , 13",MT,Cascade County,34546,2007
+1603,"30 , 15",MT,Chouteau County,28774,2007
+1604,"30 , 17",MT,Custer County,31980,2007
+1605,"30 , 19",MT,Daniels County,28081,2007
+1606,"30 , 21",MT,Dawson County,33900,2007
+1607,"30 , 23",MT,Deer Lodge County,28553,2007
+1608,"30 , 25",MT,Fallon County,35354,2007
+1609,"30 , 27",MT,Fergus County,31612,2007
+1610,"30 , 29",MT,Flathead County,37492,2007
+1611,"30 , 31",MT,Gallatin County,40724,2007
+1612,"30 , 33",MT,Garfield County,28572,2007
+1613,"30 , 35",MT,Glacier County,27129,2007
+1614,"30 , 37",MT,Golden Valley County,24739,2007
+1615,"30 , 39",MT,Granite County,30988,2007
+1616,"30 , 41",MT,Hill County,32365,2007
+1617,"30 , 43",MT,Jefferson County,45407,2007
+1618,"30 , 45",MT,Judith Basin County,27014,2007
+1619,"30 , 47",MT,Lake County,30362,2007
+1620,"30 , 49",MT,Lewis and Clark County,40578,2007
+1621,"30 , 51",MT,Liberty County,28258,2007
+1622,"30 , 53",MT,Lincoln County,29331,2007
+1623,"30 , 55",MT,McCone County,27921,2007
+1624,"30 , 57",MT,Madison County,31856,2007
+1625,"30 , 59",MT,Meagher County,26010,2007
+1626,"30 , 61",MT,Mineral County,29904,2007
+1627,"30 , 63",MT,Missoula County,36790,2007
+1628,"30 , 65",MT,Musselshell County,27499,2007
+1629,"30 , 67",MT,Park County,32837,2007
+1630,"30 , 69",MT,Petroleum County,23622,2007
+1631,"30 , 71",MT,Phillips County,29472,2007
+1632,"30 , 73",MT,Pondera County,29420,2007
+1633,"30 , 75",MT,Powder River County,28851,2007
+1634,"30 , 77",MT,Powell County,29676,2007
+1635,"30 , 79",MT,Prairie County,28238,2007
+1636,"30 , 81",MT,Ravalli County,34907,2007
+1637,"30 , 83",MT,Richland County,34365,2007
+1638,"30 , 85",MT,Roosevelt County,25677,2007
+1639,"30 , 87",MT,Rosebud County,38696,2007
+1640,"30 , 89",MT,Sanders County,28456,2007
+1641,"30 , 91",MT,Sheridan County,29651,2007
+1642,"30 , 93",MT,Silver Bow County,32263,2007
+1643,"30 , 95",MT,Stillwater County,44890,2007
+1644,"30 , 97",MT,Sweet Grass County,34253,2007
+1645,"30 , 99",MT,Teton County,30928,2007
+1646,"30 , 101",MT,Toole County,29946,2007
+1647,"30 , 103",MT,Treasure County,30961,2007
+1648,"30 , 105",MT,Valley County,32391,2007
+1649,"30 , 107",MT,Wheatland County,23620,2007
+1650,"30 , 109",MT,Wibaux County,29653,2007
+1651,"30 , 111",MT,Yellowstone County,41174,2007
+1596,"30 , 1",MT,Beaverhead County,31605,2008
+1597,"30 , 3",MT,Big Horn County,27719,2008
+1598,"30 , 5",MT,Blaine County,25373,2008
+1599,"30 , 7",MT,Broadwater County,33360,2008
+1600,"30 , 9",MT,Carbon County,34499,2008
+1601,"30 , 11",MT,Carter County,26301,2008
+1602,"30 , 13",MT,Cascade County,34546,2008
+1603,"30 , 15",MT,Chouteau County,28774,2008
+1604,"30 , 17",MT,Custer County,31980,2008
+1605,"30 , 19",MT,Daniels County,28081,2008
+1606,"30 , 21",MT,Dawson County,33900,2008
+1607,"30 , 23",MT,Deer Lodge County,28553,2008
+1608,"30 , 25",MT,Fallon County,35354,2008
+1609,"30 , 27",MT,Fergus County,31612,2008
+1610,"30 , 29",MT,Flathead County,37492,2008
+1611,"30 , 31",MT,Gallatin County,40724,2008
+1612,"30 , 33",MT,Garfield County,28572,2008
+1613,"30 , 35",MT,Glacier County,27129,2008
+1614,"30 , 37",MT,Golden Valley County,24739,2008
+1615,"30 , 39",MT,Granite County,30988,2008
+1616,"30 , 41",MT,Hill County,32365,2008
+1617,"30 , 43",MT,Jefferson County,45407,2008
+1618,"30 , 45",MT,Judith Basin County,27014,2008
+1619,"30 , 47",MT,Lake County,30362,2008
+1620,"30 , 49",MT,Lewis and Clark County,40578,2008
+1621,"30 , 51",MT,Liberty County,28258,2008
+1622,"30 , 53",MT,Lincoln County,29331,2008
+1623,"30 , 55",MT,McCone County,27921,2008
+1624,"30 , 57",MT,Madison County,31856,2008
+1625,"30 , 59",MT,Meagher County,26010,2008
+1626,"30 , 61",MT,Mineral County,29904,2008
+1627,"30 , 63",MT,Missoula County,36790,2008
+1628,"30 , 65",MT,Musselshell County,27499,2008
+1629,"30 , 67",MT,Park County,32837,2008
+1630,"30 , 69",MT,Petroleum County,23622,2008
+1631,"30 , 71",MT,Phillips County,29472,2008
+1632,"30 , 73",MT,Pondera County,29420,2008
+1633,"30 , 75",MT,Powder River County,28851,2008
+1634,"30 , 77",MT,Powell County,29676,2008
+1635,"30 , 79",MT,Prairie County,28238,2008
+1636,"30 , 81",MT,Ravalli County,34907,2008
+1637,"30 , 83",MT,Richland County,34365,2008
+1638,"30 , 85",MT,Roosevelt County,25677,2008
+1639,"30 , 87",MT,Rosebud County,38696,2008
+1640,"30 , 89",MT,Sanders County,28456,2008
+1641,"30 , 91",MT,Sheridan County,29651,2008
+1642,"30 , 93",MT,Silver Bow County,32263,2008
+1643,"30 , 95",MT,Stillwater County,44890,2008
+1644,"30 , 97",MT,Sweet Grass County,34253,2008
+1645,"30 , 99",MT,Teton County,30928,2008
+1646,"30 , 101",MT,Toole County,29946,2008
+1647,"30 , 103",MT,Treasure County,30961,2008
+1648,"30 , 105",MT,Valley County,32391,2008
+1649,"30 , 107",MT,Wheatland County,23620,2008
+1650,"30 , 109",MT,Wibaux County,29653,2008
+1651,"30 , 111",MT,Yellowstone County,41174,2008
+1596,"30 , 1",MT,Beaverhead County,31605,2009
+1597,"30 , 3",MT,Big Horn County,27719,2009
+1598,"30 , 5",MT,Blaine County,25373,2009
+1599,"30 , 7",MT,Broadwater County,33360,2009
+1600,"30 , 9",MT,Carbon County,34499,2009
+1601,"30 , 11",MT,Carter County,26301,2009
+1602,"30 , 13",MT,Cascade County,34546,2009
+1603,"30 , 15",MT,Chouteau County,28774,2009
+1604,"30 , 17",MT,Custer County,31980,2009
+1605,"30 , 19",MT,Daniels County,28081,2009
+1606,"30 , 21",MT,Dawson County,33900,2009
+1607,"30 , 23",MT,Deer Lodge County,28553,2009
+1608,"30 , 25",MT,Fallon County,35354,2009
+1609,"30 , 27",MT,Fergus County,31612,2009
+1610,"30 , 29",MT,Flathead County,37492,2009
+1611,"30 , 31",MT,Gallatin County,40724,2009
+1612,"30 , 33",MT,Garfield County,28572,2009
+1613,"30 , 35",MT,Glacier County,27129,2009
+1614,"30 , 37",MT,Golden Valley County,24739,2009
+1615,"30 , 39",MT,Granite County,30988,2009
+1616,"30 , 41",MT,Hill County,32365,2009
+1617,"30 , 43",MT,Jefferson County,45407,2009
+1618,"30 , 45",MT,Judith Basin County,27014,2009
+1619,"30 , 47",MT,Lake County,30362,2009
+1620,"30 , 49",MT,Lewis and Clark County,40578,2009
+1621,"30 , 51",MT,Liberty County,28258,2009
+1622,"30 , 53",MT,Lincoln County,29331,2009
+1623,"30 , 55",MT,McCone County,27921,2009
+1624,"30 , 57",MT,Madison County,31856,2009
+1625,"30 , 59",MT,Meagher County,26010,2009
+1626,"30 , 61",MT,Mineral County,29904,2009
+1627,"30 , 63",MT,Missoula County,36790,2009
+1628,"30 , 65",MT,Musselshell County,27499,2009
+1629,"30 , 67",MT,Park County,32837,2009
+1630,"30 , 69",MT,Petroleum County,23622,2009
+1631,"30 , 71",MT,Phillips County,29472,2009
+1632,"30 , 73",MT,Pondera County,29420,2009
+1633,"30 , 75",MT,Powder River County,28851,2009
+1634,"30 , 77",MT,Powell County,29676,2009
+1635,"30 , 79",MT,Prairie County,28238,2009
+1636,"30 , 81",MT,Ravalli County,34907,2009
+1637,"30 , 83",MT,Richland County,34365,2009
+1638,"30 , 85",MT,Roosevelt County,25677,2009
+1639,"30 , 87",MT,Rosebud County,38696,2009
+1640,"30 , 89",MT,Sanders County,28456,2009
+1641,"30 , 91",MT,Sheridan County,29651,2009
+1642,"30 , 93",MT,Silver Bow County,32263,2009
+1643,"30 , 95",MT,Stillwater County,44890,2009
+1644,"30 , 97",MT,Sweet Grass County,34253,2009
+1645,"30 , 99",MT,Teton County,30928,2009
+1646,"30 , 101",MT,Toole County,29946,2009
+1647,"30 , 103",MT,Treasure County,30961,2009
+1648,"30 , 105",MT,Valley County,32391,2009
+1649,"30 , 107",MT,Wheatland County,23620,2009
+1650,"30 , 109",MT,Wibaux County,29653,2009
+1651,"30 , 111",MT,Yellowstone County,41174,2009
+1596,"30 , 1",MT,Beaverhead County,31605,2010
+1597,"30 , 3",MT,Big Horn County,27719,2010
+1598,"30 , 5",MT,Blaine County,25373,2010
+1599,"30 , 7",MT,Broadwater County,33360,2010
+1600,"30 , 9",MT,Carbon County,34499,2010
+1601,"30 , 11",MT,Carter County,26301,2010
+1602,"30 , 13",MT,Cascade County,34546,2010
+1603,"30 , 15",MT,Chouteau County,28774,2010
+1604,"30 , 17",MT,Custer County,31980,2010
+1605,"30 , 19",MT,Daniels County,28081,2010
+1606,"30 , 21",MT,Dawson County,33900,2010
+1607,"30 , 23",MT,Deer Lodge County,28553,2010
+1608,"30 , 25",MT,Fallon County,35354,2010
+1609,"30 , 27",MT,Fergus County,31612,2010
+1610,"30 , 29",MT,Flathead County,37492,2010
+1611,"30 , 31",MT,Gallatin County,40724,2010
+1612,"30 , 33",MT,Garfield County,28572,2010
+1613,"30 , 35",MT,Glacier County,27129,2010
+1614,"30 , 37",MT,Golden Valley County,24739,2010
+1615,"30 , 39",MT,Granite County,30988,2010
+1616,"30 , 41",MT,Hill County,32365,2010
+1617,"30 , 43",MT,Jefferson County,45407,2010
+1618,"30 , 45",MT,Judith Basin County,27014,2010
+1619,"30 , 47",MT,Lake County,30362,2010
+1620,"30 , 49",MT,Lewis and Clark County,40578,2010
+1621,"30 , 51",MT,Liberty County,28258,2010
+1622,"30 , 53",MT,Lincoln County,29331,2010
+1623,"30 , 55",MT,McCone County,27921,2010
+1624,"30 , 57",MT,Madison County,31856,2010
+1625,"30 , 59",MT,Meagher County,26010,2010
+1626,"30 , 61",MT,Mineral County,29904,2010
+1627,"30 , 63",MT,Missoula County,36790,2010
+1628,"30 , 65",MT,Musselshell County,27499,2010
+1629,"30 , 67",MT,Park County,32837,2010
+1630,"30 , 69",MT,Petroleum County,23622,2010
+1631,"30 , 71",MT,Phillips County,29472,2010
+1632,"30 , 73",MT,Pondera County,29420,2010
+1633,"30 , 75",MT,Powder River County,28851,2010
+1634,"30 , 77",MT,Powell County,29676,2010
+1635,"30 , 79",MT,Prairie County,28238,2010
+1636,"30 , 81",MT,Ravalli County,34907,2010
+1637,"30 , 83",MT,Richland County,34365,2010
+1638,"30 , 85",MT,Roosevelt County,25677,2010
+1639,"30 , 87",MT,Rosebud County,38696,2010
+1640,"30 , 89",MT,Sanders County,28456,2010
+1641,"30 , 91",MT,Sheridan County,29651,2010
+1642,"30 , 93",MT,Silver Bow County,32263,2010
+1643,"30 , 95",MT,Stillwater County,44890,2010
+1644,"30 , 97",MT,Sweet Grass County,34253,2010
+1645,"30 , 99",MT,Teton County,30928,2010
+1646,"30 , 101",MT,Toole County,29946,2010
+1647,"30 , 103",MT,Treasure County,30961,2010
+1648,"30 , 105",MT,Valley County,32391,2010
+1649,"30 , 107",MT,Wheatland County,23620,2010
+1650,"30 , 109",MT,Wibaux County,29653,2010
+1651,"30 , 111",MT,Yellowstone County,41174,2010
+1596,"30 , 1",MT,Beaverhead County,31605,2011
+1597,"30 , 3",MT,Big Horn County,27719,2011
+1598,"30 , 5",MT,Blaine County,25373,2011
+1599,"30 , 7",MT,Broadwater County,33360,2011
+1600,"30 , 9",MT,Carbon County,34499,2011
+1601,"30 , 11",MT,Carter County,26301,2011
+1602,"30 , 13",MT,Cascade County,34546,2011
+1603,"30 , 15",MT,Chouteau County,28774,2011
+1604,"30 , 17",MT,Custer County,31980,2011
+1605,"30 , 19",MT,Daniels County,28081,2011
+1606,"30 , 21",MT,Dawson County,33900,2011
+1607,"30 , 23",MT,Deer Lodge County,28553,2011
+1608,"30 , 25",MT,Fallon County,35354,2011
+1609,"30 , 27",MT,Fergus County,31612,2011
+1610,"30 , 29",MT,Flathead County,37492,2011
+1611,"30 , 31",MT,Gallatin County,40724,2011
+1612,"30 , 33",MT,Garfield County,28572,2011
+1613,"30 , 35",MT,Glacier County,27129,2011
+1614,"30 , 37",MT,Golden Valley County,24739,2011
+1615,"30 , 39",MT,Granite County,30988,2011
+1616,"30 , 41",MT,Hill County,32365,2011
+1617,"30 , 43",MT,Jefferson County,45407,2011
+1618,"30 , 45",MT,Judith Basin County,27014,2011
+1619,"30 , 47",MT,Lake County,30362,2011
+1620,"30 , 49",MT,Lewis and Clark County,40578,2011
+1621,"30 , 51",MT,Liberty County,28258,2011
+1622,"30 , 53",MT,Lincoln County,29331,2011
+1623,"30 , 55",MT,McCone County,27921,2011
+1624,"30 , 57",MT,Madison County,31856,2011
+1625,"30 , 59",MT,Meagher County,26010,2011
+1626,"30 , 61",MT,Mineral County,29904,2011
+1627,"30 , 63",MT,Missoula County,36790,2011
+1628,"30 , 65",MT,Musselshell County,27499,2011
+1629,"30 , 67",MT,Park County,32837,2011
+1630,"30 , 69",MT,Petroleum County,23622,2011
+1631,"30 , 71",MT,Phillips County,29472,2011
+1632,"30 , 73",MT,Pondera County,29420,2011
+1633,"30 , 75",MT,Powder River County,28851,2011
+1634,"30 , 77",MT,Powell County,29676,2011
+1635,"30 , 79",MT,Prairie County,28238,2011
+1636,"30 , 81",MT,Ravalli County,34907,2011
+1637,"30 , 83",MT,Richland County,34365,2011
+1638,"30 , 85",MT,Roosevelt County,25677,2011
+1639,"30 , 87",MT,Rosebud County,38696,2011
+1640,"30 , 89",MT,Sanders County,28456,2011
+1641,"30 , 91",MT,Sheridan County,29651,2011
+1642,"30 , 93",MT,Silver Bow County,32263,2011
+1643,"30 , 95",MT,Stillwater County,44890,2011
+1644,"30 , 97",MT,Sweet Grass County,34253,2011
+1645,"30 , 99",MT,Teton County,30928,2011
+1646,"30 , 101",MT,Toole County,29946,2011
+1647,"30 , 103",MT,Treasure County,30961,2011
+1648,"30 , 105",MT,Valley County,32391,2011
+1649,"30 , 107",MT,Wheatland County,23620,2011
+1650,"30 , 109",MT,Wibaux County,29653,2011
+1651,"30 , 111",MT,Yellowstone County,41174,2011
+1596,"30 , 1",MT,Beaverhead County,31605,2012
+1597,"30 , 3",MT,Big Horn County,27719,2012
+1598,"30 , 5",MT,Blaine County,25373,2012
+1599,"30 , 7",MT,Broadwater County,33360,2012
+1600,"30 , 9",MT,Carbon County,34499,2012
+1601,"30 , 11",MT,Carter County,26301,2012
+1602,"30 , 13",MT,Cascade County,34546,2012
+1603,"30 , 15",MT,Chouteau County,28774,2012
+1604,"30 , 17",MT,Custer County,31980,2012
+1605,"30 , 19",MT,Daniels County,28081,2012
+1606,"30 , 21",MT,Dawson County,33900,2012
+1607,"30 , 23",MT,Deer Lodge County,28553,2012
+1608,"30 , 25",MT,Fallon County,35354,2012
+1609,"30 , 27",MT,Fergus County,31612,2012
+1610,"30 , 29",MT,Flathead County,37492,2012
+1611,"30 , 31",MT,Gallatin County,40724,2012
+1612,"30 , 33",MT,Garfield County,28572,2012
+1613,"30 , 35",MT,Glacier County,27129,2012
+1614,"30 , 37",MT,Golden Valley County,24739,2012
+1615,"30 , 39",MT,Granite County,30988,2012
+1616,"30 , 41",MT,Hill County,32365,2012
+1617,"30 , 43",MT,Jefferson County,45407,2012
+1618,"30 , 45",MT,Judith Basin County,27014,2012
+1619,"30 , 47",MT,Lake County,30362,2012
+1620,"30 , 49",MT,Lewis and Clark County,40578,2012
+1621,"30 , 51",MT,Liberty County,28258,2012
+1622,"30 , 53",MT,Lincoln County,29331,2012
+1623,"30 , 55",MT,McCone County,27921,2012
+1624,"30 , 57",MT,Madison County,31856,2012
+1625,"30 , 59",MT,Meagher County,26010,2012
+1626,"30 , 61",MT,Mineral County,29904,2012
+1627,"30 , 63",MT,Missoula County,36790,2012
+1628,"30 , 65",MT,Musselshell County,27499,2012
+1629,"30 , 67",MT,Park County,32837,2012
+1630,"30 , 69",MT,Petroleum County,23622,2012
+1631,"30 , 71",MT,Phillips County,29472,2012
+1632,"30 , 73",MT,Pondera County,29420,2012
+1633,"30 , 75",MT,Powder River County,28851,2012
+1634,"30 , 77",MT,Powell County,29676,2012
+1635,"30 , 79",MT,Prairie County,28238,2012
+1636,"30 , 81",MT,Ravalli County,34907,2012
+1637,"30 , 83",MT,Richland County,34365,2012
+1638,"30 , 85",MT,Roosevelt County,25677,2012
+1639,"30 , 87",MT,Rosebud County,38696,2012
+1640,"30 , 89",MT,Sanders County,28456,2012
+1641,"30 , 91",MT,Sheridan County,29651,2012
+1642,"30 , 93",MT,Silver Bow County,32263,2012
+1643,"30 , 95",MT,Stillwater County,44890,2012
+1644,"30 , 97",MT,Sweet Grass County,34253,2012
+1645,"30 , 99",MT,Teton County,30928,2012
+1646,"30 , 101",MT,Toole County,29946,2012
+1647,"30 , 103",MT,Treasure County,30961,2012
+1648,"30 , 105",MT,Valley County,32391,2012
+1649,"30 , 107",MT,Wheatland County,23620,2012
+1650,"30 , 109",MT,Wibaux County,29653,2012
+1651,"30 , 111",MT,Yellowstone County,41174,2012
+1596,"30 , 1",MT,Beaverhead County,31605,2013
+1597,"30 , 3",MT,Big Horn County,27719,2013
+1598,"30 , 5",MT,Blaine County,25373,2013
+1599,"30 , 7",MT,Broadwater County,33360,2013
+1600,"30 , 9",MT,Carbon County,34499,2013
+1601,"30 , 11",MT,Carter County,26301,2013
+1602,"30 , 13",MT,Cascade County,34546,2013
+1603,"30 , 15",MT,Chouteau County,28774,2013
+1604,"30 , 17",MT,Custer County,31980,2013
+1605,"30 , 19",MT,Daniels County,28081,2013
+1606,"30 , 21",MT,Dawson County,33900,2013
+1607,"30 , 23",MT,Deer Lodge County,28553,2013
+1608,"30 , 25",MT,Fallon County,35354,2013
+1609,"30 , 27",MT,Fergus County,31612,2013
+1610,"30 , 29",MT,Flathead County,37492,2013
+1611,"30 , 31",MT,Gallatin County,40724,2013
+1612,"30 , 33",MT,Garfield County,28572,2013
+1613,"30 , 35",MT,Glacier County,27129,2013
+1614,"30 , 37",MT,Golden Valley County,24739,2013
+1615,"30 , 39",MT,Granite County,30988,2013
+1616,"30 , 41",MT,Hill County,32365,2013
+1617,"30 , 43",MT,Jefferson County,45407,2013
+1618,"30 , 45",MT,Judith Basin County,27014,2013
+1619,"30 , 47",MT,Lake County,30362,2013
+1620,"30 , 49",MT,Lewis and Clark County,40578,2013
+1621,"30 , 51",MT,Liberty County,28258,2013
+1622,"30 , 53",MT,Lincoln County,29331,2013
+1623,"30 , 55",MT,McCone County,27921,2013
+1624,"30 , 57",MT,Madison County,31856,2013
+1625,"30 , 59",MT,Meagher County,26010,2013
+1626,"30 , 61",MT,Mineral County,29904,2013
+1627,"30 , 63",MT,Missoula County,36790,2013
+1628,"30 , 65",MT,Musselshell County,27499,2013
+1629,"30 , 67",MT,Park County,32837,2013
+1630,"30 , 69",MT,Petroleum County,23622,2013
+1631,"30 , 71",MT,Phillips County,29472,2013
+1632,"30 , 73",MT,Pondera County,29420,2013
+1633,"30 , 75",MT,Powder River County,28851,2013
+1634,"30 , 77",MT,Powell County,29676,2013
+1635,"30 , 79",MT,Prairie County,28238,2013
+1636,"30 , 81",MT,Ravalli County,34907,2013
+1637,"30 , 83",MT,Richland County,34365,2013
+1638,"30 , 85",MT,Roosevelt County,25677,2013
+1639,"30 , 87",MT,Rosebud County,38696,2013
+1640,"30 , 89",MT,Sanders County,28456,2013
+1641,"30 , 91",MT,Sheridan County,29651,2013
+1642,"30 , 93",MT,Silver Bow County,32263,2013
+1643,"30 , 95",MT,Stillwater County,44890,2013
+1644,"30 , 97",MT,Sweet Grass County,34253,2013
+1645,"30 , 99",MT,Teton County,30928,2013
+1646,"30 , 101",MT,Toole County,29946,2013
+1647,"30 , 103",MT,Treasure County,30961,2013
+1648,"30 , 105",MT,Valley County,32391,2013
+1649,"30 , 107",MT,Wheatland County,23620,2013
+1650,"30 , 109",MT,Wibaux County,29653,2013
+1651,"30 , 111",MT,Yellowstone County,41174,2013
+1596,"30 , 1",MT,Beaverhead County,31605,2014
+1597,"30 , 3",MT,Big Horn County,27719,2014
+1598,"30 , 5",MT,Blaine County,25373,2014
+1599,"30 , 7",MT,Broadwater County,33360,2014
+1600,"30 , 9",MT,Carbon County,34499,2014
+1601,"30 , 11",MT,Carter County,26301,2014
+1602,"30 , 13",MT,Cascade County,34546,2014
+1603,"30 , 15",MT,Chouteau County,28774,2014
+1604,"30 , 17",MT,Custer County,31980,2014
+1605,"30 , 19",MT,Daniels County,28081,2014
+1606,"30 , 21",MT,Dawson County,33900,2014
+1607,"30 , 23",MT,Deer Lodge County,28553,2014
+1608,"30 , 25",MT,Fallon County,35354,2014
+1609,"30 , 27",MT,Fergus County,31612,2014
+1610,"30 , 29",MT,Flathead County,37492,2014
+1611,"30 , 31",MT,Gallatin County,40724,2014
+1612,"30 , 33",MT,Garfield County,28572,2014
+1613,"30 , 35",MT,Glacier County,27129,2014
+1614,"30 , 37",MT,Golden Valley County,24739,2014
+1615,"30 , 39",MT,Granite County,30988,2014
+1616,"30 , 41",MT,Hill County,32365,2014
+1617,"30 , 43",MT,Jefferson County,45407,2014
+1618,"30 , 45",MT,Judith Basin County,27014,2014
+1619,"30 , 47",MT,Lake County,30362,2014
+1620,"30 , 49",MT,Lewis and Clark County,40578,2014
+1621,"30 , 51",MT,Liberty County,28258,2014
+1622,"30 , 53",MT,Lincoln County,29331,2014
+1623,"30 , 55",MT,McCone County,27921,2014
+1624,"30 , 57",MT,Madison County,31856,2014
+1625,"30 , 59",MT,Meagher County,26010,2014
+1626,"30 , 61",MT,Mineral County,29904,2014
+1627,"30 , 63",MT,Missoula County,36790,2014
+1628,"30 , 65",MT,Musselshell County,27499,2014
+1629,"30 , 67",MT,Park County,32837,2014
+1630,"30 , 69",MT,Petroleum County,23622,2014
+1631,"30 , 71",MT,Phillips County,29472,2014
+1632,"30 , 73",MT,Pondera County,29420,2014
+1633,"30 , 75",MT,Powder River County,28851,2014
+1634,"30 , 77",MT,Powell County,29676,2014
+1635,"30 , 79",MT,Prairie County,28238,2014
+1636,"30 , 81",MT,Ravalli County,34907,2014
+1637,"30 , 83",MT,Richland County,34365,2014
+1638,"30 , 85",MT,Roosevelt County,25677,2014
+1639,"30 , 87",MT,Rosebud County,38696,2014
+1640,"30 , 89",MT,Sanders County,28456,2014
+1641,"30 , 91",MT,Sheridan County,29651,2014
+1642,"30 , 93",MT,Silver Bow County,32263,2014
+1643,"30 , 95",MT,Stillwater County,44890,2014
+1644,"30 , 97",MT,Sweet Grass County,34253,2014
+1645,"30 , 99",MT,Teton County,30928,2014
+1646,"30 , 101",MT,Toole County,29946,2014
+1647,"30 , 103",MT,Treasure County,30961,2014
+1648,"30 , 105",MT,Valley County,32391,2014
+1649,"30 , 107",MT,Wheatland County,23620,2014
+1650,"30 , 109",MT,Wibaux County,29653,2014
+1651,"30 , 111",MT,Yellowstone County,41174,2014
+1596,"30 , 1",MT,Beaverhead County,31605,2015
+1597,"30 , 3",MT,Big Horn County,27719,2015
+1598,"30 , 5",MT,Blaine County,25373,2015
+1599,"30 , 7",MT,Broadwater County,33360,2015
+1600,"30 , 9",MT,Carbon County,34499,2015
+1601,"30 , 11",MT,Carter County,26301,2015
+1602,"30 , 13",MT,Cascade County,34546,2015
+1603,"30 , 15",MT,Chouteau County,28774,2015
+1604,"30 , 17",MT,Custer County,31980,2015
+1605,"30 , 19",MT,Daniels County,28081,2015
+1606,"30 , 21",MT,Dawson County,33900,2015
+1607,"30 , 23",MT,Deer Lodge County,28553,2015
+1608,"30 , 25",MT,Fallon County,35354,2015
+1609,"30 , 27",MT,Fergus County,31612,2015
+1610,"30 , 29",MT,Flathead County,37492,2015
+1611,"30 , 31",MT,Gallatin County,40724,2015
+1612,"30 , 33",MT,Garfield County,28572,2015
+1613,"30 , 35",MT,Glacier County,27129,2015
+1614,"30 , 37",MT,Golden Valley County,24739,2015
+1615,"30 , 39",MT,Granite County,30988,2015
+1616,"30 , 41",MT,Hill County,32365,2015
+1617,"30 , 43",MT,Jefferson County,45407,2015
+1618,"30 , 45",MT,Judith Basin County,27014,2015
+1619,"30 , 47",MT,Lake County,30362,2015
+1620,"30 , 49",MT,Lewis and Clark County,40578,2015
+1621,"30 , 51",MT,Liberty County,28258,2015
+1622,"30 , 53",MT,Lincoln County,29331,2015
+1623,"30 , 55",MT,McCone County,27921,2015
+1624,"30 , 57",MT,Madison County,31856,2015
+1625,"30 , 59",MT,Meagher County,26010,2015
+1626,"30 , 61",MT,Mineral County,29904,2015
+1627,"30 , 63",MT,Missoula County,36790,2015
+1628,"30 , 65",MT,Musselshell County,27499,2015
+1629,"30 , 67",MT,Park County,32837,2015
+1630,"30 , 69",MT,Petroleum County,23622,2015
+1631,"30 , 71",MT,Phillips County,29472,2015
+1632,"30 , 73",MT,Pondera County,29420,2015
+1633,"30 , 75",MT,Powder River County,28851,2015
+1634,"30 , 77",MT,Powell County,29676,2015
+1635,"30 , 79",MT,Prairie County,28238,2015
+1636,"30 , 81",MT,Ravalli County,34907,2015
+1637,"30 , 83",MT,Richland County,34365,2015
+1638,"30 , 85",MT,Roosevelt County,25677,2015
+1639,"30 , 87",MT,Rosebud County,38696,2015
+1640,"30 , 89",MT,Sanders County,28456,2015
+1641,"30 , 91",MT,Sheridan County,29651,2015
+1642,"30 , 93",MT,Silver Bow County,32263,2015
+1643,"30 , 95",MT,Stillwater County,44890,2015
+1644,"30 , 97",MT,Sweet Grass County,34253,2015
+1645,"30 , 99",MT,Teton County,30928,2015
+1646,"30 , 101",MT,Toole County,29946,2015
+1647,"30 , 103",MT,Treasure County,30961,2015
+1648,"30 , 105",MT,Valley County,32391,2015
+1649,"30 , 107",MT,Wheatland County,23620,2015
+1650,"30 , 109",MT,Wibaux County,29653,2015
+1651,"30 , 111",MT,Yellowstone County,41174,2015
+1596,"30 , 1",MT,Beaverhead County,31605,2016
+1597,"30 , 3",MT,Big Horn County,27719,2016
+1598,"30 , 5",MT,Blaine County,25373,2016
+1599,"30 , 7",MT,Broadwater County,33360,2016
+1600,"30 , 9",MT,Carbon County,34499,2016
+1601,"30 , 11",MT,Carter County,26301,2016
+1602,"30 , 13",MT,Cascade County,34546,2016
+1603,"30 , 15",MT,Chouteau County,28774,2016
+1604,"30 , 17",MT,Custer County,31980,2016
+1605,"30 , 19",MT,Daniels County,28081,2016
+1606,"30 , 21",MT,Dawson County,33900,2016
+1607,"30 , 23",MT,Deer Lodge County,28553,2016
+1608,"30 , 25",MT,Fallon County,35354,2016
+1609,"30 , 27",MT,Fergus County,31612,2016
+1610,"30 , 29",MT,Flathead County,37492,2016
+1611,"30 , 31",MT,Gallatin County,40724,2016
+1612,"30 , 33",MT,Garfield County,28572,2016
+1613,"30 , 35",MT,Glacier County,27129,2016
+1614,"30 , 37",MT,Golden Valley County,24739,2016
+1615,"30 , 39",MT,Granite County,30988,2016
+1616,"30 , 41",MT,Hill County,32365,2016
+1617,"30 , 43",MT,Jefferson County,45407,2016
+1618,"30 , 45",MT,Judith Basin County,27014,2016
+1619,"30 , 47",MT,Lake County,30362,2016
+1620,"30 , 49",MT,Lewis and Clark County,40578,2016
+1621,"30 , 51",MT,Liberty County,28258,2016
+1622,"30 , 53",MT,Lincoln County,29331,2016
+1623,"30 , 55",MT,McCone County,27921,2016
+1624,"30 , 57",MT,Madison County,31856,2016
+1625,"30 , 59",MT,Meagher County,26010,2016
+1626,"30 , 61",MT,Mineral County,29904,2016
+1627,"30 , 63",MT,Missoula County,36790,2016
+1628,"30 , 65",MT,Musselshell County,27499,2016
+1629,"30 , 67",MT,Park County,32837,2016
+1630,"30 , 69",MT,Petroleum County,23622,2016
+1631,"30 , 71",MT,Phillips County,29472,2016
+1632,"30 , 73",MT,Pondera County,29420,2016
+1633,"30 , 75",MT,Powder River County,28851,2016
+1634,"30 , 77",MT,Powell County,29676,2016
+1635,"30 , 79",MT,Prairie County,28238,2016
+1636,"30 , 81",MT,Ravalli County,34907,2016
+1637,"30 , 83",MT,Richland County,34365,2016
+1638,"30 , 85",MT,Roosevelt County,25677,2016
+1639,"30 , 87",MT,Rosebud County,38696,2016
+1640,"30 , 89",MT,Sanders County,28456,2016
+1641,"30 , 91",MT,Sheridan County,29651,2016
+1642,"30 , 93",MT,Silver Bow County,32263,2016
+1643,"30 , 95",MT,Stillwater County,44890,2016
+1644,"30 , 97",MT,Sweet Grass County,34253,2016
+1645,"30 , 99",MT,Teton County,30928,2016
+1646,"30 , 101",MT,Toole County,29946,2016
+1647,"30 , 103",MT,Treasure County,30961,2016
+1648,"30 , 105",MT,Valley County,32391,2016
+1649,"30 , 107",MT,Wheatland County,23620,2016
+1650,"30 , 109",MT,Wibaux County,29653,2016
+1651,"30 , 111",MT,Yellowstone County,41174,2016
+1596,"30 , 1",MT,Beaverhead County,31605,2017
+1597,"30 , 3",MT,Big Horn County,27719,2017
+1598,"30 , 5",MT,Blaine County,25373,2017
+1599,"30 , 7",MT,Broadwater County,33360,2017
+1600,"30 , 9",MT,Carbon County,34499,2017
+1601,"30 , 11",MT,Carter County,26301,2017
+1602,"30 , 13",MT,Cascade County,34546,2017
+1603,"30 , 15",MT,Chouteau County,28774,2017
+1604,"30 , 17",MT,Custer County,31980,2017
+1605,"30 , 19",MT,Daniels County,28081,2017
+1606,"30 , 21",MT,Dawson County,33900,2017
+1607,"30 , 23",MT,Deer Lodge County,28553,2017
+1608,"30 , 25",MT,Fallon County,35354,2017
+1609,"30 , 27",MT,Fergus County,31612,2017
+1610,"30 , 29",MT,Flathead County,37492,2017
+1611,"30 , 31",MT,Gallatin County,40724,2017
+1612,"30 , 33",MT,Garfield County,28572,2017
+1613,"30 , 35",MT,Glacier County,27129,2017
+1614,"30 , 37",MT,Golden Valley County,24739,2017
+1615,"30 , 39",MT,Granite County,30988,2017
+1616,"30 , 41",MT,Hill County,32365,2017
+1617,"30 , 43",MT,Jefferson County,45407,2017
+1618,"30 , 45",MT,Judith Basin County,27014,2017
+1619,"30 , 47",MT,Lake County,30362,2017
+1620,"30 , 49",MT,Lewis and Clark County,40578,2017
+1621,"30 , 51",MT,Liberty County,28258,2017
+1622,"30 , 53",MT,Lincoln County,29331,2017
+1623,"30 , 55",MT,McCone County,27921,2017
+1624,"30 , 57",MT,Madison County,31856,2017
+1625,"30 , 59",MT,Meagher County,26010,2017
+1626,"30 , 61",MT,Mineral County,29904,2017
+1627,"30 , 63",MT,Missoula County,36790,2017
+1628,"30 , 65",MT,Musselshell County,27499,2017
+1629,"30 , 67",MT,Park County,32837,2017
+1630,"30 , 69",MT,Petroleum County,23622,2017
+1631,"30 , 71",MT,Phillips County,29472,2017
+1632,"30 , 73",MT,Pondera County,29420,2017
+1633,"30 , 75",MT,Powder River County,28851,2017
+1634,"30 , 77",MT,Powell County,29676,2017
+1635,"30 , 79",MT,Prairie County,28238,2017
+1636,"30 , 81",MT,Ravalli County,34907,2017
+1637,"30 , 83",MT,Richland County,34365,2017
+1638,"30 , 85",MT,Roosevelt County,25677,2017
+1639,"30 , 87",MT,Rosebud County,38696,2017
+1640,"30 , 89",MT,Sanders County,28456,2017
+1641,"30 , 91",MT,Sheridan County,29651,2017
+1642,"30 , 93",MT,Silver Bow County,32263,2017
+1643,"30 , 95",MT,Stillwater County,44890,2017
+1644,"30 , 97",MT,Sweet Grass County,34253,2017
+1645,"30 , 99",MT,Teton County,30928,2017
+1646,"30 , 101",MT,Toole County,29946,2017
+1647,"30 , 103",MT,Treasure County,30961,2017
+1648,"30 , 105",MT,Valley County,32391,2017
+1649,"30 , 107",MT,Wheatland County,23620,2017
+1650,"30 , 109",MT,Wibaux County,29653,2017
+1651,"30 , 111",MT,Yellowstone County,41174,2017
+1596,"30 , 1",MT,Beaverhead County,31605,2018
+1597,"30 , 3",MT,Big Horn County,27719,2018
+1598,"30 , 5",MT,Blaine County,25373,2018
+1599,"30 , 7",MT,Broadwater County,33360,2018
+1600,"30 , 9",MT,Carbon County,34499,2018
+1601,"30 , 11",MT,Carter County,26301,2018
+1602,"30 , 13",MT,Cascade County,34546,2018
+1603,"30 , 15",MT,Chouteau County,28774,2018
+1604,"30 , 17",MT,Custer County,31980,2018
+1605,"30 , 19",MT,Daniels County,28081,2018
+1606,"30 , 21",MT,Dawson County,33900,2018
+1607,"30 , 23",MT,Deer Lodge County,28553,2018
+1608,"30 , 25",MT,Fallon County,35354,2018
+1609,"30 , 27",MT,Fergus County,31612,2018
+1610,"30 , 29",MT,Flathead County,37492,2018
+1611,"30 , 31",MT,Gallatin County,40724,2018
+1612,"30 , 33",MT,Garfield County,28572,2018
+1613,"30 , 35",MT,Glacier County,27129,2018
+1614,"30 , 37",MT,Golden Valley County,24739,2018
+1615,"30 , 39",MT,Granite County,30988,2018
+1616,"30 , 41",MT,Hill County,32365,2018
+1617,"30 , 43",MT,Jefferson County,45407,2018
+1618,"30 , 45",MT,Judith Basin County,27014,2018
+1619,"30 , 47",MT,Lake County,30362,2018
+1620,"30 , 49",MT,Lewis and Clark County,40578,2018
+1621,"30 , 51",MT,Liberty County,28258,2018
+1622,"30 , 53",MT,Lincoln County,29331,2018
+1623,"30 , 55",MT,McCone County,27921,2018
+1624,"30 , 57",MT,Madison County,31856,2018
+1625,"30 , 59",MT,Meagher County,26010,2018
+1626,"30 , 61",MT,Mineral County,29904,2018
+1627,"30 , 63",MT,Missoula County,36790,2018
+1628,"30 , 65",MT,Musselshell County,27499,2018
+1629,"30 , 67",MT,Park County,32837,2018
+1630,"30 , 69",MT,Petroleum County,23622,2018
+1631,"30 , 71",MT,Phillips County,29472,2018
+1632,"30 , 73",MT,Pondera County,29420,2018
+1633,"30 , 75",MT,Powder River County,28851,2018
+1634,"30 , 77",MT,Powell County,29676,2018
+1635,"30 , 79",MT,Prairie County,28238,2018
+1636,"30 , 81",MT,Ravalli County,34907,2018
+1637,"30 , 83",MT,Richland County,34365,2018
+1638,"30 , 85",MT,Roosevelt County,25677,2018
+1639,"30 , 87",MT,Rosebud County,38696,2018
+1640,"30 , 89",MT,Sanders County,28456,2018
+1641,"30 , 91",MT,Sheridan County,29651,2018
+1642,"30 , 93",MT,Silver Bow County,32263,2018
+1643,"30 , 95",MT,Stillwater County,44890,2018
+1644,"30 , 97",MT,Sweet Grass County,34253,2018
+1645,"30 , 99",MT,Teton County,30928,2018
+1646,"30 , 101",MT,Toole County,29946,2018
+1647,"30 , 103",MT,Treasure County,30961,2018
+1648,"30 , 105",MT,Valley County,32391,2018
+1649,"30 , 107",MT,Wheatland County,23620,2018
+1650,"30 , 109",MT,Wibaux County,29653,2018
+1651,"30 , 111",MT,Yellowstone County,41174,2018

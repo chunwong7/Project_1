@@ -1,2145 +1,2145 @@
-State County FIPS,Postal Code,Name,Median Household Income,Year
-"51 , 1",VA,Accomack County,30063,2003
-"51 , 3",VA,Albemarle County,53104,2003
-"51 , 5",VA,Alleghany County,37349,2003
-"51 , 7",VA,Amelia County,42591,2003
-"51 , 9",VA,Amherst County,37549,2003
-"51 , 11",VA,Appomattox County,36939,2003
-"51 , 13",VA,Arlington County,67161,2003
-"51 , 15",VA,Augusta County,45434,2003
-"51 , 17",VA,Bath County,36523,2003
-"51 , 19",VA,Bedford County,47263,2003
-"51 , 21",VA,Bland County,32742,2003
-"51 , 23",VA,Botetourt County,52094,2003
-"51 , 25",VA,Brunswick County,30503,2003
-"51 , 27",VA,Buchanan County,24427,2003
-"51 , 29",VA,Buckingham County,30610,2003
-"51 , 31",VA,Campbell County,38606,2003
-"51 , 33",VA,Caroline County,41640,2003
-"51 , 35",VA,Carroll County,31850,2003
-"51 , 36",VA,Charles City County,43275,2003
-"51 , 37",VA,Charlotte County,30276,2003
-"51 , 41",VA,Chesterfield County,61907,2003
-"51 , 43",VA,Clarke County,53777,2003
-"51 , 45",VA,Craig County,38869,2003
-"51 , 47",VA,Culpeper County,50162,2003
-"51 , 49",VA,Cumberland County,33700,2003
-"51 , 51",VA,Dickenson County,25479,2003
-"51 , 53",VA,Dinwiddie County,42123,2003
-"51 , 57",VA,Essex County,37239,2003
-"51 , 59",VA,Fairfax County,82648,2003
-"51 , 61",VA,Fauquier County,68140,2003
-"51 , 63",VA,Floyd County,35073,2003
-"51 , 65",VA,Fluvanna County,49274,2003
-"51 , 67",VA,Franklin County,39049,2003
-"51 , 69",VA,Frederick County,52722,2003
-"51 , 71",VA,Giles County,35816,2003
-"51 , 73",VA,Gloucester County,47211,2003
-"51 , 75",VA,Goochland County,61142,2003
-"51 , 77",VA,Grayson County,29386,2003
-"51 , 79",VA,Greene County,49974,2003
-"51 , 81",VA,Greensville County,30049,2003
-"51 , 83",VA,Halifax County,30119,2003
-"51 , 85",VA,Hanover County,65423,2003
-"51 , 87",VA,Henrico County,51201,2003
-"51 , 89",VA,Henry County,31360,2003
-"51 , 91",VA,Highland County,31219,2003
-"51 , 93",VA,Isle of Wight County,49437,2003
-"51 , 95",VA,James City County,62326,2003
-"51 , 97",VA,King and Queen County,36367,2003
-"51 , 99",VA,King George County,57322,2003
-"51 , 101",VA,King William County,52899,2003
-"51 , 103",VA,Lancaster County,36077,2003
-"51 , 105",VA,Lee County,25067,2003
-"51 , 107",VA,Loudoun County,90122,2003
-"51 , 109",VA,Louisa County,43127,2003
-"51 , 111",VA,Lunenburg County,28713,2003
-"51 , 113",VA,Madison County,41005,2003
-"51 , 115",VA,Mathews County,44729,2003
-"51 , 117",VA,Mecklenburg County,30881,2003
-"51 , 119",VA,Middlesex County,38636,2003
-"51 , 121",VA,Montgomery County,34603,2003
-"51 , 125",VA,Nelson County,38719,2003
-"51 , 127",VA,New Kent County,58204,2003
-"51 , 131",VA,Northampton County,29526,2003
-"51 , 133",VA,Northumberland County,38036,2003
-"51 , 135",VA,Nottoway County,31021,2003
-"51 , 137",VA,Orange County,46169,2003
-"51 , 139",VA,Page County,34509,2003
-"51 , 141",VA,Patrick County,29958,2003
-"51 , 143",VA,Pittsylvania County,36029,2003
-"51 , 145",VA,Powhatan County,57458,2003
-"51 , 147",VA,Prince Edward County,29573,2003
-"51 , 149",VA,Prince George County,49503,2003
-"51 , 153",VA,Prince William County,72977,2003
-"51 , 155",VA,Pulaski County,35694,2003
-"51 , 157",VA,Rappahannock County,50132,2003
-"51 , 159",VA,Richmond County,33002,2003
-"51 , 161",VA,Roanoke County,50351,2003
-"51 , 163",VA,Rockbridge County,37877,2003
-"51 , 165",VA,Rockingham County,43727,2003
-"51 , 167",VA,Russell County,28943,2003
-"51 , 169",VA,Scott County,30199,2003
-"51 , 171",VA,Shenandoah County,41872,2003
-"51 , 173",VA,Smyth County,31645,2003
-"51 , 175",VA,Southampton County,35349,2003
-"51 , 177",VA,Spotsylvania County,65411,2003
-"51 , 179",VA,Stafford County,75556,2003
-"51 , 181",VA,Surry County,38420,2003
-"51 , 183",VA,Sussex County,30302,2003
-"51 , 185",VA,Tazewell County,29427,2003
-"51 , 187",VA,Warren County,46765,2003
-"51 , 191",VA,Washington County,35833,2003
-"51 , 193",VA,Westmoreland County,36210,2003
-"51 , 195",VA,Wise County,28737,2003
-"51 , 197",VA,Wythe County,33262,2003
-"51 , 199",VA,York County,65397,2003
-"51 , 510",VA,Alexandria city,59344,2003
-"51 , 515",VA,Bedford city,30715,2003
-"51 , 520",VA,Bristol city,29112,2003
-"51 , 530",VA,Buena Vista city,33818,2003
-"51 , 540",VA,Charlottesville city,31363,2003
-"51 , 550",VA,Chesapeake city,54067,2003
-"51 , 570",VA,Colonial Heights city,43765,2003
-"51 , 580",VA,Covington city,31688,2003
-"51 , 590",VA,Danville city,27082,2003
-"51 , 595",VA,Emporia city,29388,2003
-"51 , 600",VA,Fairfax city,67166,2003
-"51 , 610",VA,Falls Church city,79421,2003
-"51 , 620",VA,Franklin city,31910,2003
-"51 , 630",VA,Fredericksburg city,36636,2003
-"51 , 640",VA,Galax city,28381,2003
-"51 , 650",VA,Hampton city,39882,2003
-"51 , 660",VA,Harrisonburg city,31057,2003
-"51 , 670",VA,Hopewell city,32845,2003
-"51 , 678",VA,Lexington city,31139,2003
-"51 , 680",VA,Lynchburg city,31973,2003
-"51 , 683",VA,Manassas city,61387,2003
-"51 , 685",VA,Manassas Park city,62637,2003
-"51 , 690",VA,Martinsville city,27736,2003
-"51 , 700",VA,Newport News city,38406,2003
-"51 , 710",VA,Norfolk city,32026,2003
-"51 , 720",VA,Norton city,27135,2003
-"51 , 730",VA,Petersburg city,28558,2003
-"51 , 735",VA,Poquoson city,67765,2003
-"51 , 740",VA,Portsmouth city,34523,2003
-"51 , 750",VA,Radford city,27040,2003
-"51 , 760",VA,Richmond city,31730,2003
-"51 , 770",VA,Roanoke city,31523,2003
-"51 , 775",VA,Salem city,40439,2003
-"51 , 790",VA,Staunton city,33921,2003
-"51 , 800",VA,Suffolk city,46416,2003
-"51 , 810",VA,Virginia Beach city,50361,2003
-"51 , 820",VA,Waynesboro city,34384,2003
-"51 , 830",VA,Williamsburg city,34623,2003
-"51 , 840",VA,Winchester city,37276,2003
-"51 , 1",VA,Accomack County,30063,2004
-"51 , 3",VA,Albemarle County,53104,2004
-"51 , 5",VA,Alleghany County,37349,2004
-"51 , 7",VA,Amelia County,42591,2004
-"51 , 9",VA,Amherst County,37549,2004
-"51 , 11",VA,Appomattox County,36939,2004
-"51 , 13",VA,Arlington County,67161,2004
-"51 , 15",VA,Augusta County,45434,2004
-"51 , 17",VA,Bath County,36523,2004
-"51 , 19",VA,Bedford County,47263,2004
-"51 , 21",VA,Bland County,32742,2004
-"51 , 23",VA,Botetourt County,52094,2004
-"51 , 25",VA,Brunswick County,30503,2004
-"51 , 27",VA,Buchanan County,24427,2004
-"51 , 29",VA,Buckingham County,30610,2004
-"51 , 31",VA,Campbell County,38606,2004
-"51 , 33",VA,Caroline County,41640,2004
-"51 , 35",VA,Carroll County,31850,2004
-"51 , 36",VA,Charles City County,43275,2004
-"51 , 37",VA,Charlotte County,30276,2004
-"51 , 41",VA,Chesterfield County,61907,2004
-"51 , 43",VA,Clarke County,53777,2004
-"51 , 45",VA,Craig County,38869,2004
-"51 , 47",VA,Culpeper County,50162,2004
-"51 , 49",VA,Cumberland County,33700,2004
-"51 , 51",VA,Dickenson County,25479,2004
-"51 , 53",VA,Dinwiddie County,42123,2004
-"51 , 57",VA,Essex County,37239,2004
-"51 , 59",VA,Fairfax County,82648,2004
-"51 , 61",VA,Fauquier County,68140,2004
-"51 , 63",VA,Floyd County,35073,2004
-"51 , 65",VA,Fluvanna County,49274,2004
-"51 , 67",VA,Franklin County,39049,2004
-"51 , 69",VA,Frederick County,52722,2004
-"51 , 71",VA,Giles County,35816,2004
-"51 , 73",VA,Gloucester County,47211,2004
-"51 , 75",VA,Goochland County,61142,2004
-"51 , 77",VA,Grayson County,29386,2004
-"51 , 79",VA,Greene County,49974,2004
-"51 , 81",VA,Greensville County,30049,2004
-"51 , 83",VA,Halifax County,30119,2004
-"51 , 85",VA,Hanover County,65423,2004
-"51 , 87",VA,Henrico County,51201,2004
-"51 , 89",VA,Henry County,31360,2004
-"51 , 91",VA,Highland County,31219,2004
-"51 , 93",VA,Isle of Wight County,49437,2004
-"51 , 95",VA,James City County,62326,2004
-"51 , 97",VA,King and Queen County,36367,2004
-"51 , 99",VA,King George County,57322,2004
-"51 , 101",VA,King William County,52899,2004
-"51 , 103",VA,Lancaster County,36077,2004
-"51 , 105",VA,Lee County,25067,2004
-"51 , 107",VA,Loudoun County,90122,2004
-"51 , 109",VA,Louisa County,43127,2004
-"51 , 111",VA,Lunenburg County,28713,2004
-"51 , 113",VA,Madison County,41005,2004
-"51 , 115",VA,Mathews County,44729,2004
-"51 , 117",VA,Mecklenburg County,30881,2004
-"51 , 119",VA,Middlesex County,38636,2004
-"51 , 121",VA,Montgomery County,34603,2004
-"51 , 125",VA,Nelson County,38719,2004
-"51 , 127",VA,New Kent County,58204,2004
-"51 , 131",VA,Northampton County,29526,2004
-"51 , 133",VA,Northumberland County,38036,2004
-"51 , 135",VA,Nottoway County,31021,2004
-"51 , 137",VA,Orange County,46169,2004
-"51 , 139",VA,Page County,34509,2004
-"51 , 141",VA,Patrick County,29958,2004
-"51 , 143",VA,Pittsylvania County,36029,2004
-"51 , 145",VA,Powhatan County,57458,2004
-"51 , 147",VA,Prince Edward County,29573,2004
-"51 , 149",VA,Prince George County,49503,2004
-"51 , 153",VA,Prince William County,72977,2004
-"51 , 155",VA,Pulaski County,35694,2004
-"51 , 157",VA,Rappahannock County,50132,2004
-"51 , 159",VA,Richmond County,33002,2004
-"51 , 161",VA,Roanoke County,50351,2004
-"51 , 163",VA,Rockbridge County,37877,2004
-"51 , 165",VA,Rockingham County,43727,2004
-"51 , 167",VA,Russell County,28943,2004
-"51 , 169",VA,Scott County,30199,2004
-"51 , 171",VA,Shenandoah County,41872,2004
-"51 , 173",VA,Smyth County,31645,2004
-"51 , 175",VA,Southampton County,35349,2004
-"51 , 177",VA,Spotsylvania County,65411,2004
-"51 , 179",VA,Stafford County,75556,2004
-"51 , 181",VA,Surry County,38420,2004
-"51 , 183",VA,Sussex County,30302,2004
-"51 , 185",VA,Tazewell County,29427,2004
-"51 , 187",VA,Warren County,46765,2004
-"51 , 191",VA,Washington County,35833,2004
-"51 , 193",VA,Westmoreland County,36210,2004
-"51 , 195",VA,Wise County,28737,2004
-"51 , 197",VA,Wythe County,33262,2004
-"51 , 199",VA,York County,65397,2004
-"51 , 510",VA,Alexandria city,59344,2004
-"51 , 515",VA,Bedford city,30715,2004
-"51 , 520",VA,Bristol city,29112,2004
-"51 , 530",VA,Buena Vista city,33818,2004
-"51 , 540",VA,Charlottesville city,31363,2004
-"51 , 550",VA,Chesapeake city,54067,2004
-"51 , 570",VA,Colonial Heights city,43765,2004
-"51 , 580",VA,Covington city,31688,2004
-"51 , 590",VA,Danville city,27082,2004
-"51 , 595",VA,Emporia city,29388,2004
-"51 , 600",VA,Fairfax city,67166,2004
-"51 , 610",VA,Falls Church city,79421,2004
-"51 , 620",VA,Franklin city,31910,2004
-"51 , 630",VA,Fredericksburg city,36636,2004
-"51 , 640",VA,Galax city,28381,2004
-"51 , 650",VA,Hampton city,39882,2004
-"51 , 660",VA,Harrisonburg city,31057,2004
-"51 , 670",VA,Hopewell city,32845,2004
-"51 , 678",VA,Lexington city,31139,2004
-"51 , 680",VA,Lynchburg city,31973,2004
-"51 , 683",VA,Manassas city,61387,2004
-"51 , 685",VA,Manassas Park city,62637,2004
-"51 , 690",VA,Martinsville city,27736,2004
-"51 , 700",VA,Newport News city,38406,2004
-"51 , 710",VA,Norfolk city,32026,2004
-"51 , 720",VA,Norton city,27135,2004
-"51 , 730",VA,Petersburg city,28558,2004
-"51 , 735",VA,Poquoson city,67765,2004
-"51 , 740",VA,Portsmouth city,34523,2004
-"51 , 750",VA,Radford city,27040,2004
-"51 , 760",VA,Richmond city,31730,2004
-"51 , 770",VA,Roanoke city,31523,2004
-"51 , 775",VA,Salem city,40439,2004
-"51 , 790",VA,Staunton city,33921,2004
-"51 , 800",VA,Suffolk city,46416,2004
-"51 , 810",VA,Virginia Beach city,50361,2004
-"51 , 820",VA,Waynesboro city,34384,2004
-"51 , 830",VA,Williamsburg city,34623,2004
-"51 , 840",VA,Winchester city,37276,2004
-"51 , 1",VA,Accomack County,30063,2005
-"51 , 3",VA,Albemarle County,53104,2005
-"51 , 5",VA,Alleghany County,37349,2005
-"51 , 7",VA,Amelia County,42591,2005
-"51 , 9",VA,Amherst County,37549,2005
-"51 , 11",VA,Appomattox County,36939,2005
-"51 , 13",VA,Arlington County,67161,2005
-"51 , 15",VA,Augusta County,45434,2005
-"51 , 17",VA,Bath County,36523,2005
-"51 , 19",VA,Bedford County,47263,2005
-"51 , 21",VA,Bland County,32742,2005
-"51 , 23",VA,Botetourt County,52094,2005
-"51 , 25",VA,Brunswick County,30503,2005
-"51 , 27",VA,Buchanan County,24427,2005
-"51 , 29",VA,Buckingham County,30610,2005
-"51 , 31",VA,Campbell County,38606,2005
-"51 , 33",VA,Caroline County,41640,2005
-"51 , 35",VA,Carroll County,31850,2005
-"51 , 36",VA,Charles City County,43275,2005
-"51 , 37",VA,Charlotte County,30276,2005
-"51 , 41",VA,Chesterfield County,61907,2005
-"51 , 43",VA,Clarke County,53777,2005
-"51 , 45",VA,Craig County,38869,2005
-"51 , 47",VA,Culpeper County,50162,2005
-"51 , 49",VA,Cumberland County,33700,2005
-"51 , 51",VA,Dickenson County,25479,2005
-"51 , 53",VA,Dinwiddie County,42123,2005
-"51 , 57",VA,Essex County,37239,2005
-"51 , 59",VA,Fairfax County,82648,2005
-"51 , 61",VA,Fauquier County,68140,2005
-"51 , 63",VA,Floyd County,35073,2005
-"51 , 65",VA,Fluvanna County,49274,2005
-"51 , 67",VA,Franklin County,39049,2005
-"51 , 69",VA,Frederick County,52722,2005
-"51 , 71",VA,Giles County,35816,2005
-"51 , 73",VA,Gloucester County,47211,2005
-"51 , 75",VA,Goochland County,61142,2005
-"51 , 77",VA,Grayson County,29386,2005
-"51 , 79",VA,Greene County,49974,2005
-"51 , 81",VA,Greensville County,30049,2005
-"51 , 83",VA,Halifax County,30119,2005
-"51 , 85",VA,Hanover County,65423,2005
-"51 , 87",VA,Henrico County,51201,2005
-"51 , 89",VA,Henry County,31360,2005
-"51 , 91",VA,Highland County,31219,2005
-"51 , 93",VA,Isle of Wight County,49437,2005
-"51 , 95",VA,James City County,62326,2005
-"51 , 97",VA,King and Queen County,36367,2005
-"51 , 99",VA,King George County,57322,2005
-"51 , 101",VA,King William County,52899,2005
-"51 , 103",VA,Lancaster County,36077,2005
-"51 , 105",VA,Lee County,25067,2005
-"51 , 107",VA,Loudoun County,90122,2005
-"51 , 109",VA,Louisa County,43127,2005
-"51 , 111",VA,Lunenburg County,28713,2005
-"51 , 113",VA,Madison County,41005,2005
-"51 , 115",VA,Mathews County,44729,2005
-"51 , 117",VA,Mecklenburg County,30881,2005
-"51 , 119",VA,Middlesex County,38636,2005
-"51 , 121",VA,Montgomery County,34603,2005
-"51 , 125",VA,Nelson County,38719,2005
-"51 , 127",VA,New Kent County,58204,2005
-"51 , 131",VA,Northampton County,29526,2005
-"51 , 133",VA,Northumberland County,38036,2005
-"51 , 135",VA,Nottoway County,31021,2005
-"51 , 137",VA,Orange County,46169,2005
-"51 , 139",VA,Page County,34509,2005
-"51 , 141",VA,Patrick County,29958,2005
-"51 , 143",VA,Pittsylvania County,36029,2005
-"51 , 145",VA,Powhatan County,57458,2005
-"51 , 147",VA,Prince Edward County,29573,2005
-"51 , 149",VA,Prince George County,49503,2005
-"51 , 153",VA,Prince William County,72977,2005
-"51 , 155",VA,Pulaski County,35694,2005
-"51 , 157",VA,Rappahannock County,50132,2005
-"51 , 159",VA,Richmond County,33002,2005
-"51 , 161",VA,Roanoke County,50351,2005
-"51 , 163",VA,Rockbridge County,37877,2005
-"51 , 165",VA,Rockingham County,43727,2005
-"51 , 167",VA,Russell County,28943,2005
-"51 , 169",VA,Scott County,30199,2005
-"51 , 171",VA,Shenandoah County,41872,2005
-"51 , 173",VA,Smyth County,31645,2005
-"51 , 175",VA,Southampton County,35349,2005
-"51 , 177",VA,Spotsylvania County,65411,2005
-"51 , 179",VA,Stafford County,75556,2005
-"51 , 181",VA,Surry County,38420,2005
-"51 , 183",VA,Sussex County,30302,2005
-"51 , 185",VA,Tazewell County,29427,2005
-"51 , 187",VA,Warren County,46765,2005
-"51 , 191",VA,Washington County,35833,2005
-"51 , 193",VA,Westmoreland County,36210,2005
-"51 , 195",VA,Wise County,28737,2005
-"51 , 197",VA,Wythe County,33262,2005
-"51 , 199",VA,York County,65397,2005
-"51 , 510",VA,Alexandria city,59344,2005
-"51 , 515",VA,Bedford city,30715,2005
-"51 , 520",VA,Bristol city,29112,2005
-"51 , 530",VA,Buena Vista city,33818,2005
-"51 , 540",VA,Charlottesville city,31363,2005
-"51 , 550",VA,Chesapeake city,54067,2005
-"51 , 570",VA,Colonial Heights city,43765,2005
-"51 , 580",VA,Covington city,31688,2005
-"51 , 590",VA,Danville city,27082,2005
-"51 , 595",VA,Emporia city,29388,2005
-"51 , 600",VA,Fairfax city,67166,2005
-"51 , 610",VA,Falls Church city,79421,2005
-"51 , 620",VA,Franklin city,31910,2005
-"51 , 630",VA,Fredericksburg city,36636,2005
-"51 , 640",VA,Galax city,28381,2005
-"51 , 650",VA,Hampton city,39882,2005
-"51 , 660",VA,Harrisonburg city,31057,2005
-"51 , 670",VA,Hopewell city,32845,2005
-"51 , 678",VA,Lexington city,31139,2005
-"51 , 680",VA,Lynchburg city,31973,2005
-"51 , 683",VA,Manassas city,61387,2005
-"51 , 685",VA,Manassas Park city,62637,2005
-"51 , 690",VA,Martinsville city,27736,2005
-"51 , 700",VA,Newport News city,38406,2005
-"51 , 710",VA,Norfolk city,32026,2005
-"51 , 720",VA,Norton city,27135,2005
-"51 , 730",VA,Petersburg city,28558,2005
-"51 , 735",VA,Poquoson city,67765,2005
-"51 , 740",VA,Portsmouth city,34523,2005
-"51 , 750",VA,Radford city,27040,2005
-"51 , 760",VA,Richmond city,31730,2005
-"51 , 770",VA,Roanoke city,31523,2005
-"51 , 775",VA,Salem city,40439,2005
-"51 , 790",VA,Staunton city,33921,2005
-"51 , 800",VA,Suffolk city,46416,2005
-"51 , 810",VA,Virginia Beach city,50361,2005
-"51 , 820",VA,Waynesboro city,34384,2005
-"51 , 830",VA,Williamsburg city,34623,2005
-"51 , 840",VA,Winchester city,37276,2005
-"51 , 1",VA,Accomack County,30063,2006
-"51 , 3",VA,Albemarle County,53104,2006
-"51 , 5",VA,Alleghany County,37349,2006
-"51 , 7",VA,Amelia County,42591,2006
-"51 , 9",VA,Amherst County,37549,2006
-"51 , 11",VA,Appomattox County,36939,2006
-"51 , 13",VA,Arlington County,67161,2006
-"51 , 15",VA,Augusta County,45434,2006
-"51 , 17",VA,Bath County,36523,2006
-"51 , 19",VA,Bedford County,47263,2006
-"51 , 21",VA,Bland County,32742,2006
-"51 , 23",VA,Botetourt County,52094,2006
-"51 , 25",VA,Brunswick County,30503,2006
-"51 , 27",VA,Buchanan County,24427,2006
-"51 , 29",VA,Buckingham County,30610,2006
-"51 , 31",VA,Campbell County,38606,2006
-"51 , 33",VA,Caroline County,41640,2006
-"51 , 35",VA,Carroll County,31850,2006
-"51 , 36",VA,Charles City County,43275,2006
-"51 , 37",VA,Charlotte County,30276,2006
-"51 , 41",VA,Chesterfield County,61907,2006
-"51 , 43",VA,Clarke County,53777,2006
-"51 , 45",VA,Craig County,38869,2006
-"51 , 47",VA,Culpeper County,50162,2006
-"51 , 49",VA,Cumberland County,33700,2006
-"51 , 51",VA,Dickenson County,25479,2006
-"51 , 53",VA,Dinwiddie County,42123,2006
-"51 , 57",VA,Essex County,37239,2006
-"51 , 59",VA,Fairfax County,82648,2006
-"51 , 61",VA,Fauquier County,68140,2006
-"51 , 63",VA,Floyd County,35073,2006
-"51 , 65",VA,Fluvanna County,49274,2006
-"51 , 67",VA,Franklin County,39049,2006
-"51 , 69",VA,Frederick County,52722,2006
-"51 , 71",VA,Giles County,35816,2006
-"51 , 73",VA,Gloucester County,47211,2006
-"51 , 75",VA,Goochland County,61142,2006
-"51 , 77",VA,Grayson County,29386,2006
-"51 , 79",VA,Greene County,49974,2006
-"51 , 81",VA,Greensville County,30049,2006
-"51 , 83",VA,Halifax County,30119,2006
-"51 , 85",VA,Hanover County,65423,2006
-"51 , 87",VA,Henrico County,51201,2006
-"51 , 89",VA,Henry County,31360,2006
-"51 , 91",VA,Highland County,31219,2006
-"51 , 93",VA,Isle of Wight County,49437,2006
-"51 , 95",VA,James City County,62326,2006
-"51 , 97",VA,King and Queen County,36367,2006
-"51 , 99",VA,King George County,57322,2006
-"51 , 101",VA,King William County,52899,2006
-"51 , 103",VA,Lancaster County,36077,2006
-"51 , 105",VA,Lee County,25067,2006
-"51 , 107",VA,Loudoun County,90122,2006
-"51 , 109",VA,Louisa County,43127,2006
-"51 , 111",VA,Lunenburg County,28713,2006
-"51 , 113",VA,Madison County,41005,2006
-"51 , 115",VA,Mathews County,44729,2006
-"51 , 117",VA,Mecklenburg County,30881,2006
-"51 , 119",VA,Middlesex County,38636,2006
-"51 , 121",VA,Montgomery County,34603,2006
-"51 , 125",VA,Nelson County,38719,2006
-"51 , 127",VA,New Kent County,58204,2006
-"51 , 131",VA,Northampton County,29526,2006
-"51 , 133",VA,Northumberland County,38036,2006
-"51 , 135",VA,Nottoway County,31021,2006
-"51 , 137",VA,Orange County,46169,2006
-"51 , 139",VA,Page County,34509,2006
-"51 , 141",VA,Patrick County,29958,2006
-"51 , 143",VA,Pittsylvania County,36029,2006
-"51 , 145",VA,Powhatan County,57458,2006
-"51 , 147",VA,Prince Edward County,29573,2006
-"51 , 149",VA,Prince George County,49503,2006
-"51 , 153",VA,Prince William County,72977,2006
-"51 , 155",VA,Pulaski County,35694,2006
-"51 , 157",VA,Rappahannock County,50132,2006
-"51 , 159",VA,Richmond County,33002,2006
-"51 , 161",VA,Roanoke County,50351,2006
-"51 , 163",VA,Rockbridge County,37877,2006
-"51 , 165",VA,Rockingham County,43727,2006
-"51 , 167",VA,Russell County,28943,2006
-"51 , 169",VA,Scott County,30199,2006
-"51 , 171",VA,Shenandoah County,41872,2006
-"51 , 173",VA,Smyth County,31645,2006
-"51 , 175",VA,Southampton County,35349,2006
-"51 , 177",VA,Spotsylvania County,65411,2006
-"51 , 179",VA,Stafford County,75556,2006
-"51 , 181",VA,Surry County,38420,2006
-"51 , 183",VA,Sussex County,30302,2006
-"51 , 185",VA,Tazewell County,29427,2006
-"51 , 187",VA,Warren County,46765,2006
-"51 , 191",VA,Washington County,35833,2006
-"51 , 193",VA,Westmoreland County,36210,2006
-"51 , 195",VA,Wise County,28737,2006
-"51 , 197",VA,Wythe County,33262,2006
-"51 , 199",VA,York County,65397,2006
-"51 , 510",VA,Alexandria city,59344,2006
-"51 , 515",VA,Bedford city,30715,2006
-"51 , 520",VA,Bristol city,29112,2006
-"51 , 530",VA,Buena Vista city,33818,2006
-"51 , 540",VA,Charlottesville city,31363,2006
-"51 , 550",VA,Chesapeake city,54067,2006
-"51 , 570",VA,Colonial Heights city,43765,2006
-"51 , 580",VA,Covington city,31688,2006
-"51 , 590",VA,Danville city,27082,2006
-"51 , 595",VA,Emporia city,29388,2006
-"51 , 600",VA,Fairfax city,67166,2006
-"51 , 610",VA,Falls Church city,79421,2006
-"51 , 620",VA,Franklin city,31910,2006
-"51 , 630",VA,Fredericksburg city,36636,2006
-"51 , 640",VA,Galax city,28381,2006
-"51 , 650",VA,Hampton city,39882,2006
-"51 , 660",VA,Harrisonburg city,31057,2006
-"51 , 670",VA,Hopewell city,32845,2006
-"51 , 678",VA,Lexington city,31139,2006
-"51 , 680",VA,Lynchburg city,31973,2006
-"51 , 683",VA,Manassas city,61387,2006
-"51 , 685",VA,Manassas Park city,62637,2006
-"51 , 690",VA,Martinsville city,27736,2006
-"51 , 700",VA,Newport News city,38406,2006
-"51 , 710",VA,Norfolk city,32026,2006
-"51 , 720",VA,Norton city,27135,2006
-"51 , 730",VA,Petersburg city,28558,2006
-"51 , 735",VA,Poquoson city,67765,2006
-"51 , 740",VA,Portsmouth city,34523,2006
-"51 , 750",VA,Radford city,27040,2006
-"51 , 760",VA,Richmond city,31730,2006
-"51 , 770",VA,Roanoke city,31523,2006
-"51 , 775",VA,Salem city,40439,2006
-"51 , 790",VA,Staunton city,33921,2006
-"51 , 800",VA,Suffolk city,46416,2006
-"51 , 810",VA,Virginia Beach city,50361,2006
-"51 , 820",VA,Waynesboro city,34384,2006
-"51 , 830",VA,Williamsburg city,34623,2006
-"51 , 840",VA,Winchester city,37276,2006
-"51 , 1",VA,Accomack County,30063,2007
-"51 , 3",VA,Albemarle County,53104,2007
-"51 , 5",VA,Alleghany County,37349,2007
-"51 , 7",VA,Amelia County,42591,2007
-"51 , 9",VA,Amherst County,37549,2007
-"51 , 11",VA,Appomattox County,36939,2007
-"51 , 13",VA,Arlington County,67161,2007
-"51 , 15",VA,Augusta County,45434,2007
-"51 , 17",VA,Bath County,36523,2007
-"51 , 19",VA,Bedford County,47263,2007
-"51 , 21",VA,Bland County,32742,2007
-"51 , 23",VA,Botetourt County,52094,2007
-"51 , 25",VA,Brunswick County,30503,2007
-"51 , 27",VA,Buchanan County,24427,2007
-"51 , 29",VA,Buckingham County,30610,2007
-"51 , 31",VA,Campbell County,38606,2007
-"51 , 33",VA,Caroline County,41640,2007
-"51 , 35",VA,Carroll County,31850,2007
-"51 , 36",VA,Charles City County,43275,2007
-"51 , 37",VA,Charlotte County,30276,2007
-"51 , 41",VA,Chesterfield County,61907,2007
-"51 , 43",VA,Clarke County,53777,2007
-"51 , 45",VA,Craig County,38869,2007
-"51 , 47",VA,Culpeper County,50162,2007
-"51 , 49",VA,Cumberland County,33700,2007
-"51 , 51",VA,Dickenson County,25479,2007
-"51 , 53",VA,Dinwiddie County,42123,2007
-"51 , 57",VA,Essex County,37239,2007
-"51 , 59",VA,Fairfax County,82648,2007
-"51 , 61",VA,Fauquier County,68140,2007
-"51 , 63",VA,Floyd County,35073,2007
-"51 , 65",VA,Fluvanna County,49274,2007
-"51 , 67",VA,Franklin County,39049,2007
-"51 , 69",VA,Frederick County,52722,2007
-"51 , 71",VA,Giles County,35816,2007
-"51 , 73",VA,Gloucester County,47211,2007
-"51 , 75",VA,Goochland County,61142,2007
-"51 , 77",VA,Grayson County,29386,2007
-"51 , 79",VA,Greene County,49974,2007
-"51 , 81",VA,Greensville County,30049,2007
-"51 , 83",VA,Halifax County,30119,2007
-"51 , 85",VA,Hanover County,65423,2007
-"51 , 87",VA,Henrico County,51201,2007
-"51 , 89",VA,Henry County,31360,2007
-"51 , 91",VA,Highland County,31219,2007
-"51 , 93",VA,Isle of Wight County,49437,2007
-"51 , 95",VA,James City County,62326,2007
-"51 , 97",VA,King and Queen County,36367,2007
-"51 , 99",VA,King George County,57322,2007
-"51 , 101",VA,King William County,52899,2007
-"51 , 103",VA,Lancaster County,36077,2007
-"51 , 105",VA,Lee County,25067,2007
-"51 , 107",VA,Loudoun County,90122,2007
-"51 , 109",VA,Louisa County,43127,2007
-"51 , 111",VA,Lunenburg County,28713,2007
-"51 , 113",VA,Madison County,41005,2007
-"51 , 115",VA,Mathews County,44729,2007
-"51 , 117",VA,Mecklenburg County,30881,2007
-"51 , 119",VA,Middlesex County,38636,2007
-"51 , 121",VA,Montgomery County,34603,2007
-"51 , 125",VA,Nelson County,38719,2007
-"51 , 127",VA,New Kent County,58204,2007
-"51 , 131",VA,Northampton County,29526,2007
-"51 , 133",VA,Northumberland County,38036,2007
-"51 , 135",VA,Nottoway County,31021,2007
-"51 , 137",VA,Orange County,46169,2007
-"51 , 139",VA,Page County,34509,2007
-"51 , 141",VA,Patrick County,29958,2007
-"51 , 143",VA,Pittsylvania County,36029,2007
-"51 , 145",VA,Powhatan County,57458,2007
-"51 , 147",VA,Prince Edward County,29573,2007
-"51 , 149",VA,Prince George County,49503,2007
-"51 , 153",VA,Prince William County,72977,2007
-"51 , 155",VA,Pulaski County,35694,2007
-"51 , 157",VA,Rappahannock County,50132,2007
-"51 , 159",VA,Richmond County,33002,2007
-"51 , 161",VA,Roanoke County,50351,2007
-"51 , 163",VA,Rockbridge County,37877,2007
-"51 , 165",VA,Rockingham County,43727,2007
-"51 , 167",VA,Russell County,28943,2007
-"51 , 169",VA,Scott County,30199,2007
-"51 , 171",VA,Shenandoah County,41872,2007
-"51 , 173",VA,Smyth County,31645,2007
-"51 , 175",VA,Southampton County,35349,2007
-"51 , 177",VA,Spotsylvania County,65411,2007
-"51 , 179",VA,Stafford County,75556,2007
-"51 , 181",VA,Surry County,38420,2007
-"51 , 183",VA,Sussex County,30302,2007
-"51 , 185",VA,Tazewell County,29427,2007
-"51 , 187",VA,Warren County,46765,2007
-"51 , 191",VA,Washington County,35833,2007
-"51 , 193",VA,Westmoreland County,36210,2007
-"51 , 195",VA,Wise County,28737,2007
-"51 , 197",VA,Wythe County,33262,2007
-"51 , 199",VA,York County,65397,2007
-"51 , 510",VA,Alexandria city,59344,2007
-"51 , 515",VA,Bedford city,30715,2007
-"51 , 520",VA,Bristol city,29112,2007
-"51 , 530",VA,Buena Vista city,33818,2007
-"51 , 540",VA,Charlottesville city,31363,2007
-"51 , 550",VA,Chesapeake city,54067,2007
-"51 , 570",VA,Colonial Heights city,43765,2007
-"51 , 580",VA,Covington city,31688,2007
-"51 , 590",VA,Danville city,27082,2007
-"51 , 595",VA,Emporia city,29388,2007
-"51 , 600",VA,Fairfax city,67166,2007
-"51 , 610",VA,Falls Church city,79421,2007
-"51 , 620",VA,Franklin city,31910,2007
-"51 , 630",VA,Fredericksburg city,36636,2007
-"51 , 640",VA,Galax city,28381,2007
-"51 , 650",VA,Hampton city,39882,2007
-"51 , 660",VA,Harrisonburg city,31057,2007
-"51 , 670",VA,Hopewell city,32845,2007
-"51 , 678",VA,Lexington city,31139,2007
-"51 , 680",VA,Lynchburg city,31973,2007
-"51 , 683",VA,Manassas city,61387,2007
-"51 , 685",VA,Manassas Park city,62637,2007
-"51 , 690",VA,Martinsville city,27736,2007
-"51 , 700",VA,Newport News city,38406,2007
-"51 , 710",VA,Norfolk city,32026,2007
-"51 , 720",VA,Norton city,27135,2007
-"51 , 730",VA,Petersburg city,28558,2007
-"51 , 735",VA,Poquoson city,67765,2007
-"51 , 740",VA,Portsmouth city,34523,2007
-"51 , 750",VA,Radford city,27040,2007
-"51 , 760",VA,Richmond city,31730,2007
-"51 , 770",VA,Roanoke city,31523,2007
-"51 , 775",VA,Salem city,40439,2007
-"51 , 790",VA,Staunton city,33921,2007
-"51 , 800",VA,Suffolk city,46416,2007
-"51 , 810",VA,Virginia Beach city,50361,2007
-"51 , 820",VA,Waynesboro city,34384,2007
-"51 , 830",VA,Williamsburg city,34623,2007
-"51 , 840",VA,Winchester city,37276,2007
-"51 , 1",VA,Accomack County,30063,2008
-"51 , 3",VA,Albemarle County,53104,2008
-"51 , 5",VA,Alleghany County,37349,2008
-"51 , 7",VA,Amelia County,42591,2008
-"51 , 9",VA,Amherst County,37549,2008
-"51 , 11",VA,Appomattox County,36939,2008
-"51 , 13",VA,Arlington County,67161,2008
-"51 , 15",VA,Augusta County,45434,2008
-"51 , 17",VA,Bath County,36523,2008
-"51 , 19",VA,Bedford County,47263,2008
-"51 , 21",VA,Bland County,32742,2008
-"51 , 23",VA,Botetourt County,52094,2008
-"51 , 25",VA,Brunswick County,30503,2008
-"51 , 27",VA,Buchanan County,24427,2008
-"51 , 29",VA,Buckingham County,30610,2008
-"51 , 31",VA,Campbell County,38606,2008
-"51 , 33",VA,Caroline County,41640,2008
-"51 , 35",VA,Carroll County,31850,2008
-"51 , 36",VA,Charles City County,43275,2008
-"51 , 37",VA,Charlotte County,30276,2008
-"51 , 41",VA,Chesterfield County,61907,2008
-"51 , 43",VA,Clarke County,53777,2008
-"51 , 45",VA,Craig County,38869,2008
-"51 , 47",VA,Culpeper County,50162,2008
-"51 , 49",VA,Cumberland County,33700,2008
-"51 , 51",VA,Dickenson County,25479,2008
-"51 , 53",VA,Dinwiddie County,42123,2008
-"51 , 57",VA,Essex County,37239,2008
-"51 , 59",VA,Fairfax County,82648,2008
-"51 , 61",VA,Fauquier County,68140,2008
-"51 , 63",VA,Floyd County,35073,2008
-"51 , 65",VA,Fluvanna County,49274,2008
-"51 , 67",VA,Franklin County,39049,2008
-"51 , 69",VA,Frederick County,52722,2008
-"51 , 71",VA,Giles County,35816,2008
-"51 , 73",VA,Gloucester County,47211,2008
-"51 , 75",VA,Goochland County,61142,2008
-"51 , 77",VA,Grayson County,29386,2008
-"51 , 79",VA,Greene County,49974,2008
-"51 , 81",VA,Greensville County,30049,2008
-"51 , 83",VA,Halifax County,30119,2008
-"51 , 85",VA,Hanover County,65423,2008
-"51 , 87",VA,Henrico County,51201,2008
-"51 , 89",VA,Henry County,31360,2008
-"51 , 91",VA,Highland County,31219,2008
-"51 , 93",VA,Isle of Wight County,49437,2008
-"51 , 95",VA,James City County,62326,2008
-"51 , 97",VA,King and Queen County,36367,2008
-"51 , 99",VA,King George County,57322,2008
-"51 , 101",VA,King William County,52899,2008
-"51 , 103",VA,Lancaster County,36077,2008
-"51 , 105",VA,Lee County,25067,2008
-"51 , 107",VA,Loudoun County,90122,2008
-"51 , 109",VA,Louisa County,43127,2008
-"51 , 111",VA,Lunenburg County,28713,2008
-"51 , 113",VA,Madison County,41005,2008
-"51 , 115",VA,Mathews County,44729,2008
-"51 , 117",VA,Mecklenburg County,30881,2008
-"51 , 119",VA,Middlesex County,38636,2008
-"51 , 121",VA,Montgomery County,34603,2008
-"51 , 125",VA,Nelson County,38719,2008
-"51 , 127",VA,New Kent County,58204,2008
-"51 , 131",VA,Northampton County,29526,2008
-"51 , 133",VA,Northumberland County,38036,2008
-"51 , 135",VA,Nottoway County,31021,2008
-"51 , 137",VA,Orange County,46169,2008
-"51 , 139",VA,Page County,34509,2008
-"51 , 141",VA,Patrick County,29958,2008
-"51 , 143",VA,Pittsylvania County,36029,2008
-"51 , 145",VA,Powhatan County,57458,2008
-"51 , 147",VA,Prince Edward County,29573,2008
-"51 , 149",VA,Prince George County,49503,2008
-"51 , 153",VA,Prince William County,72977,2008
-"51 , 155",VA,Pulaski County,35694,2008
-"51 , 157",VA,Rappahannock County,50132,2008
-"51 , 159",VA,Richmond County,33002,2008
-"51 , 161",VA,Roanoke County,50351,2008
-"51 , 163",VA,Rockbridge County,37877,2008
-"51 , 165",VA,Rockingham County,43727,2008
-"51 , 167",VA,Russell County,28943,2008
-"51 , 169",VA,Scott County,30199,2008
-"51 , 171",VA,Shenandoah County,41872,2008
-"51 , 173",VA,Smyth County,31645,2008
-"51 , 175",VA,Southampton County,35349,2008
-"51 , 177",VA,Spotsylvania County,65411,2008
-"51 , 179",VA,Stafford County,75556,2008
-"51 , 181",VA,Surry County,38420,2008
-"51 , 183",VA,Sussex County,30302,2008
-"51 , 185",VA,Tazewell County,29427,2008
-"51 , 187",VA,Warren County,46765,2008
-"51 , 191",VA,Washington County,35833,2008
-"51 , 193",VA,Westmoreland County,36210,2008
-"51 , 195",VA,Wise County,28737,2008
-"51 , 197",VA,Wythe County,33262,2008
-"51 , 199",VA,York County,65397,2008
-"51 , 510",VA,Alexandria city,59344,2008
-"51 , 515",VA,Bedford city,30715,2008
-"51 , 520",VA,Bristol city,29112,2008
-"51 , 530",VA,Buena Vista city,33818,2008
-"51 , 540",VA,Charlottesville city,31363,2008
-"51 , 550",VA,Chesapeake city,54067,2008
-"51 , 570",VA,Colonial Heights city,43765,2008
-"51 , 580",VA,Covington city,31688,2008
-"51 , 590",VA,Danville city,27082,2008
-"51 , 595",VA,Emporia city,29388,2008
-"51 , 600",VA,Fairfax city,67166,2008
-"51 , 610",VA,Falls Church city,79421,2008
-"51 , 620",VA,Franklin city,31910,2008
-"51 , 630",VA,Fredericksburg city,36636,2008
-"51 , 640",VA,Galax city,28381,2008
-"51 , 650",VA,Hampton city,39882,2008
-"51 , 660",VA,Harrisonburg city,31057,2008
-"51 , 670",VA,Hopewell city,32845,2008
-"51 , 678",VA,Lexington city,31139,2008
-"51 , 680",VA,Lynchburg city,31973,2008
-"51 , 683",VA,Manassas city,61387,2008
-"51 , 685",VA,Manassas Park city,62637,2008
-"51 , 690",VA,Martinsville city,27736,2008
-"51 , 700",VA,Newport News city,38406,2008
-"51 , 710",VA,Norfolk city,32026,2008
-"51 , 720",VA,Norton city,27135,2008
-"51 , 730",VA,Petersburg city,28558,2008
-"51 , 735",VA,Poquoson city,67765,2008
-"51 , 740",VA,Portsmouth city,34523,2008
-"51 , 750",VA,Radford city,27040,2008
-"51 , 760",VA,Richmond city,31730,2008
-"51 , 770",VA,Roanoke city,31523,2008
-"51 , 775",VA,Salem city,40439,2008
-"51 , 790",VA,Staunton city,33921,2008
-"51 , 800",VA,Suffolk city,46416,2008
-"51 , 810",VA,Virginia Beach city,50361,2008
-"51 , 820",VA,Waynesboro city,34384,2008
-"51 , 830",VA,Williamsburg city,34623,2008
-"51 , 840",VA,Winchester city,37276,2008
-"51 , 1",VA,Accomack County,30063,2009
-"51 , 3",VA,Albemarle County,53104,2009
-"51 , 5",VA,Alleghany County,37349,2009
-"51 , 7",VA,Amelia County,42591,2009
-"51 , 9",VA,Amherst County,37549,2009
-"51 , 11",VA,Appomattox County,36939,2009
-"51 , 13",VA,Arlington County,67161,2009
-"51 , 15",VA,Augusta County,45434,2009
-"51 , 17",VA,Bath County,36523,2009
-"51 , 19",VA,Bedford County,47263,2009
-"51 , 21",VA,Bland County,32742,2009
-"51 , 23",VA,Botetourt County,52094,2009
-"51 , 25",VA,Brunswick County,30503,2009
-"51 , 27",VA,Buchanan County,24427,2009
-"51 , 29",VA,Buckingham County,30610,2009
-"51 , 31",VA,Campbell County,38606,2009
-"51 , 33",VA,Caroline County,41640,2009
-"51 , 35",VA,Carroll County,31850,2009
-"51 , 36",VA,Charles City County,43275,2009
-"51 , 37",VA,Charlotte County,30276,2009
-"51 , 41",VA,Chesterfield County,61907,2009
-"51 , 43",VA,Clarke County,53777,2009
-"51 , 45",VA,Craig County,38869,2009
-"51 , 47",VA,Culpeper County,50162,2009
-"51 , 49",VA,Cumberland County,33700,2009
-"51 , 51",VA,Dickenson County,25479,2009
-"51 , 53",VA,Dinwiddie County,42123,2009
-"51 , 57",VA,Essex County,37239,2009
-"51 , 59",VA,Fairfax County,82648,2009
-"51 , 61",VA,Fauquier County,68140,2009
-"51 , 63",VA,Floyd County,35073,2009
-"51 , 65",VA,Fluvanna County,49274,2009
-"51 , 67",VA,Franklin County,39049,2009
-"51 , 69",VA,Frederick County,52722,2009
-"51 , 71",VA,Giles County,35816,2009
-"51 , 73",VA,Gloucester County,47211,2009
-"51 , 75",VA,Goochland County,61142,2009
-"51 , 77",VA,Grayson County,29386,2009
-"51 , 79",VA,Greene County,49974,2009
-"51 , 81",VA,Greensville County,30049,2009
-"51 , 83",VA,Halifax County,30119,2009
-"51 , 85",VA,Hanover County,65423,2009
-"51 , 87",VA,Henrico County,51201,2009
-"51 , 89",VA,Henry County,31360,2009
-"51 , 91",VA,Highland County,31219,2009
-"51 , 93",VA,Isle of Wight County,49437,2009
-"51 , 95",VA,James City County,62326,2009
-"51 , 97",VA,King and Queen County,36367,2009
-"51 , 99",VA,King George County,57322,2009
-"51 , 101",VA,King William County,52899,2009
-"51 , 103",VA,Lancaster County,36077,2009
-"51 , 105",VA,Lee County,25067,2009
-"51 , 107",VA,Loudoun County,90122,2009
-"51 , 109",VA,Louisa County,43127,2009
-"51 , 111",VA,Lunenburg County,28713,2009
-"51 , 113",VA,Madison County,41005,2009
-"51 , 115",VA,Mathews County,44729,2009
-"51 , 117",VA,Mecklenburg County,30881,2009
-"51 , 119",VA,Middlesex County,38636,2009
-"51 , 121",VA,Montgomery County,34603,2009
-"51 , 125",VA,Nelson County,38719,2009
-"51 , 127",VA,New Kent County,58204,2009
-"51 , 131",VA,Northampton County,29526,2009
-"51 , 133",VA,Northumberland County,38036,2009
-"51 , 135",VA,Nottoway County,31021,2009
-"51 , 137",VA,Orange County,46169,2009
-"51 , 139",VA,Page County,34509,2009
-"51 , 141",VA,Patrick County,29958,2009
-"51 , 143",VA,Pittsylvania County,36029,2009
-"51 , 145",VA,Powhatan County,57458,2009
-"51 , 147",VA,Prince Edward County,29573,2009
-"51 , 149",VA,Prince George County,49503,2009
-"51 , 153",VA,Prince William County,72977,2009
-"51 , 155",VA,Pulaski County,35694,2009
-"51 , 157",VA,Rappahannock County,50132,2009
-"51 , 159",VA,Richmond County,33002,2009
-"51 , 161",VA,Roanoke County,50351,2009
-"51 , 163",VA,Rockbridge County,37877,2009
-"51 , 165",VA,Rockingham County,43727,2009
-"51 , 167",VA,Russell County,28943,2009
-"51 , 169",VA,Scott County,30199,2009
-"51 , 171",VA,Shenandoah County,41872,2009
-"51 , 173",VA,Smyth County,31645,2009
-"51 , 175",VA,Southampton County,35349,2009
-"51 , 177",VA,Spotsylvania County,65411,2009
-"51 , 179",VA,Stafford County,75556,2009
-"51 , 181",VA,Surry County,38420,2009
-"51 , 183",VA,Sussex County,30302,2009
-"51 , 185",VA,Tazewell County,29427,2009
-"51 , 187",VA,Warren County,46765,2009
-"51 , 191",VA,Washington County,35833,2009
-"51 , 193",VA,Westmoreland County,36210,2009
-"51 , 195",VA,Wise County,28737,2009
-"51 , 197",VA,Wythe County,33262,2009
-"51 , 199",VA,York County,65397,2009
-"51 , 510",VA,Alexandria city,59344,2009
-"51 , 515",VA,Bedford city,30715,2009
-"51 , 520",VA,Bristol city,29112,2009
-"51 , 530",VA,Buena Vista city,33818,2009
-"51 , 540",VA,Charlottesville city,31363,2009
-"51 , 550",VA,Chesapeake city,54067,2009
-"51 , 570",VA,Colonial Heights city,43765,2009
-"51 , 580",VA,Covington city,31688,2009
-"51 , 590",VA,Danville city,27082,2009
-"51 , 595",VA,Emporia city,29388,2009
-"51 , 600",VA,Fairfax city,67166,2009
-"51 , 610",VA,Falls Church city,79421,2009
-"51 , 620",VA,Franklin city,31910,2009
-"51 , 630",VA,Fredericksburg city,36636,2009
-"51 , 640",VA,Galax city,28381,2009
-"51 , 650",VA,Hampton city,39882,2009
-"51 , 660",VA,Harrisonburg city,31057,2009
-"51 , 670",VA,Hopewell city,32845,2009
-"51 , 678",VA,Lexington city,31139,2009
-"51 , 680",VA,Lynchburg city,31973,2009
-"51 , 683",VA,Manassas city,61387,2009
-"51 , 685",VA,Manassas Park city,62637,2009
-"51 , 690",VA,Martinsville city,27736,2009
-"51 , 700",VA,Newport News city,38406,2009
-"51 , 710",VA,Norfolk city,32026,2009
-"51 , 720",VA,Norton city,27135,2009
-"51 , 730",VA,Petersburg city,28558,2009
-"51 , 735",VA,Poquoson city,67765,2009
-"51 , 740",VA,Portsmouth city,34523,2009
-"51 , 750",VA,Radford city,27040,2009
-"51 , 760",VA,Richmond city,31730,2009
-"51 , 770",VA,Roanoke city,31523,2009
-"51 , 775",VA,Salem city,40439,2009
-"51 , 790",VA,Staunton city,33921,2009
-"51 , 800",VA,Suffolk city,46416,2009
-"51 , 810",VA,Virginia Beach city,50361,2009
-"51 , 820",VA,Waynesboro city,34384,2009
-"51 , 830",VA,Williamsburg city,34623,2009
-"51 , 840",VA,Winchester city,37276,2009
-"51 , 1",VA,Accomack County,30063,2010
-"51 , 3",VA,Albemarle County,53104,2010
-"51 , 5",VA,Alleghany County,37349,2010
-"51 , 7",VA,Amelia County,42591,2010
-"51 , 9",VA,Amherst County,37549,2010
-"51 , 11",VA,Appomattox County,36939,2010
-"51 , 13",VA,Arlington County,67161,2010
-"51 , 15",VA,Augusta County,45434,2010
-"51 , 17",VA,Bath County,36523,2010
-"51 , 19",VA,Bedford County,47263,2010
-"51 , 21",VA,Bland County,32742,2010
-"51 , 23",VA,Botetourt County,52094,2010
-"51 , 25",VA,Brunswick County,30503,2010
-"51 , 27",VA,Buchanan County,24427,2010
-"51 , 29",VA,Buckingham County,30610,2010
-"51 , 31",VA,Campbell County,38606,2010
-"51 , 33",VA,Caroline County,41640,2010
-"51 , 35",VA,Carroll County,31850,2010
-"51 , 36",VA,Charles City County,43275,2010
-"51 , 37",VA,Charlotte County,30276,2010
-"51 , 41",VA,Chesterfield County,61907,2010
-"51 , 43",VA,Clarke County,53777,2010
-"51 , 45",VA,Craig County,38869,2010
-"51 , 47",VA,Culpeper County,50162,2010
-"51 , 49",VA,Cumberland County,33700,2010
-"51 , 51",VA,Dickenson County,25479,2010
-"51 , 53",VA,Dinwiddie County,42123,2010
-"51 , 57",VA,Essex County,37239,2010
-"51 , 59",VA,Fairfax County,82648,2010
-"51 , 61",VA,Fauquier County,68140,2010
-"51 , 63",VA,Floyd County,35073,2010
-"51 , 65",VA,Fluvanna County,49274,2010
-"51 , 67",VA,Franklin County,39049,2010
-"51 , 69",VA,Frederick County,52722,2010
-"51 , 71",VA,Giles County,35816,2010
-"51 , 73",VA,Gloucester County,47211,2010
-"51 , 75",VA,Goochland County,61142,2010
-"51 , 77",VA,Grayson County,29386,2010
-"51 , 79",VA,Greene County,49974,2010
-"51 , 81",VA,Greensville County,30049,2010
-"51 , 83",VA,Halifax County,30119,2010
-"51 , 85",VA,Hanover County,65423,2010
-"51 , 87",VA,Henrico County,51201,2010
-"51 , 89",VA,Henry County,31360,2010
-"51 , 91",VA,Highland County,31219,2010
-"51 , 93",VA,Isle of Wight County,49437,2010
-"51 , 95",VA,James City County,62326,2010
-"51 , 97",VA,King and Queen County,36367,2010
-"51 , 99",VA,King George County,57322,2010
-"51 , 101",VA,King William County,52899,2010
-"51 , 103",VA,Lancaster County,36077,2010
-"51 , 105",VA,Lee County,25067,2010
-"51 , 107",VA,Loudoun County,90122,2010
-"51 , 109",VA,Louisa County,43127,2010
-"51 , 111",VA,Lunenburg County,28713,2010
-"51 , 113",VA,Madison County,41005,2010
-"51 , 115",VA,Mathews County,44729,2010
-"51 , 117",VA,Mecklenburg County,30881,2010
-"51 , 119",VA,Middlesex County,38636,2010
-"51 , 121",VA,Montgomery County,34603,2010
-"51 , 125",VA,Nelson County,38719,2010
-"51 , 127",VA,New Kent County,58204,2010
-"51 , 131",VA,Northampton County,29526,2010
-"51 , 133",VA,Northumberland County,38036,2010
-"51 , 135",VA,Nottoway County,31021,2010
-"51 , 137",VA,Orange County,46169,2010
-"51 , 139",VA,Page County,34509,2010
-"51 , 141",VA,Patrick County,29958,2010
-"51 , 143",VA,Pittsylvania County,36029,2010
-"51 , 145",VA,Powhatan County,57458,2010
-"51 , 147",VA,Prince Edward County,29573,2010
-"51 , 149",VA,Prince George County,49503,2010
-"51 , 153",VA,Prince William County,72977,2010
-"51 , 155",VA,Pulaski County,35694,2010
-"51 , 157",VA,Rappahannock County,50132,2010
-"51 , 159",VA,Richmond County,33002,2010
-"51 , 161",VA,Roanoke County,50351,2010
-"51 , 163",VA,Rockbridge County,37877,2010
-"51 , 165",VA,Rockingham County,43727,2010
-"51 , 167",VA,Russell County,28943,2010
-"51 , 169",VA,Scott County,30199,2010
-"51 , 171",VA,Shenandoah County,41872,2010
-"51 , 173",VA,Smyth County,31645,2010
-"51 , 175",VA,Southampton County,35349,2010
-"51 , 177",VA,Spotsylvania County,65411,2010
-"51 , 179",VA,Stafford County,75556,2010
-"51 , 181",VA,Surry County,38420,2010
-"51 , 183",VA,Sussex County,30302,2010
-"51 , 185",VA,Tazewell County,29427,2010
-"51 , 187",VA,Warren County,46765,2010
-"51 , 191",VA,Washington County,35833,2010
-"51 , 193",VA,Westmoreland County,36210,2010
-"51 , 195",VA,Wise County,28737,2010
-"51 , 197",VA,Wythe County,33262,2010
-"51 , 199",VA,York County,65397,2010
-"51 , 510",VA,Alexandria city,59344,2010
-"51 , 515",VA,Bedford city,30715,2010
-"51 , 520",VA,Bristol city,29112,2010
-"51 , 530",VA,Buena Vista city,33818,2010
-"51 , 540",VA,Charlottesville city,31363,2010
-"51 , 550",VA,Chesapeake city,54067,2010
-"51 , 570",VA,Colonial Heights city,43765,2010
-"51 , 580",VA,Covington city,31688,2010
-"51 , 590",VA,Danville city,27082,2010
-"51 , 595",VA,Emporia city,29388,2010
-"51 , 600",VA,Fairfax city,67166,2010
-"51 , 610",VA,Falls Church city,79421,2010
-"51 , 620",VA,Franklin city,31910,2010
-"51 , 630",VA,Fredericksburg city,36636,2010
-"51 , 640",VA,Galax city,28381,2010
-"51 , 650",VA,Hampton city,39882,2010
-"51 , 660",VA,Harrisonburg city,31057,2010
-"51 , 670",VA,Hopewell city,32845,2010
-"51 , 678",VA,Lexington city,31139,2010
-"51 , 680",VA,Lynchburg city,31973,2010
-"51 , 683",VA,Manassas city,61387,2010
-"51 , 685",VA,Manassas Park city,62637,2010
-"51 , 690",VA,Martinsville city,27736,2010
-"51 , 700",VA,Newport News city,38406,2010
-"51 , 710",VA,Norfolk city,32026,2010
-"51 , 720",VA,Norton city,27135,2010
-"51 , 730",VA,Petersburg city,28558,2010
-"51 , 735",VA,Poquoson city,67765,2010
-"51 , 740",VA,Portsmouth city,34523,2010
-"51 , 750",VA,Radford city,27040,2010
-"51 , 760",VA,Richmond city,31730,2010
-"51 , 770",VA,Roanoke city,31523,2010
-"51 , 775",VA,Salem city,40439,2010
-"51 , 790",VA,Staunton city,33921,2010
-"51 , 800",VA,Suffolk city,46416,2010
-"51 , 810",VA,Virginia Beach city,50361,2010
-"51 , 820",VA,Waynesboro city,34384,2010
-"51 , 830",VA,Williamsburg city,34623,2010
-"51 , 840",VA,Winchester city,37276,2010
-"51 , 1",VA,Accomack County,30063,2011
-"51 , 3",VA,Albemarle County,53104,2011
-"51 , 5",VA,Alleghany County,37349,2011
-"51 , 7",VA,Amelia County,42591,2011
-"51 , 9",VA,Amherst County,37549,2011
-"51 , 11",VA,Appomattox County,36939,2011
-"51 , 13",VA,Arlington County,67161,2011
-"51 , 15",VA,Augusta County,45434,2011
-"51 , 17",VA,Bath County,36523,2011
-"51 , 19",VA,Bedford County,47263,2011
-"51 , 21",VA,Bland County,32742,2011
-"51 , 23",VA,Botetourt County,52094,2011
-"51 , 25",VA,Brunswick County,30503,2011
-"51 , 27",VA,Buchanan County,24427,2011
-"51 , 29",VA,Buckingham County,30610,2011
-"51 , 31",VA,Campbell County,38606,2011
-"51 , 33",VA,Caroline County,41640,2011
-"51 , 35",VA,Carroll County,31850,2011
-"51 , 36",VA,Charles City County,43275,2011
-"51 , 37",VA,Charlotte County,30276,2011
-"51 , 41",VA,Chesterfield County,61907,2011
-"51 , 43",VA,Clarke County,53777,2011
-"51 , 45",VA,Craig County,38869,2011
-"51 , 47",VA,Culpeper County,50162,2011
-"51 , 49",VA,Cumberland County,33700,2011
-"51 , 51",VA,Dickenson County,25479,2011
-"51 , 53",VA,Dinwiddie County,42123,2011
-"51 , 57",VA,Essex County,37239,2011
-"51 , 59",VA,Fairfax County,82648,2011
-"51 , 61",VA,Fauquier County,68140,2011
-"51 , 63",VA,Floyd County,35073,2011
-"51 , 65",VA,Fluvanna County,49274,2011
-"51 , 67",VA,Franklin County,39049,2011
-"51 , 69",VA,Frederick County,52722,2011
-"51 , 71",VA,Giles County,35816,2011
-"51 , 73",VA,Gloucester County,47211,2011
-"51 , 75",VA,Goochland County,61142,2011
-"51 , 77",VA,Grayson County,29386,2011
-"51 , 79",VA,Greene County,49974,2011
-"51 , 81",VA,Greensville County,30049,2011
-"51 , 83",VA,Halifax County,30119,2011
-"51 , 85",VA,Hanover County,65423,2011
-"51 , 87",VA,Henrico County,51201,2011
-"51 , 89",VA,Henry County,31360,2011
-"51 , 91",VA,Highland County,31219,2011
-"51 , 93",VA,Isle of Wight County,49437,2011
-"51 , 95",VA,James City County,62326,2011
-"51 , 97",VA,King and Queen County,36367,2011
-"51 , 99",VA,King George County,57322,2011
-"51 , 101",VA,King William County,52899,2011
-"51 , 103",VA,Lancaster County,36077,2011
-"51 , 105",VA,Lee County,25067,2011
-"51 , 107",VA,Loudoun County,90122,2011
-"51 , 109",VA,Louisa County,43127,2011
-"51 , 111",VA,Lunenburg County,28713,2011
-"51 , 113",VA,Madison County,41005,2011
-"51 , 115",VA,Mathews County,44729,2011
-"51 , 117",VA,Mecklenburg County,30881,2011
-"51 , 119",VA,Middlesex County,38636,2011
-"51 , 121",VA,Montgomery County,34603,2011
-"51 , 125",VA,Nelson County,38719,2011
-"51 , 127",VA,New Kent County,58204,2011
-"51 , 131",VA,Northampton County,29526,2011
-"51 , 133",VA,Northumberland County,38036,2011
-"51 , 135",VA,Nottoway County,31021,2011
-"51 , 137",VA,Orange County,46169,2011
-"51 , 139",VA,Page County,34509,2011
-"51 , 141",VA,Patrick County,29958,2011
-"51 , 143",VA,Pittsylvania County,36029,2011
-"51 , 145",VA,Powhatan County,57458,2011
-"51 , 147",VA,Prince Edward County,29573,2011
-"51 , 149",VA,Prince George County,49503,2011
-"51 , 153",VA,Prince William County,72977,2011
-"51 , 155",VA,Pulaski County,35694,2011
-"51 , 157",VA,Rappahannock County,50132,2011
-"51 , 159",VA,Richmond County,33002,2011
-"51 , 161",VA,Roanoke County,50351,2011
-"51 , 163",VA,Rockbridge County,37877,2011
-"51 , 165",VA,Rockingham County,43727,2011
-"51 , 167",VA,Russell County,28943,2011
-"51 , 169",VA,Scott County,30199,2011
-"51 , 171",VA,Shenandoah County,41872,2011
-"51 , 173",VA,Smyth County,31645,2011
-"51 , 175",VA,Southampton County,35349,2011
-"51 , 177",VA,Spotsylvania County,65411,2011
-"51 , 179",VA,Stafford County,75556,2011
-"51 , 181",VA,Surry County,38420,2011
-"51 , 183",VA,Sussex County,30302,2011
-"51 , 185",VA,Tazewell County,29427,2011
-"51 , 187",VA,Warren County,46765,2011
-"51 , 191",VA,Washington County,35833,2011
-"51 , 193",VA,Westmoreland County,36210,2011
-"51 , 195",VA,Wise County,28737,2011
-"51 , 197",VA,Wythe County,33262,2011
-"51 , 199",VA,York County,65397,2011
-"51 , 510",VA,Alexandria city,59344,2011
-"51 , 515",VA,Bedford city,30715,2011
-"51 , 520",VA,Bristol city,29112,2011
-"51 , 530",VA,Buena Vista city,33818,2011
-"51 , 540",VA,Charlottesville city,31363,2011
-"51 , 550",VA,Chesapeake city,54067,2011
-"51 , 570",VA,Colonial Heights city,43765,2011
-"51 , 580",VA,Covington city,31688,2011
-"51 , 590",VA,Danville city,27082,2011
-"51 , 595",VA,Emporia city,29388,2011
-"51 , 600",VA,Fairfax city,67166,2011
-"51 , 610",VA,Falls Church city,79421,2011
-"51 , 620",VA,Franklin city,31910,2011
-"51 , 630",VA,Fredericksburg city,36636,2011
-"51 , 640",VA,Galax city,28381,2011
-"51 , 650",VA,Hampton city,39882,2011
-"51 , 660",VA,Harrisonburg city,31057,2011
-"51 , 670",VA,Hopewell city,32845,2011
-"51 , 678",VA,Lexington city,31139,2011
-"51 , 680",VA,Lynchburg city,31973,2011
-"51 , 683",VA,Manassas city,61387,2011
-"51 , 685",VA,Manassas Park city,62637,2011
-"51 , 690",VA,Martinsville city,27736,2011
-"51 , 700",VA,Newport News city,38406,2011
-"51 , 710",VA,Norfolk city,32026,2011
-"51 , 720",VA,Norton city,27135,2011
-"51 , 730",VA,Petersburg city,28558,2011
-"51 , 735",VA,Poquoson city,67765,2011
-"51 , 740",VA,Portsmouth city,34523,2011
-"51 , 750",VA,Radford city,27040,2011
-"51 , 760",VA,Richmond city,31730,2011
-"51 , 770",VA,Roanoke city,31523,2011
-"51 , 775",VA,Salem city,40439,2011
-"51 , 790",VA,Staunton city,33921,2011
-"51 , 800",VA,Suffolk city,46416,2011
-"51 , 810",VA,Virginia Beach city,50361,2011
-"51 , 820",VA,Waynesboro city,34384,2011
-"51 , 830",VA,Williamsburg city,34623,2011
-"51 , 840",VA,Winchester city,37276,2011
-"51 , 1",VA,Accomack County,30063,2012
-"51 , 3",VA,Albemarle County,53104,2012
-"51 , 5",VA,Alleghany County,37349,2012
-"51 , 7",VA,Amelia County,42591,2012
-"51 , 9",VA,Amherst County,37549,2012
-"51 , 11",VA,Appomattox County,36939,2012
-"51 , 13",VA,Arlington County,67161,2012
-"51 , 15",VA,Augusta County,45434,2012
-"51 , 17",VA,Bath County,36523,2012
-"51 , 19",VA,Bedford County,47263,2012
-"51 , 21",VA,Bland County,32742,2012
-"51 , 23",VA,Botetourt County,52094,2012
-"51 , 25",VA,Brunswick County,30503,2012
-"51 , 27",VA,Buchanan County,24427,2012
-"51 , 29",VA,Buckingham County,30610,2012
-"51 , 31",VA,Campbell County,38606,2012
-"51 , 33",VA,Caroline County,41640,2012
-"51 , 35",VA,Carroll County,31850,2012
-"51 , 36",VA,Charles City County,43275,2012
-"51 , 37",VA,Charlotte County,30276,2012
-"51 , 41",VA,Chesterfield County,61907,2012
-"51 , 43",VA,Clarke County,53777,2012
-"51 , 45",VA,Craig County,38869,2012
-"51 , 47",VA,Culpeper County,50162,2012
-"51 , 49",VA,Cumberland County,33700,2012
-"51 , 51",VA,Dickenson County,25479,2012
-"51 , 53",VA,Dinwiddie County,42123,2012
-"51 , 57",VA,Essex County,37239,2012
-"51 , 59",VA,Fairfax County,82648,2012
-"51 , 61",VA,Fauquier County,68140,2012
-"51 , 63",VA,Floyd County,35073,2012
-"51 , 65",VA,Fluvanna County,49274,2012
-"51 , 67",VA,Franklin County,39049,2012
-"51 , 69",VA,Frederick County,52722,2012
-"51 , 71",VA,Giles County,35816,2012
-"51 , 73",VA,Gloucester County,47211,2012
-"51 , 75",VA,Goochland County,61142,2012
-"51 , 77",VA,Grayson County,29386,2012
-"51 , 79",VA,Greene County,49974,2012
-"51 , 81",VA,Greensville County,30049,2012
-"51 , 83",VA,Halifax County,30119,2012
-"51 , 85",VA,Hanover County,65423,2012
-"51 , 87",VA,Henrico County,51201,2012
-"51 , 89",VA,Henry County,31360,2012
-"51 , 91",VA,Highland County,31219,2012
-"51 , 93",VA,Isle of Wight County,49437,2012
-"51 , 95",VA,James City County,62326,2012
-"51 , 97",VA,King and Queen County,36367,2012
-"51 , 99",VA,King George County,57322,2012
-"51 , 101",VA,King William County,52899,2012
-"51 , 103",VA,Lancaster County,36077,2012
-"51 , 105",VA,Lee County,25067,2012
-"51 , 107",VA,Loudoun County,90122,2012
-"51 , 109",VA,Louisa County,43127,2012
-"51 , 111",VA,Lunenburg County,28713,2012
-"51 , 113",VA,Madison County,41005,2012
-"51 , 115",VA,Mathews County,44729,2012
-"51 , 117",VA,Mecklenburg County,30881,2012
-"51 , 119",VA,Middlesex County,38636,2012
-"51 , 121",VA,Montgomery County,34603,2012
-"51 , 125",VA,Nelson County,38719,2012
-"51 , 127",VA,New Kent County,58204,2012
-"51 , 131",VA,Northampton County,29526,2012
-"51 , 133",VA,Northumberland County,38036,2012
-"51 , 135",VA,Nottoway County,31021,2012
-"51 , 137",VA,Orange County,46169,2012
-"51 , 139",VA,Page County,34509,2012
-"51 , 141",VA,Patrick County,29958,2012
-"51 , 143",VA,Pittsylvania County,36029,2012
-"51 , 145",VA,Powhatan County,57458,2012
-"51 , 147",VA,Prince Edward County,29573,2012
-"51 , 149",VA,Prince George County,49503,2012
-"51 , 153",VA,Prince William County,72977,2012
-"51 , 155",VA,Pulaski County,35694,2012
-"51 , 157",VA,Rappahannock County,50132,2012
-"51 , 159",VA,Richmond County,33002,2012
-"51 , 161",VA,Roanoke County,50351,2012
-"51 , 163",VA,Rockbridge County,37877,2012
-"51 , 165",VA,Rockingham County,43727,2012
-"51 , 167",VA,Russell County,28943,2012
-"51 , 169",VA,Scott County,30199,2012
-"51 , 171",VA,Shenandoah County,41872,2012
-"51 , 173",VA,Smyth County,31645,2012
-"51 , 175",VA,Southampton County,35349,2012
-"51 , 177",VA,Spotsylvania County,65411,2012
-"51 , 179",VA,Stafford County,75556,2012
-"51 , 181",VA,Surry County,38420,2012
-"51 , 183",VA,Sussex County,30302,2012
-"51 , 185",VA,Tazewell County,29427,2012
-"51 , 187",VA,Warren County,46765,2012
-"51 , 191",VA,Washington County,35833,2012
-"51 , 193",VA,Westmoreland County,36210,2012
-"51 , 195",VA,Wise County,28737,2012
-"51 , 197",VA,Wythe County,33262,2012
-"51 , 199",VA,York County,65397,2012
-"51 , 510",VA,Alexandria city,59344,2012
-"51 , 515",VA,Bedford city,30715,2012
-"51 , 520",VA,Bristol city,29112,2012
-"51 , 530",VA,Buena Vista city,33818,2012
-"51 , 540",VA,Charlottesville city,31363,2012
-"51 , 550",VA,Chesapeake city,54067,2012
-"51 , 570",VA,Colonial Heights city,43765,2012
-"51 , 580",VA,Covington city,31688,2012
-"51 , 590",VA,Danville city,27082,2012
-"51 , 595",VA,Emporia city,29388,2012
-"51 , 600",VA,Fairfax city,67166,2012
-"51 , 610",VA,Falls Church city,79421,2012
-"51 , 620",VA,Franklin city,31910,2012
-"51 , 630",VA,Fredericksburg city,36636,2012
-"51 , 640",VA,Galax city,28381,2012
-"51 , 650",VA,Hampton city,39882,2012
-"51 , 660",VA,Harrisonburg city,31057,2012
-"51 , 670",VA,Hopewell city,32845,2012
-"51 , 678",VA,Lexington city,31139,2012
-"51 , 680",VA,Lynchburg city,31973,2012
-"51 , 683",VA,Manassas city,61387,2012
-"51 , 685",VA,Manassas Park city,62637,2012
-"51 , 690",VA,Martinsville city,27736,2012
-"51 , 700",VA,Newport News city,38406,2012
-"51 , 710",VA,Norfolk city,32026,2012
-"51 , 720",VA,Norton city,27135,2012
-"51 , 730",VA,Petersburg city,28558,2012
-"51 , 735",VA,Poquoson city,67765,2012
-"51 , 740",VA,Portsmouth city,34523,2012
-"51 , 750",VA,Radford city,27040,2012
-"51 , 760",VA,Richmond city,31730,2012
-"51 , 770",VA,Roanoke city,31523,2012
-"51 , 775",VA,Salem city,40439,2012
-"51 , 790",VA,Staunton city,33921,2012
-"51 , 800",VA,Suffolk city,46416,2012
-"51 , 810",VA,Virginia Beach city,50361,2012
-"51 , 820",VA,Waynesboro city,34384,2012
-"51 , 830",VA,Williamsburg city,34623,2012
-"51 , 840",VA,Winchester city,37276,2012
-"51 , 1",VA,Accomack County,30063,2013
-"51 , 3",VA,Albemarle County,53104,2013
-"51 , 5",VA,Alleghany County,37349,2013
-"51 , 7",VA,Amelia County,42591,2013
-"51 , 9",VA,Amherst County,37549,2013
-"51 , 11",VA,Appomattox County,36939,2013
-"51 , 13",VA,Arlington County,67161,2013
-"51 , 15",VA,Augusta County,45434,2013
-"51 , 17",VA,Bath County,36523,2013
-"51 , 19",VA,Bedford County,47263,2013
-"51 , 21",VA,Bland County,32742,2013
-"51 , 23",VA,Botetourt County,52094,2013
-"51 , 25",VA,Brunswick County,30503,2013
-"51 , 27",VA,Buchanan County,24427,2013
-"51 , 29",VA,Buckingham County,30610,2013
-"51 , 31",VA,Campbell County,38606,2013
-"51 , 33",VA,Caroline County,41640,2013
-"51 , 35",VA,Carroll County,31850,2013
-"51 , 36",VA,Charles City County,43275,2013
-"51 , 37",VA,Charlotte County,30276,2013
-"51 , 41",VA,Chesterfield County,61907,2013
-"51 , 43",VA,Clarke County,53777,2013
-"51 , 45",VA,Craig County,38869,2013
-"51 , 47",VA,Culpeper County,50162,2013
-"51 , 49",VA,Cumberland County,33700,2013
-"51 , 51",VA,Dickenson County,25479,2013
-"51 , 53",VA,Dinwiddie County,42123,2013
-"51 , 57",VA,Essex County,37239,2013
-"51 , 59",VA,Fairfax County,82648,2013
-"51 , 61",VA,Fauquier County,68140,2013
-"51 , 63",VA,Floyd County,35073,2013
-"51 , 65",VA,Fluvanna County,49274,2013
-"51 , 67",VA,Franklin County,39049,2013
-"51 , 69",VA,Frederick County,52722,2013
-"51 , 71",VA,Giles County,35816,2013
-"51 , 73",VA,Gloucester County,47211,2013
-"51 , 75",VA,Goochland County,61142,2013
-"51 , 77",VA,Grayson County,29386,2013
-"51 , 79",VA,Greene County,49974,2013
-"51 , 81",VA,Greensville County,30049,2013
-"51 , 83",VA,Halifax County,30119,2013
-"51 , 85",VA,Hanover County,65423,2013
-"51 , 87",VA,Henrico County,51201,2013
-"51 , 89",VA,Henry County,31360,2013
-"51 , 91",VA,Highland County,31219,2013
-"51 , 93",VA,Isle of Wight County,49437,2013
-"51 , 95",VA,James City County,62326,2013
-"51 , 97",VA,King and Queen County,36367,2013
-"51 , 99",VA,King George County,57322,2013
-"51 , 101",VA,King William County,52899,2013
-"51 , 103",VA,Lancaster County,36077,2013
-"51 , 105",VA,Lee County,25067,2013
-"51 , 107",VA,Loudoun County,90122,2013
-"51 , 109",VA,Louisa County,43127,2013
-"51 , 111",VA,Lunenburg County,28713,2013
-"51 , 113",VA,Madison County,41005,2013
-"51 , 115",VA,Mathews County,44729,2013
-"51 , 117",VA,Mecklenburg County,30881,2013
-"51 , 119",VA,Middlesex County,38636,2013
-"51 , 121",VA,Montgomery County,34603,2013
-"51 , 125",VA,Nelson County,38719,2013
-"51 , 127",VA,New Kent County,58204,2013
-"51 , 131",VA,Northampton County,29526,2013
-"51 , 133",VA,Northumberland County,38036,2013
-"51 , 135",VA,Nottoway County,31021,2013
-"51 , 137",VA,Orange County,46169,2013
-"51 , 139",VA,Page County,34509,2013
-"51 , 141",VA,Patrick County,29958,2013
-"51 , 143",VA,Pittsylvania County,36029,2013
-"51 , 145",VA,Powhatan County,57458,2013
-"51 , 147",VA,Prince Edward County,29573,2013
-"51 , 149",VA,Prince George County,49503,2013
-"51 , 153",VA,Prince William County,72977,2013
-"51 , 155",VA,Pulaski County,35694,2013
-"51 , 157",VA,Rappahannock County,50132,2013
-"51 , 159",VA,Richmond County,33002,2013
-"51 , 161",VA,Roanoke County,50351,2013
-"51 , 163",VA,Rockbridge County,37877,2013
-"51 , 165",VA,Rockingham County,43727,2013
-"51 , 167",VA,Russell County,28943,2013
-"51 , 169",VA,Scott County,30199,2013
-"51 , 171",VA,Shenandoah County,41872,2013
-"51 , 173",VA,Smyth County,31645,2013
-"51 , 175",VA,Southampton County,35349,2013
-"51 , 177",VA,Spotsylvania County,65411,2013
-"51 , 179",VA,Stafford County,75556,2013
-"51 , 181",VA,Surry County,38420,2013
-"51 , 183",VA,Sussex County,30302,2013
-"51 , 185",VA,Tazewell County,29427,2013
-"51 , 187",VA,Warren County,46765,2013
-"51 , 191",VA,Washington County,35833,2013
-"51 , 193",VA,Westmoreland County,36210,2013
-"51 , 195",VA,Wise County,28737,2013
-"51 , 197",VA,Wythe County,33262,2013
-"51 , 199",VA,York County,65397,2013
-"51 , 510",VA,Alexandria city,59344,2013
-"51 , 515",VA,Bedford city,30715,2013
-"51 , 520",VA,Bristol city,29112,2013
-"51 , 530",VA,Buena Vista city,33818,2013
-"51 , 540",VA,Charlottesville city,31363,2013
-"51 , 550",VA,Chesapeake city,54067,2013
-"51 , 570",VA,Colonial Heights city,43765,2013
-"51 , 580",VA,Covington city,31688,2013
-"51 , 590",VA,Danville city,27082,2013
-"51 , 595",VA,Emporia city,29388,2013
-"51 , 600",VA,Fairfax city,67166,2013
-"51 , 610",VA,Falls Church city,79421,2013
-"51 , 620",VA,Franklin city,31910,2013
-"51 , 630",VA,Fredericksburg city,36636,2013
-"51 , 640",VA,Galax city,28381,2013
-"51 , 650",VA,Hampton city,39882,2013
-"51 , 660",VA,Harrisonburg city,31057,2013
-"51 , 670",VA,Hopewell city,32845,2013
-"51 , 678",VA,Lexington city,31139,2013
-"51 , 680",VA,Lynchburg city,31973,2013
-"51 , 683",VA,Manassas city,61387,2013
-"51 , 685",VA,Manassas Park city,62637,2013
-"51 , 690",VA,Martinsville city,27736,2013
-"51 , 700",VA,Newport News city,38406,2013
-"51 , 710",VA,Norfolk city,32026,2013
-"51 , 720",VA,Norton city,27135,2013
-"51 , 730",VA,Petersburg city,28558,2013
-"51 , 735",VA,Poquoson city,67765,2013
-"51 , 740",VA,Portsmouth city,34523,2013
-"51 , 750",VA,Radford city,27040,2013
-"51 , 760",VA,Richmond city,31730,2013
-"51 , 770",VA,Roanoke city,31523,2013
-"51 , 775",VA,Salem city,40439,2013
-"51 , 790",VA,Staunton city,33921,2013
-"51 , 800",VA,Suffolk city,46416,2013
-"51 , 810",VA,Virginia Beach city,50361,2013
-"51 , 820",VA,Waynesboro city,34384,2013
-"51 , 830",VA,Williamsburg city,34623,2013
-"51 , 840",VA,Winchester city,37276,2013
-"51 , 1",VA,Accomack County,30063,2014
-"51 , 3",VA,Albemarle County,53104,2014
-"51 , 5",VA,Alleghany County,37349,2014
-"51 , 7",VA,Amelia County,42591,2014
-"51 , 9",VA,Amherst County,37549,2014
-"51 , 11",VA,Appomattox County,36939,2014
-"51 , 13",VA,Arlington County,67161,2014
-"51 , 15",VA,Augusta County,45434,2014
-"51 , 17",VA,Bath County,36523,2014
-"51 , 19",VA,Bedford County,47263,2014
-"51 , 21",VA,Bland County,32742,2014
-"51 , 23",VA,Botetourt County,52094,2014
-"51 , 25",VA,Brunswick County,30503,2014
-"51 , 27",VA,Buchanan County,24427,2014
-"51 , 29",VA,Buckingham County,30610,2014
-"51 , 31",VA,Campbell County,38606,2014
-"51 , 33",VA,Caroline County,41640,2014
-"51 , 35",VA,Carroll County,31850,2014
-"51 , 36",VA,Charles City County,43275,2014
-"51 , 37",VA,Charlotte County,30276,2014
-"51 , 41",VA,Chesterfield County,61907,2014
-"51 , 43",VA,Clarke County,53777,2014
-"51 , 45",VA,Craig County,38869,2014
-"51 , 47",VA,Culpeper County,50162,2014
-"51 , 49",VA,Cumberland County,33700,2014
-"51 , 51",VA,Dickenson County,25479,2014
-"51 , 53",VA,Dinwiddie County,42123,2014
-"51 , 57",VA,Essex County,37239,2014
-"51 , 59",VA,Fairfax County,82648,2014
-"51 , 61",VA,Fauquier County,68140,2014
-"51 , 63",VA,Floyd County,35073,2014
-"51 , 65",VA,Fluvanna County,49274,2014
-"51 , 67",VA,Franklin County,39049,2014
-"51 , 69",VA,Frederick County,52722,2014
-"51 , 71",VA,Giles County,35816,2014
-"51 , 73",VA,Gloucester County,47211,2014
-"51 , 75",VA,Goochland County,61142,2014
-"51 , 77",VA,Grayson County,29386,2014
-"51 , 79",VA,Greene County,49974,2014
-"51 , 81",VA,Greensville County,30049,2014
-"51 , 83",VA,Halifax County,30119,2014
-"51 , 85",VA,Hanover County,65423,2014
-"51 , 87",VA,Henrico County,51201,2014
-"51 , 89",VA,Henry County,31360,2014
-"51 , 91",VA,Highland County,31219,2014
-"51 , 93",VA,Isle of Wight County,49437,2014
-"51 , 95",VA,James City County,62326,2014
-"51 , 97",VA,King and Queen County,36367,2014
-"51 , 99",VA,King George County,57322,2014
-"51 , 101",VA,King William County,52899,2014
-"51 , 103",VA,Lancaster County,36077,2014
-"51 , 105",VA,Lee County,25067,2014
-"51 , 107",VA,Loudoun County,90122,2014
-"51 , 109",VA,Louisa County,43127,2014
-"51 , 111",VA,Lunenburg County,28713,2014
-"51 , 113",VA,Madison County,41005,2014
-"51 , 115",VA,Mathews County,44729,2014
-"51 , 117",VA,Mecklenburg County,30881,2014
-"51 , 119",VA,Middlesex County,38636,2014
-"51 , 121",VA,Montgomery County,34603,2014
-"51 , 125",VA,Nelson County,38719,2014
-"51 , 127",VA,New Kent County,58204,2014
-"51 , 131",VA,Northampton County,29526,2014
-"51 , 133",VA,Northumberland County,38036,2014
-"51 , 135",VA,Nottoway County,31021,2014
-"51 , 137",VA,Orange County,46169,2014
-"51 , 139",VA,Page County,34509,2014
-"51 , 141",VA,Patrick County,29958,2014
-"51 , 143",VA,Pittsylvania County,36029,2014
-"51 , 145",VA,Powhatan County,57458,2014
-"51 , 147",VA,Prince Edward County,29573,2014
-"51 , 149",VA,Prince George County,49503,2014
-"51 , 153",VA,Prince William County,72977,2014
-"51 , 155",VA,Pulaski County,35694,2014
-"51 , 157",VA,Rappahannock County,50132,2014
-"51 , 159",VA,Richmond County,33002,2014
-"51 , 161",VA,Roanoke County,50351,2014
-"51 , 163",VA,Rockbridge County,37877,2014
-"51 , 165",VA,Rockingham County,43727,2014
-"51 , 167",VA,Russell County,28943,2014
-"51 , 169",VA,Scott County,30199,2014
-"51 , 171",VA,Shenandoah County,41872,2014
-"51 , 173",VA,Smyth County,31645,2014
-"51 , 175",VA,Southampton County,35349,2014
-"51 , 177",VA,Spotsylvania County,65411,2014
-"51 , 179",VA,Stafford County,75556,2014
-"51 , 181",VA,Surry County,38420,2014
-"51 , 183",VA,Sussex County,30302,2014
-"51 , 185",VA,Tazewell County,29427,2014
-"51 , 187",VA,Warren County,46765,2014
-"51 , 191",VA,Washington County,35833,2014
-"51 , 193",VA,Westmoreland County,36210,2014
-"51 , 195",VA,Wise County,28737,2014
-"51 , 197",VA,Wythe County,33262,2014
-"51 , 199",VA,York County,65397,2014
-"51 , 510",VA,Alexandria city,59344,2014
-"51 , 515",VA,Bedford city,30715,2014
-"51 , 520",VA,Bristol city,29112,2014
-"51 , 530",VA,Buena Vista city,33818,2014
-"51 , 540",VA,Charlottesville city,31363,2014
-"51 , 550",VA,Chesapeake city,54067,2014
-"51 , 570",VA,Colonial Heights city,43765,2014
-"51 , 580",VA,Covington city,31688,2014
-"51 , 590",VA,Danville city,27082,2014
-"51 , 595",VA,Emporia city,29388,2014
-"51 , 600",VA,Fairfax city,67166,2014
-"51 , 610",VA,Falls Church city,79421,2014
-"51 , 620",VA,Franklin city,31910,2014
-"51 , 630",VA,Fredericksburg city,36636,2014
-"51 , 640",VA,Galax city,28381,2014
-"51 , 650",VA,Hampton city,39882,2014
-"51 , 660",VA,Harrisonburg city,31057,2014
-"51 , 670",VA,Hopewell city,32845,2014
-"51 , 678",VA,Lexington city,31139,2014
-"51 , 680",VA,Lynchburg city,31973,2014
-"51 , 683",VA,Manassas city,61387,2014
-"51 , 685",VA,Manassas Park city,62637,2014
-"51 , 690",VA,Martinsville city,27736,2014
-"51 , 700",VA,Newport News city,38406,2014
-"51 , 710",VA,Norfolk city,32026,2014
-"51 , 720",VA,Norton city,27135,2014
-"51 , 730",VA,Petersburg city,28558,2014
-"51 , 735",VA,Poquoson city,67765,2014
-"51 , 740",VA,Portsmouth city,34523,2014
-"51 , 750",VA,Radford city,27040,2014
-"51 , 760",VA,Richmond city,31730,2014
-"51 , 770",VA,Roanoke city,31523,2014
-"51 , 775",VA,Salem city,40439,2014
-"51 , 790",VA,Staunton city,33921,2014
-"51 , 800",VA,Suffolk city,46416,2014
-"51 , 810",VA,Virginia Beach city,50361,2014
-"51 , 820",VA,Waynesboro city,34384,2014
-"51 , 830",VA,Williamsburg city,34623,2014
-"51 , 840",VA,Winchester city,37276,2014
-"51 , 1",VA,Accomack County,30063,2015
-"51 , 3",VA,Albemarle County,53104,2015
-"51 , 5",VA,Alleghany County,37349,2015
-"51 , 7",VA,Amelia County,42591,2015
-"51 , 9",VA,Amherst County,37549,2015
-"51 , 11",VA,Appomattox County,36939,2015
-"51 , 13",VA,Arlington County,67161,2015
-"51 , 15",VA,Augusta County,45434,2015
-"51 , 17",VA,Bath County,36523,2015
-"51 , 19",VA,Bedford County,47263,2015
-"51 , 21",VA,Bland County,32742,2015
-"51 , 23",VA,Botetourt County,52094,2015
-"51 , 25",VA,Brunswick County,30503,2015
-"51 , 27",VA,Buchanan County,24427,2015
-"51 , 29",VA,Buckingham County,30610,2015
-"51 , 31",VA,Campbell County,38606,2015
-"51 , 33",VA,Caroline County,41640,2015
-"51 , 35",VA,Carroll County,31850,2015
-"51 , 36",VA,Charles City County,43275,2015
-"51 , 37",VA,Charlotte County,30276,2015
-"51 , 41",VA,Chesterfield County,61907,2015
-"51 , 43",VA,Clarke County,53777,2015
-"51 , 45",VA,Craig County,38869,2015
-"51 , 47",VA,Culpeper County,50162,2015
-"51 , 49",VA,Cumberland County,33700,2015
-"51 , 51",VA,Dickenson County,25479,2015
-"51 , 53",VA,Dinwiddie County,42123,2015
-"51 , 57",VA,Essex County,37239,2015
-"51 , 59",VA,Fairfax County,82648,2015
-"51 , 61",VA,Fauquier County,68140,2015
-"51 , 63",VA,Floyd County,35073,2015
-"51 , 65",VA,Fluvanna County,49274,2015
-"51 , 67",VA,Franklin County,39049,2015
-"51 , 69",VA,Frederick County,52722,2015
-"51 , 71",VA,Giles County,35816,2015
-"51 , 73",VA,Gloucester County,47211,2015
-"51 , 75",VA,Goochland County,61142,2015
-"51 , 77",VA,Grayson County,29386,2015
-"51 , 79",VA,Greene County,49974,2015
-"51 , 81",VA,Greensville County,30049,2015
-"51 , 83",VA,Halifax County,30119,2015
-"51 , 85",VA,Hanover County,65423,2015
-"51 , 87",VA,Henrico County,51201,2015
-"51 , 89",VA,Henry County,31360,2015
-"51 , 91",VA,Highland County,31219,2015
-"51 , 93",VA,Isle of Wight County,49437,2015
-"51 , 95",VA,James City County,62326,2015
-"51 , 97",VA,King and Queen County,36367,2015
-"51 , 99",VA,King George County,57322,2015
-"51 , 101",VA,King William County,52899,2015
-"51 , 103",VA,Lancaster County,36077,2015
-"51 , 105",VA,Lee County,25067,2015
-"51 , 107",VA,Loudoun County,90122,2015
-"51 , 109",VA,Louisa County,43127,2015
-"51 , 111",VA,Lunenburg County,28713,2015
-"51 , 113",VA,Madison County,41005,2015
-"51 , 115",VA,Mathews County,44729,2015
-"51 , 117",VA,Mecklenburg County,30881,2015
-"51 , 119",VA,Middlesex County,38636,2015
-"51 , 121",VA,Montgomery County,34603,2015
-"51 , 125",VA,Nelson County,38719,2015
-"51 , 127",VA,New Kent County,58204,2015
-"51 , 131",VA,Northampton County,29526,2015
-"51 , 133",VA,Northumberland County,38036,2015
-"51 , 135",VA,Nottoway County,31021,2015
-"51 , 137",VA,Orange County,46169,2015
-"51 , 139",VA,Page County,34509,2015
-"51 , 141",VA,Patrick County,29958,2015
-"51 , 143",VA,Pittsylvania County,36029,2015
-"51 , 145",VA,Powhatan County,57458,2015
-"51 , 147",VA,Prince Edward County,29573,2015
-"51 , 149",VA,Prince George County,49503,2015
-"51 , 153",VA,Prince William County,72977,2015
-"51 , 155",VA,Pulaski County,35694,2015
-"51 , 157",VA,Rappahannock County,50132,2015
-"51 , 159",VA,Richmond County,33002,2015
-"51 , 161",VA,Roanoke County,50351,2015
-"51 , 163",VA,Rockbridge County,37877,2015
-"51 , 165",VA,Rockingham County,43727,2015
-"51 , 167",VA,Russell County,28943,2015
-"51 , 169",VA,Scott County,30199,2015
-"51 , 171",VA,Shenandoah County,41872,2015
-"51 , 173",VA,Smyth County,31645,2015
-"51 , 175",VA,Southampton County,35349,2015
-"51 , 177",VA,Spotsylvania County,65411,2015
-"51 , 179",VA,Stafford County,75556,2015
-"51 , 181",VA,Surry County,38420,2015
-"51 , 183",VA,Sussex County,30302,2015
-"51 , 185",VA,Tazewell County,29427,2015
-"51 , 187",VA,Warren County,46765,2015
-"51 , 191",VA,Washington County,35833,2015
-"51 , 193",VA,Westmoreland County,36210,2015
-"51 , 195",VA,Wise County,28737,2015
-"51 , 197",VA,Wythe County,33262,2015
-"51 , 199",VA,York County,65397,2015
-"51 , 510",VA,Alexandria city,59344,2015
-"51 , 515",VA,Bedford city,30715,2015
-"51 , 520",VA,Bristol city,29112,2015
-"51 , 530",VA,Buena Vista city,33818,2015
-"51 , 540",VA,Charlottesville city,31363,2015
-"51 , 550",VA,Chesapeake city,54067,2015
-"51 , 570",VA,Colonial Heights city,43765,2015
-"51 , 580",VA,Covington city,31688,2015
-"51 , 590",VA,Danville city,27082,2015
-"51 , 595",VA,Emporia city,29388,2015
-"51 , 600",VA,Fairfax city,67166,2015
-"51 , 610",VA,Falls Church city,79421,2015
-"51 , 620",VA,Franklin city,31910,2015
-"51 , 630",VA,Fredericksburg city,36636,2015
-"51 , 640",VA,Galax city,28381,2015
-"51 , 650",VA,Hampton city,39882,2015
-"51 , 660",VA,Harrisonburg city,31057,2015
-"51 , 670",VA,Hopewell city,32845,2015
-"51 , 678",VA,Lexington city,31139,2015
-"51 , 680",VA,Lynchburg city,31973,2015
-"51 , 683",VA,Manassas city,61387,2015
-"51 , 685",VA,Manassas Park city,62637,2015
-"51 , 690",VA,Martinsville city,27736,2015
-"51 , 700",VA,Newport News city,38406,2015
-"51 , 710",VA,Norfolk city,32026,2015
-"51 , 720",VA,Norton city,27135,2015
-"51 , 730",VA,Petersburg city,28558,2015
-"51 , 735",VA,Poquoson city,67765,2015
-"51 , 740",VA,Portsmouth city,34523,2015
-"51 , 750",VA,Radford city,27040,2015
-"51 , 760",VA,Richmond city,31730,2015
-"51 , 770",VA,Roanoke city,31523,2015
-"51 , 775",VA,Salem city,40439,2015
-"51 , 790",VA,Staunton city,33921,2015
-"51 , 800",VA,Suffolk city,46416,2015
-"51 , 810",VA,Virginia Beach city,50361,2015
-"51 , 820",VA,Waynesboro city,34384,2015
-"51 , 830",VA,Williamsburg city,34623,2015
-"51 , 840",VA,Winchester city,37276,2015
-"51 , 1",VA,Accomack County,30063,2016
-"51 , 3",VA,Albemarle County,53104,2016
-"51 , 5",VA,Alleghany County,37349,2016
-"51 , 7",VA,Amelia County,42591,2016
-"51 , 9",VA,Amherst County,37549,2016
-"51 , 11",VA,Appomattox County,36939,2016
-"51 , 13",VA,Arlington County,67161,2016
-"51 , 15",VA,Augusta County,45434,2016
-"51 , 17",VA,Bath County,36523,2016
-"51 , 19",VA,Bedford County,47263,2016
-"51 , 21",VA,Bland County,32742,2016
-"51 , 23",VA,Botetourt County,52094,2016
-"51 , 25",VA,Brunswick County,30503,2016
-"51 , 27",VA,Buchanan County,24427,2016
-"51 , 29",VA,Buckingham County,30610,2016
-"51 , 31",VA,Campbell County,38606,2016
-"51 , 33",VA,Caroline County,41640,2016
-"51 , 35",VA,Carroll County,31850,2016
-"51 , 36",VA,Charles City County,43275,2016
-"51 , 37",VA,Charlotte County,30276,2016
-"51 , 41",VA,Chesterfield County,61907,2016
-"51 , 43",VA,Clarke County,53777,2016
-"51 , 45",VA,Craig County,38869,2016
-"51 , 47",VA,Culpeper County,50162,2016
-"51 , 49",VA,Cumberland County,33700,2016
-"51 , 51",VA,Dickenson County,25479,2016
-"51 , 53",VA,Dinwiddie County,42123,2016
-"51 , 57",VA,Essex County,37239,2016
-"51 , 59",VA,Fairfax County,82648,2016
-"51 , 61",VA,Fauquier County,68140,2016
-"51 , 63",VA,Floyd County,35073,2016
-"51 , 65",VA,Fluvanna County,49274,2016
-"51 , 67",VA,Franklin County,39049,2016
-"51 , 69",VA,Frederick County,52722,2016
-"51 , 71",VA,Giles County,35816,2016
-"51 , 73",VA,Gloucester County,47211,2016
-"51 , 75",VA,Goochland County,61142,2016
-"51 , 77",VA,Grayson County,29386,2016
-"51 , 79",VA,Greene County,49974,2016
-"51 , 81",VA,Greensville County,30049,2016
-"51 , 83",VA,Halifax County,30119,2016
-"51 , 85",VA,Hanover County,65423,2016
-"51 , 87",VA,Henrico County,51201,2016
-"51 , 89",VA,Henry County,31360,2016
-"51 , 91",VA,Highland County,31219,2016
-"51 , 93",VA,Isle of Wight County,49437,2016
-"51 , 95",VA,James City County,62326,2016
-"51 , 97",VA,King and Queen County,36367,2016
-"51 , 99",VA,King George County,57322,2016
-"51 , 101",VA,King William County,52899,2016
-"51 , 103",VA,Lancaster County,36077,2016
-"51 , 105",VA,Lee County,25067,2016
-"51 , 107",VA,Loudoun County,90122,2016
-"51 , 109",VA,Louisa County,43127,2016
-"51 , 111",VA,Lunenburg County,28713,2016
-"51 , 113",VA,Madison County,41005,2016
-"51 , 115",VA,Mathews County,44729,2016
-"51 , 117",VA,Mecklenburg County,30881,2016
-"51 , 119",VA,Middlesex County,38636,2016
-"51 , 121",VA,Montgomery County,34603,2016
-"51 , 125",VA,Nelson County,38719,2016
-"51 , 127",VA,New Kent County,58204,2016
-"51 , 131",VA,Northampton County,29526,2016
-"51 , 133",VA,Northumberland County,38036,2016
-"51 , 135",VA,Nottoway County,31021,2016
-"51 , 137",VA,Orange County,46169,2016
-"51 , 139",VA,Page County,34509,2016
-"51 , 141",VA,Patrick County,29958,2016
-"51 , 143",VA,Pittsylvania County,36029,2016
-"51 , 145",VA,Powhatan County,57458,2016
-"51 , 147",VA,Prince Edward County,29573,2016
-"51 , 149",VA,Prince George County,49503,2016
-"51 , 153",VA,Prince William County,72977,2016
-"51 , 155",VA,Pulaski County,35694,2016
-"51 , 157",VA,Rappahannock County,50132,2016
-"51 , 159",VA,Richmond County,33002,2016
-"51 , 161",VA,Roanoke County,50351,2016
-"51 , 163",VA,Rockbridge County,37877,2016
-"51 , 165",VA,Rockingham County,43727,2016
-"51 , 167",VA,Russell County,28943,2016
-"51 , 169",VA,Scott County,30199,2016
-"51 , 171",VA,Shenandoah County,41872,2016
-"51 , 173",VA,Smyth County,31645,2016
-"51 , 175",VA,Southampton County,35349,2016
-"51 , 177",VA,Spotsylvania County,65411,2016
-"51 , 179",VA,Stafford County,75556,2016
-"51 , 181",VA,Surry County,38420,2016
-"51 , 183",VA,Sussex County,30302,2016
-"51 , 185",VA,Tazewell County,29427,2016
-"51 , 187",VA,Warren County,46765,2016
-"51 , 191",VA,Washington County,35833,2016
-"51 , 193",VA,Westmoreland County,36210,2016
-"51 , 195",VA,Wise County,28737,2016
-"51 , 197",VA,Wythe County,33262,2016
-"51 , 199",VA,York County,65397,2016
-"51 , 510",VA,Alexandria city,59344,2016
-"51 , 515",VA,Bedford city,30715,2016
-"51 , 520",VA,Bristol city,29112,2016
-"51 , 530",VA,Buena Vista city,33818,2016
-"51 , 540",VA,Charlottesville city,31363,2016
-"51 , 550",VA,Chesapeake city,54067,2016
-"51 , 570",VA,Colonial Heights city,43765,2016
-"51 , 580",VA,Covington city,31688,2016
-"51 , 590",VA,Danville city,27082,2016
-"51 , 595",VA,Emporia city,29388,2016
-"51 , 600",VA,Fairfax city,67166,2016
-"51 , 610",VA,Falls Church city,79421,2016
-"51 , 620",VA,Franklin city,31910,2016
-"51 , 630",VA,Fredericksburg city,36636,2016
-"51 , 640",VA,Galax city,28381,2016
-"51 , 650",VA,Hampton city,39882,2016
-"51 , 660",VA,Harrisonburg city,31057,2016
-"51 , 670",VA,Hopewell city,32845,2016
-"51 , 678",VA,Lexington city,31139,2016
-"51 , 680",VA,Lynchburg city,31973,2016
-"51 , 683",VA,Manassas city,61387,2016
-"51 , 685",VA,Manassas Park city,62637,2016
-"51 , 690",VA,Martinsville city,27736,2016
-"51 , 700",VA,Newport News city,38406,2016
-"51 , 710",VA,Norfolk city,32026,2016
-"51 , 720",VA,Norton city,27135,2016
-"51 , 730",VA,Petersburg city,28558,2016
-"51 , 735",VA,Poquoson city,67765,2016
-"51 , 740",VA,Portsmouth city,34523,2016
-"51 , 750",VA,Radford city,27040,2016
-"51 , 760",VA,Richmond city,31730,2016
-"51 , 770",VA,Roanoke city,31523,2016
-"51 , 775",VA,Salem city,40439,2016
-"51 , 790",VA,Staunton city,33921,2016
-"51 , 800",VA,Suffolk city,46416,2016
-"51 , 810",VA,Virginia Beach city,50361,2016
-"51 , 820",VA,Waynesboro city,34384,2016
-"51 , 830",VA,Williamsburg city,34623,2016
-"51 , 840",VA,Winchester city,37276,2016
-"51 , 1",VA,Accomack County,30063,2017
-"51 , 3",VA,Albemarle County,53104,2017
-"51 , 5",VA,Alleghany County,37349,2017
-"51 , 7",VA,Amelia County,42591,2017
-"51 , 9",VA,Amherst County,37549,2017
-"51 , 11",VA,Appomattox County,36939,2017
-"51 , 13",VA,Arlington County,67161,2017
-"51 , 15",VA,Augusta County,45434,2017
-"51 , 17",VA,Bath County,36523,2017
-"51 , 19",VA,Bedford County,47263,2017
-"51 , 21",VA,Bland County,32742,2017
-"51 , 23",VA,Botetourt County,52094,2017
-"51 , 25",VA,Brunswick County,30503,2017
-"51 , 27",VA,Buchanan County,24427,2017
-"51 , 29",VA,Buckingham County,30610,2017
-"51 , 31",VA,Campbell County,38606,2017
-"51 , 33",VA,Caroline County,41640,2017
-"51 , 35",VA,Carroll County,31850,2017
-"51 , 36",VA,Charles City County,43275,2017
-"51 , 37",VA,Charlotte County,30276,2017
-"51 , 41",VA,Chesterfield County,61907,2017
-"51 , 43",VA,Clarke County,53777,2017
-"51 , 45",VA,Craig County,38869,2017
-"51 , 47",VA,Culpeper County,50162,2017
-"51 , 49",VA,Cumberland County,33700,2017
-"51 , 51",VA,Dickenson County,25479,2017
-"51 , 53",VA,Dinwiddie County,42123,2017
-"51 , 57",VA,Essex County,37239,2017
-"51 , 59",VA,Fairfax County,82648,2017
-"51 , 61",VA,Fauquier County,68140,2017
-"51 , 63",VA,Floyd County,35073,2017
-"51 , 65",VA,Fluvanna County,49274,2017
-"51 , 67",VA,Franklin County,39049,2017
-"51 , 69",VA,Frederick County,52722,2017
-"51 , 71",VA,Giles County,35816,2017
-"51 , 73",VA,Gloucester County,47211,2017
-"51 , 75",VA,Goochland County,61142,2017
-"51 , 77",VA,Grayson County,29386,2017
-"51 , 79",VA,Greene County,49974,2017
-"51 , 81",VA,Greensville County,30049,2017
-"51 , 83",VA,Halifax County,30119,2017
-"51 , 85",VA,Hanover County,65423,2017
-"51 , 87",VA,Henrico County,51201,2017
-"51 , 89",VA,Henry County,31360,2017
-"51 , 91",VA,Highland County,31219,2017
-"51 , 93",VA,Isle of Wight County,49437,2017
-"51 , 95",VA,James City County,62326,2017
-"51 , 97",VA,King and Queen County,36367,2017
-"51 , 99",VA,King George County,57322,2017
-"51 , 101",VA,King William County,52899,2017
-"51 , 103",VA,Lancaster County,36077,2017
-"51 , 105",VA,Lee County,25067,2017
-"51 , 107",VA,Loudoun County,90122,2017
-"51 , 109",VA,Louisa County,43127,2017
-"51 , 111",VA,Lunenburg County,28713,2017
-"51 , 113",VA,Madison County,41005,2017
-"51 , 115",VA,Mathews County,44729,2017
-"51 , 117",VA,Mecklenburg County,30881,2017
-"51 , 119",VA,Middlesex County,38636,2017
-"51 , 121",VA,Montgomery County,34603,2017
-"51 , 125",VA,Nelson County,38719,2017
-"51 , 127",VA,New Kent County,58204,2017
-"51 , 131",VA,Northampton County,29526,2017
-"51 , 133",VA,Northumberland County,38036,2017
-"51 , 135",VA,Nottoway County,31021,2017
-"51 , 137",VA,Orange County,46169,2017
-"51 , 139",VA,Page County,34509,2017
-"51 , 141",VA,Patrick County,29958,2017
-"51 , 143",VA,Pittsylvania County,36029,2017
-"51 , 145",VA,Powhatan County,57458,2017
-"51 , 147",VA,Prince Edward County,29573,2017
-"51 , 149",VA,Prince George County,49503,2017
-"51 , 153",VA,Prince William County,72977,2017
-"51 , 155",VA,Pulaski County,35694,2017
-"51 , 157",VA,Rappahannock County,50132,2017
-"51 , 159",VA,Richmond County,33002,2017
-"51 , 161",VA,Roanoke County,50351,2017
-"51 , 163",VA,Rockbridge County,37877,2017
-"51 , 165",VA,Rockingham County,43727,2017
-"51 , 167",VA,Russell County,28943,2017
-"51 , 169",VA,Scott County,30199,2017
-"51 , 171",VA,Shenandoah County,41872,2017
-"51 , 173",VA,Smyth County,31645,2017
-"51 , 175",VA,Southampton County,35349,2017
-"51 , 177",VA,Spotsylvania County,65411,2017
-"51 , 179",VA,Stafford County,75556,2017
-"51 , 181",VA,Surry County,38420,2017
-"51 , 183",VA,Sussex County,30302,2017
-"51 , 185",VA,Tazewell County,29427,2017
-"51 , 187",VA,Warren County,46765,2017
-"51 , 191",VA,Washington County,35833,2017
-"51 , 193",VA,Westmoreland County,36210,2017
-"51 , 195",VA,Wise County,28737,2017
-"51 , 197",VA,Wythe County,33262,2017
-"51 , 199",VA,York County,65397,2017
-"51 , 510",VA,Alexandria city,59344,2017
-"51 , 515",VA,Bedford city,30715,2017
-"51 , 520",VA,Bristol city,29112,2017
-"51 , 530",VA,Buena Vista city,33818,2017
-"51 , 540",VA,Charlottesville city,31363,2017
-"51 , 550",VA,Chesapeake city,54067,2017
-"51 , 570",VA,Colonial Heights city,43765,2017
-"51 , 580",VA,Covington city,31688,2017
-"51 , 590",VA,Danville city,27082,2017
-"51 , 595",VA,Emporia city,29388,2017
-"51 , 600",VA,Fairfax city,67166,2017
-"51 , 610",VA,Falls Church city,79421,2017
-"51 , 620",VA,Franklin city,31910,2017
-"51 , 630",VA,Fredericksburg city,36636,2017
-"51 , 640",VA,Galax city,28381,2017
-"51 , 650",VA,Hampton city,39882,2017
-"51 , 660",VA,Harrisonburg city,31057,2017
-"51 , 670",VA,Hopewell city,32845,2017
-"51 , 678",VA,Lexington city,31139,2017
-"51 , 680",VA,Lynchburg city,31973,2017
-"51 , 683",VA,Manassas city,61387,2017
-"51 , 685",VA,Manassas Park city,62637,2017
-"51 , 690",VA,Martinsville city,27736,2017
-"51 , 700",VA,Newport News city,38406,2017
-"51 , 710",VA,Norfolk city,32026,2017
-"51 , 720",VA,Norton city,27135,2017
-"51 , 730",VA,Petersburg city,28558,2017
-"51 , 735",VA,Poquoson city,67765,2017
-"51 , 740",VA,Portsmouth city,34523,2017
-"51 , 750",VA,Radford city,27040,2017
-"51 , 760",VA,Richmond city,31730,2017
-"51 , 770",VA,Roanoke city,31523,2017
-"51 , 775",VA,Salem city,40439,2017
-"51 , 790",VA,Staunton city,33921,2017
-"51 , 800",VA,Suffolk city,46416,2017
-"51 , 810",VA,Virginia Beach city,50361,2017
-"51 , 820",VA,Waynesboro city,34384,2017
-"51 , 830",VA,Williamsburg city,34623,2017
-"51 , 840",VA,Winchester city,37276,2017
-"51 , 1",VA,Accomack County,30063,2018
-"51 , 3",VA,Albemarle County,53104,2018
-"51 , 5",VA,Alleghany County,37349,2018
-"51 , 7",VA,Amelia County,42591,2018
-"51 , 9",VA,Amherst County,37549,2018
-"51 , 11",VA,Appomattox County,36939,2018
-"51 , 13",VA,Arlington County,67161,2018
-"51 , 15",VA,Augusta County,45434,2018
-"51 , 17",VA,Bath County,36523,2018
-"51 , 19",VA,Bedford County,47263,2018
-"51 , 21",VA,Bland County,32742,2018
-"51 , 23",VA,Botetourt County,52094,2018
-"51 , 25",VA,Brunswick County,30503,2018
-"51 , 27",VA,Buchanan County,24427,2018
-"51 , 29",VA,Buckingham County,30610,2018
-"51 , 31",VA,Campbell County,38606,2018
-"51 , 33",VA,Caroline County,41640,2018
-"51 , 35",VA,Carroll County,31850,2018
-"51 , 36",VA,Charles City County,43275,2018
-"51 , 37",VA,Charlotte County,30276,2018
-"51 , 41",VA,Chesterfield County,61907,2018
-"51 , 43",VA,Clarke County,53777,2018
-"51 , 45",VA,Craig County,38869,2018
-"51 , 47",VA,Culpeper County,50162,2018
-"51 , 49",VA,Cumberland County,33700,2018
-"51 , 51",VA,Dickenson County,25479,2018
-"51 , 53",VA,Dinwiddie County,42123,2018
-"51 , 57",VA,Essex County,37239,2018
-"51 , 59",VA,Fairfax County,82648,2018
-"51 , 61",VA,Fauquier County,68140,2018
-"51 , 63",VA,Floyd County,35073,2018
-"51 , 65",VA,Fluvanna County,49274,2018
-"51 , 67",VA,Franklin County,39049,2018
-"51 , 69",VA,Frederick County,52722,2018
-"51 , 71",VA,Giles County,35816,2018
-"51 , 73",VA,Gloucester County,47211,2018
-"51 , 75",VA,Goochland County,61142,2018
-"51 , 77",VA,Grayson County,29386,2018
-"51 , 79",VA,Greene County,49974,2018
-"51 , 81",VA,Greensville County,30049,2018
-"51 , 83",VA,Halifax County,30119,2018
-"51 , 85",VA,Hanover County,65423,2018
-"51 , 87",VA,Henrico County,51201,2018
-"51 , 89",VA,Henry County,31360,2018
-"51 , 91",VA,Highland County,31219,2018
-"51 , 93",VA,Isle of Wight County,49437,2018
-"51 , 95",VA,James City County,62326,2018
-"51 , 97",VA,King and Queen County,36367,2018
-"51 , 99",VA,King George County,57322,2018
-"51 , 101",VA,King William County,52899,2018
-"51 , 103",VA,Lancaster County,36077,2018
-"51 , 105",VA,Lee County,25067,2018
-"51 , 107",VA,Loudoun County,90122,2018
-"51 , 109",VA,Louisa County,43127,2018
-"51 , 111",VA,Lunenburg County,28713,2018
-"51 , 113",VA,Madison County,41005,2018
-"51 , 115",VA,Mathews County,44729,2018
-"51 , 117",VA,Mecklenburg County,30881,2018
-"51 , 119",VA,Middlesex County,38636,2018
-"51 , 121",VA,Montgomery County,34603,2018
-"51 , 125",VA,Nelson County,38719,2018
-"51 , 127",VA,New Kent County,58204,2018
-"51 , 131",VA,Northampton County,29526,2018
-"51 , 133",VA,Northumberland County,38036,2018
-"51 , 135",VA,Nottoway County,31021,2018
-"51 , 137",VA,Orange County,46169,2018
-"51 , 139",VA,Page County,34509,2018
-"51 , 141",VA,Patrick County,29958,2018
-"51 , 143",VA,Pittsylvania County,36029,2018
-"51 , 145",VA,Powhatan County,57458,2018
-"51 , 147",VA,Prince Edward County,29573,2018
-"51 , 149",VA,Prince George County,49503,2018
-"51 , 153",VA,Prince William County,72977,2018
-"51 , 155",VA,Pulaski County,35694,2018
-"51 , 157",VA,Rappahannock County,50132,2018
-"51 , 159",VA,Richmond County,33002,2018
-"51 , 161",VA,Roanoke County,50351,2018
-"51 , 163",VA,Rockbridge County,37877,2018
-"51 , 165",VA,Rockingham County,43727,2018
-"51 , 167",VA,Russell County,28943,2018
-"51 , 169",VA,Scott County,30199,2018
-"51 , 171",VA,Shenandoah County,41872,2018
-"51 , 173",VA,Smyth County,31645,2018
-"51 , 175",VA,Southampton County,35349,2018
-"51 , 177",VA,Spotsylvania County,65411,2018
-"51 , 179",VA,Stafford County,75556,2018
-"51 , 181",VA,Surry County,38420,2018
-"51 , 183",VA,Sussex County,30302,2018
-"51 , 185",VA,Tazewell County,29427,2018
-"51 , 187",VA,Warren County,46765,2018
-"51 , 191",VA,Washington County,35833,2018
-"51 , 193",VA,Westmoreland County,36210,2018
-"51 , 195",VA,Wise County,28737,2018
-"51 , 197",VA,Wythe County,33262,2018
-"51 , 199",VA,York County,65397,2018
-"51 , 510",VA,Alexandria city,59344,2018
-"51 , 515",VA,Bedford city,30715,2018
-"51 , 520",VA,Bristol city,29112,2018
-"51 , 530",VA,Buena Vista city,33818,2018
-"51 , 540",VA,Charlottesville city,31363,2018
-"51 , 550",VA,Chesapeake city,54067,2018
-"51 , 570",VA,Colonial Heights city,43765,2018
-"51 , 580",VA,Covington city,31688,2018
-"51 , 590",VA,Danville city,27082,2018
-"51 , 595",VA,Emporia city,29388,2018
-"51 , 600",VA,Fairfax city,67166,2018
-"51 , 610",VA,Falls Church city,79421,2018
-"51 , 620",VA,Franklin city,31910,2018
-"51 , 630",VA,Fredericksburg city,36636,2018
-"51 , 640",VA,Galax city,28381,2018
-"51 , 650",VA,Hampton city,39882,2018
-"51 , 660",VA,Harrisonburg city,31057,2018
-"51 , 670",VA,Hopewell city,32845,2018
-"51 , 678",VA,Lexington city,31139,2018
-"51 , 680",VA,Lynchburg city,31973,2018
-"51 , 683",VA,Manassas city,61387,2018
-"51 , 685",VA,Manassas Park city,62637,2018
-"51 , 690",VA,Martinsville city,27736,2018
-"51 , 700",VA,Newport News city,38406,2018
-"51 , 710",VA,Norfolk city,32026,2018
-"51 , 720",VA,Norton city,27135,2018
-"51 , 730",VA,Petersburg city,28558,2018
-"51 , 735",VA,Poquoson city,67765,2018
-"51 , 740",VA,Portsmouth city,34523,2018
-"51 , 750",VA,Radford city,27040,2018
-"51 , 760",VA,Richmond city,31730,2018
-"51 , 770",VA,Roanoke city,31523,2018
-"51 , 775",VA,Salem city,40439,2018
-"51 , 790",VA,Staunton city,33921,2018
-"51 , 800",VA,Suffolk city,46416,2018
-"51 , 810",VA,Virginia Beach city,50361,2018
-"51 , 820",VA,Waynesboro city,34384,2018
-"51 , 830",VA,Williamsburg city,34623,2018
-"51 , 840",VA,Winchester city,37276,2018
+,State County FIPS,Postal Code,Name,Median Household Income,Year
+2818,"51 , 1",VA,Accomack County,30063,2003
+2819,"51 , 3",VA,Albemarle County,53104,2003
+2820,"51 , 5",VA,Alleghany County,37349,2003
+2821,"51 , 7",VA,Amelia County,42591,2003
+2822,"51 , 9",VA,Amherst County,37549,2003
+2823,"51 , 11",VA,Appomattox County,36939,2003
+2824,"51 , 13",VA,Arlington County,67161,2003
+2825,"51 , 15",VA,Augusta County,45434,2003
+2826,"51 , 17",VA,Bath County,36523,2003
+2827,"51 , 19",VA,Bedford County,47263,2003
+2828,"51 , 21",VA,Bland County,32742,2003
+2829,"51 , 23",VA,Botetourt County,52094,2003
+2830,"51 , 25",VA,Brunswick County,30503,2003
+2831,"51 , 27",VA,Buchanan County,24427,2003
+2832,"51 , 29",VA,Buckingham County,30610,2003
+2833,"51 , 31",VA,Campbell County,38606,2003
+2834,"51 , 33",VA,Caroline County,41640,2003
+2835,"51 , 35",VA,Carroll County,31850,2003
+2836,"51 , 36",VA,Charles City County,43275,2003
+2837,"51 , 37",VA,Charlotte County,30276,2003
+2838,"51 , 41",VA,Chesterfield County,61907,2003
+2839,"51 , 43",VA,Clarke County,53777,2003
+2840,"51 , 45",VA,Craig County,38869,2003
+2841,"51 , 47",VA,Culpeper County,50162,2003
+2842,"51 , 49",VA,Cumberland County,33700,2003
+2843,"51 , 51",VA,Dickenson County,25479,2003
+2844,"51 , 53",VA,Dinwiddie County,42123,2003
+2845,"51 , 57",VA,Essex County,37239,2003
+2846,"51 , 59",VA,Fairfax County,82648,2003
+2847,"51 , 61",VA,Fauquier County,68140,2003
+2848,"51 , 63",VA,Floyd County,35073,2003
+2849,"51 , 65",VA,Fluvanna County,49274,2003
+2850,"51 , 67",VA,Franklin County,39049,2003
+2851,"51 , 69",VA,Frederick County,52722,2003
+2852,"51 , 71",VA,Giles County,35816,2003
+2853,"51 , 73",VA,Gloucester County,47211,2003
+2854,"51 , 75",VA,Goochland County,61142,2003
+2855,"51 , 77",VA,Grayson County,29386,2003
+2856,"51 , 79",VA,Greene County,49974,2003
+2857,"51 , 81",VA,Greensville County,30049,2003
+2858,"51 , 83",VA,Halifax County,30119,2003
+2859,"51 , 85",VA,Hanover County,65423,2003
+2860,"51 , 87",VA,Henrico County,51201,2003
+2861,"51 , 89",VA,Henry County,31360,2003
+2862,"51 , 91",VA,Highland County,31219,2003
+2863,"51 , 93",VA,Isle of Wight County,49437,2003
+2864,"51 , 95",VA,James City County,62326,2003
+2865,"51 , 97",VA,King and Queen County,36367,2003
+2866,"51 , 99",VA,King George County,57322,2003
+2867,"51 , 101",VA,King William County,52899,2003
+2868,"51 , 103",VA,Lancaster County,36077,2003
+2869,"51 , 105",VA,Lee County,25067,2003
+2870,"51 , 107",VA,Loudoun County,90122,2003
+2871,"51 , 109",VA,Louisa County,43127,2003
+2872,"51 , 111",VA,Lunenburg County,28713,2003
+2873,"51 , 113",VA,Madison County,41005,2003
+2874,"51 , 115",VA,Mathews County,44729,2003
+2875,"51 , 117",VA,Mecklenburg County,30881,2003
+2876,"51 , 119",VA,Middlesex County,38636,2003
+2877,"51 , 121",VA,Montgomery County,34603,2003
+2878,"51 , 125",VA,Nelson County,38719,2003
+2879,"51 , 127",VA,New Kent County,58204,2003
+2880,"51 , 131",VA,Northampton County,29526,2003
+2881,"51 , 133",VA,Northumberland County,38036,2003
+2882,"51 , 135",VA,Nottoway County,31021,2003
+2883,"51 , 137",VA,Orange County,46169,2003
+2884,"51 , 139",VA,Page County,34509,2003
+2885,"51 , 141",VA,Patrick County,29958,2003
+2886,"51 , 143",VA,Pittsylvania County,36029,2003
+2887,"51 , 145",VA,Powhatan County,57458,2003
+2888,"51 , 147",VA,Prince Edward County,29573,2003
+2889,"51 , 149",VA,Prince George County,49503,2003
+2890,"51 , 153",VA,Prince William County,72977,2003
+2891,"51 , 155",VA,Pulaski County,35694,2003
+2892,"51 , 157",VA,Rappahannock County,50132,2003
+2893,"51 , 159",VA,Richmond County,33002,2003
+2894,"51 , 161",VA,Roanoke County,50351,2003
+2895,"51 , 163",VA,Rockbridge County,37877,2003
+2896,"51 , 165",VA,Rockingham County,43727,2003
+2897,"51 , 167",VA,Russell County,28943,2003
+2898,"51 , 169",VA,Scott County,30199,2003
+2899,"51 , 171",VA,Shenandoah County,41872,2003
+2900,"51 , 173",VA,Smyth County,31645,2003
+2901,"51 , 175",VA,Southampton County,35349,2003
+2902,"51 , 177",VA,Spotsylvania County,65411,2003
+2903,"51 , 179",VA,Stafford County,75556,2003
+2904,"51 , 181",VA,Surry County,38420,2003
+2905,"51 , 183",VA,Sussex County,30302,2003
+2906,"51 , 185",VA,Tazewell County,29427,2003
+2907,"51 , 187",VA,Warren County,46765,2003
+2908,"51 , 191",VA,Washington County,35833,2003
+2909,"51 , 193",VA,Westmoreland County,36210,2003
+2910,"51 , 195",VA,Wise County,28737,2003
+2911,"51 , 197",VA,Wythe County,33262,2003
+2912,"51 , 199",VA,York County,65397,2003
+2913,"51 , 510",VA,Alexandria city,59344,2003
+2914,"51 , 515",VA,Bedford city,30715,2003
+2915,"51 , 520",VA,Bristol city,29112,2003
+2916,"51 , 530",VA,Buena Vista city,33818,2003
+2917,"51 , 540",VA,Charlottesville city,31363,2003
+2918,"51 , 550",VA,Chesapeake city,54067,2003
+2919,"51 , 570",VA,Colonial Heights city,43765,2003
+2920,"51 , 580",VA,Covington city,31688,2003
+2921,"51 , 590",VA,Danville city,27082,2003
+2922,"51 , 595",VA,Emporia city,29388,2003
+2923,"51 , 600",VA,Fairfax city,67166,2003
+2924,"51 , 610",VA,Falls Church city,79421,2003
+2925,"51 , 620",VA,Franklin city,31910,2003
+2926,"51 , 630",VA,Fredericksburg city,36636,2003
+2927,"51 , 640",VA,Galax city,28381,2003
+2928,"51 , 650",VA,Hampton city,39882,2003
+2929,"51 , 660",VA,Harrisonburg city,31057,2003
+2930,"51 , 670",VA,Hopewell city,32845,2003
+2931,"51 , 678",VA,Lexington city,31139,2003
+2932,"51 , 680",VA,Lynchburg city,31973,2003
+2933,"51 , 683",VA,Manassas city,61387,2003
+2934,"51 , 685",VA,Manassas Park city,62637,2003
+2935,"51 , 690",VA,Martinsville city,27736,2003
+2936,"51 , 700",VA,Newport News city,38406,2003
+2937,"51 , 710",VA,Norfolk city,32026,2003
+2938,"51 , 720",VA,Norton city,27135,2003
+2939,"51 , 730",VA,Petersburg city,28558,2003
+2940,"51 , 735",VA,Poquoson city,67765,2003
+2941,"51 , 740",VA,Portsmouth city,34523,2003
+2942,"51 , 750",VA,Radford city,27040,2003
+2943,"51 , 760",VA,Richmond city,31730,2003
+2944,"51 , 770",VA,Roanoke city,31523,2003
+2945,"51 , 775",VA,Salem city,40439,2003
+2946,"51 , 790",VA,Staunton city,33921,2003
+2947,"51 , 800",VA,Suffolk city,46416,2003
+2948,"51 , 810",VA,Virginia Beach city,50361,2003
+2949,"51 , 820",VA,Waynesboro city,34384,2003
+2950,"51 , 830",VA,Williamsburg city,34623,2003
+2951,"51 , 840",VA,Winchester city,37276,2003
+2818,"51 , 1",VA,Accomack County,30063,2004
+2819,"51 , 3",VA,Albemarle County,53104,2004
+2820,"51 , 5",VA,Alleghany County,37349,2004
+2821,"51 , 7",VA,Amelia County,42591,2004
+2822,"51 , 9",VA,Amherst County,37549,2004
+2823,"51 , 11",VA,Appomattox County,36939,2004
+2824,"51 , 13",VA,Arlington County,67161,2004
+2825,"51 , 15",VA,Augusta County,45434,2004
+2826,"51 , 17",VA,Bath County,36523,2004
+2827,"51 , 19",VA,Bedford County,47263,2004
+2828,"51 , 21",VA,Bland County,32742,2004
+2829,"51 , 23",VA,Botetourt County,52094,2004
+2830,"51 , 25",VA,Brunswick County,30503,2004
+2831,"51 , 27",VA,Buchanan County,24427,2004
+2832,"51 , 29",VA,Buckingham County,30610,2004
+2833,"51 , 31",VA,Campbell County,38606,2004
+2834,"51 , 33",VA,Caroline County,41640,2004
+2835,"51 , 35",VA,Carroll County,31850,2004
+2836,"51 , 36",VA,Charles City County,43275,2004
+2837,"51 , 37",VA,Charlotte County,30276,2004
+2838,"51 , 41",VA,Chesterfield County,61907,2004
+2839,"51 , 43",VA,Clarke County,53777,2004
+2840,"51 , 45",VA,Craig County,38869,2004
+2841,"51 , 47",VA,Culpeper County,50162,2004
+2842,"51 , 49",VA,Cumberland County,33700,2004
+2843,"51 , 51",VA,Dickenson County,25479,2004
+2844,"51 , 53",VA,Dinwiddie County,42123,2004
+2845,"51 , 57",VA,Essex County,37239,2004
+2846,"51 , 59",VA,Fairfax County,82648,2004
+2847,"51 , 61",VA,Fauquier County,68140,2004
+2848,"51 , 63",VA,Floyd County,35073,2004
+2849,"51 , 65",VA,Fluvanna County,49274,2004
+2850,"51 , 67",VA,Franklin County,39049,2004
+2851,"51 , 69",VA,Frederick County,52722,2004
+2852,"51 , 71",VA,Giles County,35816,2004
+2853,"51 , 73",VA,Gloucester County,47211,2004
+2854,"51 , 75",VA,Goochland County,61142,2004
+2855,"51 , 77",VA,Grayson County,29386,2004
+2856,"51 , 79",VA,Greene County,49974,2004
+2857,"51 , 81",VA,Greensville County,30049,2004
+2858,"51 , 83",VA,Halifax County,30119,2004
+2859,"51 , 85",VA,Hanover County,65423,2004
+2860,"51 , 87",VA,Henrico County,51201,2004
+2861,"51 , 89",VA,Henry County,31360,2004
+2862,"51 , 91",VA,Highland County,31219,2004
+2863,"51 , 93",VA,Isle of Wight County,49437,2004
+2864,"51 , 95",VA,James City County,62326,2004
+2865,"51 , 97",VA,King and Queen County,36367,2004
+2866,"51 , 99",VA,King George County,57322,2004
+2867,"51 , 101",VA,King William County,52899,2004
+2868,"51 , 103",VA,Lancaster County,36077,2004
+2869,"51 , 105",VA,Lee County,25067,2004
+2870,"51 , 107",VA,Loudoun County,90122,2004
+2871,"51 , 109",VA,Louisa County,43127,2004
+2872,"51 , 111",VA,Lunenburg County,28713,2004
+2873,"51 , 113",VA,Madison County,41005,2004
+2874,"51 , 115",VA,Mathews County,44729,2004
+2875,"51 , 117",VA,Mecklenburg County,30881,2004
+2876,"51 , 119",VA,Middlesex County,38636,2004
+2877,"51 , 121",VA,Montgomery County,34603,2004
+2878,"51 , 125",VA,Nelson County,38719,2004
+2879,"51 , 127",VA,New Kent County,58204,2004
+2880,"51 , 131",VA,Northampton County,29526,2004
+2881,"51 , 133",VA,Northumberland County,38036,2004
+2882,"51 , 135",VA,Nottoway County,31021,2004
+2883,"51 , 137",VA,Orange County,46169,2004
+2884,"51 , 139",VA,Page County,34509,2004
+2885,"51 , 141",VA,Patrick County,29958,2004
+2886,"51 , 143",VA,Pittsylvania County,36029,2004
+2887,"51 , 145",VA,Powhatan County,57458,2004
+2888,"51 , 147",VA,Prince Edward County,29573,2004
+2889,"51 , 149",VA,Prince George County,49503,2004
+2890,"51 , 153",VA,Prince William County,72977,2004
+2891,"51 , 155",VA,Pulaski County,35694,2004
+2892,"51 , 157",VA,Rappahannock County,50132,2004
+2893,"51 , 159",VA,Richmond County,33002,2004
+2894,"51 , 161",VA,Roanoke County,50351,2004
+2895,"51 , 163",VA,Rockbridge County,37877,2004
+2896,"51 , 165",VA,Rockingham County,43727,2004
+2897,"51 , 167",VA,Russell County,28943,2004
+2898,"51 , 169",VA,Scott County,30199,2004
+2899,"51 , 171",VA,Shenandoah County,41872,2004
+2900,"51 , 173",VA,Smyth County,31645,2004
+2901,"51 , 175",VA,Southampton County,35349,2004
+2902,"51 , 177",VA,Spotsylvania County,65411,2004
+2903,"51 , 179",VA,Stafford County,75556,2004
+2904,"51 , 181",VA,Surry County,38420,2004
+2905,"51 , 183",VA,Sussex County,30302,2004
+2906,"51 , 185",VA,Tazewell County,29427,2004
+2907,"51 , 187",VA,Warren County,46765,2004
+2908,"51 , 191",VA,Washington County,35833,2004
+2909,"51 , 193",VA,Westmoreland County,36210,2004
+2910,"51 , 195",VA,Wise County,28737,2004
+2911,"51 , 197",VA,Wythe County,33262,2004
+2912,"51 , 199",VA,York County,65397,2004
+2913,"51 , 510",VA,Alexandria city,59344,2004
+2914,"51 , 515",VA,Bedford city,30715,2004
+2915,"51 , 520",VA,Bristol city,29112,2004
+2916,"51 , 530",VA,Buena Vista city,33818,2004
+2917,"51 , 540",VA,Charlottesville city,31363,2004
+2918,"51 , 550",VA,Chesapeake city,54067,2004
+2919,"51 , 570",VA,Colonial Heights city,43765,2004
+2920,"51 , 580",VA,Covington city,31688,2004
+2921,"51 , 590",VA,Danville city,27082,2004
+2922,"51 , 595",VA,Emporia city,29388,2004
+2923,"51 , 600",VA,Fairfax city,67166,2004
+2924,"51 , 610",VA,Falls Church city,79421,2004
+2925,"51 , 620",VA,Franklin city,31910,2004
+2926,"51 , 630",VA,Fredericksburg city,36636,2004
+2927,"51 , 640",VA,Galax city,28381,2004
+2928,"51 , 650",VA,Hampton city,39882,2004
+2929,"51 , 660",VA,Harrisonburg city,31057,2004
+2930,"51 , 670",VA,Hopewell city,32845,2004
+2931,"51 , 678",VA,Lexington city,31139,2004
+2932,"51 , 680",VA,Lynchburg city,31973,2004
+2933,"51 , 683",VA,Manassas city,61387,2004
+2934,"51 , 685",VA,Manassas Park city,62637,2004
+2935,"51 , 690",VA,Martinsville city,27736,2004
+2936,"51 , 700",VA,Newport News city,38406,2004
+2937,"51 , 710",VA,Norfolk city,32026,2004
+2938,"51 , 720",VA,Norton city,27135,2004
+2939,"51 , 730",VA,Petersburg city,28558,2004
+2940,"51 , 735",VA,Poquoson city,67765,2004
+2941,"51 , 740",VA,Portsmouth city,34523,2004
+2942,"51 , 750",VA,Radford city,27040,2004
+2943,"51 , 760",VA,Richmond city,31730,2004
+2944,"51 , 770",VA,Roanoke city,31523,2004
+2945,"51 , 775",VA,Salem city,40439,2004
+2946,"51 , 790",VA,Staunton city,33921,2004
+2947,"51 , 800",VA,Suffolk city,46416,2004
+2948,"51 , 810",VA,Virginia Beach city,50361,2004
+2949,"51 , 820",VA,Waynesboro city,34384,2004
+2950,"51 , 830",VA,Williamsburg city,34623,2004
+2951,"51 , 840",VA,Winchester city,37276,2004
+2818,"51 , 1",VA,Accomack County,30063,2005
+2819,"51 , 3",VA,Albemarle County,53104,2005
+2820,"51 , 5",VA,Alleghany County,37349,2005
+2821,"51 , 7",VA,Amelia County,42591,2005
+2822,"51 , 9",VA,Amherst County,37549,2005
+2823,"51 , 11",VA,Appomattox County,36939,2005
+2824,"51 , 13",VA,Arlington County,67161,2005
+2825,"51 , 15",VA,Augusta County,45434,2005
+2826,"51 , 17",VA,Bath County,36523,2005
+2827,"51 , 19",VA,Bedford County,47263,2005
+2828,"51 , 21",VA,Bland County,32742,2005
+2829,"51 , 23",VA,Botetourt County,52094,2005
+2830,"51 , 25",VA,Brunswick County,30503,2005
+2831,"51 , 27",VA,Buchanan County,24427,2005
+2832,"51 , 29",VA,Buckingham County,30610,2005
+2833,"51 , 31",VA,Campbell County,38606,2005
+2834,"51 , 33",VA,Caroline County,41640,2005
+2835,"51 , 35",VA,Carroll County,31850,2005
+2836,"51 , 36",VA,Charles City County,43275,2005
+2837,"51 , 37",VA,Charlotte County,30276,2005
+2838,"51 , 41",VA,Chesterfield County,61907,2005
+2839,"51 , 43",VA,Clarke County,53777,2005
+2840,"51 , 45",VA,Craig County,38869,2005
+2841,"51 , 47",VA,Culpeper County,50162,2005
+2842,"51 , 49",VA,Cumberland County,33700,2005
+2843,"51 , 51",VA,Dickenson County,25479,2005
+2844,"51 , 53",VA,Dinwiddie County,42123,2005
+2845,"51 , 57",VA,Essex County,37239,2005
+2846,"51 , 59",VA,Fairfax County,82648,2005
+2847,"51 , 61",VA,Fauquier County,68140,2005
+2848,"51 , 63",VA,Floyd County,35073,2005
+2849,"51 , 65",VA,Fluvanna County,49274,2005
+2850,"51 , 67",VA,Franklin County,39049,2005
+2851,"51 , 69",VA,Frederick County,52722,2005
+2852,"51 , 71",VA,Giles County,35816,2005
+2853,"51 , 73",VA,Gloucester County,47211,2005
+2854,"51 , 75",VA,Goochland County,61142,2005
+2855,"51 , 77",VA,Grayson County,29386,2005
+2856,"51 , 79",VA,Greene County,49974,2005
+2857,"51 , 81",VA,Greensville County,30049,2005
+2858,"51 , 83",VA,Halifax County,30119,2005
+2859,"51 , 85",VA,Hanover County,65423,2005
+2860,"51 , 87",VA,Henrico County,51201,2005
+2861,"51 , 89",VA,Henry County,31360,2005
+2862,"51 , 91",VA,Highland County,31219,2005
+2863,"51 , 93",VA,Isle of Wight County,49437,2005
+2864,"51 , 95",VA,James City County,62326,2005
+2865,"51 , 97",VA,King and Queen County,36367,2005
+2866,"51 , 99",VA,King George County,57322,2005
+2867,"51 , 101",VA,King William County,52899,2005
+2868,"51 , 103",VA,Lancaster County,36077,2005
+2869,"51 , 105",VA,Lee County,25067,2005
+2870,"51 , 107",VA,Loudoun County,90122,2005
+2871,"51 , 109",VA,Louisa County,43127,2005
+2872,"51 , 111",VA,Lunenburg County,28713,2005
+2873,"51 , 113",VA,Madison County,41005,2005
+2874,"51 , 115",VA,Mathews County,44729,2005
+2875,"51 , 117",VA,Mecklenburg County,30881,2005
+2876,"51 , 119",VA,Middlesex County,38636,2005
+2877,"51 , 121",VA,Montgomery County,34603,2005
+2878,"51 , 125",VA,Nelson County,38719,2005
+2879,"51 , 127",VA,New Kent County,58204,2005
+2880,"51 , 131",VA,Northampton County,29526,2005
+2881,"51 , 133",VA,Northumberland County,38036,2005
+2882,"51 , 135",VA,Nottoway County,31021,2005
+2883,"51 , 137",VA,Orange County,46169,2005
+2884,"51 , 139",VA,Page County,34509,2005
+2885,"51 , 141",VA,Patrick County,29958,2005
+2886,"51 , 143",VA,Pittsylvania County,36029,2005
+2887,"51 , 145",VA,Powhatan County,57458,2005
+2888,"51 , 147",VA,Prince Edward County,29573,2005
+2889,"51 , 149",VA,Prince George County,49503,2005
+2890,"51 , 153",VA,Prince William County,72977,2005
+2891,"51 , 155",VA,Pulaski County,35694,2005
+2892,"51 , 157",VA,Rappahannock County,50132,2005
+2893,"51 , 159",VA,Richmond County,33002,2005
+2894,"51 , 161",VA,Roanoke County,50351,2005
+2895,"51 , 163",VA,Rockbridge County,37877,2005
+2896,"51 , 165",VA,Rockingham County,43727,2005
+2897,"51 , 167",VA,Russell County,28943,2005
+2898,"51 , 169",VA,Scott County,30199,2005
+2899,"51 , 171",VA,Shenandoah County,41872,2005
+2900,"51 , 173",VA,Smyth County,31645,2005
+2901,"51 , 175",VA,Southampton County,35349,2005
+2902,"51 , 177",VA,Spotsylvania County,65411,2005
+2903,"51 , 179",VA,Stafford County,75556,2005
+2904,"51 , 181",VA,Surry County,38420,2005
+2905,"51 , 183",VA,Sussex County,30302,2005
+2906,"51 , 185",VA,Tazewell County,29427,2005
+2907,"51 , 187",VA,Warren County,46765,2005
+2908,"51 , 191",VA,Washington County,35833,2005
+2909,"51 , 193",VA,Westmoreland County,36210,2005
+2910,"51 , 195",VA,Wise County,28737,2005
+2911,"51 , 197",VA,Wythe County,33262,2005
+2912,"51 , 199",VA,York County,65397,2005
+2913,"51 , 510",VA,Alexandria city,59344,2005
+2914,"51 , 515",VA,Bedford city,30715,2005
+2915,"51 , 520",VA,Bristol city,29112,2005
+2916,"51 , 530",VA,Buena Vista city,33818,2005
+2917,"51 , 540",VA,Charlottesville city,31363,2005
+2918,"51 , 550",VA,Chesapeake city,54067,2005
+2919,"51 , 570",VA,Colonial Heights city,43765,2005
+2920,"51 , 580",VA,Covington city,31688,2005
+2921,"51 , 590",VA,Danville city,27082,2005
+2922,"51 , 595",VA,Emporia city,29388,2005
+2923,"51 , 600",VA,Fairfax city,67166,2005
+2924,"51 , 610",VA,Falls Church city,79421,2005
+2925,"51 , 620",VA,Franklin city,31910,2005
+2926,"51 , 630",VA,Fredericksburg city,36636,2005
+2927,"51 , 640",VA,Galax city,28381,2005
+2928,"51 , 650",VA,Hampton city,39882,2005
+2929,"51 , 660",VA,Harrisonburg city,31057,2005
+2930,"51 , 670",VA,Hopewell city,32845,2005
+2931,"51 , 678",VA,Lexington city,31139,2005
+2932,"51 , 680",VA,Lynchburg city,31973,2005
+2933,"51 , 683",VA,Manassas city,61387,2005
+2934,"51 , 685",VA,Manassas Park city,62637,2005
+2935,"51 , 690",VA,Martinsville city,27736,2005
+2936,"51 , 700",VA,Newport News city,38406,2005
+2937,"51 , 710",VA,Norfolk city,32026,2005
+2938,"51 , 720",VA,Norton city,27135,2005
+2939,"51 , 730",VA,Petersburg city,28558,2005
+2940,"51 , 735",VA,Poquoson city,67765,2005
+2941,"51 , 740",VA,Portsmouth city,34523,2005
+2942,"51 , 750",VA,Radford city,27040,2005
+2943,"51 , 760",VA,Richmond city,31730,2005
+2944,"51 , 770",VA,Roanoke city,31523,2005
+2945,"51 , 775",VA,Salem city,40439,2005
+2946,"51 , 790",VA,Staunton city,33921,2005
+2947,"51 , 800",VA,Suffolk city,46416,2005
+2948,"51 , 810",VA,Virginia Beach city,50361,2005
+2949,"51 , 820",VA,Waynesboro city,34384,2005
+2950,"51 , 830",VA,Williamsburg city,34623,2005
+2951,"51 , 840",VA,Winchester city,37276,2005
+2818,"51 , 1",VA,Accomack County,30063,2006
+2819,"51 , 3",VA,Albemarle County,53104,2006
+2820,"51 , 5",VA,Alleghany County,37349,2006
+2821,"51 , 7",VA,Amelia County,42591,2006
+2822,"51 , 9",VA,Amherst County,37549,2006
+2823,"51 , 11",VA,Appomattox County,36939,2006
+2824,"51 , 13",VA,Arlington County,67161,2006
+2825,"51 , 15",VA,Augusta County,45434,2006
+2826,"51 , 17",VA,Bath County,36523,2006
+2827,"51 , 19",VA,Bedford County,47263,2006
+2828,"51 , 21",VA,Bland County,32742,2006
+2829,"51 , 23",VA,Botetourt County,52094,2006
+2830,"51 , 25",VA,Brunswick County,30503,2006
+2831,"51 , 27",VA,Buchanan County,24427,2006
+2832,"51 , 29",VA,Buckingham County,30610,2006
+2833,"51 , 31",VA,Campbell County,38606,2006
+2834,"51 , 33",VA,Caroline County,41640,2006
+2835,"51 , 35",VA,Carroll County,31850,2006
+2836,"51 , 36",VA,Charles City County,43275,2006
+2837,"51 , 37",VA,Charlotte County,30276,2006
+2838,"51 , 41",VA,Chesterfield County,61907,2006
+2839,"51 , 43",VA,Clarke County,53777,2006
+2840,"51 , 45",VA,Craig County,38869,2006
+2841,"51 , 47",VA,Culpeper County,50162,2006
+2842,"51 , 49",VA,Cumberland County,33700,2006
+2843,"51 , 51",VA,Dickenson County,25479,2006
+2844,"51 , 53",VA,Dinwiddie County,42123,2006
+2845,"51 , 57",VA,Essex County,37239,2006
+2846,"51 , 59",VA,Fairfax County,82648,2006
+2847,"51 , 61",VA,Fauquier County,68140,2006
+2848,"51 , 63",VA,Floyd County,35073,2006
+2849,"51 , 65",VA,Fluvanna County,49274,2006
+2850,"51 , 67",VA,Franklin County,39049,2006
+2851,"51 , 69",VA,Frederick County,52722,2006
+2852,"51 , 71",VA,Giles County,35816,2006
+2853,"51 , 73",VA,Gloucester County,47211,2006
+2854,"51 , 75",VA,Goochland County,61142,2006
+2855,"51 , 77",VA,Grayson County,29386,2006
+2856,"51 , 79",VA,Greene County,49974,2006
+2857,"51 , 81",VA,Greensville County,30049,2006
+2858,"51 , 83",VA,Halifax County,30119,2006
+2859,"51 , 85",VA,Hanover County,65423,2006
+2860,"51 , 87",VA,Henrico County,51201,2006
+2861,"51 , 89",VA,Henry County,31360,2006
+2862,"51 , 91",VA,Highland County,31219,2006
+2863,"51 , 93",VA,Isle of Wight County,49437,2006
+2864,"51 , 95",VA,James City County,62326,2006
+2865,"51 , 97",VA,King and Queen County,36367,2006
+2866,"51 , 99",VA,King George County,57322,2006
+2867,"51 , 101",VA,King William County,52899,2006
+2868,"51 , 103",VA,Lancaster County,36077,2006
+2869,"51 , 105",VA,Lee County,25067,2006
+2870,"51 , 107",VA,Loudoun County,90122,2006
+2871,"51 , 109",VA,Louisa County,43127,2006
+2872,"51 , 111",VA,Lunenburg County,28713,2006
+2873,"51 , 113",VA,Madison County,41005,2006
+2874,"51 , 115",VA,Mathews County,44729,2006
+2875,"51 , 117",VA,Mecklenburg County,30881,2006
+2876,"51 , 119",VA,Middlesex County,38636,2006
+2877,"51 , 121",VA,Montgomery County,34603,2006
+2878,"51 , 125",VA,Nelson County,38719,2006
+2879,"51 , 127",VA,New Kent County,58204,2006
+2880,"51 , 131",VA,Northampton County,29526,2006
+2881,"51 , 133",VA,Northumberland County,38036,2006
+2882,"51 , 135",VA,Nottoway County,31021,2006
+2883,"51 , 137",VA,Orange County,46169,2006
+2884,"51 , 139",VA,Page County,34509,2006
+2885,"51 , 141",VA,Patrick County,29958,2006
+2886,"51 , 143",VA,Pittsylvania County,36029,2006
+2887,"51 , 145",VA,Powhatan County,57458,2006
+2888,"51 , 147",VA,Prince Edward County,29573,2006
+2889,"51 , 149",VA,Prince George County,49503,2006
+2890,"51 , 153",VA,Prince William County,72977,2006
+2891,"51 , 155",VA,Pulaski County,35694,2006
+2892,"51 , 157",VA,Rappahannock County,50132,2006
+2893,"51 , 159",VA,Richmond County,33002,2006
+2894,"51 , 161",VA,Roanoke County,50351,2006
+2895,"51 , 163",VA,Rockbridge County,37877,2006
+2896,"51 , 165",VA,Rockingham County,43727,2006
+2897,"51 , 167",VA,Russell County,28943,2006
+2898,"51 , 169",VA,Scott County,30199,2006
+2899,"51 , 171",VA,Shenandoah County,41872,2006
+2900,"51 , 173",VA,Smyth County,31645,2006
+2901,"51 , 175",VA,Southampton County,35349,2006
+2902,"51 , 177",VA,Spotsylvania County,65411,2006
+2903,"51 , 179",VA,Stafford County,75556,2006
+2904,"51 , 181",VA,Surry County,38420,2006
+2905,"51 , 183",VA,Sussex County,30302,2006
+2906,"51 , 185",VA,Tazewell County,29427,2006
+2907,"51 , 187",VA,Warren County,46765,2006
+2908,"51 , 191",VA,Washington County,35833,2006
+2909,"51 , 193",VA,Westmoreland County,36210,2006
+2910,"51 , 195",VA,Wise County,28737,2006
+2911,"51 , 197",VA,Wythe County,33262,2006
+2912,"51 , 199",VA,York County,65397,2006
+2913,"51 , 510",VA,Alexandria city,59344,2006
+2914,"51 , 515",VA,Bedford city,30715,2006
+2915,"51 , 520",VA,Bristol city,29112,2006
+2916,"51 , 530",VA,Buena Vista city,33818,2006
+2917,"51 , 540",VA,Charlottesville city,31363,2006
+2918,"51 , 550",VA,Chesapeake city,54067,2006
+2919,"51 , 570",VA,Colonial Heights city,43765,2006
+2920,"51 , 580",VA,Covington city,31688,2006
+2921,"51 , 590",VA,Danville city,27082,2006
+2922,"51 , 595",VA,Emporia city,29388,2006
+2923,"51 , 600",VA,Fairfax city,67166,2006
+2924,"51 , 610",VA,Falls Church city,79421,2006
+2925,"51 , 620",VA,Franklin city,31910,2006
+2926,"51 , 630",VA,Fredericksburg city,36636,2006
+2927,"51 , 640",VA,Galax city,28381,2006
+2928,"51 , 650",VA,Hampton city,39882,2006
+2929,"51 , 660",VA,Harrisonburg city,31057,2006
+2930,"51 , 670",VA,Hopewell city,32845,2006
+2931,"51 , 678",VA,Lexington city,31139,2006
+2932,"51 , 680",VA,Lynchburg city,31973,2006
+2933,"51 , 683",VA,Manassas city,61387,2006
+2934,"51 , 685",VA,Manassas Park city,62637,2006
+2935,"51 , 690",VA,Martinsville city,27736,2006
+2936,"51 , 700",VA,Newport News city,38406,2006
+2937,"51 , 710",VA,Norfolk city,32026,2006
+2938,"51 , 720",VA,Norton city,27135,2006
+2939,"51 , 730",VA,Petersburg city,28558,2006
+2940,"51 , 735",VA,Poquoson city,67765,2006
+2941,"51 , 740",VA,Portsmouth city,34523,2006
+2942,"51 , 750",VA,Radford city,27040,2006
+2943,"51 , 760",VA,Richmond city,31730,2006
+2944,"51 , 770",VA,Roanoke city,31523,2006
+2945,"51 , 775",VA,Salem city,40439,2006
+2946,"51 , 790",VA,Staunton city,33921,2006
+2947,"51 , 800",VA,Suffolk city,46416,2006
+2948,"51 , 810",VA,Virginia Beach city,50361,2006
+2949,"51 , 820",VA,Waynesboro city,34384,2006
+2950,"51 , 830",VA,Williamsburg city,34623,2006
+2951,"51 , 840",VA,Winchester city,37276,2006
+2818,"51 , 1",VA,Accomack County,30063,2007
+2819,"51 , 3",VA,Albemarle County,53104,2007
+2820,"51 , 5",VA,Alleghany County,37349,2007
+2821,"51 , 7",VA,Amelia County,42591,2007
+2822,"51 , 9",VA,Amherst County,37549,2007
+2823,"51 , 11",VA,Appomattox County,36939,2007
+2824,"51 , 13",VA,Arlington County,67161,2007
+2825,"51 , 15",VA,Augusta County,45434,2007
+2826,"51 , 17",VA,Bath County,36523,2007
+2827,"51 , 19",VA,Bedford County,47263,2007
+2828,"51 , 21",VA,Bland County,32742,2007
+2829,"51 , 23",VA,Botetourt County,52094,2007
+2830,"51 , 25",VA,Brunswick County,30503,2007
+2831,"51 , 27",VA,Buchanan County,24427,2007
+2832,"51 , 29",VA,Buckingham County,30610,2007
+2833,"51 , 31",VA,Campbell County,38606,2007
+2834,"51 , 33",VA,Caroline County,41640,2007
+2835,"51 , 35",VA,Carroll County,31850,2007
+2836,"51 , 36",VA,Charles City County,43275,2007
+2837,"51 , 37",VA,Charlotte County,30276,2007
+2838,"51 , 41",VA,Chesterfield County,61907,2007
+2839,"51 , 43",VA,Clarke County,53777,2007
+2840,"51 , 45",VA,Craig County,38869,2007
+2841,"51 , 47",VA,Culpeper County,50162,2007
+2842,"51 , 49",VA,Cumberland County,33700,2007
+2843,"51 , 51",VA,Dickenson County,25479,2007
+2844,"51 , 53",VA,Dinwiddie County,42123,2007
+2845,"51 , 57",VA,Essex County,37239,2007
+2846,"51 , 59",VA,Fairfax County,82648,2007
+2847,"51 , 61",VA,Fauquier County,68140,2007
+2848,"51 , 63",VA,Floyd County,35073,2007
+2849,"51 , 65",VA,Fluvanna County,49274,2007
+2850,"51 , 67",VA,Franklin County,39049,2007
+2851,"51 , 69",VA,Frederick County,52722,2007
+2852,"51 , 71",VA,Giles County,35816,2007
+2853,"51 , 73",VA,Gloucester County,47211,2007
+2854,"51 , 75",VA,Goochland County,61142,2007
+2855,"51 , 77",VA,Grayson County,29386,2007
+2856,"51 , 79",VA,Greene County,49974,2007
+2857,"51 , 81",VA,Greensville County,30049,2007
+2858,"51 , 83",VA,Halifax County,30119,2007
+2859,"51 , 85",VA,Hanover County,65423,2007
+2860,"51 , 87",VA,Henrico County,51201,2007
+2861,"51 , 89",VA,Henry County,31360,2007
+2862,"51 , 91",VA,Highland County,31219,2007
+2863,"51 , 93",VA,Isle of Wight County,49437,2007
+2864,"51 , 95",VA,James City County,62326,2007
+2865,"51 , 97",VA,King and Queen County,36367,2007
+2866,"51 , 99",VA,King George County,57322,2007
+2867,"51 , 101",VA,King William County,52899,2007
+2868,"51 , 103",VA,Lancaster County,36077,2007
+2869,"51 , 105",VA,Lee County,25067,2007
+2870,"51 , 107",VA,Loudoun County,90122,2007
+2871,"51 , 109",VA,Louisa County,43127,2007
+2872,"51 , 111",VA,Lunenburg County,28713,2007
+2873,"51 , 113",VA,Madison County,41005,2007
+2874,"51 , 115",VA,Mathews County,44729,2007
+2875,"51 , 117",VA,Mecklenburg County,30881,2007
+2876,"51 , 119",VA,Middlesex County,38636,2007
+2877,"51 , 121",VA,Montgomery County,34603,2007
+2878,"51 , 125",VA,Nelson County,38719,2007
+2879,"51 , 127",VA,New Kent County,58204,2007
+2880,"51 , 131",VA,Northampton County,29526,2007
+2881,"51 , 133",VA,Northumberland County,38036,2007
+2882,"51 , 135",VA,Nottoway County,31021,2007
+2883,"51 , 137",VA,Orange County,46169,2007
+2884,"51 , 139",VA,Page County,34509,2007
+2885,"51 , 141",VA,Patrick County,29958,2007
+2886,"51 , 143",VA,Pittsylvania County,36029,2007
+2887,"51 , 145",VA,Powhatan County,57458,2007
+2888,"51 , 147",VA,Prince Edward County,29573,2007
+2889,"51 , 149",VA,Prince George County,49503,2007
+2890,"51 , 153",VA,Prince William County,72977,2007
+2891,"51 , 155",VA,Pulaski County,35694,2007
+2892,"51 , 157",VA,Rappahannock County,50132,2007
+2893,"51 , 159",VA,Richmond County,33002,2007
+2894,"51 , 161",VA,Roanoke County,50351,2007
+2895,"51 , 163",VA,Rockbridge County,37877,2007
+2896,"51 , 165",VA,Rockingham County,43727,2007
+2897,"51 , 167",VA,Russell County,28943,2007
+2898,"51 , 169",VA,Scott County,30199,2007
+2899,"51 , 171",VA,Shenandoah County,41872,2007
+2900,"51 , 173",VA,Smyth County,31645,2007
+2901,"51 , 175",VA,Southampton County,35349,2007
+2902,"51 , 177",VA,Spotsylvania County,65411,2007
+2903,"51 , 179",VA,Stafford County,75556,2007
+2904,"51 , 181",VA,Surry County,38420,2007
+2905,"51 , 183",VA,Sussex County,30302,2007
+2906,"51 , 185",VA,Tazewell County,29427,2007
+2907,"51 , 187",VA,Warren County,46765,2007
+2908,"51 , 191",VA,Washington County,35833,2007
+2909,"51 , 193",VA,Westmoreland County,36210,2007
+2910,"51 , 195",VA,Wise County,28737,2007
+2911,"51 , 197",VA,Wythe County,33262,2007
+2912,"51 , 199",VA,York County,65397,2007
+2913,"51 , 510",VA,Alexandria city,59344,2007
+2914,"51 , 515",VA,Bedford city,30715,2007
+2915,"51 , 520",VA,Bristol city,29112,2007
+2916,"51 , 530",VA,Buena Vista city,33818,2007
+2917,"51 , 540",VA,Charlottesville city,31363,2007
+2918,"51 , 550",VA,Chesapeake city,54067,2007
+2919,"51 , 570",VA,Colonial Heights city,43765,2007
+2920,"51 , 580",VA,Covington city,31688,2007
+2921,"51 , 590",VA,Danville city,27082,2007
+2922,"51 , 595",VA,Emporia city,29388,2007
+2923,"51 , 600",VA,Fairfax city,67166,2007
+2924,"51 , 610",VA,Falls Church city,79421,2007
+2925,"51 , 620",VA,Franklin city,31910,2007
+2926,"51 , 630",VA,Fredericksburg city,36636,2007
+2927,"51 , 640",VA,Galax city,28381,2007
+2928,"51 , 650",VA,Hampton city,39882,2007
+2929,"51 , 660",VA,Harrisonburg city,31057,2007
+2930,"51 , 670",VA,Hopewell city,32845,2007
+2931,"51 , 678",VA,Lexington city,31139,2007
+2932,"51 , 680",VA,Lynchburg city,31973,2007
+2933,"51 , 683",VA,Manassas city,61387,2007
+2934,"51 , 685",VA,Manassas Park city,62637,2007
+2935,"51 , 690",VA,Martinsville city,27736,2007
+2936,"51 , 700",VA,Newport News city,38406,2007
+2937,"51 , 710",VA,Norfolk city,32026,2007
+2938,"51 , 720",VA,Norton city,27135,2007
+2939,"51 , 730",VA,Petersburg city,28558,2007
+2940,"51 , 735",VA,Poquoson city,67765,2007
+2941,"51 , 740",VA,Portsmouth city,34523,2007
+2942,"51 , 750",VA,Radford city,27040,2007
+2943,"51 , 760",VA,Richmond city,31730,2007
+2944,"51 , 770",VA,Roanoke city,31523,2007
+2945,"51 , 775",VA,Salem city,40439,2007
+2946,"51 , 790",VA,Staunton city,33921,2007
+2947,"51 , 800",VA,Suffolk city,46416,2007
+2948,"51 , 810",VA,Virginia Beach city,50361,2007
+2949,"51 , 820",VA,Waynesboro city,34384,2007
+2950,"51 , 830",VA,Williamsburg city,34623,2007
+2951,"51 , 840",VA,Winchester city,37276,2007
+2818,"51 , 1",VA,Accomack County,30063,2008
+2819,"51 , 3",VA,Albemarle County,53104,2008
+2820,"51 , 5",VA,Alleghany County,37349,2008
+2821,"51 , 7",VA,Amelia County,42591,2008
+2822,"51 , 9",VA,Amherst County,37549,2008
+2823,"51 , 11",VA,Appomattox County,36939,2008
+2824,"51 , 13",VA,Arlington County,67161,2008
+2825,"51 , 15",VA,Augusta County,45434,2008
+2826,"51 , 17",VA,Bath County,36523,2008
+2827,"51 , 19",VA,Bedford County,47263,2008
+2828,"51 , 21",VA,Bland County,32742,2008
+2829,"51 , 23",VA,Botetourt County,52094,2008
+2830,"51 , 25",VA,Brunswick County,30503,2008
+2831,"51 , 27",VA,Buchanan County,24427,2008
+2832,"51 , 29",VA,Buckingham County,30610,2008
+2833,"51 , 31",VA,Campbell County,38606,2008
+2834,"51 , 33",VA,Caroline County,41640,2008
+2835,"51 , 35",VA,Carroll County,31850,2008
+2836,"51 , 36",VA,Charles City County,43275,2008
+2837,"51 , 37",VA,Charlotte County,30276,2008
+2838,"51 , 41",VA,Chesterfield County,61907,2008
+2839,"51 , 43",VA,Clarke County,53777,2008
+2840,"51 , 45",VA,Craig County,38869,2008
+2841,"51 , 47",VA,Culpeper County,50162,2008
+2842,"51 , 49",VA,Cumberland County,33700,2008
+2843,"51 , 51",VA,Dickenson County,25479,2008
+2844,"51 , 53",VA,Dinwiddie County,42123,2008
+2845,"51 , 57",VA,Essex County,37239,2008
+2846,"51 , 59",VA,Fairfax County,82648,2008
+2847,"51 , 61",VA,Fauquier County,68140,2008
+2848,"51 , 63",VA,Floyd County,35073,2008
+2849,"51 , 65",VA,Fluvanna County,49274,2008
+2850,"51 , 67",VA,Franklin County,39049,2008
+2851,"51 , 69",VA,Frederick County,52722,2008
+2852,"51 , 71",VA,Giles County,35816,2008
+2853,"51 , 73",VA,Gloucester County,47211,2008
+2854,"51 , 75",VA,Goochland County,61142,2008
+2855,"51 , 77",VA,Grayson County,29386,2008
+2856,"51 , 79",VA,Greene County,49974,2008
+2857,"51 , 81",VA,Greensville County,30049,2008
+2858,"51 , 83",VA,Halifax County,30119,2008
+2859,"51 , 85",VA,Hanover County,65423,2008
+2860,"51 , 87",VA,Henrico County,51201,2008
+2861,"51 , 89",VA,Henry County,31360,2008
+2862,"51 , 91",VA,Highland County,31219,2008
+2863,"51 , 93",VA,Isle of Wight County,49437,2008
+2864,"51 , 95",VA,James City County,62326,2008
+2865,"51 , 97",VA,King and Queen County,36367,2008
+2866,"51 , 99",VA,King George County,57322,2008
+2867,"51 , 101",VA,King William County,52899,2008
+2868,"51 , 103",VA,Lancaster County,36077,2008
+2869,"51 , 105",VA,Lee County,25067,2008
+2870,"51 , 107",VA,Loudoun County,90122,2008
+2871,"51 , 109",VA,Louisa County,43127,2008
+2872,"51 , 111",VA,Lunenburg County,28713,2008
+2873,"51 , 113",VA,Madison County,41005,2008
+2874,"51 , 115",VA,Mathews County,44729,2008
+2875,"51 , 117",VA,Mecklenburg County,30881,2008
+2876,"51 , 119",VA,Middlesex County,38636,2008
+2877,"51 , 121",VA,Montgomery County,34603,2008
+2878,"51 , 125",VA,Nelson County,38719,2008
+2879,"51 , 127",VA,New Kent County,58204,2008
+2880,"51 , 131",VA,Northampton County,29526,2008
+2881,"51 , 133",VA,Northumberland County,38036,2008
+2882,"51 , 135",VA,Nottoway County,31021,2008
+2883,"51 , 137",VA,Orange County,46169,2008
+2884,"51 , 139",VA,Page County,34509,2008
+2885,"51 , 141",VA,Patrick County,29958,2008
+2886,"51 , 143",VA,Pittsylvania County,36029,2008
+2887,"51 , 145",VA,Powhatan County,57458,2008
+2888,"51 , 147",VA,Prince Edward County,29573,2008
+2889,"51 , 149",VA,Prince George County,49503,2008
+2890,"51 , 153",VA,Prince William County,72977,2008
+2891,"51 , 155",VA,Pulaski County,35694,2008
+2892,"51 , 157",VA,Rappahannock County,50132,2008
+2893,"51 , 159",VA,Richmond County,33002,2008
+2894,"51 , 161",VA,Roanoke County,50351,2008
+2895,"51 , 163",VA,Rockbridge County,37877,2008
+2896,"51 , 165",VA,Rockingham County,43727,2008
+2897,"51 , 167",VA,Russell County,28943,2008
+2898,"51 , 169",VA,Scott County,30199,2008
+2899,"51 , 171",VA,Shenandoah County,41872,2008
+2900,"51 , 173",VA,Smyth County,31645,2008
+2901,"51 , 175",VA,Southampton County,35349,2008
+2902,"51 , 177",VA,Spotsylvania County,65411,2008
+2903,"51 , 179",VA,Stafford County,75556,2008
+2904,"51 , 181",VA,Surry County,38420,2008
+2905,"51 , 183",VA,Sussex County,30302,2008
+2906,"51 , 185",VA,Tazewell County,29427,2008
+2907,"51 , 187",VA,Warren County,46765,2008
+2908,"51 , 191",VA,Washington County,35833,2008
+2909,"51 , 193",VA,Westmoreland County,36210,2008
+2910,"51 , 195",VA,Wise County,28737,2008
+2911,"51 , 197",VA,Wythe County,33262,2008
+2912,"51 , 199",VA,York County,65397,2008
+2913,"51 , 510",VA,Alexandria city,59344,2008
+2914,"51 , 515",VA,Bedford city,30715,2008
+2915,"51 , 520",VA,Bristol city,29112,2008
+2916,"51 , 530",VA,Buena Vista city,33818,2008
+2917,"51 , 540",VA,Charlottesville city,31363,2008
+2918,"51 , 550",VA,Chesapeake city,54067,2008
+2919,"51 , 570",VA,Colonial Heights city,43765,2008
+2920,"51 , 580",VA,Covington city,31688,2008
+2921,"51 , 590",VA,Danville city,27082,2008
+2922,"51 , 595",VA,Emporia city,29388,2008
+2923,"51 , 600",VA,Fairfax city,67166,2008
+2924,"51 , 610",VA,Falls Church city,79421,2008
+2925,"51 , 620",VA,Franklin city,31910,2008
+2926,"51 , 630",VA,Fredericksburg city,36636,2008
+2927,"51 , 640",VA,Galax city,28381,2008
+2928,"51 , 650",VA,Hampton city,39882,2008
+2929,"51 , 660",VA,Harrisonburg city,31057,2008
+2930,"51 , 670",VA,Hopewell city,32845,2008
+2931,"51 , 678",VA,Lexington city,31139,2008
+2932,"51 , 680",VA,Lynchburg city,31973,2008
+2933,"51 , 683",VA,Manassas city,61387,2008
+2934,"51 , 685",VA,Manassas Park city,62637,2008
+2935,"51 , 690",VA,Martinsville city,27736,2008
+2936,"51 , 700",VA,Newport News city,38406,2008
+2937,"51 , 710",VA,Norfolk city,32026,2008
+2938,"51 , 720",VA,Norton city,27135,2008
+2939,"51 , 730",VA,Petersburg city,28558,2008
+2940,"51 , 735",VA,Poquoson city,67765,2008
+2941,"51 , 740",VA,Portsmouth city,34523,2008
+2942,"51 , 750",VA,Radford city,27040,2008
+2943,"51 , 760",VA,Richmond city,31730,2008
+2944,"51 , 770",VA,Roanoke city,31523,2008
+2945,"51 , 775",VA,Salem city,40439,2008
+2946,"51 , 790",VA,Staunton city,33921,2008
+2947,"51 , 800",VA,Suffolk city,46416,2008
+2948,"51 , 810",VA,Virginia Beach city,50361,2008
+2949,"51 , 820",VA,Waynesboro city,34384,2008
+2950,"51 , 830",VA,Williamsburg city,34623,2008
+2951,"51 , 840",VA,Winchester city,37276,2008
+2818,"51 , 1",VA,Accomack County,30063,2009
+2819,"51 , 3",VA,Albemarle County,53104,2009
+2820,"51 , 5",VA,Alleghany County,37349,2009
+2821,"51 , 7",VA,Amelia County,42591,2009
+2822,"51 , 9",VA,Amherst County,37549,2009
+2823,"51 , 11",VA,Appomattox County,36939,2009
+2824,"51 , 13",VA,Arlington County,67161,2009
+2825,"51 , 15",VA,Augusta County,45434,2009
+2826,"51 , 17",VA,Bath County,36523,2009
+2827,"51 , 19",VA,Bedford County,47263,2009
+2828,"51 , 21",VA,Bland County,32742,2009
+2829,"51 , 23",VA,Botetourt County,52094,2009
+2830,"51 , 25",VA,Brunswick County,30503,2009
+2831,"51 , 27",VA,Buchanan County,24427,2009
+2832,"51 , 29",VA,Buckingham County,30610,2009
+2833,"51 , 31",VA,Campbell County,38606,2009
+2834,"51 , 33",VA,Caroline County,41640,2009
+2835,"51 , 35",VA,Carroll County,31850,2009
+2836,"51 , 36",VA,Charles City County,43275,2009
+2837,"51 , 37",VA,Charlotte County,30276,2009
+2838,"51 , 41",VA,Chesterfield County,61907,2009
+2839,"51 , 43",VA,Clarke County,53777,2009
+2840,"51 , 45",VA,Craig County,38869,2009
+2841,"51 , 47",VA,Culpeper County,50162,2009
+2842,"51 , 49",VA,Cumberland County,33700,2009
+2843,"51 , 51",VA,Dickenson County,25479,2009
+2844,"51 , 53",VA,Dinwiddie County,42123,2009
+2845,"51 , 57",VA,Essex County,37239,2009
+2846,"51 , 59",VA,Fairfax County,82648,2009
+2847,"51 , 61",VA,Fauquier County,68140,2009
+2848,"51 , 63",VA,Floyd County,35073,2009
+2849,"51 , 65",VA,Fluvanna County,49274,2009
+2850,"51 , 67",VA,Franklin County,39049,2009
+2851,"51 , 69",VA,Frederick County,52722,2009
+2852,"51 , 71",VA,Giles County,35816,2009
+2853,"51 , 73",VA,Gloucester County,47211,2009
+2854,"51 , 75",VA,Goochland County,61142,2009
+2855,"51 , 77",VA,Grayson County,29386,2009
+2856,"51 , 79",VA,Greene County,49974,2009
+2857,"51 , 81",VA,Greensville County,30049,2009
+2858,"51 , 83",VA,Halifax County,30119,2009
+2859,"51 , 85",VA,Hanover County,65423,2009
+2860,"51 , 87",VA,Henrico County,51201,2009
+2861,"51 , 89",VA,Henry County,31360,2009
+2862,"51 , 91",VA,Highland County,31219,2009
+2863,"51 , 93",VA,Isle of Wight County,49437,2009
+2864,"51 , 95",VA,James City County,62326,2009
+2865,"51 , 97",VA,King and Queen County,36367,2009
+2866,"51 , 99",VA,King George County,57322,2009
+2867,"51 , 101",VA,King William County,52899,2009
+2868,"51 , 103",VA,Lancaster County,36077,2009
+2869,"51 , 105",VA,Lee County,25067,2009
+2870,"51 , 107",VA,Loudoun County,90122,2009
+2871,"51 , 109",VA,Louisa County,43127,2009
+2872,"51 , 111",VA,Lunenburg County,28713,2009
+2873,"51 , 113",VA,Madison County,41005,2009
+2874,"51 , 115",VA,Mathews County,44729,2009
+2875,"51 , 117",VA,Mecklenburg County,30881,2009
+2876,"51 , 119",VA,Middlesex County,38636,2009
+2877,"51 , 121",VA,Montgomery County,34603,2009
+2878,"51 , 125",VA,Nelson County,38719,2009
+2879,"51 , 127",VA,New Kent County,58204,2009
+2880,"51 , 131",VA,Northampton County,29526,2009
+2881,"51 , 133",VA,Northumberland County,38036,2009
+2882,"51 , 135",VA,Nottoway County,31021,2009
+2883,"51 , 137",VA,Orange County,46169,2009
+2884,"51 , 139",VA,Page County,34509,2009
+2885,"51 , 141",VA,Patrick County,29958,2009
+2886,"51 , 143",VA,Pittsylvania County,36029,2009
+2887,"51 , 145",VA,Powhatan County,57458,2009
+2888,"51 , 147",VA,Prince Edward County,29573,2009
+2889,"51 , 149",VA,Prince George County,49503,2009
+2890,"51 , 153",VA,Prince William County,72977,2009
+2891,"51 , 155",VA,Pulaski County,35694,2009
+2892,"51 , 157",VA,Rappahannock County,50132,2009
+2893,"51 , 159",VA,Richmond County,33002,2009
+2894,"51 , 161",VA,Roanoke County,50351,2009
+2895,"51 , 163",VA,Rockbridge County,37877,2009
+2896,"51 , 165",VA,Rockingham County,43727,2009
+2897,"51 , 167",VA,Russell County,28943,2009
+2898,"51 , 169",VA,Scott County,30199,2009
+2899,"51 , 171",VA,Shenandoah County,41872,2009
+2900,"51 , 173",VA,Smyth County,31645,2009
+2901,"51 , 175",VA,Southampton County,35349,2009
+2902,"51 , 177",VA,Spotsylvania County,65411,2009
+2903,"51 , 179",VA,Stafford County,75556,2009
+2904,"51 , 181",VA,Surry County,38420,2009
+2905,"51 , 183",VA,Sussex County,30302,2009
+2906,"51 , 185",VA,Tazewell County,29427,2009
+2907,"51 , 187",VA,Warren County,46765,2009
+2908,"51 , 191",VA,Washington County,35833,2009
+2909,"51 , 193",VA,Westmoreland County,36210,2009
+2910,"51 , 195",VA,Wise County,28737,2009
+2911,"51 , 197",VA,Wythe County,33262,2009
+2912,"51 , 199",VA,York County,65397,2009
+2913,"51 , 510",VA,Alexandria city,59344,2009
+2914,"51 , 515",VA,Bedford city,30715,2009
+2915,"51 , 520",VA,Bristol city,29112,2009
+2916,"51 , 530",VA,Buena Vista city,33818,2009
+2917,"51 , 540",VA,Charlottesville city,31363,2009
+2918,"51 , 550",VA,Chesapeake city,54067,2009
+2919,"51 , 570",VA,Colonial Heights city,43765,2009
+2920,"51 , 580",VA,Covington city,31688,2009
+2921,"51 , 590",VA,Danville city,27082,2009
+2922,"51 , 595",VA,Emporia city,29388,2009
+2923,"51 , 600",VA,Fairfax city,67166,2009
+2924,"51 , 610",VA,Falls Church city,79421,2009
+2925,"51 , 620",VA,Franklin city,31910,2009
+2926,"51 , 630",VA,Fredericksburg city,36636,2009
+2927,"51 , 640",VA,Galax city,28381,2009
+2928,"51 , 650",VA,Hampton city,39882,2009
+2929,"51 , 660",VA,Harrisonburg city,31057,2009
+2930,"51 , 670",VA,Hopewell city,32845,2009
+2931,"51 , 678",VA,Lexington city,31139,2009
+2932,"51 , 680",VA,Lynchburg city,31973,2009
+2933,"51 , 683",VA,Manassas city,61387,2009
+2934,"51 , 685",VA,Manassas Park city,62637,2009
+2935,"51 , 690",VA,Martinsville city,27736,2009
+2936,"51 , 700",VA,Newport News city,38406,2009
+2937,"51 , 710",VA,Norfolk city,32026,2009
+2938,"51 , 720",VA,Norton city,27135,2009
+2939,"51 , 730",VA,Petersburg city,28558,2009
+2940,"51 , 735",VA,Poquoson city,67765,2009
+2941,"51 , 740",VA,Portsmouth city,34523,2009
+2942,"51 , 750",VA,Radford city,27040,2009
+2943,"51 , 760",VA,Richmond city,31730,2009
+2944,"51 , 770",VA,Roanoke city,31523,2009
+2945,"51 , 775",VA,Salem city,40439,2009
+2946,"51 , 790",VA,Staunton city,33921,2009
+2947,"51 , 800",VA,Suffolk city,46416,2009
+2948,"51 , 810",VA,Virginia Beach city,50361,2009
+2949,"51 , 820",VA,Waynesboro city,34384,2009
+2950,"51 , 830",VA,Williamsburg city,34623,2009
+2951,"51 , 840",VA,Winchester city,37276,2009
+2818,"51 , 1",VA,Accomack County,30063,2010
+2819,"51 , 3",VA,Albemarle County,53104,2010
+2820,"51 , 5",VA,Alleghany County,37349,2010
+2821,"51 , 7",VA,Amelia County,42591,2010
+2822,"51 , 9",VA,Amherst County,37549,2010
+2823,"51 , 11",VA,Appomattox County,36939,2010
+2824,"51 , 13",VA,Arlington County,67161,2010
+2825,"51 , 15",VA,Augusta County,45434,2010
+2826,"51 , 17",VA,Bath County,36523,2010
+2827,"51 , 19",VA,Bedford County,47263,2010
+2828,"51 , 21",VA,Bland County,32742,2010
+2829,"51 , 23",VA,Botetourt County,52094,2010
+2830,"51 , 25",VA,Brunswick County,30503,2010
+2831,"51 , 27",VA,Buchanan County,24427,2010
+2832,"51 , 29",VA,Buckingham County,30610,2010
+2833,"51 , 31",VA,Campbell County,38606,2010
+2834,"51 , 33",VA,Caroline County,41640,2010
+2835,"51 , 35",VA,Carroll County,31850,2010
+2836,"51 , 36",VA,Charles City County,43275,2010
+2837,"51 , 37",VA,Charlotte County,30276,2010
+2838,"51 , 41",VA,Chesterfield County,61907,2010
+2839,"51 , 43",VA,Clarke County,53777,2010
+2840,"51 , 45",VA,Craig County,38869,2010
+2841,"51 , 47",VA,Culpeper County,50162,2010
+2842,"51 , 49",VA,Cumberland County,33700,2010
+2843,"51 , 51",VA,Dickenson County,25479,2010
+2844,"51 , 53",VA,Dinwiddie County,42123,2010
+2845,"51 , 57",VA,Essex County,37239,2010
+2846,"51 , 59",VA,Fairfax County,82648,2010
+2847,"51 , 61",VA,Fauquier County,68140,2010
+2848,"51 , 63",VA,Floyd County,35073,2010
+2849,"51 , 65",VA,Fluvanna County,49274,2010
+2850,"51 , 67",VA,Franklin County,39049,2010
+2851,"51 , 69",VA,Frederick County,52722,2010
+2852,"51 , 71",VA,Giles County,35816,2010
+2853,"51 , 73",VA,Gloucester County,47211,2010
+2854,"51 , 75",VA,Goochland County,61142,2010
+2855,"51 , 77",VA,Grayson County,29386,2010
+2856,"51 , 79",VA,Greene County,49974,2010
+2857,"51 , 81",VA,Greensville County,30049,2010
+2858,"51 , 83",VA,Halifax County,30119,2010
+2859,"51 , 85",VA,Hanover County,65423,2010
+2860,"51 , 87",VA,Henrico County,51201,2010
+2861,"51 , 89",VA,Henry County,31360,2010
+2862,"51 , 91",VA,Highland County,31219,2010
+2863,"51 , 93",VA,Isle of Wight County,49437,2010
+2864,"51 , 95",VA,James City County,62326,2010
+2865,"51 , 97",VA,King and Queen County,36367,2010
+2866,"51 , 99",VA,King George County,57322,2010
+2867,"51 , 101",VA,King William County,52899,2010
+2868,"51 , 103",VA,Lancaster County,36077,2010
+2869,"51 , 105",VA,Lee County,25067,2010
+2870,"51 , 107",VA,Loudoun County,90122,2010
+2871,"51 , 109",VA,Louisa County,43127,2010
+2872,"51 , 111",VA,Lunenburg County,28713,2010
+2873,"51 , 113",VA,Madison County,41005,2010
+2874,"51 , 115",VA,Mathews County,44729,2010
+2875,"51 , 117",VA,Mecklenburg County,30881,2010
+2876,"51 , 119",VA,Middlesex County,38636,2010
+2877,"51 , 121",VA,Montgomery County,34603,2010
+2878,"51 , 125",VA,Nelson County,38719,2010
+2879,"51 , 127",VA,New Kent County,58204,2010
+2880,"51 , 131",VA,Northampton County,29526,2010
+2881,"51 , 133",VA,Northumberland County,38036,2010
+2882,"51 , 135",VA,Nottoway County,31021,2010
+2883,"51 , 137",VA,Orange County,46169,2010
+2884,"51 , 139",VA,Page County,34509,2010
+2885,"51 , 141",VA,Patrick County,29958,2010
+2886,"51 , 143",VA,Pittsylvania County,36029,2010
+2887,"51 , 145",VA,Powhatan County,57458,2010
+2888,"51 , 147",VA,Prince Edward County,29573,2010
+2889,"51 , 149",VA,Prince George County,49503,2010
+2890,"51 , 153",VA,Prince William County,72977,2010
+2891,"51 , 155",VA,Pulaski County,35694,2010
+2892,"51 , 157",VA,Rappahannock County,50132,2010
+2893,"51 , 159",VA,Richmond County,33002,2010
+2894,"51 , 161",VA,Roanoke County,50351,2010
+2895,"51 , 163",VA,Rockbridge County,37877,2010
+2896,"51 , 165",VA,Rockingham County,43727,2010
+2897,"51 , 167",VA,Russell County,28943,2010
+2898,"51 , 169",VA,Scott County,30199,2010
+2899,"51 , 171",VA,Shenandoah County,41872,2010
+2900,"51 , 173",VA,Smyth County,31645,2010
+2901,"51 , 175",VA,Southampton County,35349,2010
+2902,"51 , 177",VA,Spotsylvania County,65411,2010
+2903,"51 , 179",VA,Stafford County,75556,2010
+2904,"51 , 181",VA,Surry County,38420,2010
+2905,"51 , 183",VA,Sussex County,30302,2010
+2906,"51 , 185",VA,Tazewell County,29427,2010
+2907,"51 , 187",VA,Warren County,46765,2010
+2908,"51 , 191",VA,Washington County,35833,2010
+2909,"51 , 193",VA,Westmoreland County,36210,2010
+2910,"51 , 195",VA,Wise County,28737,2010
+2911,"51 , 197",VA,Wythe County,33262,2010
+2912,"51 , 199",VA,York County,65397,2010
+2913,"51 , 510",VA,Alexandria city,59344,2010
+2914,"51 , 515",VA,Bedford city,30715,2010
+2915,"51 , 520",VA,Bristol city,29112,2010
+2916,"51 , 530",VA,Buena Vista city,33818,2010
+2917,"51 , 540",VA,Charlottesville city,31363,2010
+2918,"51 , 550",VA,Chesapeake city,54067,2010
+2919,"51 , 570",VA,Colonial Heights city,43765,2010
+2920,"51 , 580",VA,Covington city,31688,2010
+2921,"51 , 590",VA,Danville city,27082,2010
+2922,"51 , 595",VA,Emporia city,29388,2010
+2923,"51 , 600",VA,Fairfax city,67166,2010
+2924,"51 , 610",VA,Falls Church city,79421,2010
+2925,"51 , 620",VA,Franklin city,31910,2010
+2926,"51 , 630",VA,Fredericksburg city,36636,2010
+2927,"51 , 640",VA,Galax city,28381,2010
+2928,"51 , 650",VA,Hampton city,39882,2010
+2929,"51 , 660",VA,Harrisonburg city,31057,2010
+2930,"51 , 670",VA,Hopewell city,32845,2010
+2931,"51 , 678",VA,Lexington city,31139,2010
+2932,"51 , 680",VA,Lynchburg city,31973,2010
+2933,"51 , 683",VA,Manassas city,61387,2010
+2934,"51 , 685",VA,Manassas Park city,62637,2010
+2935,"51 , 690",VA,Martinsville city,27736,2010
+2936,"51 , 700",VA,Newport News city,38406,2010
+2937,"51 , 710",VA,Norfolk city,32026,2010
+2938,"51 , 720",VA,Norton city,27135,2010
+2939,"51 , 730",VA,Petersburg city,28558,2010
+2940,"51 , 735",VA,Poquoson city,67765,2010
+2941,"51 , 740",VA,Portsmouth city,34523,2010
+2942,"51 , 750",VA,Radford city,27040,2010
+2943,"51 , 760",VA,Richmond city,31730,2010
+2944,"51 , 770",VA,Roanoke city,31523,2010
+2945,"51 , 775",VA,Salem city,40439,2010
+2946,"51 , 790",VA,Staunton city,33921,2010
+2947,"51 , 800",VA,Suffolk city,46416,2010
+2948,"51 , 810",VA,Virginia Beach city,50361,2010
+2949,"51 , 820",VA,Waynesboro city,34384,2010
+2950,"51 , 830",VA,Williamsburg city,34623,2010
+2951,"51 , 840",VA,Winchester city,37276,2010
+2818,"51 , 1",VA,Accomack County,30063,2011
+2819,"51 , 3",VA,Albemarle County,53104,2011
+2820,"51 , 5",VA,Alleghany County,37349,2011
+2821,"51 , 7",VA,Amelia County,42591,2011
+2822,"51 , 9",VA,Amherst County,37549,2011
+2823,"51 , 11",VA,Appomattox County,36939,2011
+2824,"51 , 13",VA,Arlington County,67161,2011
+2825,"51 , 15",VA,Augusta County,45434,2011
+2826,"51 , 17",VA,Bath County,36523,2011
+2827,"51 , 19",VA,Bedford County,47263,2011
+2828,"51 , 21",VA,Bland County,32742,2011
+2829,"51 , 23",VA,Botetourt County,52094,2011
+2830,"51 , 25",VA,Brunswick County,30503,2011
+2831,"51 , 27",VA,Buchanan County,24427,2011
+2832,"51 , 29",VA,Buckingham County,30610,2011
+2833,"51 , 31",VA,Campbell County,38606,2011
+2834,"51 , 33",VA,Caroline County,41640,2011
+2835,"51 , 35",VA,Carroll County,31850,2011
+2836,"51 , 36",VA,Charles City County,43275,2011
+2837,"51 , 37",VA,Charlotte County,30276,2011
+2838,"51 , 41",VA,Chesterfield County,61907,2011
+2839,"51 , 43",VA,Clarke County,53777,2011
+2840,"51 , 45",VA,Craig County,38869,2011
+2841,"51 , 47",VA,Culpeper County,50162,2011
+2842,"51 , 49",VA,Cumberland County,33700,2011
+2843,"51 , 51",VA,Dickenson County,25479,2011
+2844,"51 , 53",VA,Dinwiddie County,42123,2011
+2845,"51 , 57",VA,Essex County,37239,2011
+2846,"51 , 59",VA,Fairfax County,82648,2011
+2847,"51 , 61",VA,Fauquier County,68140,2011
+2848,"51 , 63",VA,Floyd County,35073,2011
+2849,"51 , 65",VA,Fluvanna County,49274,2011
+2850,"51 , 67",VA,Franklin County,39049,2011
+2851,"51 , 69",VA,Frederick County,52722,2011
+2852,"51 , 71",VA,Giles County,35816,2011
+2853,"51 , 73",VA,Gloucester County,47211,2011
+2854,"51 , 75",VA,Goochland County,61142,2011
+2855,"51 , 77",VA,Grayson County,29386,2011
+2856,"51 , 79",VA,Greene County,49974,2011
+2857,"51 , 81",VA,Greensville County,30049,2011
+2858,"51 , 83",VA,Halifax County,30119,2011
+2859,"51 , 85",VA,Hanover County,65423,2011
+2860,"51 , 87",VA,Henrico County,51201,2011
+2861,"51 , 89",VA,Henry County,31360,2011
+2862,"51 , 91",VA,Highland County,31219,2011
+2863,"51 , 93",VA,Isle of Wight County,49437,2011
+2864,"51 , 95",VA,James City County,62326,2011
+2865,"51 , 97",VA,King and Queen County,36367,2011
+2866,"51 , 99",VA,King George County,57322,2011
+2867,"51 , 101",VA,King William County,52899,2011
+2868,"51 , 103",VA,Lancaster County,36077,2011
+2869,"51 , 105",VA,Lee County,25067,2011
+2870,"51 , 107",VA,Loudoun County,90122,2011
+2871,"51 , 109",VA,Louisa County,43127,2011
+2872,"51 , 111",VA,Lunenburg County,28713,2011
+2873,"51 , 113",VA,Madison County,41005,2011
+2874,"51 , 115",VA,Mathews County,44729,2011
+2875,"51 , 117",VA,Mecklenburg County,30881,2011
+2876,"51 , 119",VA,Middlesex County,38636,2011
+2877,"51 , 121",VA,Montgomery County,34603,2011
+2878,"51 , 125",VA,Nelson County,38719,2011
+2879,"51 , 127",VA,New Kent County,58204,2011
+2880,"51 , 131",VA,Northampton County,29526,2011
+2881,"51 , 133",VA,Northumberland County,38036,2011
+2882,"51 , 135",VA,Nottoway County,31021,2011
+2883,"51 , 137",VA,Orange County,46169,2011
+2884,"51 , 139",VA,Page County,34509,2011
+2885,"51 , 141",VA,Patrick County,29958,2011
+2886,"51 , 143",VA,Pittsylvania County,36029,2011
+2887,"51 , 145",VA,Powhatan County,57458,2011
+2888,"51 , 147",VA,Prince Edward County,29573,2011
+2889,"51 , 149",VA,Prince George County,49503,2011
+2890,"51 , 153",VA,Prince William County,72977,2011
+2891,"51 , 155",VA,Pulaski County,35694,2011
+2892,"51 , 157",VA,Rappahannock County,50132,2011
+2893,"51 , 159",VA,Richmond County,33002,2011
+2894,"51 , 161",VA,Roanoke County,50351,2011
+2895,"51 , 163",VA,Rockbridge County,37877,2011
+2896,"51 , 165",VA,Rockingham County,43727,2011
+2897,"51 , 167",VA,Russell County,28943,2011
+2898,"51 , 169",VA,Scott County,30199,2011
+2899,"51 , 171",VA,Shenandoah County,41872,2011
+2900,"51 , 173",VA,Smyth County,31645,2011
+2901,"51 , 175",VA,Southampton County,35349,2011
+2902,"51 , 177",VA,Spotsylvania County,65411,2011
+2903,"51 , 179",VA,Stafford County,75556,2011
+2904,"51 , 181",VA,Surry County,38420,2011
+2905,"51 , 183",VA,Sussex County,30302,2011
+2906,"51 , 185",VA,Tazewell County,29427,2011
+2907,"51 , 187",VA,Warren County,46765,2011
+2908,"51 , 191",VA,Washington County,35833,2011
+2909,"51 , 193",VA,Westmoreland County,36210,2011
+2910,"51 , 195",VA,Wise County,28737,2011
+2911,"51 , 197",VA,Wythe County,33262,2011
+2912,"51 , 199",VA,York County,65397,2011
+2913,"51 , 510",VA,Alexandria city,59344,2011
+2914,"51 , 515",VA,Bedford city,30715,2011
+2915,"51 , 520",VA,Bristol city,29112,2011
+2916,"51 , 530",VA,Buena Vista city,33818,2011
+2917,"51 , 540",VA,Charlottesville city,31363,2011
+2918,"51 , 550",VA,Chesapeake city,54067,2011
+2919,"51 , 570",VA,Colonial Heights city,43765,2011
+2920,"51 , 580",VA,Covington city,31688,2011
+2921,"51 , 590",VA,Danville city,27082,2011
+2922,"51 , 595",VA,Emporia city,29388,2011
+2923,"51 , 600",VA,Fairfax city,67166,2011
+2924,"51 , 610",VA,Falls Church city,79421,2011
+2925,"51 , 620",VA,Franklin city,31910,2011
+2926,"51 , 630",VA,Fredericksburg city,36636,2011
+2927,"51 , 640",VA,Galax city,28381,2011
+2928,"51 , 650",VA,Hampton city,39882,2011
+2929,"51 , 660",VA,Harrisonburg city,31057,2011
+2930,"51 , 670",VA,Hopewell city,32845,2011
+2931,"51 , 678",VA,Lexington city,31139,2011
+2932,"51 , 680",VA,Lynchburg city,31973,2011
+2933,"51 , 683",VA,Manassas city,61387,2011
+2934,"51 , 685",VA,Manassas Park city,62637,2011
+2935,"51 , 690",VA,Martinsville city,27736,2011
+2936,"51 , 700",VA,Newport News city,38406,2011
+2937,"51 , 710",VA,Norfolk city,32026,2011
+2938,"51 , 720",VA,Norton city,27135,2011
+2939,"51 , 730",VA,Petersburg city,28558,2011
+2940,"51 , 735",VA,Poquoson city,67765,2011
+2941,"51 , 740",VA,Portsmouth city,34523,2011
+2942,"51 , 750",VA,Radford city,27040,2011
+2943,"51 , 760",VA,Richmond city,31730,2011
+2944,"51 , 770",VA,Roanoke city,31523,2011
+2945,"51 , 775",VA,Salem city,40439,2011
+2946,"51 , 790",VA,Staunton city,33921,2011
+2947,"51 , 800",VA,Suffolk city,46416,2011
+2948,"51 , 810",VA,Virginia Beach city,50361,2011
+2949,"51 , 820",VA,Waynesboro city,34384,2011
+2950,"51 , 830",VA,Williamsburg city,34623,2011
+2951,"51 , 840",VA,Winchester city,37276,2011
+2818,"51 , 1",VA,Accomack County,30063,2012
+2819,"51 , 3",VA,Albemarle County,53104,2012
+2820,"51 , 5",VA,Alleghany County,37349,2012
+2821,"51 , 7",VA,Amelia County,42591,2012
+2822,"51 , 9",VA,Amherst County,37549,2012
+2823,"51 , 11",VA,Appomattox County,36939,2012
+2824,"51 , 13",VA,Arlington County,67161,2012
+2825,"51 , 15",VA,Augusta County,45434,2012
+2826,"51 , 17",VA,Bath County,36523,2012
+2827,"51 , 19",VA,Bedford County,47263,2012
+2828,"51 , 21",VA,Bland County,32742,2012
+2829,"51 , 23",VA,Botetourt County,52094,2012
+2830,"51 , 25",VA,Brunswick County,30503,2012
+2831,"51 , 27",VA,Buchanan County,24427,2012
+2832,"51 , 29",VA,Buckingham County,30610,2012
+2833,"51 , 31",VA,Campbell County,38606,2012
+2834,"51 , 33",VA,Caroline County,41640,2012
+2835,"51 , 35",VA,Carroll County,31850,2012
+2836,"51 , 36",VA,Charles City County,43275,2012
+2837,"51 , 37",VA,Charlotte County,30276,2012
+2838,"51 , 41",VA,Chesterfield County,61907,2012
+2839,"51 , 43",VA,Clarke County,53777,2012
+2840,"51 , 45",VA,Craig County,38869,2012
+2841,"51 , 47",VA,Culpeper County,50162,2012
+2842,"51 , 49",VA,Cumberland County,33700,2012
+2843,"51 , 51",VA,Dickenson County,25479,2012
+2844,"51 , 53",VA,Dinwiddie County,42123,2012
+2845,"51 , 57",VA,Essex County,37239,2012
+2846,"51 , 59",VA,Fairfax County,82648,2012
+2847,"51 , 61",VA,Fauquier County,68140,2012
+2848,"51 , 63",VA,Floyd County,35073,2012
+2849,"51 , 65",VA,Fluvanna County,49274,2012
+2850,"51 , 67",VA,Franklin County,39049,2012
+2851,"51 , 69",VA,Frederick County,52722,2012
+2852,"51 , 71",VA,Giles County,35816,2012
+2853,"51 , 73",VA,Gloucester County,47211,2012
+2854,"51 , 75",VA,Goochland County,61142,2012
+2855,"51 , 77",VA,Grayson County,29386,2012
+2856,"51 , 79",VA,Greene County,49974,2012
+2857,"51 , 81",VA,Greensville County,30049,2012
+2858,"51 , 83",VA,Halifax County,30119,2012
+2859,"51 , 85",VA,Hanover County,65423,2012
+2860,"51 , 87",VA,Henrico County,51201,2012
+2861,"51 , 89",VA,Henry County,31360,2012
+2862,"51 , 91",VA,Highland County,31219,2012
+2863,"51 , 93",VA,Isle of Wight County,49437,2012
+2864,"51 , 95",VA,James City County,62326,2012
+2865,"51 , 97",VA,King and Queen County,36367,2012
+2866,"51 , 99",VA,King George County,57322,2012
+2867,"51 , 101",VA,King William County,52899,2012
+2868,"51 , 103",VA,Lancaster County,36077,2012
+2869,"51 , 105",VA,Lee County,25067,2012
+2870,"51 , 107",VA,Loudoun County,90122,2012
+2871,"51 , 109",VA,Louisa County,43127,2012
+2872,"51 , 111",VA,Lunenburg County,28713,2012
+2873,"51 , 113",VA,Madison County,41005,2012
+2874,"51 , 115",VA,Mathews County,44729,2012
+2875,"51 , 117",VA,Mecklenburg County,30881,2012
+2876,"51 , 119",VA,Middlesex County,38636,2012
+2877,"51 , 121",VA,Montgomery County,34603,2012
+2878,"51 , 125",VA,Nelson County,38719,2012
+2879,"51 , 127",VA,New Kent County,58204,2012
+2880,"51 , 131",VA,Northampton County,29526,2012
+2881,"51 , 133",VA,Northumberland County,38036,2012
+2882,"51 , 135",VA,Nottoway County,31021,2012
+2883,"51 , 137",VA,Orange County,46169,2012
+2884,"51 , 139",VA,Page County,34509,2012
+2885,"51 , 141",VA,Patrick County,29958,2012
+2886,"51 , 143",VA,Pittsylvania County,36029,2012
+2887,"51 , 145",VA,Powhatan County,57458,2012
+2888,"51 , 147",VA,Prince Edward County,29573,2012
+2889,"51 , 149",VA,Prince George County,49503,2012
+2890,"51 , 153",VA,Prince William County,72977,2012
+2891,"51 , 155",VA,Pulaski County,35694,2012
+2892,"51 , 157",VA,Rappahannock County,50132,2012
+2893,"51 , 159",VA,Richmond County,33002,2012
+2894,"51 , 161",VA,Roanoke County,50351,2012
+2895,"51 , 163",VA,Rockbridge County,37877,2012
+2896,"51 , 165",VA,Rockingham County,43727,2012
+2897,"51 , 167",VA,Russell County,28943,2012
+2898,"51 , 169",VA,Scott County,30199,2012
+2899,"51 , 171",VA,Shenandoah County,41872,2012
+2900,"51 , 173",VA,Smyth County,31645,2012
+2901,"51 , 175",VA,Southampton County,35349,2012
+2902,"51 , 177",VA,Spotsylvania County,65411,2012
+2903,"51 , 179",VA,Stafford County,75556,2012
+2904,"51 , 181",VA,Surry County,38420,2012
+2905,"51 , 183",VA,Sussex County,30302,2012
+2906,"51 , 185",VA,Tazewell County,29427,2012
+2907,"51 , 187",VA,Warren County,46765,2012
+2908,"51 , 191",VA,Washington County,35833,2012
+2909,"51 , 193",VA,Westmoreland County,36210,2012
+2910,"51 , 195",VA,Wise County,28737,2012
+2911,"51 , 197",VA,Wythe County,33262,2012
+2912,"51 , 199",VA,York County,65397,2012
+2913,"51 , 510",VA,Alexandria city,59344,2012
+2914,"51 , 515",VA,Bedford city,30715,2012
+2915,"51 , 520",VA,Bristol city,29112,2012
+2916,"51 , 530",VA,Buena Vista city,33818,2012
+2917,"51 , 540",VA,Charlottesville city,31363,2012
+2918,"51 , 550",VA,Chesapeake city,54067,2012
+2919,"51 , 570",VA,Colonial Heights city,43765,2012
+2920,"51 , 580",VA,Covington city,31688,2012
+2921,"51 , 590",VA,Danville city,27082,2012
+2922,"51 , 595",VA,Emporia city,29388,2012
+2923,"51 , 600",VA,Fairfax city,67166,2012
+2924,"51 , 610",VA,Falls Church city,79421,2012
+2925,"51 , 620",VA,Franklin city,31910,2012
+2926,"51 , 630",VA,Fredericksburg city,36636,2012
+2927,"51 , 640",VA,Galax city,28381,2012
+2928,"51 , 650",VA,Hampton city,39882,2012
+2929,"51 , 660",VA,Harrisonburg city,31057,2012
+2930,"51 , 670",VA,Hopewell city,32845,2012
+2931,"51 , 678",VA,Lexington city,31139,2012
+2932,"51 , 680",VA,Lynchburg city,31973,2012
+2933,"51 , 683",VA,Manassas city,61387,2012
+2934,"51 , 685",VA,Manassas Park city,62637,2012
+2935,"51 , 690",VA,Martinsville city,27736,2012
+2936,"51 , 700",VA,Newport News city,38406,2012
+2937,"51 , 710",VA,Norfolk city,32026,2012
+2938,"51 , 720",VA,Norton city,27135,2012
+2939,"51 , 730",VA,Petersburg city,28558,2012
+2940,"51 , 735",VA,Poquoson city,67765,2012
+2941,"51 , 740",VA,Portsmouth city,34523,2012
+2942,"51 , 750",VA,Radford city,27040,2012
+2943,"51 , 760",VA,Richmond city,31730,2012
+2944,"51 , 770",VA,Roanoke city,31523,2012
+2945,"51 , 775",VA,Salem city,40439,2012
+2946,"51 , 790",VA,Staunton city,33921,2012
+2947,"51 , 800",VA,Suffolk city,46416,2012
+2948,"51 , 810",VA,Virginia Beach city,50361,2012
+2949,"51 , 820",VA,Waynesboro city,34384,2012
+2950,"51 , 830",VA,Williamsburg city,34623,2012
+2951,"51 , 840",VA,Winchester city,37276,2012
+2818,"51 , 1",VA,Accomack County,30063,2013
+2819,"51 , 3",VA,Albemarle County,53104,2013
+2820,"51 , 5",VA,Alleghany County,37349,2013
+2821,"51 , 7",VA,Amelia County,42591,2013
+2822,"51 , 9",VA,Amherst County,37549,2013
+2823,"51 , 11",VA,Appomattox County,36939,2013
+2824,"51 , 13",VA,Arlington County,67161,2013
+2825,"51 , 15",VA,Augusta County,45434,2013
+2826,"51 , 17",VA,Bath County,36523,2013
+2827,"51 , 19",VA,Bedford County,47263,2013
+2828,"51 , 21",VA,Bland County,32742,2013
+2829,"51 , 23",VA,Botetourt County,52094,2013
+2830,"51 , 25",VA,Brunswick County,30503,2013
+2831,"51 , 27",VA,Buchanan County,24427,2013
+2832,"51 , 29",VA,Buckingham County,30610,2013
+2833,"51 , 31",VA,Campbell County,38606,2013
+2834,"51 , 33",VA,Caroline County,41640,2013
+2835,"51 , 35",VA,Carroll County,31850,2013
+2836,"51 , 36",VA,Charles City County,43275,2013
+2837,"51 , 37",VA,Charlotte County,30276,2013
+2838,"51 , 41",VA,Chesterfield County,61907,2013
+2839,"51 , 43",VA,Clarke County,53777,2013
+2840,"51 , 45",VA,Craig County,38869,2013
+2841,"51 , 47",VA,Culpeper County,50162,2013
+2842,"51 , 49",VA,Cumberland County,33700,2013
+2843,"51 , 51",VA,Dickenson County,25479,2013
+2844,"51 , 53",VA,Dinwiddie County,42123,2013
+2845,"51 , 57",VA,Essex County,37239,2013
+2846,"51 , 59",VA,Fairfax County,82648,2013
+2847,"51 , 61",VA,Fauquier County,68140,2013
+2848,"51 , 63",VA,Floyd County,35073,2013
+2849,"51 , 65",VA,Fluvanna County,49274,2013
+2850,"51 , 67",VA,Franklin County,39049,2013
+2851,"51 , 69",VA,Frederick County,52722,2013
+2852,"51 , 71",VA,Giles County,35816,2013
+2853,"51 , 73",VA,Gloucester County,47211,2013
+2854,"51 , 75",VA,Goochland County,61142,2013
+2855,"51 , 77",VA,Grayson County,29386,2013
+2856,"51 , 79",VA,Greene County,49974,2013
+2857,"51 , 81",VA,Greensville County,30049,2013
+2858,"51 , 83",VA,Halifax County,30119,2013
+2859,"51 , 85",VA,Hanover County,65423,2013
+2860,"51 , 87",VA,Henrico County,51201,2013
+2861,"51 , 89",VA,Henry County,31360,2013
+2862,"51 , 91",VA,Highland County,31219,2013
+2863,"51 , 93",VA,Isle of Wight County,49437,2013
+2864,"51 , 95",VA,James City County,62326,2013
+2865,"51 , 97",VA,King and Queen County,36367,2013
+2866,"51 , 99",VA,King George County,57322,2013
+2867,"51 , 101",VA,King William County,52899,2013
+2868,"51 , 103",VA,Lancaster County,36077,2013
+2869,"51 , 105",VA,Lee County,25067,2013
+2870,"51 , 107",VA,Loudoun County,90122,2013
+2871,"51 , 109",VA,Louisa County,43127,2013
+2872,"51 , 111",VA,Lunenburg County,28713,2013
+2873,"51 , 113",VA,Madison County,41005,2013
+2874,"51 , 115",VA,Mathews County,44729,2013
+2875,"51 , 117",VA,Mecklenburg County,30881,2013
+2876,"51 , 119",VA,Middlesex County,38636,2013
+2877,"51 , 121",VA,Montgomery County,34603,2013
+2878,"51 , 125",VA,Nelson County,38719,2013
+2879,"51 , 127",VA,New Kent County,58204,2013
+2880,"51 , 131",VA,Northampton County,29526,2013
+2881,"51 , 133",VA,Northumberland County,38036,2013
+2882,"51 , 135",VA,Nottoway County,31021,2013
+2883,"51 , 137",VA,Orange County,46169,2013
+2884,"51 , 139",VA,Page County,34509,2013
+2885,"51 , 141",VA,Patrick County,29958,2013
+2886,"51 , 143",VA,Pittsylvania County,36029,2013
+2887,"51 , 145",VA,Powhatan County,57458,2013
+2888,"51 , 147",VA,Prince Edward County,29573,2013
+2889,"51 , 149",VA,Prince George County,49503,2013
+2890,"51 , 153",VA,Prince William County,72977,2013
+2891,"51 , 155",VA,Pulaski County,35694,2013
+2892,"51 , 157",VA,Rappahannock County,50132,2013
+2893,"51 , 159",VA,Richmond County,33002,2013
+2894,"51 , 161",VA,Roanoke County,50351,2013
+2895,"51 , 163",VA,Rockbridge County,37877,2013
+2896,"51 , 165",VA,Rockingham County,43727,2013
+2897,"51 , 167",VA,Russell County,28943,2013
+2898,"51 , 169",VA,Scott County,30199,2013
+2899,"51 , 171",VA,Shenandoah County,41872,2013
+2900,"51 , 173",VA,Smyth County,31645,2013
+2901,"51 , 175",VA,Southampton County,35349,2013
+2902,"51 , 177",VA,Spotsylvania County,65411,2013
+2903,"51 , 179",VA,Stafford County,75556,2013
+2904,"51 , 181",VA,Surry County,38420,2013
+2905,"51 , 183",VA,Sussex County,30302,2013
+2906,"51 , 185",VA,Tazewell County,29427,2013
+2907,"51 , 187",VA,Warren County,46765,2013
+2908,"51 , 191",VA,Washington County,35833,2013
+2909,"51 , 193",VA,Westmoreland County,36210,2013
+2910,"51 , 195",VA,Wise County,28737,2013
+2911,"51 , 197",VA,Wythe County,33262,2013
+2912,"51 , 199",VA,York County,65397,2013
+2913,"51 , 510",VA,Alexandria city,59344,2013
+2914,"51 , 515",VA,Bedford city,30715,2013
+2915,"51 , 520",VA,Bristol city,29112,2013
+2916,"51 , 530",VA,Buena Vista city,33818,2013
+2917,"51 , 540",VA,Charlottesville city,31363,2013
+2918,"51 , 550",VA,Chesapeake city,54067,2013
+2919,"51 , 570",VA,Colonial Heights city,43765,2013
+2920,"51 , 580",VA,Covington city,31688,2013
+2921,"51 , 590",VA,Danville city,27082,2013
+2922,"51 , 595",VA,Emporia city,29388,2013
+2923,"51 , 600",VA,Fairfax city,67166,2013
+2924,"51 , 610",VA,Falls Church city,79421,2013
+2925,"51 , 620",VA,Franklin city,31910,2013
+2926,"51 , 630",VA,Fredericksburg city,36636,2013
+2927,"51 , 640",VA,Galax city,28381,2013
+2928,"51 , 650",VA,Hampton city,39882,2013
+2929,"51 , 660",VA,Harrisonburg city,31057,2013
+2930,"51 , 670",VA,Hopewell city,32845,2013
+2931,"51 , 678",VA,Lexington city,31139,2013
+2932,"51 , 680",VA,Lynchburg city,31973,2013
+2933,"51 , 683",VA,Manassas city,61387,2013
+2934,"51 , 685",VA,Manassas Park city,62637,2013
+2935,"51 , 690",VA,Martinsville city,27736,2013
+2936,"51 , 700",VA,Newport News city,38406,2013
+2937,"51 , 710",VA,Norfolk city,32026,2013
+2938,"51 , 720",VA,Norton city,27135,2013
+2939,"51 , 730",VA,Petersburg city,28558,2013
+2940,"51 , 735",VA,Poquoson city,67765,2013
+2941,"51 , 740",VA,Portsmouth city,34523,2013
+2942,"51 , 750",VA,Radford city,27040,2013
+2943,"51 , 760",VA,Richmond city,31730,2013
+2944,"51 , 770",VA,Roanoke city,31523,2013
+2945,"51 , 775",VA,Salem city,40439,2013
+2946,"51 , 790",VA,Staunton city,33921,2013
+2947,"51 , 800",VA,Suffolk city,46416,2013
+2948,"51 , 810",VA,Virginia Beach city,50361,2013
+2949,"51 , 820",VA,Waynesboro city,34384,2013
+2950,"51 , 830",VA,Williamsburg city,34623,2013
+2951,"51 , 840",VA,Winchester city,37276,2013
+2818,"51 , 1",VA,Accomack County,30063,2014
+2819,"51 , 3",VA,Albemarle County,53104,2014
+2820,"51 , 5",VA,Alleghany County,37349,2014
+2821,"51 , 7",VA,Amelia County,42591,2014
+2822,"51 , 9",VA,Amherst County,37549,2014
+2823,"51 , 11",VA,Appomattox County,36939,2014
+2824,"51 , 13",VA,Arlington County,67161,2014
+2825,"51 , 15",VA,Augusta County,45434,2014
+2826,"51 , 17",VA,Bath County,36523,2014
+2827,"51 , 19",VA,Bedford County,47263,2014
+2828,"51 , 21",VA,Bland County,32742,2014
+2829,"51 , 23",VA,Botetourt County,52094,2014
+2830,"51 , 25",VA,Brunswick County,30503,2014
+2831,"51 , 27",VA,Buchanan County,24427,2014
+2832,"51 , 29",VA,Buckingham County,30610,2014
+2833,"51 , 31",VA,Campbell County,38606,2014
+2834,"51 , 33",VA,Caroline County,41640,2014
+2835,"51 , 35",VA,Carroll County,31850,2014
+2836,"51 , 36",VA,Charles City County,43275,2014
+2837,"51 , 37",VA,Charlotte County,30276,2014
+2838,"51 , 41",VA,Chesterfield County,61907,2014
+2839,"51 , 43",VA,Clarke County,53777,2014
+2840,"51 , 45",VA,Craig County,38869,2014
+2841,"51 , 47",VA,Culpeper County,50162,2014
+2842,"51 , 49",VA,Cumberland County,33700,2014
+2843,"51 , 51",VA,Dickenson County,25479,2014
+2844,"51 , 53",VA,Dinwiddie County,42123,2014
+2845,"51 , 57",VA,Essex County,37239,2014
+2846,"51 , 59",VA,Fairfax County,82648,2014
+2847,"51 , 61",VA,Fauquier County,68140,2014
+2848,"51 , 63",VA,Floyd County,35073,2014
+2849,"51 , 65",VA,Fluvanna County,49274,2014
+2850,"51 , 67",VA,Franklin County,39049,2014
+2851,"51 , 69",VA,Frederick County,52722,2014
+2852,"51 , 71",VA,Giles County,35816,2014
+2853,"51 , 73",VA,Gloucester County,47211,2014
+2854,"51 , 75",VA,Goochland County,61142,2014
+2855,"51 , 77",VA,Grayson County,29386,2014
+2856,"51 , 79",VA,Greene County,49974,2014
+2857,"51 , 81",VA,Greensville County,30049,2014
+2858,"51 , 83",VA,Halifax County,30119,2014
+2859,"51 , 85",VA,Hanover County,65423,2014
+2860,"51 , 87",VA,Henrico County,51201,2014
+2861,"51 , 89",VA,Henry County,31360,2014
+2862,"51 , 91",VA,Highland County,31219,2014
+2863,"51 , 93",VA,Isle of Wight County,49437,2014
+2864,"51 , 95",VA,James City County,62326,2014
+2865,"51 , 97",VA,King and Queen County,36367,2014
+2866,"51 , 99",VA,King George County,57322,2014
+2867,"51 , 101",VA,King William County,52899,2014
+2868,"51 , 103",VA,Lancaster County,36077,2014
+2869,"51 , 105",VA,Lee County,25067,2014
+2870,"51 , 107",VA,Loudoun County,90122,2014
+2871,"51 , 109",VA,Louisa County,43127,2014
+2872,"51 , 111",VA,Lunenburg County,28713,2014
+2873,"51 , 113",VA,Madison County,41005,2014
+2874,"51 , 115",VA,Mathews County,44729,2014
+2875,"51 , 117",VA,Mecklenburg County,30881,2014
+2876,"51 , 119",VA,Middlesex County,38636,2014
+2877,"51 , 121",VA,Montgomery County,34603,2014
+2878,"51 , 125",VA,Nelson County,38719,2014
+2879,"51 , 127",VA,New Kent County,58204,2014
+2880,"51 , 131",VA,Northampton County,29526,2014
+2881,"51 , 133",VA,Northumberland County,38036,2014
+2882,"51 , 135",VA,Nottoway County,31021,2014
+2883,"51 , 137",VA,Orange County,46169,2014
+2884,"51 , 139",VA,Page County,34509,2014
+2885,"51 , 141",VA,Patrick County,29958,2014
+2886,"51 , 143",VA,Pittsylvania County,36029,2014
+2887,"51 , 145",VA,Powhatan County,57458,2014
+2888,"51 , 147",VA,Prince Edward County,29573,2014
+2889,"51 , 149",VA,Prince George County,49503,2014
+2890,"51 , 153",VA,Prince William County,72977,2014
+2891,"51 , 155",VA,Pulaski County,35694,2014
+2892,"51 , 157",VA,Rappahannock County,50132,2014
+2893,"51 , 159",VA,Richmond County,33002,2014
+2894,"51 , 161",VA,Roanoke County,50351,2014
+2895,"51 , 163",VA,Rockbridge County,37877,2014
+2896,"51 , 165",VA,Rockingham County,43727,2014
+2897,"51 , 167",VA,Russell County,28943,2014
+2898,"51 , 169",VA,Scott County,30199,2014
+2899,"51 , 171",VA,Shenandoah County,41872,2014
+2900,"51 , 173",VA,Smyth County,31645,2014
+2901,"51 , 175",VA,Southampton County,35349,2014
+2902,"51 , 177",VA,Spotsylvania County,65411,2014
+2903,"51 , 179",VA,Stafford County,75556,2014
+2904,"51 , 181",VA,Surry County,38420,2014
+2905,"51 , 183",VA,Sussex County,30302,2014
+2906,"51 , 185",VA,Tazewell County,29427,2014
+2907,"51 , 187",VA,Warren County,46765,2014
+2908,"51 , 191",VA,Washington County,35833,2014
+2909,"51 , 193",VA,Westmoreland County,36210,2014
+2910,"51 , 195",VA,Wise County,28737,2014
+2911,"51 , 197",VA,Wythe County,33262,2014
+2912,"51 , 199",VA,York County,65397,2014
+2913,"51 , 510",VA,Alexandria city,59344,2014
+2914,"51 , 515",VA,Bedford city,30715,2014
+2915,"51 , 520",VA,Bristol city,29112,2014
+2916,"51 , 530",VA,Buena Vista city,33818,2014
+2917,"51 , 540",VA,Charlottesville city,31363,2014
+2918,"51 , 550",VA,Chesapeake city,54067,2014
+2919,"51 , 570",VA,Colonial Heights city,43765,2014
+2920,"51 , 580",VA,Covington city,31688,2014
+2921,"51 , 590",VA,Danville city,27082,2014
+2922,"51 , 595",VA,Emporia city,29388,2014
+2923,"51 , 600",VA,Fairfax city,67166,2014
+2924,"51 , 610",VA,Falls Church city,79421,2014
+2925,"51 , 620",VA,Franklin city,31910,2014
+2926,"51 , 630",VA,Fredericksburg city,36636,2014
+2927,"51 , 640",VA,Galax city,28381,2014
+2928,"51 , 650",VA,Hampton city,39882,2014
+2929,"51 , 660",VA,Harrisonburg city,31057,2014
+2930,"51 , 670",VA,Hopewell city,32845,2014
+2931,"51 , 678",VA,Lexington city,31139,2014
+2932,"51 , 680",VA,Lynchburg city,31973,2014
+2933,"51 , 683",VA,Manassas city,61387,2014
+2934,"51 , 685",VA,Manassas Park city,62637,2014
+2935,"51 , 690",VA,Martinsville city,27736,2014
+2936,"51 , 700",VA,Newport News city,38406,2014
+2937,"51 , 710",VA,Norfolk city,32026,2014
+2938,"51 , 720",VA,Norton city,27135,2014
+2939,"51 , 730",VA,Petersburg city,28558,2014
+2940,"51 , 735",VA,Poquoson city,67765,2014
+2941,"51 , 740",VA,Portsmouth city,34523,2014
+2942,"51 , 750",VA,Radford city,27040,2014
+2943,"51 , 760",VA,Richmond city,31730,2014
+2944,"51 , 770",VA,Roanoke city,31523,2014
+2945,"51 , 775",VA,Salem city,40439,2014
+2946,"51 , 790",VA,Staunton city,33921,2014
+2947,"51 , 800",VA,Suffolk city,46416,2014
+2948,"51 , 810",VA,Virginia Beach city,50361,2014
+2949,"51 , 820",VA,Waynesboro city,34384,2014
+2950,"51 , 830",VA,Williamsburg city,34623,2014
+2951,"51 , 840",VA,Winchester city,37276,2014
+2818,"51 , 1",VA,Accomack County,30063,2015
+2819,"51 , 3",VA,Albemarle County,53104,2015
+2820,"51 , 5",VA,Alleghany County,37349,2015
+2821,"51 , 7",VA,Amelia County,42591,2015
+2822,"51 , 9",VA,Amherst County,37549,2015
+2823,"51 , 11",VA,Appomattox County,36939,2015
+2824,"51 , 13",VA,Arlington County,67161,2015
+2825,"51 , 15",VA,Augusta County,45434,2015
+2826,"51 , 17",VA,Bath County,36523,2015
+2827,"51 , 19",VA,Bedford County,47263,2015
+2828,"51 , 21",VA,Bland County,32742,2015
+2829,"51 , 23",VA,Botetourt County,52094,2015
+2830,"51 , 25",VA,Brunswick County,30503,2015
+2831,"51 , 27",VA,Buchanan County,24427,2015
+2832,"51 , 29",VA,Buckingham County,30610,2015
+2833,"51 , 31",VA,Campbell County,38606,2015
+2834,"51 , 33",VA,Caroline County,41640,2015
+2835,"51 , 35",VA,Carroll County,31850,2015
+2836,"51 , 36",VA,Charles City County,43275,2015
+2837,"51 , 37",VA,Charlotte County,30276,2015
+2838,"51 , 41",VA,Chesterfield County,61907,2015
+2839,"51 , 43",VA,Clarke County,53777,2015
+2840,"51 , 45",VA,Craig County,38869,2015
+2841,"51 , 47",VA,Culpeper County,50162,2015
+2842,"51 , 49",VA,Cumberland County,33700,2015
+2843,"51 , 51",VA,Dickenson County,25479,2015
+2844,"51 , 53",VA,Dinwiddie County,42123,2015
+2845,"51 , 57",VA,Essex County,37239,2015
+2846,"51 , 59",VA,Fairfax County,82648,2015
+2847,"51 , 61",VA,Fauquier County,68140,2015
+2848,"51 , 63",VA,Floyd County,35073,2015
+2849,"51 , 65",VA,Fluvanna County,49274,2015
+2850,"51 , 67",VA,Franklin County,39049,2015
+2851,"51 , 69",VA,Frederick County,52722,2015
+2852,"51 , 71",VA,Giles County,35816,2015
+2853,"51 , 73",VA,Gloucester County,47211,2015
+2854,"51 , 75",VA,Goochland County,61142,2015
+2855,"51 , 77",VA,Grayson County,29386,2015
+2856,"51 , 79",VA,Greene County,49974,2015
+2857,"51 , 81",VA,Greensville County,30049,2015
+2858,"51 , 83",VA,Halifax County,30119,2015
+2859,"51 , 85",VA,Hanover County,65423,2015
+2860,"51 , 87",VA,Henrico County,51201,2015
+2861,"51 , 89",VA,Henry County,31360,2015
+2862,"51 , 91",VA,Highland County,31219,2015
+2863,"51 , 93",VA,Isle of Wight County,49437,2015
+2864,"51 , 95",VA,James City County,62326,2015
+2865,"51 , 97",VA,King and Queen County,36367,2015
+2866,"51 , 99",VA,King George County,57322,2015
+2867,"51 , 101",VA,King William County,52899,2015
+2868,"51 , 103",VA,Lancaster County,36077,2015
+2869,"51 , 105",VA,Lee County,25067,2015
+2870,"51 , 107",VA,Loudoun County,90122,2015
+2871,"51 , 109",VA,Louisa County,43127,2015
+2872,"51 , 111",VA,Lunenburg County,28713,2015
+2873,"51 , 113",VA,Madison County,41005,2015
+2874,"51 , 115",VA,Mathews County,44729,2015
+2875,"51 , 117",VA,Mecklenburg County,30881,2015
+2876,"51 , 119",VA,Middlesex County,38636,2015
+2877,"51 , 121",VA,Montgomery County,34603,2015
+2878,"51 , 125",VA,Nelson County,38719,2015
+2879,"51 , 127",VA,New Kent County,58204,2015
+2880,"51 , 131",VA,Northampton County,29526,2015
+2881,"51 , 133",VA,Northumberland County,38036,2015
+2882,"51 , 135",VA,Nottoway County,31021,2015
+2883,"51 , 137",VA,Orange County,46169,2015
+2884,"51 , 139",VA,Page County,34509,2015
+2885,"51 , 141",VA,Patrick County,29958,2015
+2886,"51 , 143",VA,Pittsylvania County,36029,2015
+2887,"51 , 145",VA,Powhatan County,57458,2015
+2888,"51 , 147",VA,Prince Edward County,29573,2015
+2889,"51 , 149",VA,Prince George County,49503,2015
+2890,"51 , 153",VA,Prince William County,72977,2015
+2891,"51 , 155",VA,Pulaski County,35694,2015
+2892,"51 , 157",VA,Rappahannock County,50132,2015
+2893,"51 , 159",VA,Richmond County,33002,2015
+2894,"51 , 161",VA,Roanoke County,50351,2015
+2895,"51 , 163",VA,Rockbridge County,37877,2015
+2896,"51 , 165",VA,Rockingham County,43727,2015
+2897,"51 , 167",VA,Russell County,28943,2015
+2898,"51 , 169",VA,Scott County,30199,2015
+2899,"51 , 171",VA,Shenandoah County,41872,2015
+2900,"51 , 173",VA,Smyth County,31645,2015
+2901,"51 , 175",VA,Southampton County,35349,2015
+2902,"51 , 177",VA,Spotsylvania County,65411,2015
+2903,"51 , 179",VA,Stafford County,75556,2015
+2904,"51 , 181",VA,Surry County,38420,2015
+2905,"51 , 183",VA,Sussex County,30302,2015
+2906,"51 , 185",VA,Tazewell County,29427,2015
+2907,"51 , 187",VA,Warren County,46765,2015
+2908,"51 , 191",VA,Washington County,35833,2015
+2909,"51 , 193",VA,Westmoreland County,36210,2015
+2910,"51 , 195",VA,Wise County,28737,2015
+2911,"51 , 197",VA,Wythe County,33262,2015
+2912,"51 , 199",VA,York County,65397,2015
+2913,"51 , 510",VA,Alexandria city,59344,2015
+2914,"51 , 515",VA,Bedford city,30715,2015
+2915,"51 , 520",VA,Bristol city,29112,2015
+2916,"51 , 530",VA,Buena Vista city,33818,2015
+2917,"51 , 540",VA,Charlottesville city,31363,2015
+2918,"51 , 550",VA,Chesapeake city,54067,2015
+2919,"51 , 570",VA,Colonial Heights city,43765,2015
+2920,"51 , 580",VA,Covington city,31688,2015
+2921,"51 , 590",VA,Danville city,27082,2015
+2922,"51 , 595",VA,Emporia city,29388,2015
+2923,"51 , 600",VA,Fairfax city,67166,2015
+2924,"51 , 610",VA,Falls Church city,79421,2015
+2925,"51 , 620",VA,Franklin city,31910,2015
+2926,"51 , 630",VA,Fredericksburg city,36636,2015
+2927,"51 , 640",VA,Galax city,28381,2015
+2928,"51 , 650",VA,Hampton city,39882,2015
+2929,"51 , 660",VA,Harrisonburg city,31057,2015
+2930,"51 , 670",VA,Hopewell city,32845,2015
+2931,"51 , 678",VA,Lexington city,31139,2015
+2932,"51 , 680",VA,Lynchburg city,31973,2015
+2933,"51 , 683",VA,Manassas city,61387,2015
+2934,"51 , 685",VA,Manassas Park city,62637,2015
+2935,"51 , 690",VA,Martinsville city,27736,2015
+2936,"51 , 700",VA,Newport News city,38406,2015
+2937,"51 , 710",VA,Norfolk city,32026,2015
+2938,"51 , 720",VA,Norton city,27135,2015
+2939,"51 , 730",VA,Petersburg city,28558,2015
+2940,"51 , 735",VA,Poquoson city,67765,2015
+2941,"51 , 740",VA,Portsmouth city,34523,2015
+2942,"51 , 750",VA,Radford city,27040,2015
+2943,"51 , 760",VA,Richmond city,31730,2015
+2944,"51 , 770",VA,Roanoke city,31523,2015
+2945,"51 , 775",VA,Salem city,40439,2015
+2946,"51 , 790",VA,Staunton city,33921,2015
+2947,"51 , 800",VA,Suffolk city,46416,2015
+2948,"51 , 810",VA,Virginia Beach city,50361,2015
+2949,"51 , 820",VA,Waynesboro city,34384,2015
+2950,"51 , 830",VA,Williamsburg city,34623,2015
+2951,"51 , 840",VA,Winchester city,37276,2015
+2818,"51 , 1",VA,Accomack County,30063,2016
+2819,"51 , 3",VA,Albemarle County,53104,2016
+2820,"51 , 5",VA,Alleghany County,37349,2016
+2821,"51 , 7",VA,Amelia County,42591,2016
+2822,"51 , 9",VA,Amherst County,37549,2016
+2823,"51 , 11",VA,Appomattox County,36939,2016
+2824,"51 , 13",VA,Arlington County,67161,2016
+2825,"51 , 15",VA,Augusta County,45434,2016
+2826,"51 , 17",VA,Bath County,36523,2016
+2827,"51 , 19",VA,Bedford County,47263,2016
+2828,"51 , 21",VA,Bland County,32742,2016
+2829,"51 , 23",VA,Botetourt County,52094,2016
+2830,"51 , 25",VA,Brunswick County,30503,2016
+2831,"51 , 27",VA,Buchanan County,24427,2016
+2832,"51 , 29",VA,Buckingham County,30610,2016
+2833,"51 , 31",VA,Campbell County,38606,2016
+2834,"51 , 33",VA,Caroline County,41640,2016
+2835,"51 , 35",VA,Carroll County,31850,2016
+2836,"51 , 36",VA,Charles City County,43275,2016
+2837,"51 , 37",VA,Charlotte County,30276,2016
+2838,"51 , 41",VA,Chesterfield County,61907,2016
+2839,"51 , 43",VA,Clarke County,53777,2016
+2840,"51 , 45",VA,Craig County,38869,2016
+2841,"51 , 47",VA,Culpeper County,50162,2016
+2842,"51 , 49",VA,Cumberland County,33700,2016
+2843,"51 , 51",VA,Dickenson County,25479,2016
+2844,"51 , 53",VA,Dinwiddie County,42123,2016
+2845,"51 , 57",VA,Essex County,37239,2016
+2846,"51 , 59",VA,Fairfax County,82648,2016
+2847,"51 , 61",VA,Fauquier County,68140,2016
+2848,"51 , 63",VA,Floyd County,35073,2016
+2849,"51 , 65",VA,Fluvanna County,49274,2016
+2850,"51 , 67",VA,Franklin County,39049,2016
+2851,"51 , 69",VA,Frederick County,52722,2016
+2852,"51 , 71",VA,Giles County,35816,2016
+2853,"51 , 73",VA,Gloucester County,47211,2016
+2854,"51 , 75",VA,Goochland County,61142,2016
+2855,"51 , 77",VA,Grayson County,29386,2016
+2856,"51 , 79",VA,Greene County,49974,2016
+2857,"51 , 81",VA,Greensville County,30049,2016
+2858,"51 , 83",VA,Halifax County,30119,2016
+2859,"51 , 85",VA,Hanover County,65423,2016
+2860,"51 , 87",VA,Henrico County,51201,2016
+2861,"51 , 89",VA,Henry County,31360,2016
+2862,"51 , 91",VA,Highland County,31219,2016
+2863,"51 , 93",VA,Isle of Wight County,49437,2016
+2864,"51 , 95",VA,James City County,62326,2016
+2865,"51 , 97",VA,King and Queen County,36367,2016
+2866,"51 , 99",VA,King George County,57322,2016
+2867,"51 , 101",VA,King William County,52899,2016
+2868,"51 , 103",VA,Lancaster County,36077,2016
+2869,"51 , 105",VA,Lee County,25067,2016
+2870,"51 , 107",VA,Loudoun County,90122,2016
+2871,"51 , 109",VA,Louisa County,43127,2016
+2872,"51 , 111",VA,Lunenburg County,28713,2016
+2873,"51 , 113",VA,Madison County,41005,2016
+2874,"51 , 115",VA,Mathews County,44729,2016
+2875,"51 , 117",VA,Mecklenburg County,30881,2016
+2876,"51 , 119",VA,Middlesex County,38636,2016
+2877,"51 , 121",VA,Montgomery County,34603,2016
+2878,"51 , 125",VA,Nelson County,38719,2016
+2879,"51 , 127",VA,New Kent County,58204,2016
+2880,"51 , 131",VA,Northampton County,29526,2016
+2881,"51 , 133",VA,Northumberland County,38036,2016
+2882,"51 , 135",VA,Nottoway County,31021,2016
+2883,"51 , 137",VA,Orange County,46169,2016
+2884,"51 , 139",VA,Page County,34509,2016
+2885,"51 , 141",VA,Patrick County,29958,2016
+2886,"51 , 143",VA,Pittsylvania County,36029,2016
+2887,"51 , 145",VA,Powhatan County,57458,2016
+2888,"51 , 147",VA,Prince Edward County,29573,2016
+2889,"51 , 149",VA,Prince George County,49503,2016
+2890,"51 , 153",VA,Prince William County,72977,2016
+2891,"51 , 155",VA,Pulaski County,35694,2016
+2892,"51 , 157",VA,Rappahannock County,50132,2016
+2893,"51 , 159",VA,Richmond County,33002,2016
+2894,"51 , 161",VA,Roanoke County,50351,2016
+2895,"51 , 163",VA,Rockbridge County,37877,2016
+2896,"51 , 165",VA,Rockingham County,43727,2016
+2897,"51 , 167",VA,Russell County,28943,2016
+2898,"51 , 169",VA,Scott County,30199,2016
+2899,"51 , 171",VA,Shenandoah County,41872,2016
+2900,"51 , 173",VA,Smyth County,31645,2016
+2901,"51 , 175",VA,Southampton County,35349,2016
+2902,"51 , 177",VA,Spotsylvania County,65411,2016
+2903,"51 , 179",VA,Stafford County,75556,2016
+2904,"51 , 181",VA,Surry County,38420,2016
+2905,"51 , 183",VA,Sussex County,30302,2016
+2906,"51 , 185",VA,Tazewell County,29427,2016
+2907,"51 , 187",VA,Warren County,46765,2016
+2908,"51 , 191",VA,Washington County,35833,2016
+2909,"51 , 193",VA,Westmoreland County,36210,2016
+2910,"51 , 195",VA,Wise County,28737,2016
+2911,"51 , 197",VA,Wythe County,33262,2016
+2912,"51 , 199",VA,York County,65397,2016
+2913,"51 , 510",VA,Alexandria city,59344,2016
+2914,"51 , 515",VA,Bedford city,30715,2016
+2915,"51 , 520",VA,Bristol city,29112,2016
+2916,"51 , 530",VA,Buena Vista city,33818,2016
+2917,"51 , 540",VA,Charlottesville city,31363,2016
+2918,"51 , 550",VA,Chesapeake city,54067,2016
+2919,"51 , 570",VA,Colonial Heights city,43765,2016
+2920,"51 , 580",VA,Covington city,31688,2016
+2921,"51 , 590",VA,Danville city,27082,2016
+2922,"51 , 595",VA,Emporia city,29388,2016
+2923,"51 , 600",VA,Fairfax city,67166,2016
+2924,"51 , 610",VA,Falls Church city,79421,2016
+2925,"51 , 620",VA,Franklin city,31910,2016
+2926,"51 , 630",VA,Fredericksburg city,36636,2016
+2927,"51 , 640",VA,Galax city,28381,2016
+2928,"51 , 650",VA,Hampton city,39882,2016
+2929,"51 , 660",VA,Harrisonburg city,31057,2016
+2930,"51 , 670",VA,Hopewell city,32845,2016
+2931,"51 , 678",VA,Lexington city,31139,2016
+2932,"51 , 680",VA,Lynchburg city,31973,2016
+2933,"51 , 683",VA,Manassas city,61387,2016
+2934,"51 , 685",VA,Manassas Park city,62637,2016
+2935,"51 , 690",VA,Martinsville city,27736,2016
+2936,"51 , 700",VA,Newport News city,38406,2016
+2937,"51 , 710",VA,Norfolk city,32026,2016
+2938,"51 , 720",VA,Norton city,27135,2016
+2939,"51 , 730",VA,Petersburg city,28558,2016
+2940,"51 , 735",VA,Poquoson city,67765,2016
+2941,"51 , 740",VA,Portsmouth city,34523,2016
+2942,"51 , 750",VA,Radford city,27040,2016
+2943,"51 , 760",VA,Richmond city,31730,2016
+2944,"51 , 770",VA,Roanoke city,31523,2016
+2945,"51 , 775",VA,Salem city,40439,2016
+2946,"51 , 790",VA,Staunton city,33921,2016
+2947,"51 , 800",VA,Suffolk city,46416,2016
+2948,"51 , 810",VA,Virginia Beach city,50361,2016
+2949,"51 , 820",VA,Waynesboro city,34384,2016
+2950,"51 , 830",VA,Williamsburg city,34623,2016
+2951,"51 , 840",VA,Winchester city,37276,2016
+2818,"51 , 1",VA,Accomack County,30063,2017
+2819,"51 , 3",VA,Albemarle County,53104,2017
+2820,"51 , 5",VA,Alleghany County,37349,2017
+2821,"51 , 7",VA,Amelia County,42591,2017
+2822,"51 , 9",VA,Amherst County,37549,2017
+2823,"51 , 11",VA,Appomattox County,36939,2017
+2824,"51 , 13",VA,Arlington County,67161,2017
+2825,"51 , 15",VA,Augusta County,45434,2017
+2826,"51 , 17",VA,Bath County,36523,2017
+2827,"51 , 19",VA,Bedford County,47263,2017
+2828,"51 , 21",VA,Bland County,32742,2017
+2829,"51 , 23",VA,Botetourt County,52094,2017
+2830,"51 , 25",VA,Brunswick County,30503,2017
+2831,"51 , 27",VA,Buchanan County,24427,2017
+2832,"51 , 29",VA,Buckingham County,30610,2017
+2833,"51 , 31",VA,Campbell County,38606,2017
+2834,"51 , 33",VA,Caroline County,41640,2017
+2835,"51 , 35",VA,Carroll County,31850,2017
+2836,"51 , 36",VA,Charles City County,43275,2017
+2837,"51 , 37",VA,Charlotte County,30276,2017
+2838,"51 , 41",VA,Chesterfield County,61907,2017
+2839,"51 , 43",VA,Clarke County,53777,2017
+2840,"51 , 45",VA,Craig County,38869,2017
+2841,"51 , 47",VA,Culpeper County,50162,2017
+2842,"51 , 49",VA,Cumberland County,33700,2017
+2843,"51 , 51",VA,Dickenson County,25479,2017
+2844,"51 , 53",VA,Dinwiddie County,42123,2017
+2845,"51 , 57",VA,Essex County,37239,2017
+2846,"51 , 59",VA,Fairfax County,82648,2017
+2847,"51 , 61",VA,Fauquier County,68140,2017
+2848,"51 , 63",VA,Floyd County,35073,2017
+2849,"51 , 65",VA,Fluvanna County,49274,2017
+2850,"51 , 67",VA,Franklin County,39049,2017
+2851,"51 , 69",VA,Frederick County,52722,2017
+2852,"51 , 71",VA,Giles County,35816,2017
+2853,"51 , 73",VA,Gloucester County,47211,2017
+2854,"51 , 75",VA,Goochland County,61142,2017
+2855,"51 , 77",VA,Grayson County,29386,2017
+2856,"51 , 79",VA,Greene County,49974,2017
+2857,"51 , 81",VA,Greensville County,30049,2017
+2858,"51 , 83",VA,Halifax County,30119,2017
+2859,"51 , 85",VA,Hanover County,65423,2017
+2860,"51 , 87",VA,Henrico County,51201,2017
+2861,"51 , 89",VA,Henry County,31360,2017
+2862,"51 , 91",VA,Highland County,31219,2017
+2863,"51 , 93",VA,Isle of Wight County,49437,2017
+2864,"51 , 95",VA,James City County,62326,2017
+2865,"51 , 97",VA,King and Queen County,36367,2017
+2866,"51 , 99",VA,King George County,57322,2017
+2867,"51 , 101",VA,King William County,52899,2017
+2868,"51 , 103",VA,Lancaster County,36077,2017
+2869,"51 , 105",VA,Lee County,25067,2017
+2870,"51 , 107",VA,Loudoun County,90122,2017
+2871,"51 , 109",VA,Louisa County,43127,2017
+2872,"51 , 111",VA,Lunenburg County,28713,2017
+2873,"51 , 113",VA,Madison County,41005,2017
+2874,"51 , 115",VA,Mathews County,44729,2017
+2875,"51 , 117",VA,Mecklenburg County,30881,2017
+2876,"51 , 119",VA,Middlesex County,38636,2017
+2877,"51 , 121",VA,Montgomery County,34603,2017
+2878,"51 , 125",VA,Nelson County,38719,2017
+2879,"51 , 127",VA,New Kent County,58204,2017
+2880,"51 , 131",VA,Northampton County,29526,2017
+2881,"51 , 133",VA,Northumberland County,38036,2017
+2882,"51 , 135",VA,Nottoway County,31021,2017
+2883,"51 , 137",VA,Orange County,46169,2017
+2884,"51 , 139",VA,Page County,34509,2017
+2885,"51 , 141",VA,Patrick County,29958,2017
+2886,"51 , 143",VA,Pittsylvania County,36029,2017
+2887,"51 , 145",VA,Powhatan County,57458,2017
+2888,"51 , 147",VA,Prince Edward County,29573,2017
+2889,"51 , 149",VA,Prince George County,49503,2017
+2890,"51 , 153",VA,Prince William County,72977,2017
+2891,"51 , 155",VA,Pulaski County,35694,2017
+2892,"51 , 157",VA,Rappahannock County,50132,2017
+2893,"51 , 159",VA,Richmond County,33002,2017
+2894,"51 , 161",VA,Roanoke County,50351,2017
+2895,"51 , 163",VA,Rockbridge County,37877,2017
+2896,"51 , 165",VA,Rockingham County,43727,2017
+2897,"51 , 167",VA,Russell County,28943,2017
+2898,"51 , 169",VA,Scott County,30199,2017
+2899,"51 , 171",VA,Shenandoah County,41872,2017
+2900,"51 , 173",VA,Smyth County,31645,2017
+2901,"51 , 175",VA,Southampton County,35349,2017
+2902,"51 , 177",VA,Spotsylvania County,65411,2017
+2903,"51 , 179",VA,Stafford County,75556,2017
+2904,"51 , 181",VA,Surry County,38420,2017
+2905,"51 , 183",VA,Sussex County,30302,2017
+2906,"51 , 185",VA,Tazewell County,29427,2017
+2907,"51 , 187",VA,Warren County,46765,2017
+2908,"51 , 191",VA,Washington County,35833,2017
+2909,"51 , 193",VA,Westmoreland County,36210,2017
+2910,"51 , 195",VA,Wise County,28737,2017
+2911,"51 , 197",VA,Wythe County,33262,2017
+2912,"51 , 199",VA,York County,65397,2017
+2913,"51 , 510",VA,Alexandria city,59344,2017
+2914,"51 , 515",VA,Bedford city,30715,2017
+2915,"51 , 520",VA,Bristol city,29112,2017
+2916,"51 , 530",VA,Buena Vista city,33818,2017
+2917,"51 , 540",VA,Charlottesville city,31363,2017
+2918,"51 , 550",VA,Chesapeake city,54067,2017
+2919,"51 , 570",VA,Colonial Heights city,43765,2017
+2920,"51 , 580",VA,Covington city,31688,2017
+2921,"51 , 590",VA,Danville city,27082,2017
+2922,"51 , 595",VA,Emporia city,29388,2017
+2923,"51 , 600",VA,Fairfax city,67166,2017
+2924,"51 , 610",VA,Falls Church city,79421,2017
+2925,"51 , 620",VA,Franklin city,31910,2017
+2926,"51 , 630",VA,Fredericksburg city,36636,2017
+2927,"51 , 640",VA,Galax city,28381,2017
+2928,"51 , 650",VA,Hampton city,39882,2017
+2929,"51 , 660",VA,Harrisonburg city,31057,2017
+2930,"51 , 670",VA,Hopewell city,32845,2017
+2931,"51 , 678",VA,Lexington city,31139,2017
+2932,"51 , 680",VA,Lynchburg city,31973,2017
+2933,"51 , 683",VA,Manassas city,61387,2017
+2934,"51 , 685",VA,Manassas Park city,62637,2017
+2935,"51 , 690",VA,Martinsville city,27736,2017
+2936,"51 , 700",VA,Newport News city,38406,2017
+2937,"51 , 710",VA,Norfolk city,32026,2017
+2938,"51 , 720",VA,Norton city,27135,2017
+2939,"51 , 730",VA,Petersburg city,28558,2017
+2940,"51 , 735",VA,Poquoson city,67765,2017
+2941,"51 , 740",VA,Portsmouth city,34523,2017
+2942,"51 , 750",VA,Radford city,27040,2017
+2943,"51 , 760",VA,Richmond city,31730,2017
+2944,"51 , 770",VA,Roanoke city,31523,2017
+2945,"51 , 775",VA,Salem city,40439,2017
+2946,"51 , 790",VA,Staunton city,33921,2017
+2947,"51 , 800",VA,Suffolk city,46416,2017
+2948,"51 , 810",VA,Virginia Beach city,50361,2017
+2949,"51 , 820",VA,Waynesboro city,34384,2017
+2950,"51 , 830",VA,Williamsburg city,34623,2017
+2951,"51 , 840",VA,Winchester city,37276,2017
+2818,"51 , 1",VA,Accomack County,30063,2018
+2819,"51 , 3",VA,Albemarle County,53104,2018
+2820,"51 , 5",VA,Alleghany County,37349,2018
+2821,"51 , 7",VA,Amelia County,42591,2018
+2822,"51 , 9",VA,Amherst County,37549,2018
+2823,"51 , 11",VA,Appomattox County,36939,2018
+2824,"51 , 13",VA,Arlington County,67161,2018
+2825,"51 , 15",VA,Augusta County,45434,2018
+2826,"51 , 17",VA,Bath County,36523,2018
+2827,"51 , 19",VA,Bedford County,47263,2018
+2828,"51 , 21",VA,Bland County,32742,2018
+2829,"51 , 23",VA,Botetourt County,52094,2018
+2830,"51 , 25",VA,Brunswick County,30503,2018
+2831,"51 , 27",VA,Buchanan County,24427,2018
+2832,"51 , 29",VA,Buckingham County,30610,2018
+2833,"51 , 31",VA,Campbell County,38606,2018
+2834,"51 , 33",VA,Caroline County,41640,2018
+2835,"51 , 35",VA,Carroll County,31850,2018
+2836,"51 , 36",VA,Charles City County,43275,2018
+2837,"51 , 37",VA,Charlotte County,30276,2018
+2838,"51 , 41",VA,Chesterfield County,61907,2018
+2839,"51 , 43",VA,Clarke County,53777,2018
+2840,"51 , 45",VA,Craig County,38869,2018
+2841,"51 , 47",VA,Culpeper County,50162,2018
+2842,"51 , 49",VA,Cumberland County,33700,2018
+2843,"51 , 51",VA,Dickenson County,25479,2018
+2844,"51 , 53",VA,Dinwiddie County,42123,2018
+2845,"51 , 57",VA,Essex County,37239,2018
+2846,"51 , 59",VA,Fairfax County,82648,2018
+2847,"51 , 61",VA,Fauquier County,68140,2018
+2848,"51 , 63",VA,Floyd County,35073,2018
+2849,"51 , 65",VA,Fluvanna County,49274,2018
+2850,"51 , 67",VA,Franklin County,39049,2018
+2851,"51 , 69",VA,Frederick County,52722,2018
+2852,"51 , 71",VA,Giles County,35816,2018
+2853,"51 , 73",VA,Gloucester County,47211,2018
+2854,"51 , 75",VA,Goochland County,61142,2018
+2855,"51 , 77",VA,Grayson County,29386,2018
+2856,"51 , 79",VA,Greene County,49974,2018
+2857,"51 , 81",VA,Greensville County,30049,2018
+2858,"51 , 83",VA,Halifax County,30119,2018
+2859,"51 , 85",VA,Hanover County,65423,2018
+2860,"51 , 87",VA,Henrico County,51201,2018
+2861,"51 , 89",VA,Henry County,31360,2018
+2862,"51 , 91",VA,Highland County,31219,2018
+2863,"51 , 93",VA,Isle of Wight County,49437,2018
+2864,"51 , 95",VA,James City County,62326,2018
+2865,"51 , 97",VA,King and Queen County,36367,2018
+2866,"51 , 99",VA,King George County,57322,2018
+2867,"51 , 101",VA,King William County,52899,2018
+2868,"51 , 103",VA,Lancaster County,36077,2018
+2869,"51 , 105",VA,Lee County,25067,2018
+2870,"51 , 107",VA,Loudoun County,90122,2018
+2871,"51 , 109",VA,Louisa County,43127,2018
+2872,"51 , 111",VA,Lunenburg County,28713,2018
+2873,"51 , 113",VA,Madison County,41005,2018
+2874,"51 , 115",VA,Mathews County,44729,2018
+2875,"51 , 117",VA,Mecklenburg County,30881,2018
+2876,"51 , 119",VA,Middlesex County,38636,2018
+2877,"51 , 121",VA,Montgomery County,34603,2018
+2878,"51 , 125",VA,Nelson County,38719,2018
+2879,"51 , 127",VA,New Kent County,58204,2018
+2880,"51 , 131",VA,Northampton County,29526,2018
+2881,"51 , 133",VA,Northumberland County,38036,2018
+2882,"51 , 135",VA,Nottoway County,31021,2018
+2883,"51 , 137",VA,Orange County,46169,2018
+2884,"51 , 139",VA,Page County,34509,2018
+2885,"51 , 141",VA,Patrick County,29958,2018
+2886,"51 , 143",VA,Pittsylvania County,36029,2018
+2887,"51 , 145",VA,Powhatan County,57458,2018
+2888,"51 , 147",VA,Prince Edward County,29573,2018
+2889,"51 , 149",VA,Prince George County,49503,2018
+2890,"51 , 153",VA,Prince William County,72977,2018
+2891,"51 , 155",VA,Pulaski County,35694,2018
+2892,"51 , 157",VA,Rappahannock County,50132,2018
+2893,"51 , 159",VA,Richmond County,33002,2018
+2894,"51 , 161",VA,Roanoke County,50351,2018
+2895,"51 , 163",VA,Rockbridge County,37877,2018
+2896,"51 , 165",VA,Rockingham County,43727,2018
+2897,"51 , 167",VA,Russell County,28943,2018
+2898,"51 , 169",VA,Scott County,30199,2018
+2899,"51 , 171",VA,Shenandoah County,41872,2018
+2900,"51 , 173",VA,Smyth County,31645,2018
+2901,"51 , 175",VA,Southampton County,35349,2018
+2902,"51 , 177",VA,Spotsylvania County,65411,2018
+2903,"51 , 179",VA,Stafford County,75556,2018
+2904,"51 , 181",VA,Surry County,38420,2018
+2905,"51 , 183",VA,Sussex County,30302,2018
+2906,"51 , 185",VA,Tazewell County,29427,2018
+2907,"51 , 187",VA,Warren County,46765,2018
+2908,"51 , 191",VA,Washington County,35833,2018
+2909,"51 , 193",VA,Westmoreland County,36210,2018
+2910,"51 , 195",VA,Wise County,28737,2018
+2911,"51 , 197",VA,Wythe County,33262,2018
+2912,"51 , 199",VA,York County,65397,2018
+2913,"51 , 510",VA,Alexandria city,59344,2018
+2914,"51 , 515",VA,Bedford city,30715,2018
+2915,"51 , 520",VA,Bristol city,29112,2018
+2916,"51 , 530",VA,Buena Vista city,33818,2018
+2917,"51 , 540",VA,Charlottesville city,31363,2018
+2918,"51 , 550",VA,Chesapeake city,54067,2018
+2919,"51 , 570",VA,Colonial Heights city,43765,2018
+2920,"51 , 580",VA,Covington city,31688,2018
+2921,"51 , 590",VA,Danville city,27082,2018
+2922,"51 , 595",VA,Emporia city,29388,2018
+2923,"51 , 600",VA,Fairfax city,67166,2018
+2924,"51 , 610",VA,Falls Church city,79421,2018
+2925,"51 , 620",VA,Franklin city,31910,2018
+2926,"51 , 630",VA,Fredericksburg city,36636,2018
+2927,"51 , 640",VA,Galax city,28381,2018
+2928,"51 , 650",VA,Hampton city,39882,2018
+2929,"51 , 660",VA,Harrisonburg city,31057,2018
+2930,"51 , 670",VA,Hopewell city,32845,2018
+2931,"51 , 678",VA,Lexington city,31139,2018
+2932,"51 , 680",VA,Lynchburg city,31973,2018
+2933,"51 , 683",VA,Manassas city,61387,2018
+2934,"51 , 685",VA,Manassas Park city,62637,2018
+2935,"51 , 690",VA,Martinsville city,27736,2018
+2936,"51 , 700",VA,Newport News city,38406,2018
+2937,"51 , 710",VA,Norfolk city,32026,2018
+2938,"51 , 720",VA,Norton city,27135,2018
+2939,"51 , 730",VA,Petersburg city,28558,2018
+2940,"51 , 735",VA,Poquoson city,67765,2018
+2941,"51 , 740",VA,Portsmouth city,34523,2018
+2942,"51 , 750",VA,Radford city,27040,2018
+2943,"51 , 760",VA,Richmond city,31730,2018
+2944,"51 , 770",VA,Roanoke city,31523,2018
+2945,"51 , 775",VA,Salem city,40439,2018
+2946,"51 , 790",VA,Staunton city,33921,2018
+2947,"51 , 800",VA,Suffolk city,46416,2018
+2948,"51 , 810",VA,Virginia Beach city,50361,2018
+2949,"51 , 820",VA,Waynesboro city,34384,2018
+2950,"51 , 830",VA,Williamsburg city,34623,2018
+2951,"51 , 840",VA,Winchester city,37276,2018
