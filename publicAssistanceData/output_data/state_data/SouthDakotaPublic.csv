@@ -1,0 +1,3847 @@
+disasterNumber,county,year,incidentType,amountOblig
+1280,Statewide,1999,Tornado,19619.99
+1280,Oglala Lakota,1999,Tornado,438587.27
+1280,Oglala Lakota,1999,Tornado,129902.68
+1280,Statewide,1999,Tornado,0.0
+1280,Statewide,1999,Tornado,45500.65
+1280,Statewide,1999,Tornado,36500.83
+1280,Statewide,1999,Tornado,90161.77
+1280,Statewide,1999,Tornado,0.0
+1330,Fall River,2000,Severe Storm(s),45402.42
+1330,Oglala Lakota,2000,Severe Storm(s),148462.66
+1330,Pennington,2000,Severe Storm(s),198690.66
+1330,Statewide,2000,Severe Storm(s),11918.79
+1330,Statewide,2000,Severe Storm(s),38763.0
+1330,Statewide,2000,Severe Storm(s),11760.97
+1330,Pennington,2000,Severe Storm(s),2755.5
+1330,Pennington,2000,Severe Storm(s),2052.83
+1330,Fall River,2000,Severe Storm(s),13310.42
+1330,Pennington,2000,Severe Storm(s),38459.61
+1330,Statewide,2000,Severe Storm(s),8772.71
+1330,Custer,2000,Severe Storm(s),1128366.07
+1330,Custer,2000,Severe Storm(s),3363.03
+1330,Pennington,2000,Severe Storm(s),37034.71
+1330,Fall River,2000,Severe Storm(s),16078.29
+1375,Beadle,2001,Flood,147846.05
+1375,Brookings,2001,Flood,2192.78
+1375,Brookings,2001,Flood,2268.75
+1375,Beadle,2001,Flood,1806.05
+1375,Beadle,2001,Flood,24253.91
+1375,Brown,2001,Flood,3788.2
+1375,Brookings,2001,Flood,8150.07
+1375,Brookings,2001,Flood,5446.13
+1375,Brookings,2001,Flood,3001.88
+1375,Brookings,2001,Flood,4746.26
+1375,Beadle,2001,Flood,2620.88
+1375,Beadle,2001,Flood,3956.35
+1375,Beadle,2001,Flood,2691.0
+1375,Beadle,2001,Flood,4464.0
+1375,Beadle,2001,Flood,8895.98
+1375,Brookings,2001,Flood,11804.99
+1375,Beadle,2001,Flood,6209.25
+1375,Brookings,2001,Flood,2631.03
+1375,Beadle,2001,Flood,11328.04
+1375,Brookings,2001,Flood,11302.2
+1375,Brookings,2001,Flood,3315.83
+1375,Beadle,2001,Flood,1780.28
+1375,Beadle,2001,Flood,16835.59
+1375,Brookings,2001,Flood,3862.64
+1375,Beadle,2001,Flood,4549.58
+1375,Beadle,2001,Flood,16196.88
+1375,Beadle,2001,Flood,42823.64
+1375,Brookings,2001,Flood,7882.89
+1375,Beadle,2001,Flood,1980.75
+1375,Beadle,2001,Flood,13393.22
+1375,Brookings,2001,Flood,5563.5
+1375,Brookings,2001,Flood,1340.29
+1375,Brookings,2001,Flood,11996.74
+1375,Beadle,2001,Flood,18121.13
+1375,Brown,2001,Flood,8232.8
+1375,Brookings,2001,Flood,1045.31
+1375,Brookings,2001,Flood,5988.37
+1375,Beadle,2001,Flood,4806.76
+1375,Beadle,2001,Flood,5688.76
+1375,Beadle,2001,Flood,4591.13
+1375,Beadle,2001,Flood,10367.63
+1375,Beadle,2001,Flood,11956.07
+1375,Beadle,2001,Flood,1977.75
+1375,Brown,2001,Flood,3008.25
+1375,Beadle,2001,Flood,8184.9
+1375,Beadle,2001,Flood,5773.69
+1375,Beadle,2001,Flood,8052.15
+1375,Beadle,2001,Flood,11149.03
+1375,Brookings,2001,Flood,3086.43
+1375,Beadle,2001,Flood,2196.0
+1375,Beadle,2001,Flood,5558.25
+1375,Beadle,2001,Flood,2366.7
+1375,Beadle,2001,Flood,14862.91
+1375,Beadle,2001,Flood,12043.5
+1375,Beadle,2001,Flood,2257.5
+1375,Brookings,2001,Flood,6986.34
+1375,Beadle,2001,Flood,3164.25
+1375,Edmunds,2001,Flood,0.0
+1375,Day,2001,Flood,8296.25
+1375,Edmunds,2001,Flood,6639.38
+1375,Brown,2001,Flood,15143.28
+1375,Brown,2001,Flood,13910.25
+1375,Edmunds,2001,Flood,3095.45
+1375,Clark,2001,Flood,6232.35
+1375,Clark,2001,Flood,5180.37
+1375,Clark,2001,Flood,4586.28
+1375,Day,2001,Flood,6222.77
+1375,Brown,2001,Flood,4410.3
+1375,Codington,2001,Flood,4323.89
+1375,Clark,2001,Flood,1193.95
+1375,Brown,2001,Flood,1185.75
+1375,Brown,2001,Flood,1741.47
+1375,Edmunds,2001,Flood,3893.43
+1375,Brown,2001,Flood,1663.5
+1375,Day,2001,Flood,5581.82
+1375,Brown,2001,Flood,1072.5
+1375,Day,2001,Flood,24877.04
+1375,Clark,2001,Flood,1328.67
+1375,Day,2001,Flood,2513.55
+1375,Brown,2001,Flood,8775.75
+1375,Brown,2001,Flood,2780.62
+1375,Edmunds,2001,Flood,3596.32
+1375,Deuel,2001,Flood,13437.19
+1375,Codington,2001,Flood,6817.21
+1375,Codington,2001,Flood,786.11
+1375,Brown,2001,Flood,2746.13
+1375,Clark,2001,Flood,2487.76
+1375,Brown,2001,Flood,1982.87
+1375,Edmunds,2001,Flood,2764.37
+1375,Day,2001,Flood,13433.78
+1375,Brown,2001,Flood,2681.25
+1375,Edmunds,2001,Flood,13775.25
+1375,Clark,2001,Flood,6923.74
+1375,Buffalo,2001,Flood,2551.5
+1375,Edmunds,2001,Flood,2355.75
+1375,Clark,2001,Flood,1712.25
+1375,Brown,2001,Flood,1611.75
+1375,Brown,2001,Flood,4495.01
+1375,Codington,2001,Flood,2620.76
+1375,Edmunds,2001,Flood,0.0
+1375,Clark,2001,Flood,5337.66
+1375,Clark,2001,Flood,7957.47
+1375,Brown,2001,Flood,4825.69
+1375,Clark,2001,Flood,9195.0
+1375,Day,2001,Flood,2813.47
+1375,Brown,2001,Flood,8899.82
+1375,Codington,2001,Flood,13349.95
+1375,Brown,2001,Flood,12105.19
+1375,Deuel,2001,Flood,2413.5
+1375,Codington,2001,Flood,108735.57
+1375,Day,2001,Flood,24623.4
+1375,Brown,2001,Flood,1365.0
+1375,Day,2001,Flood,2597.3
+1375,Day,2001,Flood,3341.59
+1375,Edmunds,2001,Flood,12249.39
+1375,Day,2001,Flood,793.46
+1375,Clark,2001,Flood,6443.55
+1375,Clark,2001,Flood,2741.55
+1375,Day,2001,Flood,825.3
+1375,Edmunds,2001,Flood,4495.5
+1375,Deuel,2001,Flood,5619.11
+1375,Edmunds,2001,Flood,7076.17
+1375,Edmunds,2001,Flood,916.0
+1375,Edmunds,2001,Flood,8887.46
+1375,Brown,2001,Flood,12471.72
+1375,Edmunds,2001,Flood,3853.5
+1375,Day,2001,Flood,28899.5
+1375,Clark,2001,Flood,1425.75
+1375,Codington,2001,Flood,7382.55
+1375,Clark,2001,Flood,6157.02
+1375,Day,2001,Flood,3370.07
+1375,Clark,2001,Flood,3076.1
+1375,Brown,2001,Flood,3076.63
+1375,Edmunds,2001,Flood,1416.75
+1375,Brown,2001,Flood,13276.51
+1375,Codington,2001,Flood,17204.09
+1375,Codington,2001,Flood,13476.75
+1375,Codington,2001,Flood,11231.36
+1375,Day,2001,Flood,3671.87
+1375,Deuel,2001,Flood,5169.56
+1375,Deuel,2001,Flood,3879.0
+1375,Clark,2001,Flood,5403.68
+1375,Day,2001,Flood,2761.56
+1375,Codington,2001,Flood,16503.12
+1375,Codington,2001,Flood,17844.66
+1375,Edmunds,2001,Flood,1274.92
+1375,Deuel,2001,Flood,4813.5
+1375,Day,2001,Flood,164986.94
+1375,Day,2001,Flood,1800.14
+1375,Day,2001,Flood,10869.63
+1375,Brown,2001,Flood,2187.28
+1375,Edmunds,2001,Flood,1965.36
+1375,Brown,2001,Flood,9443.25
+1375,Deuel,2001,Flood,15484.1
+1375,Buffalo,2001,Flood,7639.43
+1375,Deuel,2001,Flood,3684.0
+1375,Clark,2001,Flood,2944.58
+1375,Clark,2001,Flood,1109.36
+1375,Day,2001,Flood,2569.64
+1375,Edmunds,2001,Flood,0.0
+1375,Edmunds,2001,Flood,2174.18
+1375,Clark,2001,Flood,11083.46
+1375,Deuel,2001,Flood,4193.25
+1375,Edmunds,2001,Flood,3372.75
+1375,Codington,2001,Flood,11743.69
+1375,Brown,2001,Flood,1173.75
+1375,Deuel,2001,Flood,8666.37
+1375,Brown,2001,Flood,1692.66
+1375,Day,2001,Flood,3316.55
+1375,Codington,2001,Flood,18167.5
+1375,Deuel,2001,Flood,9392.25
+1375,Brown,2001,Flood,4397.13
+1375,Brown,2001,Flood,2052.75
+1375,Deuel,2001,Flood,11271.02
+1375,Brown,2001,Flood,94522.3
+1375,Brown,2001,Flood,15271.61
+1375,Clark,2001,Flood,81629.88
+1375,Codington,2001,Flood,11594.2
+1375,Deuel,2001,Flood,2652.15
+1375,Codington,2001,Flood,7399.37
+1375,Edmunds,2001,Flood,1257.75
+1375,Brown,2001,Flood,7718.32
+1375,Deuel,2001,Flood,1966.46
+1375,Brown,2001,Flood,7411.54
+1375,Deuel,2001,Flood,9393.75
+1375,Day,2001,Flood,19741.88
+1375,Brown,2001,Flood,6867.87
+1375,Deuel,2001,Flood,771.15
+1375,Edmunds,2001,Flood,5970.3
+1375,Brown,2001,Flood,807.8
+1375,Clark,2001,Flood,4940.67
+1375,Day,2001,Flood,0.0
+1375,Clark,2001,Flood,5492.19
+1375,Brown,2001,Flood,2871.09
+1375,Deuel,2001,Flood,1945.5
+1375,Edmunds,2001,Flood,4261.88
+1375,Codington,2001,Flood,24782.22
+1375,Deuel,2001,Flood,2435.25
+1375,Brown,2001,Flood,4733.25
+1375,Codington,2001,Flood,307730.88
+1375,Brown,2001,Flood,1764.07
+1375,Clark,2001,Flood,14684.9
+1375,Brown,2001,Flood,23568.75
+1375,Codington,2001,Flood,3737.87
+1375,Clark,2001,Flood,6583.96
+1375,Brown,2001,Flood,7092.73
+1375,Brown,2001,Flood,9435.75
+1375,Day,2001,Flood,2801.89
+1375,Clark,2001,Flood,3863.34
+1375,Codington,2001,Flood,20046.22
+1375,Codington,2001,Flood,6255.47
+1375,Deuel,2001,Flood,5970.89
+1375,Edmunds,2001,Flood,57694.89
+1375,Roberts,2001,Flood,2394.75
+1375,Grant,2001,Flood,1600.96
+1375,Kingsbury,2001,Flood,1512.0
+1375,Marshall,2001,Flood,10476.85
+1375,Kingsbury,2001,Flood,5214.53
+1375,Roberts,2001,Flood,9333.08
+1375,Hamlin,2001,Flood,2701.63
+1375,Marshall,2001,Flood,815.18
+1375,Grant,2001,Flood,2244.67
+1375,Moody,2001,Flood,1013.25
+1375,Gregory,2001,Flood,1203.75
+1375,Grant,2001,Flood,2087.55
+1375,Gregory,2001,Flood,1307.25
+1375,Hanson,2001,Flood,1444.95
+1375,Roberts,2001,Flood,10331.77
+1375,Marshall,2001,Flood,6703.24
+1375,Hamlin,2001,Flood,16257.29
+1375,Grant,2001,Flood,3751.61
+1375,Roberts,2001,Flood,6152.25
+1375,Kingsbury,2001,Flood,33888.31
+1375,Grant,2001,Flood,72663.97
+1375,Grant,2001,Flood,1321.26
+1375,Marshall,2001,Flood,11572.35
+1375,Marshall,2001,Flood,2392.5
+1375,Jerauld,2001,Flood,3374.03
+1375,Roberts,2001,Flood,4126.5
+1375,Moody,2001,Flood,4409.25
+1375,Grant,2001,Flood,3785.71
+1375,Marshall,2001,Flood,11269.5
+1375,Moody,2001,Flood,3378.0
+1375,Roberts,2001,Flood,931.5
+1375,Jerauld,2001,Flood,2494.88
+1375,Grant,2001,Flood,0.0
+1375,Hanson,2001,Flood,4008.75
+1375,Marshall,2001,Flood,1685.1
+1375,Edmunds,2001,Flood,7057.69
+1375,Gregory,2001,Flood,1041.64
+1375,Hanson,2001,Flood,5630.04
+1375,Moody,2001,Flood,825.0
+1375,Roberts,2001,Flood,10486.81
+1375,Roberts,2001,Flood,2817.19
+1375,Moody,2001,Flood,2788.17
+1375,Kingsbury,2001,Flood,7100.26
+1375,Hamlin,2001,Flood,3783.41
+1375,Hamlin,2001,Flood,1520.74
+1375,Hamlin,2001,Flood,5008.34
+1375,Hanson,2001,Flood,3013.5
+1375,Moody,2001,Flood,6604.13
+1375,Edmunds,2001,Flood,12248.29
+1375,Kingsbury,2001,Flood,6089.2
+1375,Kingsbury,2001,Flood,5402.44
+1375,Gregory,2001,Flood,1050.0
+1375,Roberts,2001,Flood,75915.33
+1375,Roberts,2001,Flood,4368.75
+1375,Kingsbury,2001,Flood,9820.05
+1375,Hamlin,2001,Flood,69419.78
+1375,Kingsbury,2001,Flood,26656.13
+1375,Marshall,2001,Flood,9553.61
+1375,Hamlin,2001,Flood,2624.0
+1375,Roberts,2001,Flood,16254.0
+1375,Marshall,2001,Flood,1071.38
+1375,Gregory,2001,Flood,2237.25
+1375,Mellette,2001,Flood,6921.0
+1375,Marshall,2001,Flood,12937.92
+1375,Hanson,2001,Flood,3596.66
+1375,Kingsbury,2001,Flood,27415.85
+1375,Grant,2001,Flood,2967.75
+1375,Gregory,2001,Flood,1851.38
+1375,Roberts,2001,Flood,6591.75
+1375,Gregory,2001,Flood,974.25
+1375,Hanson,2001,Flood,2228.25
+1375,Jerauld,2001,Flood,2611.5
+1375,Hanson,2001,Flood,1851.12
+1375,Kingsbury,2001,Flood,10057.45
+1375,Roberts,2001,Flood,14056.74
+1375,Roberts,2001,Flood,8960.25
+1375,Hamlin,2001,Flood,2326.75
+1375,Marshall,2001,Flood,2058.3
+1375,Grant,2001,Flood,1223.26
+1375,Marshall,2001,Flood,853.86
+1375,Moody,2001,Flood,2713.5
+1375,Grant,2001,Flood,1752.75
+1375,Moody,2001,Flood,3435.34
+1375,Kingsbury,2001,Flood,3926.31
+1375,Clark,2001,Flood,30509.4
+1375,Hamlin,2001,Flood,7329.03
+1375,Roberts,2001,Flood,15177.59
+1375,Roberts,2001,Flood,1501.88
+1375,Jerauld,2001,Flood,8653.5
+1375,Roberts,2001,Flood,18408.48
+1375,Hamlin,2001,Flood,6042.77
+1375,Hanson,2001,Flood,3227.31
+1375,Roberts,2001,Flood,1842.75
+1375,Hanson,2001,Flood,4252.5
+1375,Grant,2001,Flood,6588.33
+1375,Kingsbury,2001,Flood,14358.19
+1375,Grant,2001,Flood,2262.75
+1375,Roberts,2001,Flood,1994.25
+1375,Edmunds,2001,Flood,3856.35
+1375,Mellette,2001,Flood,58301.26
+1375,Hamlin,2001,Flood,1371.64
+1375,Roberts,2001,Flood,4396.65
+1375,Moody,2001,Flood,3846.75
+1375,Marshall,2001,Flood,14223.59
+1375,Roberts,2001,Flood,3380.25
+1375,Jerauld,2001,Flood,9277.21
+1375,Roberts,2001,Flood,6694.05
+1375,Grant,2001,Flood,1305.0
+1375,Hamlin,2001,Flood,12220.71
+1375,Roberts,2001,Flood,8436.9
+1375,Moody,2001,Flood,2301.28
+1375,Marshall,2001,Flood,11390.71
+1375,Hamlin,2001,Flood,2887.49
+1375,Gregory,2001,Flood,1314.75
+1375,Grant,2001,Flood,23821.88
+1375,Roberts,2001,Flood,9386.25
+1375,Roberts,2001,Flood,4988.25
+1375,Marshall,2001,Flood,1344.75
+1375,Moody,2001,Flood,18603.17
+1375,Roberts,2001,Flood,9554.25
+1375,Roberts,2001,Flood,9960.0
+1375,Grant,2001,Flood,22669.57
+1375,Hanson,2001,Flood,2877.11
+1375,Grant,2001,Flood,1447.5
+1375,Gregory,2001,Flood,25167.38
+1375,Hamlin,2001,Flood,5156.95
+1375,Roberts,2001,Flood,3907.5
+1375,Kingsbury,2001,Flood,23728.56
+1375,Kingsbury,2001,Flood,18308.16
+1375,Kingsbury,2001,Flood,0.0
+1375,Gregory,2001,Flood,1860.75
+1375,Marshall,2001,Flood,2337.0
+1375,Jerauld,2001,Flood,1702.5
+1375,Kingsbury,2001,Flood,33781.73
+1375,Kingsbury,2001,Flood,67977.37
+1375,Grant,2001,Flood,997.5
+1375,Kingsbury,2001,Flood,21338.26
+1375,Marshall,2001,Flood,13798.38
+1375,Roberts,2001,Flood,3681.98
+1375,Grant,2001,Flood,12210.47
+1375,Grant,2001,Flood,2832.02
+1375,Hanson,2001,Flood,3471.38
+1375,Hanson,2001,Flood,3904.55
+1375,Hamlin,2001,Flood,4338.5
+1375,Marshall,2001,Flood,33045.94
+1375,Edmunds,2001,Flood,4279.9
+1375,Roberts,2001,Flood,8736.23
+1375,Marshall,2001,Flood,7538.63
+1375,Marshall,2001,Flood,3585.0
+1375,Marshall,2001,Flood,7991.22
+1375,Moody,2001,Flood,5569.36
+1375,Kingsbury,2001,Flood,0.0
+1375,Marshall,2001,Flood,16756.28
+1375,Moody,2001,Flood,1464.0
+1375,Grant,2001,Flood,4171.52
+1375,Grant,2001,Flood,8308.21
+1375,Marshall,2001,Flood,8545.69
+1375,Turner,2001,Flood,9644.25
+1375,Statewide,2001,Flood,46736.95
+1375,Spink,2001,Flood,2494.13
+1375,Sanborn,2001,Flood,2237.4
+1375,Turner,2001,Flood,1034.51
+1375,Sanborn,2001,Flood,9897.83
+1375,Spink,2001,Flood,2885.21
+1375,Spink,2001,Flood,6328.5
+1375,Spink,2001,Flood,2724.23
+1375,Sanborn,2001,Flood,16001.89
+1375,Turner,2001,Flood,2059.31
+1375,Spink,2001,Flood,10091.26
+1375,Statewide,2001,Flood,112400.25
+1375,Tripp,2001,Flood,0.0
+1375,Spink,2001,Flood,8847.0
+1375,Spink,2001,Flood,1050.0
+1375,Spink,2001,Flood,4602.13
+1375,Spink,2001,Flood,1683.75
+1375,Tripp,2001,Flood,1485.75
+1375,Sanborn,2001,Flood,3277.5
+1375,Turner,2001,Flood,886.88
+1375,Tripp,2001,Flood,1275.0
+1375,Statewide,2001,Flood,63116.36
+1375,Statewide,2001,Flood,167362.3
+1375,Sanborn,2001,Flood,31129.1
+1375,Spink,2001,Flood,3675.94
+1375,Sanborn,2001,Flood,2118.46
+1375,Spink,2001,Flood,2058.6
+1375,Spink,2001,Flood,0.0
+1375,Sanborn,2001,Flood,6893.25
+1375,Sanborn,2001,Flood,19713.41
+1375,Sanborn,2001,Flood,5162.77
+1375,Sanborn,2001,Flood,1424.78
+1375,Sanborn,2001,Flood,3432.0
+1375,Sanborn,2001,Flood,2844.51
+1375,Tripp,2001,Flood,0.0
+1375,Jerauld,2001,Flood,0.0
+1375,Sanborn,2001,Flood,979.31
+1375,Spink,2001,Flood,4576.65
+1375,Tripp,2001,Flood,766.13
+1375,Sanborn,2001,Flood,3138.14
+1375,Tripp,2001,Flood,0.0
+1375,Turner,2001,Flood,0.0
+1375,Tripp,2001,Flood,9085.5
+1375,Spink,2001,Flood,894.64
+1375,Turner,2001,Flood,1173.0
+1375,Tripp,2001,Flood,981.75
+1375,Spink,2001,Flood,12920.38
+1375,Tripp,2001,Flood,3110.25
+1375,Spink,2001,Flood,10347.32
+1375,Turner,2001,Flood,3780.0
+1375,Statewide,2001,Flood,1522.99
+1375,Statewide,2001,Flood,22466.3
+1375,Sanborn,2001,Flood,15439.09
+1375,Turner,2001,Flood,1533.0
+1375,Tripp,2001,Flood,945.0
+1375,Spink,2001,Flood,3294.0
+1375,Statewide,2001,Flood,9391.25
+1375,Spink,2001,Flood,5619.97
+1375,Turner,2001,Flood,15117.47
+1375,Spink,2001,Flood,1102.73
+1375,Spink,2001,Flood,6961.17
+1375,Statewide,2001,Flood,64670.6
+1375,Sanborn,2001,Flood,3569.44
+1375,Spink,2001,Flood,9411.87
+1375,Turner,2001,Flood,1934.36
+1375,Sanborn,2001,Flood,5383.72
+1375,Statewide,2001,Flood,29981.25
+1375,Turner,2001,Flood,915.75
+1375,Turner,2001,Flood,1189.89
+1375,Sanborn,2001,Flood,1691.4
+1375,Statewide,2001,Flood,2268.62
+1375,Turner,2001,Flood,2171.25
+1375,Spink,2001,Flood,1503.77
+1375,Statewide,2001,Flood,17034.0
+1375,Spink,2001,Flood,10228.5
+1375,Sanborn,2001,Flood,3014.41
+1375,Spink,2001,Flood,6557.57
+1375,Spink,2001,Flood,3455.72
+1375,Spink,2001,Flood,4093.05
+1375,Statewide,2001,Flood,3572.21
+1375,Spink,2001,Flood,8199.2
+1375,Turner,2001,Flood,2126.45
+1375,Turner,2001,Flood,3180.0
+1375,Spink,2001,Flood,954.23
+1375,Statewide,2001,Flood,38959.5
+1375,Sanborn,2001,Flood,7557.0
+1375,Spink,2001,Flood,2521.2
+1375,Turner,2001,Flood,787.5
+1375,Turner,2001,Flood,2286.9
+1375,Spink,2001,Flood,7143.5
+1375,Statewide,2001,Flood,7232.25
+1375,Todd,2001,Flood,10144.65
+1375,Spink,2001,Flood,134447.34
+1375,Spink,2001,Flood,11554.5
+1375,Turner,2001,Flood,3327.0
+1375,Spink,2001,Flood,2387.55
+1531,Marshall,2004,Severe Storm(s),2041.1
+1531,Turner,2004,Severe Storm(s),5869.35
+1531,Marshall,2004,Severe Storm(s),4433.21
+1531,Minnehaha,2004,Severe Storm(s),11504.63
+1531,Tripp,2004,Severe Storm(s),1428.21
+1531,Turner,2004,Severe Storm(s),8926.13
+1531,Tripp,2004,Severe Storm(s),954.75
+1531,Yankton,2004,Severe Storm(s),2406.05
+1531,Turner,2004,Severe Storm(s),2634.75
+1531,Minnehaha,2004,Severe Storm(s),126181.21
+1531,Haakon,2004,Severe Storm(s),16088.36
+1531,Statewide,2004,Severe Storm(s),8558.77
+1531,Tripp,2004,Severe Storm(s),3659.89
+1531,Minnehaha,2004,Severe Storm(s),3812.8
+1531,Minnehaha,2004,Severe Storm(s),4504.94
+1531,Tripp,2004,Severe Storm(s),5390.66
+1531,Marshall,2004,Severe Storm(s),5900.36
+1531,Tripp,2004,Severe Storm(s),3443.7
+1531,Tripp,2004,Severe Storm(s),1222.76
+1531,Minnehaha,2004,Severe Storm(s),6237.34
+1531,Minnehaha,2004,Severe Storm(s),10078.8
+1531,Turner,2004,Severe Storm(s),27032.87
+1531,Minnehaha,2004,Severe Storm(s),5530.09
+1531,Tripp,2004,Severe Storm(s),75717.18
+1531,Yankton,2004,Severe Storm(s),2954.71
+1531,Minnehaha,2004,Severe Storm(s),7034.7
+1531,Todd,2004,Severe Storm(s),288681.29
+1531,Turner,2004,Severe Storm(s),9370.5
+1531,Minnehaha,2004,Severe Storm(s),36974.94
+1531,Todd,2004,Severe Storm(s),31930.5
+1531,Minnehaha,2004,Severe Storm(s),2094.81
+1531,Mellette,2004,Severe Storm(s),7350.0
+1531,Jackson,2004,Severe Storm(s),11280.6
+1531,Turner,2004,Severe Storm(s),1665.3
+1531,Tripp,2004,Severe Storm(s),766.5
+1531,Jackson,2004,Severe Storm(s),5689.73
+1531,Marshall,2004,Severe Storm(s),1454.25
+1531,Tripp,2004,Severe Storm(s),4662.75
+1531,Yankton,2004,Severe Storm(s),33747.16
+1531,Marshall,2004,Severe Storm(s),4250.24
+1531,Tripp,2004,Severe Storm(s),7709.3
+1531,Turner,2004,Severe Storm(s),4827.51
+1531,Tripp,2004,Severe Storm(s),4332.38
+1531,Tripp,2004,Severe Storm(s),2811.73
+1531,Tripp,2004,Severe Storm(s),9381.77
+1531,Yankton,2004,Severe Storm(s),3776.25
+1531,Tripp,2004,Severe Storm(s),1954.95
+1531,Marshall,2004,Severe Storm(s),2637.81
+1531,Minnehaha,2004,Severe Storm(s),2330.83
+1531,Haakon,2004,Severe Storm(s),127137.81
+1531,Turner,2004,Severe Storm(s),4499.26
+1531,Tripp,2004,Severe Storm(s),6359.17
+1531,Jackson,2004,Severe Storm(s),30533.24
+1596,Statewide,2005,Severe Storm(s),4505.87
+1596,Faulk,2005,Severe Storm(s),1704.44
+1596,Statewide,2005,Severe Storm(s),0.0
+1596,Faulk,2005,Severe Storm(s),1173.4
+1596,Statewide,2005,Severe Storm(s),22436.06
+1596,Faulk,2005,Severe Storm(s),5281.34
+1596,Statewide,2005,Severe Storm(s),55702.32
+1596,Statewide,2005,Severe Storm(s),34395.02
+1596,Statewide,2005,Severe Storm(s),33320.03
+1596,Faulk,2005,Severe Storm(s),10333.05
+1596,Potter,2005,Severe Storm(s),7607.32
+1596,Faulk,2005,Severe Storm(s),5590.55
+1596,Sully,2005,Severe Storm(s),1326.83
+1596,Statewide,2005,Severe Storm(s),250518.23
+1596,Spink,2005,Severe Storm(s),7097.7
+1596,Faulk,2005,Severe Storm(s),2960.0
+1596,Statewide,2005,Severe Storm(s),69011.89
+1596,Sully,2005,Severe Storm(s),2708.9
+1596,Faulk,2005,Severe Storm(s),1301.25
+1596,Potter,2005,Severe Storm(s),15312.93
+1596,Statewide,2005,Severe Storm(s),82525.78
+1596,Potter,2005,Severe Storm(s),19072.36
+1596,Statewide,2005,Severe Storm(s),7058.77
+1620,Davison,2005,Severe Storm(s),3961.09
+1620,Deuel,2005,Severe Storm(s),2333.4
+1620,Bon Homme,2005,Severe Storm(s),9239.25
+1620,Bon Homme,2005,Severe Storm(s),23365.26
+1620,Codington,2005,Severe Storm(s),5737.04
+1620,Clark,2005,Severe Storm(s),19846.97
+1620,Brown,2005,Severe Storm(s),0.0
+1620,Bon Homme,2005,Severe Storm(s),3015.75
+1620,Grant,2005,Severe Storm(s),117828.65
+1620,Bon Homme,2005,Severe Storm(s),8616.1
+1620,Codington,2005,Severe Storm(s),8578.4
+1620,Codington,2005,Severe Storm(s),62268.59
+1620,Douglas,2005,Severe Storm(s),0.0
+1620,Deuel,2005,Severe Storm(s),2465.25
+1620,Day,2005,Severe Storm(s),1820.34
+1620,Davison,2005,Severe Storm(s),5749.73
+1620,Aurora,2005,Severe Storm(s),35419.97
+1620,Clark,2005,Severe Storm(s),0.0
+1620,Bon Homme,2005,Severe Storm(s),1830.0
+1620,Bon Homme,2005,Severe Storm(s),2874.72
+1620,Grant,2005,Severe Storm(s),2722.48
+1620,Brown,2005,Severe Storm(s),0.0
+1620,Day,2005,Severe Storm(s),1489.65
+1620,Grant,2005,Severe Storm(s),4581.83
+1620,Grant,2005,Severe Storm(s),871.14
+1620,Clark,2005,Severe Storm(s),0.0
+1620,Clark,2005,Severe Storm(s),5224.64
+1620,Charles Mix,2005,Severe Storm(s),7765.7
+1620,Day,2005,Severe Storm(s),13931.71
+1620,Deuel,2005,Severe Storm(s),27479.44
+1620,Beadle,2005,Severe Storm(s),1655.53
+1620,Charles Mix,2005,Severe Storm(s),3443.12
+1620,Day,2005,Severe Storm(s),3652.17
+1620,Codington,2005,Severe Storm(s),1030.25
+1620,Davison,2005,Severe Storm(s),3074.77
+1620,Beadle,2005,Severe Storm(s),0.0
+1620,Charles Mix,2005,Severe Storm(s),98335.11
+1620,Day,2005,Severe Storm(s),1458.58
+1620,Grant,2005,Severe Storm(s),4500.0
+1620,Aurora,2005,Severe Storm(s),7298.18
+1620,Deuel,2005,Severe Storm(s),9137.97
+1620,Deuel,2005,Severe Storm(s),7540.11
+1620,Charles Mix,2005,Severe Storm(s),1793.63
+1620,Beadle,2005,Severe Storm(s),111319.55
+1620,Beadle,2005,Severe Storm(s),2427.19
+1620,Codington,2005,Severe Storm(s),9707.25
+1620,Bon Homme,2005,Severe Storm(s),2975.03
+1620,Douglas,2005,Severe Storm(s),2192.23
+1620,Clark,2005,Severe Storm(s),4512.11
+1620,Clark,2005,Severe Storm(s),13695.73
+1620,Clark,2005,Severe Storm(s),1147.5
+1620,Beadle,2005,Severe Storm(s),3353.5
+1620,Davison,2005,Severe Storm(s),243035.27
+1620,Douglas,2005,Severe Storm(s),3050.39
+1620,Day,2005,Severe Storm(s),7324.13
+1620,Day,2005,Severe Storm(s),7353.43
+1620,Beadle,2005,Severe Storm(s),2207.18
+1620,Roberts,2005,Severe Storm(s),4950.19
+1620,Statewide,2005,Severe Storm(s),3995.23
+1620,Statewide,2005,Severe Storm(s),24066.74
+1620,Statewide,2005,Severe Storm(s),11020.29
+1620,Hutchinson,2005,Severe Storm(s),1727.38
+1620,Statewide,2005,Severe Storm(s),339890.48
+1620,Statewide,2005,Severe Storm(s),1355.51
+1620,Statewide,2005,Severe Storm(s),27639.75
+1620,Hamlin,2005,Severe Storm(s),5213.0
+1620,Statewide,2005,Severe Storm(s),3120.44
+1620,Statewide,2005,Severe Storm(s),32659.5
+1620,Statewide,2005,Severe Storm(s),20037.75
+1620,Statewide,2005,Severe Storm(s),1056634.9
+1620,Roberts,2005,Severe Storm(s),1455.6
+1620,Spink,2005,Severe Storm(s),375.0
+1620,Spink,2005,Severe Storm(s),0.0
+1620,Statewide,2005,Severe Storm(s),4703593.77
+1620,Spink,2005,Severe Storm(s),2019.51
+1620,Statewide,2005,Severe Storm(s),6006.61
+1620,Roberts,2005,Severe Storm(s),206769.26
+1620,Kingsbury,2005,Severe Storm(s),2114.25
+1620,Sanborn,2005,Severe Storm(s),1452.06
+1620,Statewide,2005,Severe Storm(s),16035.13
+1620,Sanborn,2005,Severe Storm(s),6198.75
+1620,Statewide,2005,Severe Storm(s),2507.51
+1620,Statewide,2005,Severe Storm(s),6628883.92
+1620,Statewide,2005,Severe Storm(s),1214328.97
+1620,Statewide,2005,Severe Storm(s),34319.95
+1620,Statewide,2005,Severe Storm(s),93432.31
+1620,Spink,2005,Severe Storm(s),1312.5
+1620,Statewide,2005,Severe Storm(s),1355.52
+1620,Statewide,2005,Severe Storm(s),4064.59
+1620,Statewide,2005,Severe Storm(s),395926.3
+1620,Roberts,2005,Severe Storm(s),5423.62
+1620,Spink,2005,Severe Storm(s),1577.96
+1620,Statewide,2005,Severe Storm(s),333577.7
+1620,Kingsbury,2005,Severe Storm(s),1155.75
+1620,Statewide,2005,Severe Storm(s),5464.36
+1620,Kingsbury,2005,Severe Storm(s),0.0
+1620,Marshall,2005,Severe Storm(s),0.0
+1620,Hutchinson,2005,Severe Storm(s),8481.91
+1620,Statewide,2005,Severe Storm(s),1094452.48
+1620,Sanborn,2005,Severe Storm(s),13348.8
+1620,Statewide,2005,Severe Storm(s),11433.0
+1620,Hutchinson,2005,Severe Storm(s),14425.03
+1620,Hanson,2005,Severe Storm(s),7018.76
+1620,Statewide,2005,Severe Storm(s),591235.01
+1620,Grant,2005,Severe Storm(s),8400.0
+1620,Kingsbury,2005,Severe Storm(s),10210.56
+1620,Statewide,2005,Severe Storm(s),17697.0
+1620,Statewide,2005,Severe Storm(s),2222.9
+1620,Jerauld,2005,Severe Storm(s),4441.52
+1620,Kingsbury,2005,Severe Storm(s),6924.88
+1620,Roberts,2005,Severe Storm(s),2674.84
+1620,Hamlin,2005,Severe Storm(s),3782.25
+1620,Hutchinson,2005,Severe Storm(s),9918.69
+1620,Sanborn,2005,Severe Storm(s),2450.96
+1620,Statewide,2005,Severe Storm(s),338622.33
+1620,Miner,2005,Severe Storm(s),1262.09
+1620,Marshall,2005,Severe Storm(s),9753.28
+1620,Hanson,2005,Severe Storm(s),7893.69
+1620,Statewide,2005,Severe Storm(s),38214.85
+1620,Roberts,2005,Severe Storm(s),3488.72
+1620,Statewide,2005,Severe Storm(s),26126.15
+1620,Roberts,2005,Severe Storm(s),1281.9
+1620,Spink,2005,Severe Storm(s),1672.51
+1620,Statewide,2005,Severe Storm(s),970.99
+1620,Statewide,2005,Severe Storm(s),407.22
+1620,Spink,2005,Severe Storm(s),0.0
+1620,Sanborn,2005,Severe Storm(s),1875.0
+1620,Roberts,2005,Severe Storm(s),4244.64
+1620,Roberts,2005,Severe Storm(s),8446.06
+1620,Statewide,2005,Severe Storm(s),1081777.65
+1620,Statewide,2005,Severe Storm(s),17168.29
+1620,Statewide,2005,Severe Storm(s),856722.45
+1620,Statewide,2005,Severe Storm(s),2524768.97
+1620,Statewide,2005,Severe Storm(s),155089.45
+1620,Hamlin,2005,Severe Storm(s),66978.44
+1620,Statewide,2005,Severe Storm(s),870312.6
+1620,Roberts,2005,Severe Storm(s),7305.0
+1620,Statewide,2005,Severe Storm(s),6695.25
+1620,Statewide,2005,Severe Storm(s),24574.76
+1620,Jerauld,2005,Severe Storm(s),4535.75
+1620,Jerauld,2005,Severe Storm(s),11712.99
+1647,Statewide,2006,Severe Storm(s),784.52
+1647,Statewide,2006,Severe Storm(s),3335.38
+1647,Statewide,2006,Severe Storm(s),14952.22
+1647,Statewide,2006,Severe Storm(s),819657.04
+1647,Statewide,2006,Severe Storm(s),0.0
+1647,Butte,2006,Severe Storm(s),8946.8
+1647,Statewide,2006,Severe Storm(s),75789.65
+1647,Statewide,2006,Severe Storm(s),3325.97
+1647,Statewide,2006,Severe Storm(s),10760.58
+1647,Statewide,2006,Severe Storm(s),45125.88
+1647,Statewide,2006,Severe Storm(s),452366.38
+1647,Statewide,2006,Severe Storm(s),1626228.35
+1702,Aurora,2007,Severe Storm(s),2978.61
+1702,Brule,2007,Severe Storm(s),4225.83
+1702,Aurora,2007,Severe Storm(s),2159.88
+1702,Aurora,2007,Severe Storm(s),851.93
+1702,Aurora,2007,Severe Storm(s),2084.94
+1702,Beadle,2007,Severe Storm(s),20111.25
+1702,Beadle,2007,Severe Storm(s),10086.0
+1702,Beadle,2007,Severe Storm(s),3919.35
+1702,Aurora,2007,Severe Storm(s),11539.31
+1702,Beadle,2007,Severe Storm(s),8474.68
+1702,Beadle,2007,Severe Storm(s),622478.89
+1702,Aurora,2007,Severe Storm(s),833.91
+1702,Beadle,2007,Severe Storm(s),4212.26
+1702,Beadle,2007,Severe Storm(s),11459.37
+1702,Beadle,2007,Severe Storm(s),14560.88
+1702,Brown,2007,Severe Storm(s),3346.51
+1702,Brown,2007,Severe Storm(s),767.22
+1702,Hanson,2007,Severe Storm(s),64682.21
+1702,Clark,2007,Severe Storm(s),1729.03
+1702,Beadle,2007,Severe Storm(s),3353.74
+1702,Day,2007,Severe Storm(s),7237.22
+1702,Clark,2007,Severe Storm(s),2600.12
+1702,Beadle,2007,Severe Storm(s),20935.5
+1702,Beadle,2007,Severe Storm(s),6543.81
+1702,Brown,2007,Severe Storm(s),18517.9
+1702,Beadle,2007,Severe Storm(s),3999.59
+1702,Brown,2007,Severe Storm(s),2392.93
+1702,Brule,2007,Severe Storm(s),1350.0
+1702,Beadle,2007,Severe Storm(s),44694.82
+1702,Day,2007,Severe Storm(s),18712.36
+1702,Day,2007,Severe Storm(s),8609.82
+1702,Brown,2007,Severe Storm(s),2566.56
+1702,Day,2007,Severe Storm(s),7001.44
+1702,Clark,2007,Severe Storm(s),4643.19
+1702,Brown,2007,Severe Storm(s),8290.07
+1702,Gregory,2007,Severe Storm(s),19227.61
+1702,Hanson,2007,Severe Storm(s),7730.76
+1702,Beadle,2007,Severe Storm(s),3529.5
+1702,Clark,2007,Severe Storm(s),6010.32
+1702,Brown,2007,Severe Storm(s),18015.15
+1702,Hanson,2007,Severe Storm(s),33818.85
+1702,Brown,2007,Severe Storm(s),15252.41
+1702,Brown,2007,Severe Storm(s),7307.28
+1702,Beadle,2007,Severe Storm(s),2887.95
+1702,Day,2007,Severe Storm(s),4543.69
+1702,Brown,2007,Severe Storm(s),21021.69
+1702,Brown,2007,Severe Storm(s),6326.93
+1702,Hanson,2007,Severe Storm(s),13171.46
+1702,Brown,2007,Severe Storm(s),7249.9
+1702,Brown,2007,Severe Storm(s),10714.99
+1702,Brown,2007,Severe Storm(s),21248.19
+1702,Brown,2007,Severe Storm(s),17547.61
+1702,Hanson,2007,Severe Storm(s),9732.83
+1702,Brown,2007,Severe Storm(s),28843.88
+1702,Day,2007,Severe Storm(s),6438.0
+1702,Brown,2007,Severe Storm(s),11159.25
+1702,Brule,2007,Severe Storm(s),55813.0
+1702,Beadle,2007,Severe Storm(s),8113.65
+1702,Brown,2007,Severe Storm(s),8594.68
+1702,Clark,2007,Severe Storm(s),8025.11
+1702,Beadle,2007,Severe Storm(s),2157.75
+1702,Brown,2007,Severe Storm(s),870.03
+1702,Day,2007,Severe Storm(s),4662.94
+1702,Brule,2007,Severe Storm(s),3882.68
+1702,Day,2007,Severe Storm(s),2295.0
+1702,Beadle,2007,Severe Storm(s),35027.15
+1702,Brule,2007,Severe Storm(s),2850.05
+1702,Buffalo,2007,Severe Storm(s),43780.87
+1702,Beadle,2007,Severe Storm(s),13882.88
+1702,Beadle,2007,Severe Storm(s),13275.7
+1702,Brown,2007,Severe Storm(s),3799.69
+1702,Clark,2007,Severe Storm(s),3480.59
+1702,Brown,2007,Severe Storm(s),71055.02
+1702,Clark,2007,Severe Storm(s),1237.5
+1702,Beadle,2007,Severe Storm(s),2656.5
+1702,Brown,2007,Severe Storm(s),145059.42
+1702,Beadle,2007,Severe Storm(s),9550.5
+1702,Clark,2007,Severe Storm(s),777.06
+1702,Clark,2007,Severe Storm(s),2780.15
+1702,Beadle,2007,Severe Storm(s),1429.82
+1702,Clark,2007,Severe Storm(s),2292.05
+1702,Brown,2007,Severe Storm(s),4734.58
+1702,Beadle,2007,Severe Storm(s),4023.0
+1702,Day,2007,Severe Storm(s),117505.97
+1702,Beadle,2007,Severe Storm(s),4008.39
+1702,Day,2007,Severe Storm(s),9717.42
+1702,Brown,2007,Severe Storm(s),2276.78
+1702,Hanson,2007,Severe Storm(s),7091.25
+1702,Beadle,2007,Severe Storm(s),5209.5
+1702,Clark,2007,Severe Storm(s),1286.89
+1702,Brule,2007,Severe Storm(s),2497.78
+1702,Hanson,2007,Severe Storm(s),8773.63
+1702,Beadle,2007,Severe Storm(s),14017.59
+1702,Brule,2007,Severe Storm(s),3792.08
+1702,Beadle,2007,Severe Storm(s),818.25
+1702,Brown,2007,Severe Storm(s),9211.59
+1702,Brown,2007,Severe Storm(s),4377.42
+1702,Brown,2007,Severe Storm(s),7474.96
+1702,Brown,2007,Severe Storm(s),2313.15
+1702,Brown,2007,Severe Storm(s),13878.09
+1702,Brown,2007,Severe Storm(s),11423.92
+1702,Hanson,2007,Severe Storm(s),23618.04
+1702,Brown,2007,Severe Storm(s),4402.87
+1702,Clark,2007,Severe Storm(s),1132.2
+1702,Hanson,2007,Severe Storm(s),22280.27
+1702,Brule,2007,Severe Storm(s),3575.09
+1702,Brown,2007,Severe Storm(s),1968.53
+1702,Brown,2007,Severe Storm(s),14815.53
+1702,Brown,2007,Severe Storm(s),12264.3
+1702,Day,2007,Severe Storm(s),6663.19
+1702,Brown,2007,Severe Storm(s),2237.18
+1702,Brown,2007,Severe Storm(s),15131.08
+1702,Beadle,2007,Severe Storm(s),975.0
+1702,Hanson,2007,Severe Storm(s),74194.79
+1702,Beadle,2007,Severe Storm(s),37423.73
+1702,Bon Homme,2007,Severe Storm(s),49645.19
+1702,Beadle,2007,Severe Storm(s),6208.5
+1702,Beadle,2007,Severe Storm(s),22760.48
+1702,Clark,2007,Severe Storm(s),2062.13
+1702,Brown,2007,Severe Storm(s),4473.72
+1702,Beadle,2007,Severe Storm(s),28992.0
+1702,Clark,2007,Severe Storm(s),1783.69
+1702,Beadle,2007,Severe Storm(s),17946.0
+1702,Beadle,2007,Severe Storm(s),5337.75
+1702,Day,2007,Severe Storm(s),10482.19
+1702,Hanson,2007,Severe Storm(s),20348.77
+1702,Day,2007,Severe Storm(s),8805.08
+1702,Day,2007,Severe Storm(s),7693.69
+1702,Clark,2007,Severe Storm(s),10975.77
+1702,Clark,2007,Severe Storm(s),4005.83
+1702,Brown,2007,Severe Storm(s),21291.96
+1702,Brown,2007,Severe Storm(s),31923.91
+1702,Clark,2007,Severe Storm(s),778.25
+1702,Clark,2007,Severe Storm(s),837.64
+1702,Beadle,2007,Severe Storm(s),18797.3
+1702,Day,2007,Severe Storm(s),1331.25
+1702,Day,2007,Severe Storm(s),2885.79
+1702,Buffalo,2007,Severe Storm(s),7519.44
+1702,Clark,2007,Severe Storm(s),4699.95
+1702,Brown,2007,Severe Storm(s),14911.52
+1702,Brule,2007,Severe Storm(s),6263.15
+1702,Brown,2007,Severe Storm(s),26401.39
+1702,Day,2007,Severe Storm(s),6181.88
+1702,Buffalo,2007,Severe Storm(s),1598.25
+1702,Clark,2007,Severe Storm(s),40577.56
+1702,Clark,2007,Severe Storm(s),305.25
+1702,Clark,2007,Severe Storm(s),5630.18
+1702,Gregory,2007,Severe Storm(s),1182.3
+1702,Beadle,2007,Severe Storm(s),1249.73
+1702,Brown,2007,Severe Storm(s),5053.21
+1702,Brule,2007,Severe Storm(s),4559.01
+1702,Clark,2007,Severe Storm(s),3855.32
+1702,Brule,2007,Severe Storm(s),6540.44
+1702,Gregory,2007,Severe Storm(s),1968.62
+1702,Marshall,2007,Severe Storm(s),9933.29
+1702,Roberts,2007,Severe Storm(s),3442.5
+1702,Marshall,2007,Severe Storm(s),2368.88
+1702,Marshall,2007,Severe Storm(s),2953.73
+1702,Lake,2007,Severe Storm(s),19638.49
+1702,Marshall,2007,Severe Storm(s),23612.09
+1702,Hutchinson,2007,Severe Storm(s),5209.33
+1702,Jerauld,2007,Severe Storm(s),5394.53
+1702,Roberts,2007,Severe Storm(s),12565.69
+1702,Sanborn,2007,Severe Storm(s),0.0
+1702,Roberts,2007,Severe Storm(s),6173.33
+1702,Jackson,2007,Severe Storm(s),60776.38
+1702,Marshall,2007,Severe Storm(s),3834.53
+1702,Hutchinson,2007,Severe Storm(s),979.88
+1702,Roberts,2007,Severe Storm(s),2531.92
+1702,Miner,2007,Severe Storm(s),51951.78
+1702,Hutchinson,2007,Severe Storm(s),5947.21
+1702,Roberts,2007,Severe Storm(s),12917.44
+1702,Miner,2007,Severe Storm(s),29786.63
+1702,Kingsbury,2007,Severe Storm(s),19011.6
+1702,Marshall,2007,Severe Storm(s),2353.51
+1702,Hutchinson,2007,Severe Storm(s),4815.96
+1702,Hutchinson,2007,Severe Storm(s),8951.36
+1702,Marshall,2007,Severe Storm(s),2260.74
+1702,Lake,2007,Severe Storm(s),2978.93
+1702,Lake,2007,Severe Storm(s),2514.75
+1702,Miner,2007,Severe Storm(s),7414.54
+1702,Kingsbury,2007,Severe Storm(s),56783.34
+1702,Hutchinson,2007,Severe Storm(s),8461.24
+1702,McCook,2007,Severe Storm(s),32557.0
+1702,Hutchinson,2007,Severe Storm(s),5353.81
+1702,McCook,2007,Severe Storm(s),3434.81
+1702,Kingsbury,2007,Severe Storm(s),23543.07
+1702,Hutchinson,2007,Severe Storm(s),1511.75
+1702,Miner,2007,Severe Storm(s),11254.5
+1702,Lake,2007,Severe Storm(s),2578.63
+1702,Hutchinson,2007,Severe Storm(s),0.0
+1702,Hutchinson,2007,Severe Storm(s),3869.63
+1702,Hutchinson,2007,Severe Storm(s),5145.51
+1702,Roberts,2007,Severe Storm(s),34496.25
+1702,McCook,2007,Severe Storm(s),2520.27
+1702,Miner,2007,Severe Storm(s),11388.0
+1702,Lake,2007,Severe Storm(s),20836.5
+1702,Miner,2007,Severe Storm(s),20544.75
+1702,Hutchinson,2007,Severe Storm(s),4770.75
+1702,Miner,2007,Severe Storm(s),5902.5
+1702,Roberts,2007,Severe Storm(s),1813.58
+1702,Jerauld,2007,Severe Storm(s),12910.95
+1702,Marshall,2007,Severe Storm(s),39740.21
+1702,Jerauld,2007,Severe Storm(s),1971.0
+1702,Hanson,2007,Severe Storm(s),2485.32
+1702,Roberts,2007,Severe Storm(s),39240.75
+1702,Hutchinson,2007,Severe Storm(s),14157.28
+1702,McCook,2007,Severe Storm(s),11111.3
+1702,Jerauld,2007,Severe Storm(s),9475.27
+1702,Kingsbury,2007,Severe Storm(s),2721.81
+1702,Hutchinson,2007,Severe Storm(s),24595.74
+1702,Roberts,2007,Severe Storm(s),4889.04
+1702,Miner,2007,Severe Storm(s),8589.0
+1702,Roberts,2007,Severe Storm(s),1790.61
+1702,Lake,2007,Severe Storm(s),1137.75
+1702,Marshall,2007,Severe Storm(s),14995.27
+1702,Roberts,2007,Severe Storm(s),37547.96
+1702,Hutchinson,2007,Severe Storm(s),5236.73
+1702,McCook,2007,Severe Storm(s),4748.5
+1702,McCook,2007,Severe Storm(s),2652.19
+1702,McCook,2007,Severe Storm(s),5406.3
+1702,Kingsbury,2007,Severe Storm(s),21530.6
+1702,Kingsbury,2007,Severe Storm(s),2368.24
+1702,Hanson,2007,Severe Storm(s),22395.84
+1702,Jackson,2007,Severe Storm(s),17006.43
+1702,McCook,2007,Severe Storm(s),7722.83
+1702,Hutchinson,2007,Severe Storm(s),6994.05
+1702,McCook,2007,Severe Storm(s),28266.91
+1702,Marshall,2007,Severe Storm(s),5654.26
+1702,Hutchinson,2007,Severe Storm(s),9773.7
+1702,Miner,2007,Severe Storm(s),2394.0
+1702,Lake,2007,Severe Storm(s),8260.5
+1702,Miner,2007,Severe Storm(s),13887.75
+1702,Jerauld,2007,Severe Storm(s),19796.27
+1702,Marshall,2007,Severe Storm(s),5108.94
+1702,Miner,2007,Severe Storm(s),4838.25
+1702,Hutchinson,2007,Severe Storm(s),12294.92
+1702,Hanson,2007,Severe Storm(s),8636.78
+1702,McCook,2007,Severe Storm(s),13265.55
+1702,Miner,2007,Severe Storm(s),9719.25
+1702,Hutchinson,2007,Severe Storm(s),8154.38
+1702,Hutchinson,2007,Severe Storm(s),11285.58
+1702,Lake,2007,Severe Storm(s),3641.25
+1702,Marshall,2007,Severe Storm(s),7407.88
+1702,Jerauld,2007,Severe Storm(s),3294.83
+1702,Marshall,2007,Severe Storm(s),5820.87
+1702,Lake,2007,Severe Storm(s),30514.78
+1702,Lake,2007,Severe Storm(s),3306.77
+1702,Hanson,2007,Severe Storm(s),3764.59
+1702,Lake,2007,Severe Storm(s),1034.25
+1702,Hutchinson,2007,Severe Storm(s),101060.47
+1702,Miner,2007,Severe Storm(s),6141.75
+1702,Kingsbury,2007,Severe Storm(s),750.0
+1702,McCook,2007,Severe Storm(s),15392.72
+1702,Hutchinson,2007,Severe Storm(s),6932.65
+1702,Miner,2007,Severe Storm(s),9318.75
+1702,Roberts,2007,Severe Storm(s),44181.77
+1702,Jerauld,2007,Severe Storm(s),23838.52
+1702,Marshall,2007,Severe Storm(s),68443.32
+1702,Miner,2007,Severe Storm(s),23775.75
+1702,Jerauld,2007,Severe Storm(s),1496.96
+1702,Marshall,2007,Severe Storm(s),11868.23
+1702,Jerauld,2007,Severe Storm(s),2325.0
+1702,Lake,2007,Severe Storm(s),3810.0
+1702,Kingsbury,2007,Severe Storm(s),22801.31
+1702,Marshall,2007,Severe Storm(s),6949.58
+1702,McCook,2007,Severe Storm(s),6413.94
+1702,Hutchinson,2007,Severe Storm(s),5738.89
+1702,Lake,2007,Severe Storm(s),5027.27
+1702,Jerauld,2007,Severe Storm(s),5999.06
+1702,Jerauld,2007,Severe Storm(s),35041.79
+1702,Lake,2007,Severe Storm(s),2953.49
+1702,Marshall,2007,Severe Storm(s),12701.81
+1702,Hutchinson,2007,Severe Storm(s),2181.46
+1702,Marshall,2007,Severe Storm(s),99099.3
+1702,Marshall,2007,Severe Storm(s),9292.11
+1702,Sanborn,2007,Severe Storm(s),3575.24
+1702,Marshall,2007,Severe Storm(s),5213.77
+1702,Roberts,2007,Severe Storm(s),17920.36
+1702,Statewide,2007,Severe Storm(s),65816.35
+1702,Spink,2007,Severe Storm(s),15795.41
+1702,Spink,2007,Severe Storm(s),8061.3
+1702,Statewide,2007,Severe Storm(s),1169.53
+1702,Marshall,2007,Severe Storm(s),1708.12
+1702,Spink,2007,Severe Storm(s),2403.6
+1702,Spink,2007,Severe Storm(s),4618.43
+1702,Statewide,2007,Severe Storm(s),0.0
+1702,Spink,2007,Severe Storm(s),1752.55
+1702,Spink,2007,Severe Storm(s),13301.27
+1702,Spink,2007,Severe Storm(s),11054.25
+1702,Lake,2007,Severe Storm(s),6513.55
+1702,Spink,2007,Severe Storm(s),497.74
+1702,Statewide,2007,Severe Storm(s),46613.05
+1702,Tripp,2007,Severe Storm(s),6350.67
+1702,Spink,2007,Severe Storm(s),16113.89
+1702,Spink,2007,Severe Storm(s),4902.11
+1702,Kingsbury,2007,Severe Storm(s),3838.64
+1702,Tripp,2007,Severe Storm(s),8565.46
+1702,Spink,2007,Severe Storm(s),1413.0
+1702,Yankton,2007,Severe Storm(s),0.0
+1702,Tripp,2007,Severe Storm(s),5244.56
+1702,Tripp,2007,Severe Storm(s),11633.55
+1702,Hanson,2007,Severe Storm(s),26386.13
+1702,Tripp,2007,Severe Storm(s),33371.18
+1702,Spink,2007,Severe Storm(s),1718.69
+1702,Spink,2007,Severe Storm(s),4246.31
+1702,Spink,2007,Severe Storm(s),6487.5
+1702,Miner,2007,Severe Storm(s),24672.75
+1702,Tripp,2007,Severe Storm(s),71561.99
+1702,Statewide,2007,Severe Storm(s),42809.03
+1702,Spink,2007,Severe Storm(s),37860.5
+1702,Statewide,2007,Severe Storm(s),6771.74
+1702,Spink,2007,Severe Storm(s),1444.43
+1702,Lake,2007,Severe Storm(s),10633.95
+1702,Spink,2007,Severe Storm(s),2750.51
+1702,Sanborn,2007,Severe Storm(s),13161.12
+1702,Spink,2007,Severe Storm(s),2816.33
+1702,Tripp,2007,Severe Storm(s),11881.04
+1702,Sanborn,2007,Severe Storm(s),6903.5
+1702,Statewide,2007,Severe Storm(s),84032.2
+1702,Hutchinson,2007,Severe Storm(s),8513.19
+1702,Spink,2007,Severe Storm(s),3167.36
+1702,Statewide,2007,Severe Storm(s),171819.72
+1702,Tripp,2007,Severe Storm(s),7797.44
+1702,Sanborn,2007,Severe Storm(s),7122.0
+1702,Spink,2007,Severe Storm(s),2278.1
+1702,Spink,2007,Severe Storm(s),6993.69
+1702,Sanborn,2007,Severe Storm(s),4426.77
+1702,Spink,2007,Severe Storm(s),15369.64
+1702,Spink,2007,Severe Storm(s),2117.94
+1702,Spink,2007,Severe Storm(s),8827.09
+1702,Jerauld,2007,Severe Storm(s),1562.44
+1702,Kingsbury,2007,Severe Storm(s),39319.52
+1702,Sanborn,2007,Severe Storm(s),3111.93
+1702,Tripp,2007,Severe Storm(s),5363.12
+1702,Sanborn,2007,Severe Storm(s),4058.96
+1702,Miner,2007,Severe Storm(s),4023.75
+1702,Yankton,2007,Severe Storm(s),4904.48
+1702,Statewide,2007,Severe Storm(s),2253.58
+1702,Spink,2007,Severe Storm(s),816.3
+1702,Statewide,2007,Severe Storm(s),1289.75
+1702,Yankton,2007,Severe Storm(s),4034.81
+1702,Spink,2007,Severe Storm(s),2361.96
+1702,Spink,2007,Severe Storm(s),31169.98
+1702,Statewide,2007,Severe Storm(s),22010.17
+1702,Statewide,2007,Severe Storm(s),1769.93
+1702,Sanborn,2007,Severe Storm(s),4179.78
+1702,Jerauld,2007,Severe Storm(s),4028.37
+1702,Statewide,2007,Severe Storm(s),287893.75
+1702,Spink,2007,Severe Storm(s),3819.14
+1702,Spink,2007,Severe Storm(s),1015.03
+1702,Spink,2007,Severe Storm(s),5736.67
+1702,Spink,2007,Severe Storm(s),13017.95
+1702,Tripp,2007,Severe Storm(s),6312.68
+1702,Spink,2007,Severe Storm(s),14195.12
+1702,Sanborn,2007,Severe Storm(s),42491.29
+1702,Sanborn,2007,Severe Storm(s),0.0
+1702,Spink,2007,Severe Storm(s),9765.85
+1702,Spink,2007,Severe Storm(s),8579.63
+1702,Spink,2007,Severe Storm(s),6206.9
+1702,Spink,2007,Severe Storm(s),1060.68
+1702,Marshall,2007,Severe Storm(s),5002.17
+1702,Spink,2007,Severe Storm(s),18031.32
+1702,Yankton,2007,Severe Storm(s),46152.9
+1702,Spink,2007,Severe Storm(s),5341.64
+1702,Sanborn,2007,Severe Storm(s),1407.65
+1702,Spink,2007,Severe Storm(s),197351.75
+1702,Statewide,2007,Severe Storm(s),6660.14
+1702,Spink,2007,Severe Storm(s),9779.92
+1702,Spink,2007,Severe Storm(s),1487.12
+1702,Spink,2007,Severe Storm(s),5474.65
+1702,Hutchinson,2007,Severe Storm(s),1680.98
+1702,Spink,2007,Severe Storm(s),3509.33
+1702,Marshall,2007,Severe Storm(s),12585.0
+1702,Spink,2007,Severe Storm(s),8070.57
+1759,Statewide,2008,Snow,50225.03
+1759,Harding,2008,Snow,831.41
+1759,Statewide,2008,Snow,53842.12
+1759,Statewide,2008,Snow,17501.12
+1759,Statewide,2008,Snow,1618.76
+1759,Statewide,2008,Snow,123365.79
+1759,Harding,2008,Snow,8201.25
+1759,Butte,2008,Snow,11496.65
+1759,Harding,2008,Snow,8274.44
+1759,Harding,2008,Snow,550.67
+1759,Butte,2008,Snow,751.51
+1759,Statewide,2008,Snow,7042180.11
+1759,Statewide,2008,Snow,462722.05
+1759,Harding,2008,Snow,10950.38
+1759,Statewide,2008,Snow,2385.0
+1759,Perkins,2008,Snow,11685.0
+1759,Statewide,2008,Snow,16031.88
+1759,Butte,2008,Snow,4382.66
+1774,Hutchinson,2008,Severe Storm(s),5072.63
+1774,Clay,2008,Severe Storm(s),6472.22
+1774,Charles Mix,2008,Severe Storm(s),8421.41
+1774,Brule,2008,Severe Storm(s),796.9
+1774,Charles Mix,2008,Severe Storm(s),795.94
+1774,Hanson,2008,Severe Storm(s),8715.26
+1774,Hand,2008,Severe Storm(s),4681.58
+1774,Douglas,2008,Severe Storm(s),10939.64
+1774,Hand,2008,Severe Storm(s),3697.5
+1774,Clay,2008,Severe Storm(s),2805.0
+1774,Douglas,2008,Severe Storm(s),1848.38
+1774,Jackson,2008,Severe Storm(s),1064.88
+1774,Lawrence,2008,Severe Storm(s),163153.47
+1774,Lawrence,2008,Severe Storm(s),5821.08
+1774,Hutchinson,2008,Severe Storm(s),822.9
+1774,Lawrence,2008,Severe Storm(s),6411.8
+1774,Gregory,2008,Severe Storm(s),961.69
+1774,Brule,2008,Severe Storm(s),36303.81
+1774,Charles Mix,2008,Severe Storm(s),796.29
+1774,Lawrence,2008,Severe Storm(s),137022.19
+1774,Aurora,2008,Severe Storm(s),3283.64
+1774,Gregory,2008,Severe Storm(s),998.97
+1774,Brule,2008,Severe Storm(s),4117.76
+1774,Hanson,2008,Severe Storm(s),2258.22
+1774,Hand,2008,Severe Storm(s),929.58
+1774,Brule,2008,Severe Storm(s),1408.69
+1774,Lawrence,2008,Severe Storm(s),1301.27
+1774,Charles Mix,2008,Severe Storm(s),1583.96
+1774,Hutchinson,2008,Severe Storm(s),10215.15
+1774,Hutchinson,2008,Severe Storm(s),1537.99
+1774,Clay,2008,Severe Storm(s),8878.6
+1774,Clay,2008,Severe Storm(s),2523.95
+1774,Buffalo,2008,Severe Storm(s),13709.18
+1774,Douglas,2008,Severe Storm(s),1964.02
+1774,Charles Mix,2008,Severe Storm(s),5253.21
+1774,Hutchinson,2008,Severe Storm(s),5027.58
+1774,Dewey,2008,Severe Storm(s),84785.17
+1774,Aurora,2008,Severe Storm(s),26973.0
+1774,Hand,2008,Severe Storm(s),3335.44
+1774,Buffalo,2008,Severe Storm(s),22056.86
+1774,Charles Mix,2008,Severe Storm(s),4045.19
+1774,Aurora,2008,Severe Storm(s),1226.3
+1774,Lawrence,2008,Severe Storm(s),7566.69
+1774,Hutchinson,2008,Severe Storm(s),9952.52
+1774,Hughes,2008,Severe Storm(s),14784.34
+1774,Brule,2008,Severe Storm(s),2538.95
+1774,Jackson,2008,Severe Storm(s),6453.02
+1774,Hanson,2008,Severe Storm(s),26447.43
+1774,Butte,2008,Severe Storm(s),65810.65
+1774,Aurora,2008,Severe Storm(s),4044.19
+1774,Butte,2008,Severe Storm(s),1890.61
+1774,Hand,2008,Severe Storm(s),2767.68
+1774,Haakon,2008,Severe Storm(s),631583.01
+1774,Charles Mix,2008,Severe Storm(s),6746.51
+1774,Aurora,2008,Severe Storm(s),2237.3
+1774,Charles Mix,2008,Severe Storm(s),6676.49
+1774,Charles Mix,2008,Severe Storm(s),6452.92
+1774,Lawrence,2008,Severe Storm(s),32327.81
+1774,Jackson,2008,Severe Storm(s),2840.38
+1774,Hand,2008,Severe Storm(s),1015.73
+1774,Butte,2008,Severe Storm(s),440919.39
+1774,Charles Mix,2008,Severe Storm(s),1711.67
+1774,Hutchinson,2008,Severe Storm(s),9307.46
+1774,Douglas,2008,Severe Storm(s),8368.5
+1774,Charles Mix,2008,Severe Storm(s),2502.63
+1774,Charles Mix,2008,Severe Storm(s),73283.08
+1774,Aurora,2008,Severe Storm(s),1910.25
+1774,Brule,2008,Severe Storm(s),1702.07
+1774,Hutchinson,2008,Severe Storm(s),120320.68
+1774,Clay,2008,Severe Storm(s),6345.75
+1774,Hutchinson,2008,Severe Storm(s),11791.01
+1774,Hutchinson,2008,Severe Storm(s),12346.51
+1774,Hutchinson,2008,Severe Storm(s),7909.29
+1774,Clay,2008,Severe Storm(s),1805.4
+1774,Hutchinson,2008,Severe Storm(s),3080.44
+1774,Brule,2008,Severe Storm(s),1145.84
+1774,Douglas,2008,Severe Storm(s),14630.4
+1774,Lyman,2008,Severe Storm(s),108434.04
+1774,Hutchinson,2008,Severe Storm(s),8602.7
+1774,Bon Homme,2008,Severe Storm(s),40658.02
+1774,Douglas,2008,Severe Storm(s),17063.66
+1774,Lawrence,2008,Severe Storm(s),358786.09
+1774,Hand,2008,Severe Storm(s),2176.8
+1774,Hand,2008,Severe Storm(s),1782.44
+1774,Charles Mix,2008,Severe Storm(s),4008.41
+1774,Hutchinson,2008,Severe Storm(s),10733.71
+1774,Charles Mix,2008,Severe Storm(s),13238.71
+1774,Aurora,2008,Severe Storm(s),1394.31
+1774,Hutchinson,2008,Severe Storm(s),3276.02
+1774,Clay,2008,Severe Storm(s),8073.29
+1774,Hutchinson,2008,Severe Storm(s),5954.81
+1774,Lawrence,2008,Severe Storm(s),999.0
+1774,Brule,2008,Severe Storm(s),960.88
+1774,Hanson,2008,Severe Storm(s),3082.69
+1774,Charles Mix,2008,Severe Storm(s),988.87
+1774,Hughes,2008,Severe Storm(s),41564.15
+1774,Aurora,2008,Severe Storm(s),5767.25
+1774,Brule,2008,Severe Storm(s),3301.91
+1774,Hutchinson,2008,Severe Storm(s),4600.86
+1774,Gregory,2008,Severe Storm(s),3854.91
+1774,Dewey,2008,Severe Storm(s),22891.27
+1774,Charles Mix,2008,Severe Storm(s),1671.5
+1774,Charles Mix,2008,Severe Storm(s),2776.53
+1774,Butte,2008,Severe Storm(s),839.25
+1774,Hutchinson,2008,Severe Storm(s),4088.18
+1774,Clay,2008,Severe Storm(s),41386.61
+1774,Brule,2008,Severe Storm(s),809.18
+1774,Butte,2008,Severe Storm(s),750.0
+1774,Lawrence,2008,Severe Storm(s),3356.97
+1774,Douglas,2008,Severe Storm(s),4224.94
+1774,Lawrence,2008,Severe Storm(s),22224.54
+1774,Douglas,2008,Severe Storm(s),1506.6
+1774,Lyman,2008,Severe Storm(s),105217.83
+1774,Hutchinson,2008,Severe Storm(s),9113.8
+1774,Lawrence,2008,Severe Storm(s),4392.99
+1774,Hutchinson,2008,Severe Storm(s),5661.45
+1774,Charles Mix,2008,Severe Storm(s),1451.36
+1774,Charles Mix,2008,Severe Storm(s),1137.36
+1774,Hanson,2008,Severe Storm(s),4703.88
+1774,Charles Mix,2008,Severe Storm(s),6831.85
+1774,Gregory,2008,Severe Storm(s),50221.56
+1774,Jackson,2008,Severe Storm(s),44981.11
+1774,Brule,2008,Severe Storm(s),1063.1
+1774,Charles Mix,2008,Severe Storm(s),823.88
+1774,Douglas,2008,Severe Storm(s),9113.55
+1774,Hanson,2008,Severe Storm(s),3372.94
+1774,Hanson,2008,Severe Storm(s),2175.44
+1774,Hanson,2008,Severe Storm(s),20676.66
+1774,Clay,2008,Severe Storm(s),8603.2
+1774,Douglas,2008,Severe Storm(s),1165.2
+1774,Hutchinson,2008,Severe Storm(s),3941.64
+1774,Haakon,2008,Severe Storm(s),5938.5
+1774,Charles Mix,2008,Severe Storm(s),849.88
+1774,Charles Mix,2008,Severe Storm(s),11242.34
+1774,McCook,2008,Severe Storm(s),13334.74
+1774,Moody,2008,Severe Storm(s),3241.05
+1774,Turner,2008,Severe Storm(s),3822.97
+1774,Statewide,2008,Severe Storm(s),69959.61
+1774,Moody,2008,Severe Storm(s),23879.25
+1774,Turner,2008,Severe Storm(s),4738.03
+1774,Tripp,2008,Severe Storm(s),3391.5
+1774,Statewide,2008,Severe Storm(s),20037.49
+1774,Tripp,2008,Severe Storm(s),5941.44
+1774,Statewide,2008,Severe Storm(s),19447.95
+1774,Moody,2008,Severe Storm(s),874.89
+1774,McCook,2008,Severe Storm(s),7567.93
+1774,McCook,2008,Severe Storm(s),21512.87
+1774,McCook,2008,Severe Storm(s),2654.39
+1774,Meade,2008,Severe Storm(s),2407.5
+1774,Meade,2008,Severe Storm(s),905.08
+1774,Tripp,2008,Severe Storm(s),18271.53
+1774,Tripp,2008,Severe Storm(s),20502.87
+1774,Perkins,2008,Severe Storm(s),421208.92
+1774,Tripp,2008,Severe Storm(s),3572.33
+1774,Moody,2008,Severe Storm(s),5296.7
+1774,Tripp,2008,Severe Storm(s),3539.54
+1774,Tripp,2008,Severe Storm(s),2033.91
+1774,Perkins,2008,Severe Storm(s),1916.66
+1774,Stanley,2008,Severe Storm(s),15403.4
+1774,McCook,2008,Severe Storm(s),1098.0
+1774,Turner,2008,Severe Storm(s),6327.19
+1774,McCook,2008,Severe Storm(s),14697.17
+1774,Moody,2008,Severe Storm(s),2312.21
+1774,McCook,2008,Severe Storm(s),2971.09
+1774,Tripp,2008,Severe Storm(s),3805.79
+1774,Tripp,2008,Severe Storm(s),2115.03
+1774,Statewide,2008,Severe Storm(s),19402.04
+1774,Stanley,2008,Severe Storm(s),11494.52
+1774,Hand,2008,Severe Storm(s),1278.75
+1774,Perkins,2008,Severe Storm(s),5154.05
+1774,Moody,2008,Severe Storm(s),3795.33
+1774,Tripp,2008,Severe Storm(s),174734.92
+1774,Moody,2008,Severe Storm(s),9633.15
+1774,Tripp,2008,Severe Storm(s),3639.0
+1774,Moody,2008,Severe Storm(s),26005.79
+1774,Moody,2008,Severe Storm(s),6512.63
+1774,Tripp,2008,Severe Storm(s),2677.5
+1774,Meade,2008,Severe Storm(s),1051.17
+1774,Tripp,2008,Severe Storm(s),4696.26
+1774,Tripp,2008,Severe Storm(s),3667.26
+1774,Turner,2008,Severe Storm(s),5943.82
+1774,Moody,2008,Severe Storm(s),3940.39
+1774,McCook,2008,Severe Storm(s),2839.13
+1774,Tripp,2008,Severe Storm(s),1194.15
+1774,Tripp,2008,Severe Storm(s),1500.26
+1774,Turner,2008,Severe Storm(s),4629.92
+1774,Tripp,2008,Severe Storm(s),4163.08
+1774,Tripp,2008,Severe Storm(s),1523.06
+1774,Meade,2008,Severe Storm(s),25193.0
+1774,Tripp,2008,Severe Storm(s),3409.94
+1774,Statewide,2008,Severe Storm(s),13313.21
+1774,Tripp,2008,Severe Storm(s),8123.57
+1774,Ziebach,2008,Severe Storm(s),71752.34
+1774,Perkins,2008,Severe Storm(s),3152.83
+1774,Mellette,2008,Severe Storm(s),10622.25
+1774,McCook,2008,Severe Storm(s),14527.5
+1774,Turner,2008,Severe Storm(s),4269.06
+1774,Meade,2008,Severe Storm(s),38498.69
+1774,Tripp,2008,Severe Storm(s),1996.63
+1774,Tripp,2008,Severe Storm(s),2481.43
+1774,Statewide,2008,Severe Storm(s),7650.86
+1774,Statewide,2008,Severe Storm(s),8583.0
+1774,Mellette,2008,Severe Storm(s),33310.53
+1774,Tripp,2008,Severe Storm(s),5103.2
+1774,Moody,2008,Severe Storm(s),56263.13
+1774,Moody,2008,Severe Storm(s),8820.58
+1774,Meade,2008,Severe Storm(s),2460.84
+1774,Tripp,2008,Severe Storm(s),3625.99
+1774,Moody,2008,Severe Storm(s),20537.98
+1774,Tripp,2008,Severe Storm(s),27962.46
+1774,Tripp,2008,Severe Storm(s),9110.81
+1774,Turner,2008,Severe Storm(s),5761.11
+1774,Tripp,2008,Severe Storm(s),8012.99
+1774,McCook,2008,Severe Storm(s),3216.43
+1774,Turner,2008,Severe Storm(s),1605.16
+1774,Moody,2008,Severe Storm(s),3979.43
+1774,Tripp,2008,Severe Storm(s),1870.65
+1774,Tripp,2008,Severe Storm(s),16529.45
+1774,Turner,2008,Severe Storm(s),1915.06
+1774,Turner,2008,Severe Storm(s),2962.05
+1774,Moody,2008,Severe Storm(s),27277.35
+1774,Meade,2008,Severe Storm(s),7978.95
+1774,Turner,2008,Severe Storm(s),2422.98
+1811,Statewide,2008,Snow,938233.6
+1811,Oglala Lakota,2008,Snow,68169.56
+1811,Statewide,2008,Snow,1163.28
+1811,Meade,2008,Snow,1239.74
+1811,Butte,2008,Snow,9607.43
+1811,Statewide,2008,Snow,494615.05
+1811,Statewide,2008,Snow,2543.42
+1811,Ziebach,2008,Snow,1106.92
+1811,Statewide,2008,Snow,166610.0
+1811,Butte,2008,Snow,80556.23
+1811,Statewide,2008,Snow,2532909.07
+1811,Perkins,2008,Snow,5130.24
+1811,Bennett,2008,Snow,1932.45
+1811,Perkins,2008,Snow,12740.96
+1811,Statewide,2008,Snow,477242.24
+1811,Butte,2008,Snow,1801.13
+1811,Statewide,2008,Snow,24753.75
+1811,Todd,2008,Snow,17162.51
+1811,Statewide,2008,Snow,803868.84
+1811,Statewide,2008,Snow,38140.72
+1811,Statewide,2008,Snow,14602.67
+1811,Statewide,2008,Snow,129608.05
+1811,Perkins,2008,Snow,1537.37
+1844,Edmunds,2009,Severe Storm(s),4756.4
+1844,Marshall,2009,Severe Storm(s),13023.0
+1844,Brown,2009,Severe Storm(s),28754.61
+1844,Edmunds,2009,Severe Storm(s),1270.22
+1844,Day,2009,Severe Storm(s),16413.61
+1844,Brown,2009,Severe Storm(s),47445.51
+1844,Edmunds,2009,Severe Storm(s),10838.35
+1844,Day,2009,Severe Storm(s),9835.05
+1844,Day,2009,Severe Storm(s),14076.83
+1844,Brown,2009,Severe Storm(s),17930.28
+1844,Day,2009,Severe Storm(s),12112.7
+1844,Brown,2009,Severe Storm(s),21880.08
+1844,Brown,2009,Severe Storm(s),13294.67
+1844,Harding,2009,Severe Storm(s),5659.07
+1844,Brown,2009,Severe Storm(s),6108.99
+1844,Edmunds,2009,Severe Storm(s),2678.55
+1844,Day,2009,Severe Storm(s),10618.69
+1844,Day,2009,Severe Storm(s),15598.76
+1844,Marshall,2009,Severe Storm(s),6094.59
+1844,Corson,2009,Severe Storm(s),100967.65
+1844,Corson,2009,Severe Storm(s),16657.59
+1844,Brown,2009,Severe Storm(s),24458.45
+1844,Brown,2009,Severe Storm(s),97020.8
+1844,Marshall,2009,Severe Storm(s),16334.44
+1844,Campbell,2009,Severe Storm(s),185234.58
+1844,Marshall,2009,Severe Storm(s),2159.59
+1844,Day,2009,Severe Storm(s),28101.38
+1844,Brown,2009,Severe Storm(s),25194.03
+1844,Brown,2009,Severe Storm(s),22018.08
+1844,Day,2009,Severe Storm(s),23178.0
+1844,Brown,2009,Severe Storm(s),3691.46
+1844,Edmunds,2009,Severe Storm(s),2510.23
+1844,Day,2009,Severe Storm(s),9481.5
+1844,Marshall,2009,Severe Storm(s),43724.6
+1844,Marshall,2009,Severe Storm(s),26171.4
+1844,Brown,2009,Severe Storm(s),5705.06
+1844,Brown,2009,Severe Storm(s),11018.87
+1844,Brown,2009,Severe Storm(s),64860.83
+1844,Day,2009,Severe Storm(s),3130.2
+1844,Day,2009,Severe Storm(s),9281.63
+1844,Day,2009,Severe Storm(s),9099.66
+1844,Brown,2009,Severe Storm(s),1231.31
+1844,Corson,2009,Severe Storm(s),3489.69
+1844,Day,2009,Severe Storm(s),19841.96
+1844,Brown,2009,Severe Storm(s),27106.27
+1844,Marshall,2009,Severe Storm(s),1931.54
+1844,Edmunds,2009,Severe Storm(s),5032.59
+1844,Harding,2009,Severe Storm(s),64410.65
+1844,Brown,2009,Severe Storm(s),6246.75
+1844,Day,2009,Severe Storm(s),3423.75
+1844,Brown,2009,Severe Storm(s),2215.13
+1844,Butte,2009,Severe Storm(s),2316.6
+1844,Day,2009,Severe Storm(s),19654.13
+1844,Edmunds,2009,Severe Storm(s),1807.5
+1844,Marshall,2009,Severe Storm(s),73167.75
+1844,Brown,2009,Severe Storm(s),7228.57
+1844,Dewey,2009,Severe Storm(s),12201.84
+1844,Marshall,2009,Severe Storm(s),7225.79
+1844,Edmunds,2009,Severe Storm(s),765.0
+1844,Brown,2009,Severe Storm(s),6082.84
+1844,Corson,2009,Severe Storm(s),17872.68
+1844,Day,2009,Severe Storm(s),7188.75
+1844,Edmunds,2009,Severe Storm(s),1005.59
+1844,Butte,2009,Severe Storm(s),211180.88
+1844,Edmunds,2009,Severe Storm(s),1298.89
+1844,Brown,2009,Severe Storm(s),19220.32
+1844,Brown,2009,Severe Storm(s),23829.82
+1844,Brown,2009,Severe Storm(s),16534.99
+1844,Corson,2009,Severe Storm(s),7633.94
+1844,Brown,2009,Severe Storm(s),7147.16
+1844,Brown,2009,Severe Storm(s),3969.87
+1844,Brown,2009,Severe Storm(s),36072.4
+1844,Edmunds,2009,Severe Storm(s),6924.74
+1844,Brown,2009,Severe Storm(s),9941.18
+1844,Day,2009,Severe Storm(s),39808.44
+1844,Edmunds,2009,Severe Storm(s),5416.05
+1844,Edmunds,2009,Severe Storm(s),6598.95
+1844,Brown,2009,Severe Storm(s),12833.9
+1844,Marshall,2009,Severe Storm(s),12513.0
+1844,Day,2009,Severe Storm(s),23620.13
+1844,Day,2009,Severe Storm(s),4943.63
+1844,Marshall,2009,Severe Storm(s),21368.9
+1844,Brown,2009,Severe Storm(s),3641.4
+1844,Brown,2009,Severe Storm(s),43401.16
+1844,Edmunds,2009,Severe Storm(s),2227.13
+1844,Brown,2009,Severe Storm(s),8551.3
+1844,Brown,2009,Severe Storm(s),21378.22
+1844,Corson,2009,Severe Storm(s),11354.1
+1844,Corson,2009,Severe Storm(s),1184.15
+1844,Brown,2009,Severe Storm(s),109577.28
+1844,Day,2009,Severe Storm(s),28489.2
+1844,Edmunds,2009,Severe Storm(s),2005.85
+1844,Brown,2009,Severe Storm(s),10255.09
+1844,Dewey,2009,Severe Storm(s),115531.68
+1844,Edmunds,2009,Severe Storm(s),4859.12
+1844,Edmunds,2009,Severe Storm(s),3111.03
+1844,Edmunds,2009,Severe Storm(s),2070.07
+1844,Day,2009,Severe Storm(s),5102.44
+1844,Day,2009,Severe Storm(s),20845.54
+1844,Edmunds,2009,Severe Storm(s),1794.0
+1844,Dewey,2009,Severe Storm(s),3308.67
+1844,Edmunds,2009,Severe Storm(s),27313.4
+1844,Edmunds,2009,Severe Storm(s),2631.18
+1844,Marshall,2009,Severe Storm(s),24788.6
+1844,Dewey,2009,Severe Storm(s),5703.34
+1844,Edmunds,2009,Severe Storm(s),4736.55
+1844,Brown,2009,Severe Storm(s),11091.38
+1844,Brown,2009,Severe Storm(s),7010.69
+1844,Day,2009,Severe Storm(s),18284.9
+1844,Brown,2009,Severe Storm(s),17380.96
+1844,Edmunds,2009,Severe Storm(s),4449.99
+1844,Edmunds,2009,Severe Storm(s),2506.03
+1844,Marshall,2009,Severe Storm(s),5173.5
+1844,Day,2009,Severe Storm(s),17164.56
+1844,Brown,2009,Severe Storm(s),39822.26
+1844,Brown,2009,Severe Storm(s),36656.15
+1844,Brown,2009,Severe Storm(s),3287.9
+1844,Day,2009,Severe Storm(s),5455.12
+1844,Edmunds,2009,Severe Storm(s),1449.54
+1844,Marshall,2009,Severe Storm(s),10088.21
+1844,Brown,2009,Severe Storm(s),149376.6
+1844,Brown,2009,Severe Storm(s),7244.33
+1844,Brown,2009,Severe Storm(s),15141.91
+1844,Roberts,2009,Severe Storm(s),2906.25
+1844,Perkins,2009,Severe Storm(s),6983.15
+1844,Roberts,2009,Severe Storm(s),14781.56
+1844,Perkins,2009,Severe Storm(s),3864.38
+1844,Perkins,2009,Severe Storm(s),10438.54
+1844,Roberts,2009,Severe Storm(s),4628.7
+1844,Brown,2009,Severe Storm(s),6831.44
+1844,Spink,2009,Severe Storm(s),2165.16
+1844,Brown,2009,Severe Storm(s),19532.91
+1844,Spink,2009,Severe Storm(s),5818.13
+1844,Statewide,2009,Severe Storm(s),83375.14
+1844,Edmunds,2009,Severe Storm(s),1000.67
+1844,Perkins,2009,Severe Storm(s),6589.69
+1844,Spink,2009,Severe Storm(s),5474.69
+1844,Statewide,2009,Severe Storm(s),175479.32
+1844,Spink,2009,Severe Storm(s),5615.7
+1844,Roberts,2009,Severe Storm(s),3603.6
+1844,Spink,2009,Severe Storm(s),7163.33
+1844,Perkins,2009,Severe Storm(s),7661.18
+1844,Perkins,2009,Severe Storm(s),9400.36
+1844,McPherson,2009,Severe Storm(s),48018.8
+1844,Perkins,2009,Severe Storm(s),4386.41
+1844,Roberts,2009,Severe Storm(s),3908.96
+1844,Perkins,2009,Severe Storm(s),7809.15
+1844,Brown,2009,Severe Storm(s),22361.45
+1844,Ziebach,2009,Severe Storm(s),270613.64
+1844,Perkins,2009,Severe Storm(s),13898.35
+1844,Perkins,2009,Severe Storm(s),8892.44
+1844,Perkins,2009,Severe Storm(s),21287.59
+1844,Roberts,2009,Severe Storm(s),2847.76
+1844,Day,2009,Severe Storm(s),9063.56
+1844,McPherson,2009,Severe Storm(s),99045.34
+1844,Roberts,2009,Severe Storm(s),15243.75
+1844,Spink,2009,Severe Storm(s),2156.25
+1844,Day,2009,Severe Storm(s),9140.55
+1844,Roberts,2009,Severe Storm(s),7721.7
+1844,Perkins,2009,Severe Storm(s),7756.0
+1844,Statewide,2009,Severe Storm(s),8414.24
+1844,Spink,2009,Severe Storm(s),6008.14
+1844,Roberts,2009,Severe Storm(s),6108.75
+1844,Roberts,2009,Severe Storm(s),8761.32
+1844,Perkins,2009,Severe Storm(s),3451.5
+1844,Marshall,2009,Severe Storm(s),2763.0
+1844,Brown,2009,Severe Storm(s),15759.09
+1844,Perkins,2009,Severe Storm(s),2600.4
+1844,Perkins,2009,Severe Storm(s),5523.42
+1844,Perkins,2009,Severe Storm(s),1979.62
+1844,Brown,2009,Severe Storm(s),16421.92
+1844,Ziebach,2009,Severe Storm(s),3597.78
+1844,Statewide,2009,Severe Storm(s),131867.86
+1844,Spink,2009,Severe Storm(s),12297.38
+1844,Marshall,2009,Severe Storm(s),9212.48
+1844,Statewide,2009,Severe Storm(s),18581.58
+1844,Perkins,2009,Severe Storm(s),7054.35
+1844,Roberts,2009,Severe Storm(s),25072.1
+1844,Perkins,2009,Severe Storm(s),1945.3
+1844,Roberts,2009,Severe Storm(s),2536.3
+1844,Roberts,2009,Severe Storm(s),5181.67
+1844,Roberts,2009,Severe Storm(s),5694.14
+1844,Perkins,2009,Severe Storm(s),17729.58
+1844,Perkins,2009,Severe Storm(s),8222.92
+1844,Roberts,2009,Severe Storm(s),1894.05
+1844,Spink,2009,Severe Storm(s),7005.98
+1844,Spink,2009,Severe Storm(s),14110.72
+1844,Perkins,2009,Severe Storm(s),4215.15
+1844,Statewide,2009,Severe Storm(s),14432.66
+1844,Perkins,2009,Severe Storm(s),5920.26
+1844,Perkins,2009,Severe Storm(s),6791.04
+1844,Perkins,2009,Severe Storm(s),1650.58
+1844,Perkins,2009,Severe Storm(s),5889.51
+1844,Corson,2009,Severe Storm(s),12620.46
+1844,Perkins,2009,Severe Storm(s),4842.44
+1844,Corson,2009,Severe Storm(s),6094.85
+1844,Perkins,2009,Severe Storm(s),2113.34
+1844,Perkins,2009,Severe Storm(s),15552.0
+1844,Spink,2009,Severe Storm(s),2950.43
+1844,Statewide,2009,Severe Storm(s),16764.42
+1844,McPherson,2009,Severe Storm(s),2736.0
+1844,Perkins,2009,Severe Storm(s),5232.42
+1844,Roberts,2009,Severe Storm(s),1205.25
+1844,Roberts,2009,Severe Storm(s),2804.18
+1844,Perkins,2009,Severe Storm(s),3200.4
+1844,Perkins,2009,Severe Storm(s),4953.62
+1844,Perkins,2009,Severe Storm(s),1150.94
+1844,Marshall,2009,Severe Storm(s),36995.62
+1844,Day,2009,Severe Storm(s),6228.0
+1844,Perkins,2009,Severe Storm(s),3480.8
+1844,Spink,2009,Severe Storm(s),9622.82
+1844,Spink,2009,Severe Storm(s),34243.4
+1844,Statewide,2009,Severe Storm(s),6623.24
+1844,Perkins,2009,Severe Storm(s),3291.52
+1844,Roberts,2009,Severe Storm(s),6168.6
+1844,Roberts,2009,Severe Storm(s),2547.45
+1844,Brown,2009,Severe Storm(s),3260.14
+1844,Perkins,2009,Severe Storm(s),1945.13
+1844,Statewide,2009,Severe Storm(s),38040.41
+1844,Perkins,2009,Severe Storm(s),6365.07
+1844,Perkins,2009,Severe Storm(s),1275.68
+1844,Perkins,2009,Severe Storm(s),381704.9
+1844,Roberts,2009,Severe Storm(s),69431.25
+1844,Spink,2009,Severe Storm(s),10405.58
+1844,McPherson,2009,Severe Storm(s),8475.87
+1844,Perkins,2009,Severe Storm(s),3277.83
+1844,Marshall,2009,Severe Storm(s),5005.5
+1844,Perkins,2009,Severe Storm(s),6542.4
+1844,Perkins,2009,Severe Storm(s),10412.6
+1844,Roberts,2009,Severe Storm(s),5419.97
+1844,Marshall,2009,Severe Storm(s),9356.25
+1844,Spink,2009,Severe Storm(s),21668.69
+1844,Perkins,2009,Severe Storm(s),12115.81
+1844,Perkins,2009,Severe Storm(s),2092.69
+1844,Statewide,2009,Severe Storm(s),20289.52
+1844,Perkins,2009,Severe Storm(s),5655.56
+1844,Roberts,2009,Severe Storm(s),1298.7
+1844,Spink,2009,Severe Storm(s),13440.19
+1844,Statewide,2009,Severe Storm(s),48990.47
+1844,Perkins,2009,Severe Storm(s),3221.03
+1844,Spink,2009,Severe Storm(s),350478.31
+1844,Spink,2009,Severe Storm(s),5386.92
+1844,Marshall,2009,Severe Storm(s),5925.0
+1844,Roberts,2009,Severe Storm(s),4825.26
+1844,Spink,2009,Severe Storm(s),4782.58
+1844,Perkins,2009,Severe Storm(s),5886.54
+1844,Spink,2009,Severe Storm(s),1301.21
+1844,Spink,2009,Severe Storm(s),27098.52
+1844,Spink,2009,Severe Storm(s),3907.49
+1844,Roberts,2009,Severe Storm(s),12270.86
+1844,Spink,2009,Severe Storm(s),11144.24
+1844,Spink,2009,Severe Storm(s),18545.95
+1844,Spink,2009,Severe Storm(s),3449.51
+1844,Roberts,2009,Severe Storm(s),54762.65
+1844,Roberts,2009,Severe Storm(s),3364.2
+1844,Roberts,2009,Severe Storm(s),13454.68
+1844,Spink,2009,Severe Storm(s),1085.11
+1886,Clay,2010,Severe Storm(s),5087.25
+1886,Lyman,2010,Severe Storm(s),1288.1
+1886,Clay,2010,Severe Storm(s),2449.31
+1886,Clay,2010,Severe Storm(s),4876.5
+1886,Clay,2010,Severe Storm(s),5313.75
+1886,Clay,2010,Severe Storm(s),4709.54
+1886,Turner,2010,Severe Storm(s),3743.06
+1886,Turner,2010,Severe Storm(s),1963.74
+1886,Turner,2010,Severe Storm(s),1878.83
+1886,Clay,2010,Severe Storm(s),2143.73
+1886,Turner,2010,Severe Storm(s),1962.0
+1886,Clay,2010,Severe Storm(s),3785.06
+1886,Lyman,2010,Severe Storm(s),1992.53
+1886,Oglala Lakota,2010,Severe Storm(s),4815.74
+1886,Turner,2010,Severe Storm(s),2040.0
+1886,Turner,2010,Severe Storm(s),2515.69
+1886,Campbell,2010,Severe Storm(s),2792.86
+1886,Perkins,2010,Severe Storm(s),13322.42
+1886,Campbell,2010,Severe Storm(s),8380.42
+1886,Clay,2010,Severe Storm(s),10335.63
+1886,Clay,2010,Severe Storm(s),2723.4
+1886,Jones,2010,Severe Storm(s),5003.27
+1886,Jones,2010,Severe Storm(s),791.25
+1886,Lyman,2010,Severe Storm(s),8773.11
+1886,Statewide,2010,Severe Storm(s),82077.04
+1886,Turner,2010,Severe Storm(s),4249.5
+1886,Turner,2010,Severe Storm(s),2173.47
+1886,Clay,2010,Severe Storm(s),10753.7
+1886,Statewide,2010,Severe Storm(s),26096.17
+1886,Clay,2010,Severe Storm(s),1748.25
+1886,Turner,2010,Severe Storm(s),4064.75
+1886,Perkins,2010,Severe Storm(s),762.0
+1886,Clay,2010,Severe Storm(s),4343.54
+1886,Todd,2010,Severe Storm(s),5589.33
+1886,Clay,2010,Severe Storm(s),3321.96
+1886,Statewide,2010,Severe Storm(s),283564.95
+1886,Statewide,2010,Severe Storm(s),43204.68
+1886,Lyman,2010,Severe Storm(s),5116.47
+1886,Statewide,2010,Severe Storm(s),20247.88
+1886,Clay,2010,Severe Storm(s),1694.48
+1886,Clay,2010,Severe Storm(s),4801.31
+1886,Turner,2010,Severe Storm(s),1481.04
+1886,Turner,2010,Severe Storm(s),1398.0
+1886,Lyman,2010,Severe Storm(s),3929.45
+1886,Turner,2010,Severe Storm(s),3869.09
+1886,Lyman,2010,Severe Storm(s),1160.81
+1886,Turner,2010,Severe Storm(s),3097.91
+1886,Perkins,2010,Severe Storm(s),860.63
+1886,Perkins,2010,Severe Storm(s),4911.25
+1886,Jones,2010,Severe Storm(s),3099.33
+1886,Clay,2010,Severe Storm(s),1566.0
+1886,Turner,2010,Severe Storm(s),2465.84
+1886,Perkins,2010,Severe Storm(s),4800.44
+1886,Statewide,2010,Severe Storm(s),12713.69
+1886,Campbell,2010,Severe Storm(s),1499.87
+1886,Clay,2010,Severe Storm(s),2516.25
+1886,Turner,2010,Severe Storm(s),9620.52
+1887,Statewide,2010,Severe Storm(s),65099.88
+1886,Turner,2010,Severe Storm(s),4016.99
+1887,Perkins,2010,Severe Storm(s),6939.53
+1887,Dewey,2010,Severe Storm(s),4336.28
+1887,Ziebach,2010,Severe Storm(s),2773.27
+1887,Statewide,2010,Severe Storm(s),5534931.47
+1886,Turner,2010,Severe Storm(s),3012.67
+1886,Yankton,2010,Severe Storm(s),2151.56
+1886,Turner,2010,Severe Storm(s),1195.45
+1887,Statewide,2010,Severe Storm(s),53697.31
+1887,Statewide,2010,Severe Storm(s),22372.57
+1887,Statewide,2010,Severe Storm(s),796522.26
+1887,Statewide,2010,Severe Storm(s),27318.74
+1887,Statewide,2010,Severe Storm(s),1896527.16
+1887,Potter,2010,Severe Storm(s),2253.51
+1887,Edmunds,2010,Severe Storm(s),5068.39
+1887,Statewide,2010,Severe Storm(s),35308.42
+1887,Statewide,2010,Severe Storm(s),8901844.46
+1886,Turner,2010,Severe Storm(s),2602.04
+1886,Yankton,2010,Severe Storm(s),1617.98
+1887,Statewide,2010,Severe Storm(s),84751.32
+1887,Ziebach,2010,Severe Storm(s),3321.77
+1887,Statewide,2010,Severe Storm(s),21086851.95
+1887,Potter,2010,Severe Storm(s),828.75
+1887,Ziebach,2010,Severe Storm(s),6275.23
+1887,McPherson,2010,Severe Storm(s),12876.34
+1886,Turner,2010,Severe Storm(s),2481.26
+1887,Hand,2010,Severe Storm(s),2730.39
+1887,Statewide,2010,Severe Storm(s),13365.5
+1886,Turner,2010,Severe Storm(s),1444.52
+1886,Perkins,2010,Severe Storm(s),826.2
+1886,Yankton,2010,Severe Storm(s),2599.09
+1887,Statewide,2010,Severe Storm(s),393116.94
+1887,Statewide,2010,Severe Storm(s),62201.19
+1887,Statewide,2010,Severe Storm(s),239920.18
+1887,Statewide,2010,Severe Storm(s),57381.98
+1887,Statewide,2010,Severe Storm(s),88361.13
+1887,Edmunds,2010,Severe Storm(s),4058.19
+1886,Turner,2010,Severe Storm(s),26975.85
+1887,Perkins,2010,Severe Storm(s),1265.25
+1887,Statewide,2010,Severe Storm(s),2056384.04
+1887,Statewide,2010,Severe Storm(s),3048.8
+1887,Corson,2010,Severe Storm(s),8888.44
+1887,Potter,2010,Severe Storm(s),3588.97
+1886,Turner,2010,Severe Storm(s),1934.54
+1886,Statewide,2010,Severe Storm(s),72261.04
+1887,Statewide,2010,Severe Storm(s),6737422.48
+1887,Dewey,2010,Severe Storm(s),1143.75
+1887,Statewide,2010,Severe Storm(s),50055.25
+1887,McPherson,2010,Severe Storm(s),2311.62
+1886,Yankton,2010,Severe Storm(s),15124.31
+1887,Statewide,2010,Severe Storm(s),19274.14
+1886,Turner,2010,Severe Storm(s),2778.75
+1887,Meade,2010,Severe Storm(s),20913.04
+1887,Statewide,2010,Severe Storm(s),46332.46
+1887,McPherson,2010,Severe Storm(s),2156.25
+1887,Statewide,2010,Severe Storm(s),31081.83
+1887,McPherson,2010,Severe Storm(s),4551.8
+1887,Statewide,2010,Severe Storm(s),2935.47
+1886,Yankton,2010,Severe Storm(s),1020.0
+1887,Statewide,2010,Severe Storm(s),62322.13
+1887,Dewey,2010,Severe Storm(s),3723.75
+1887,Statewide,2010,Severe Storm(s),51665.93
+1887,Edmunds,2010,Severe Storm(s),4163.63
+1887,Dewey,2010,Severe Storm(s),6827.81
+1886,Statewide,2010,Severe Storm(s),24713.85
+1887,Statewide,2010,Severe Storm(s),447484.98
+1887,Statewide,2010,Severe Storm(s),76157.66
+1887,Potter,2010,Severe Storm(s),5134.13
+1886,Yankton,2010,Severe Storm(s),770.52
+1886,Yankton,2010,Severe Storm(s),36712.15
+1886,Statewide,2010,Severe Storm(s),4777.43
+1915,Aurora,2010,Flood,3498.13
+1914,Statewide,2010,Severe Storm(s),1592398.73
+1915,Aurora,2010,Flood,32925.59
+1915,Aurora,2010,Flood,57987.11
+1914,Statewide,2010,Severe Storm(s),264094.13
+1915,Aurora,2010,Flood,136573.93
+1914,Statewide,2010,Severe Storm(s),6449.83
+1915,Aurora,2010,Flood,9991.27
+1915,Beadle,2010,Flood,569221.18
+1915,Charles Mix,2010,Flood,6267.65
+1915,Aurora,2010,Flood,32219.75
+1915,Aurora,2010,Flood,2389.02
+1915,Brown,2010,Flood,28865.67
+1915,Brown,2010,Flood,46055.4
+1915,Charles Mix,2010,Flood,17014.0
+1915,Charles Mix,2010,Flood,9965.41
+1915,Aurora,2010,Flood,8992.44
+1915,Brown,2010,Flood,28979.29
+1915,Aurora,2010,Flood,11357.52
+1915,Brown,2010,Flood,17126.19
+1915,Beadle,2010,Flood,31298.94
+1915,Beadle,2010,Flood,13708.85
+1915,Clark,2010,Flood,8309.25
+1915,Brown,2010,Flood,25654.94
+1915,Beadle,2010,Flood,21068.5
+1915,Clark,2010,Flood,7333.81
+1915,Beadle,2010,Flood,15776.41
+1915,Brown,2010,Flood,6355.1
+1915,Clark,2010,Flood,14058.51
+1915,Clark,2010,Flood,11007.02
+1915,Beadle,2010,Flood,10535.87
+1915,Clark,2010,Flood,21747.25
+1915,Brown,2010,Flood,32701.44
+1915,Charles Mix,2010,Flood,9417.56
+1915,Clark,2010,Flood,11859.1
+1915,Clark,2010,Flood,17055.11
+1915,Brown,2010,Flood,12930.69
+1915,Brown,2010,Flood,3391.22
+1915,Brown,2010,Flood,9199.03
+1915,Aurora,2010,Flood,1889.15
+1915,Beadle,2010,Flood,15053.85
+1915,Beadle,2010,Flood,21810.07
+1915,Charles Mix,2010,Flood,6352.77
+1915,Charles Mix,2010,Flood,8751.6
+1915,Brown,2010,Flood,35169.52
+1915,Brown,2010,Flood,9777.31
+1915,Beadle,2010,Flood,17035.45
+1915,Beadle,2010,Flood,19579.58
+1915,Beadle,2010,Flood,21619.61
+1915,Brule,2010,Flood,62881.41
+1915,Aurora,2010,Flood,1731.75
+1915,Brown,2010,Flood,90364.34
+1915,Aurora,2010,Flood,6130.71
+1915,Brown,2010,Flood,27799.84
+1915,Brown,2010,Flood,24745.23
+1915,Beadle,2010,Flood,15211.78
+1915,Brown,2010,Flood,17044.7
+1915,Brown,2010,Flood,63822.5
+1915,Charles Mix,2010,Flood,17758.6
+1915,Brown,2010,Flood,49009.05
+1915,Beadle,2010,Flood,15053.68
+1915,Brown,2010,Flood,520186.0
+1915,Brown,2010,Flood,35756.73
+1915,Brown,2010,Flood,15528.96
+1915,Brown,2010,Flood,1586.91
+1915,Beadle,2010,Flood,36768.75
+1915,Beadle,2010,Flood,11493.13
+1915,Clark,2010,Flood,7944.2
+1915,Beadle,2010,Flood,11075.39
+1915,Brown,2010,Flood,36216.86
+1915,Brown,2010,Flood,45796.16
+1915,Beadle,2010,Flood,11993.35
+1915,Brown,2010,Flood,35222.83
+1915,Charles Mix,2010,Flood,9460.24
+1915,Brown,2010,Flood,5157.21
+1915,Beadle,2010,Flood,30835.24
+1915,Beadle,2010,Flood,5285.19
+1915,Brown,2010,Flood,89209.29
+1915,Charles Mix,2010,Flood,7551.89
+1915,Beadle,2010,Flood,16219.91
+1915,Brule,2010,Flood,5262.65
+1915,Brown,2010,Flood,26950.64
+1915,Beadle,2010,Flood,11197.95
+1915,Clark,2010,Flood,7523.01
+1915,Brown,2010,Flood,81257.87
+1915,Charles Mix,2010,Flood,8115.2
+1915,Brule,2010,Flood,3222.23
+1915,Beadle,2010,Flood,52055.14
+1915,Brown,2010,Flood,17967.01
+1915,Brown,2010,Flood,15075.29
+1915,Charles Mix,2010,Flood,7743.73
+1915,Beadle,2010,Flood,37223.55
+1915,Brule,2010,Flood,9034.2
+1915,Beadle,2010,Flood,7109.12
+1915,Aurora,2010,Flood,9910.66
+1915,Brown,2010,Flood,38264.47
+1915,Brown,2010,Flood,40733.91
+1915,Beadle,2010,Flood,8431.72
+1915,Clark,2010,Flood,10686.0
+1915,Charles Mix,2010,Flood,9678.05
+1915,Brown,2010,Flood,12632.99
+1915,Clark,2010,Flood,20991.64
+1915,Clark,2010,Flood,5049.55
+1915,Clark,2010,Flood,7399.74
+1915,Beadle,2010,Flood,7165.1
+1915,Beadle,2010,Flood,37260.59
+1915,Clark,2010,Flood,5275.89
+1915,Beadle,2010,Flood,18235.47
+1915,Brown,2010,Flood,28251.35
+1915,Brule,2010,Flood,11777.59
+1915,Brule,2010,Flood,3833.37
+1915,Aurora,2010,Flood,10886.95
+1915,Beadle,2010,Flood,11138.04
+1915,Beadle,2010,Flood,9364.58
+1915,Charles Mix,2010,Flood,140762.46
+1915,Charles Mix,2010,Flood,6451.78
+1915,Clark,2010,Flood,25894.39
+1915,Beadle,2010,Flood,20939.73
+1915,Charles Mix,2010,Flood,3141.0
+1915,Clark,2010,Flood,17302.55
+1915,Charles Mix,2010,Flood,12152.53
+1915,Beadle,2010,Flood,948.55
+1915,Beadle,2010,Flood,13297.24
+1915,Beadle,2010,Flood,35669.21
+1915,Brown,2010,Flood,11518.11
+1915,Brule,2010,Flood,999.99
+1915,Brown,2010,Flood,7028.26
+1915,Aurora,2010,Flood,5986.95
+1915,Brown,2010,Flood,15697.19
+1915,Brown,2010,Flood,26057.09
+1915,Charles Mix,2010,Flood,8671.53
+1915,Aurora,2010,Flood,32259.08
+1915,Clark,2010,Flood,18678.49
+1915,Charles Mix,2010,Flood,12288.61
+1915,Brown,2010,Flood,49940.05
+1915,Brown,2010,Flood,32272.0
+1915,Charles Mix,2010,Flood,13262.18
+1915,Brown,2010,Flood,282028.97
+1915,Brown,2010,Flood,42006.04
+1915,Clark,2010,Flood,297472.68
+1915,Brown,2010,Flood,109903.31
+1915,Clark,2010,Flood,8000.67
+1915,Beadle,2010,Flood,12954.22
+1915,Brown,2010,Flood,14217.18
+1915,Beadle,2010,Flood,29721.07
+1915,Brule,2010,Flood,3448.13
+1915,Aurora,2010,Flood,13515.72
+1915,Brown,2010,Flood,36573.05
+1915,Brown,2010,Flood,59009.78
+1915,Beadle,2010,Flood,46724.32
+1915,Beadle,2010,Flood,11289.3
+1915,Brown,2010,Flood,28022.75
+1915,Brown,2010,Flood,58312.74
+1915,Charles Mix,2010,Flood,6186.22
+1915,Brule,2010,Flood,4731.53
+1915,Charles Mix,2010,Flood,5157.2
+1915,Charles Mix,2010,Flood,3482.12
+1915,Brown,2010,Flood,15538.82
+1915,Brown,2010,Flood,69859.6
+1915,Aurora,2010,Flood,10687.38
+1915,Charles Mix,2010,Flood,2930.06
+1915,Buffalo,2010,Flood,43642.77
+1915,Clay,2010,Flood,15371.23
+1915,Faulk,2010,Flood,4046.32
+1915,Edmunds,2010,Flood,15841.11
+1915,Deuel,2010,Flood,3650.45
+1915,Edmunds,2010,Flood,1202.6
+1915,Codington,2010,Flood,5757.82
+1915,Clay,2010,Flood,24390.82
+1915,Codington,2010,Flood,10241.83
+1915,Day,2010,Flood,23526.3
+1915,Deuel,2010,Flood,8877.43
+1915,Day,2010,Flood,7579.95
+1915,Codington,2010,Flood,3655.06
+1915,Grant,2010,Flood,8148.87
+1915,Deuel,2010,Flood,11298.08
+1915,Deuel,2010,Flood,59542.67
+1915,Faulk,2010,Flood,6652.24
+1915,Day,2010,Flood,3443.69
+1915,Edmunds,2010,Flood,18234.6
+1915,Faulk,2010,Flood,29939.73
+1915,Day,2010,Flood,20604.8
+1915,Edmunds,2010,Flood,9212.19
+1915,Codington,2010,Flood,3597.38
+1915,Edmunds,2010,Flood,8760.18
+1915,Edmunds,2010,Flood,22564.3
+1915,Grant,2010,Flood,2769.38
+1915,Deuel,2010,Flood,17190.57
+1915,Codington,2010,Flood,26030.33
+1915,Deuel,2010,Flood,13366.31
+1915,Clay,2010,Flood,7975.75
+1915,Deuel,2010,Flood,15246.51
+1915,Faulk,2010,Flood,25420.28
+1915,Edmunds,2010,Flood,764.39
+1915,Faulk,2010,Flood,12354.86
+1915,Douglas,2010,Flood,5924.65
+1915,Grant,2010,Flood,8687.76
+1915,Codington,2010,Flood,254949.25
+1915,Edmunds,2010,Flood,6520.85
+1915,Edmunds,2010,Flood,1386.0
+1915,Codington,2010,Flood,2747.41
+1915,Deuel,2010,Flood,13233.36
+1915,Edmunds,2010,Flood,9066.25
+1915,Douglas,2010,Flood,6216.25
+1915,Edmunds,2010,Flood,12246.89
+1915,Codington,2010,Flood,9118.98
+1915,Deuel,2010,Flood,16622.62
+1915,Deuel,2010,Flood,20873.54
+1915,Douglas,2010,Flood,3484.59
+1915,Day,2010,Flood,19275.42
+1915,Edmunds,2010,Flood,803.59
+1915,Edmunds,2010,Flood,908.81
+1915,Clark,2010,Flood,85494.66
+1915,Deuel,2010,Flood,9315.53
+1915,Faulk,2010,Flood,3147.77
+1915,Edmunds,2010,Flood,1629.27
+1915,Edmunds,2010,Flood,6379.16
+1915,Day,2010,Flood,160024.59
+1915,Day,2010,Flood,31392.21
+1915,Edmunds,2010,Flood,1404.77
+1915,Douglas,2010,Flood,9318.88
+1915,Clay,2010,Flood,24125.93
+1915,Douglas,2010,Flood,9478.11
+1915,Day,2010,Flood,21165.09
+1915,Douglas,2010,Flood,7827.97
+1915,Day,2010,Flood,7555.12
+1915,Codington,2010,Flood,38400.88
+1915,Edmunds,2010,Flood,14964.26
+1915,Day,2010,Flood,6868.94
+1915,Day,2010,Flood,9008.49
+1915,Clark,2010,Flood,13237.59
+1915,Codington,2010,Flood,11672.66
+1915,Douglas,2010,Flood,6332.39
+1915,Clark,2010,Flood,3084.45
+1915,Douglas,2010,Flood,10216.28
+1915,Faulk,2010,Flood,152415.12
+1915,Clay,2010,Flood,750.0
+1915,Grant,2010,Flood,11909.9
+1915,Faulk,2010,Flood,8373.5
+1915,Day,2010,Flood,49431.34
+1915,Douglas,2010,Flood,3929.83
+1915,Grant,2010,Flood,17104.32
+1915,Edmunds,2010,Flood,53962.47
+1915,Edmunds,2010,Flood,237563.96
+1915,Day,2010,Flood,6506.38
+1915,Deuel,2010,Flood,4885.44
+1915,Clark,2010,Flood,15649.35
+1915,Day,2010,Flood,24046.63
+1915,Day,2010,Flood,21490.36
+1915,Clark,2010,Flood,16842.07
+1915,Deuel,2010,Flood,14810.86
+1915,Edmunds,2010,Flood,23729.7
+1915,Edmunds,2010,Flood,8506.75
+1915,Day,2010,Flood,21167.9
+1915,Douglas,2010,Flood,69859.15
+1915,Codington,2010,Flood,5296.47
+1915,Faulk,2010,Flood,1693.76
+1915,Faulk,2010,Flood,11165.76
+1915,Clay,2010,Flood,8355.61
+1915,Clark,2010,Flood,8861.82
+1915,Faulk,2010,Flood,7566.04
+1915,Day,2010,Flood,20866.25
+1915,Faulk,2010,Flood,2160.79
+1915,Codington,2010,Flood,6324.07
+1915,Douglas,2010,Flood,22296.79
+1915,Faulk,2010,Flood,3843.19
+1915,Faulk,2010,Flood,31748.58
+1915,Day,2010,Flood,15898.14
+1915,Faulk,2010,Flood,11600.5
+1915,Clark,2010,Flood,5439.62
+1915,Clay,2010,Flood,3416.79
+1915,Douglas,2010,Flood,14343.65
+1915,Clark,2010,Flood,2271.0
+1915,Day,2010,Flood,44057.99
+1915,Day,2010,Flood,19165.54
+1915,Grant,2010,Flood,8362.11
+1915,Day,2010,Flood,14278.13
+1915,Day,2010,Flood,3051.9
+1915,Faulk,2010,Flood,7651.75
+1915,Douglas,2010,Flood,16995.87
+1915,Douglas,2010,Flood,11898.41
+1915,Faulk,2010,Flood,17948.45
+1915,Edmunds,2010,Flood,11310.09
+1915,Edmunds,2010,Flood,6345.43
+1915,Day,2010,Flood,28424.04
+1915,Day,2010,Flood,64611.86
+1915,Douglas,2010,Flood,12480.7
+1915,Codington,2010,Flood,1608.89
+1915,Edmunds,2010,Flood,7267.62
+1915,Edmunds,2010,Flood,35809.33
+1915,Day,2010,Flood,1521.26
+1915,Faulk,2010,Flood,1218.75
+1915,Codington,2010,Flood,102168.19
+1915,Day,2010,Flood,27561.82
+1915,Edmunds,2010,Flood,7757.96
+1915,Day,2010,Flood,26565.28
+1915,Day,2010,Flood,12088.54
+1915,Faulk,2010,Flood,6672.05
+1915,Edmunds,2010,Flood,7612.93
+1915,Edmunds,2010,Flood,5855.38
+1915,Faulk,2010,Flood,994.73
+1915,Day,2010,Flood,49440.53
+1915,Edmunds,2010,Flood,12362.38
+1915,Codington,2010,Flood,7818.39
+1915,Codington,2010,Flood,4406.85
+1915,Day,2010,Flood,7084.47
+1915,Deuel,2010,Flood,5005.66
+1915,Edmunds,2010,Flood,22184.98
+1915,Codington,2010,Flood,10751.75
+1915,Grant,2010,Flood,2567.57
+1915,Edmunds,2010,Flood,15419.23
+1915,Codington,2010,Flood,6364.59
+1915,Day,2010,Flood,35224.45
+1915,Faulk,2010,Flood,1362.76
+1915,Day,2010,Flood,19960.09
+1915,Edmunds,2010,Flood,10017.81
+1915,Faulk,2010,Flood,5584.38
+1915,Edmunds,2010,Flood,28949.4
+1915,Hutchinson,2010,Flood,6991.75
+1915,Hand,2010,Flood,10142.58
+1915,Hanson,2010,Flood,10606.19
+1915,Kingsbury,2010,Flood,14489.64
+1915,Kingsbury,2010,Flood,26258.43
+1915,Marshall,2010,Flood,65258.95
+1915,Hand,2010,Flood,34604.38
+1915,Marshall,2010,Flood,6000.35
+1915,Hand,2010,Flood,41591.84
+1915,Hutchinson,2010,Flood,6101.15
+1915,Marshall,2010,Flood,40961.42
+1915,Hamlin,2010,Flood,1247.21
+1915,Hand,2010,Flood,7894.14
+1915,Hanson,2010,Flood,1206.54
+1915,Hanson,2010,Flood,49099.34
+1915,Jerauld,2010,Flood,21853.05
+1915,Kingsbury,2010,Flood,2588.74
+1915,Hutchinson,2010,Flood,8905.02
+1915,Hanson,2010,Flood,10943.04
+1915,Lake,2010,Flood,5976.08
+1915,Hand,2010,Flood,1858.54
+1915,Marshall,2010,Flood,2949.0
+1915,Hand,2010,Flood,8686.76
+1915,Kingsbury,2010,Flood,36165.16
+1915,Kingsbury,2010,Flood,29361.24
+1915,Lake,2010,Flood,8640.02
+1915,Hand,2010,Flood,7311.72
+1915,Lake,2010,Flood,8469.82
+1915,Hand,2010,Flood,2083.16
+1915,Marshall,2010,Flood,19460.5
+1915,Hand,2010,Flood,15426.36
+1915,Hamlin,2010,Flood,12384.81
+1915,Hamlin,2010,Flood,1371.14
+1915,Hamlin,2010,Flood,878.89
+1915,Hutchinson,2010,Flood,7363.61
+1915,Marshall,2010,Flood,41424.87
+1915,Jerauld,2010,Flood,32014.55
+1915,Hutchinson,2010,Flood,25157.36
+1915,Hanson,2010,Flood,23179.45
+1915,Marshall,2010,Flood,9605.85
+1915,Lake,2010,Flood,5268.8
+1915,Hand,2010,Flood,5967.24
+1915,Hand,2010,Flood,13333.54
+1915,Marshall,2010,Flood,4203.95
+1915,Hand,2010,Flood,40411.19
+1915,Hand,2010,Flood,10822.54
+1915,Marshall,2010,Flood,17350.65
+1915,Hamlin,2010,Flood,5866.9
+1915,Jerauld,2010,Flood,48213.37
+1915,Lake,2010,Flood,9542.33
+1915,Hutchinson,2010,Flood,9356.7
+1915,Hand,2010,Flood,3596.58
+1915,Hand,2010,Flood,1704.15
+1915,Hanson,2010,Flood,6900.0
+1915,Hutchinson,2010,Flood,3151.0
+1915,Hand,2010,Flood,6626.74
+1915,Marshall,2010,Flood,30183.67
+1915,Hanson,2010,Flood,7232.71
+1915,Hanson,2010,Flood,6516.46
+1915,Hand,2010,Flood,4989.38
+1915,Kingsbury,2010,Flood,21050.47
+1915,Marshall,2010,Flood,3908.09
+1915,Kingsbury,2010,Flood,33253.41
+1915,Jerauld,2010,Flood,22419.87
+1915,Hand,2010,Flood,5633.51
+1915,Lake,2010,Flood,6040.28
+1915,Gregory,2010,Flood,3971.84
+1915,Marshall,2010,Flood,51014.11
+1915,Hand,2010,Flood,1227.4
+1915,Hamlin,2010,Flood,4398.41
+1915,Grant,2010,Flood,16815.63
+1915,Lake,2010,Flood,9407.65
+1915,Hand,2010,Flood,1822.5
+1915,Jerauld,2010,Flood,3001.61
+1915,Hutchinson,2010,Flood,5687.47
+1915,Hamlin,2010,Flood,37846.66
+1915,Kingsbury,2010,Flood,15611.6
+1915,Lake,2010,Flood,9800.29
+1915,Hutchinson,2010,Flood,7647.8
+1915,Grant,2010,Flood,1006.82
+1915,Lake,2010,Flood,21731.85
+1915,Hand,2010,Flood,13219.06
+1915,Lake,2010,Flood,3540.38
+1915,Hutchinson,2010,Flood,32558.76
+1915,Hamlin,2010,Flood,52104.09
+1915,Hand,2010,Flood,4943.93
+1915,Kingsbury,2010,Flood,36391.15
+1915,Hand,2010,Flood,5644.82
+1915,Hamlin,2010,Flood,7293.8
+1915,Hamlin,2010,Flood,39630.16
+1915,Gregory,2010,Flood,8421.6
+1915,Hamlin,2010,Flood,5610.19
+1915,Hand,2010,Flood,4394.79
+1915,Hand,2010,Flood,6794.06
+1915,Hutchinson,2010,Flood,4623.65
+1915,Kingsbury,2010,Flood,144930.46
+1915,Marshall,2010,Flood,3072.84
+1915,Jerauld,2010,Flood,12959.69
+1915,Kingsbury,2010,Flood,21648.14
+1915,Kingsbury,2010,Flood,25810.03
+1915,Jerauld,2010,Flood,64526.39
+1915,Hand,2010,Flood,5543.29
+1915,Lake,2010,Flood,5373.2
+1915,Hutchinson,2010,Flood,147086.66
+1915,Jerauld,2010,Flood,32211.19
+1915,Hand,2010,Flood,1937.39
+1915,Hutchinson,2010,Flood,5907.3
+1915,Hutchinson,2010,Flood,4084.69
+1915,Hanson,2010,Flood,11644.32
+1915,Hand,2010,Flood,26675.32
+1915,Marshall,2010,Flood,29159.58
+1915,Jerauld,2010,Flood,29946.42
+1915,Hand,2010,Flood,9142.81
+1915,Lake,2010,Flood,1623.34
+1915,Jerauld,2010,Flood,3648.87
+1915,Hutchinson,2010,Flood,6602.06
+1915,Kingsbury,2010,Flood,25593.22
+1915,Kingsbury,2010,Flood,27775.08
+1915,Lyman,2010,Flood,119589.5
+1915,Hutchinson,2010,Flood,9642.14
+1915,Jerauld,2010,Flood,40495.63
+1915,Gregory,2010,Flood,6049.16
+1915,Hanson,2010,Flood,962.5
+1915,Marshall,2010,Flood,2473.38
+1915,Hamlin,2010,Flood,7160.93
+1915,Lake,2010,Flood,6499.77
+1915,Marshall,2010,Flood,44627.6
+1915,Gregory,2010,Flood,11554.37
+1915,Hamlin,2010,Flood,16604.19
+1915,Hand,2010,Flood,20385.63
+1915,Jerauld,2010,Flood,29320.16
+1915,Hand,2010,Flood,3542.45
+1915,Jerauld,2010,Flood,46620.61
+1915,Hamlin,2010,Flood,3178.76
+1915,Gregory,2010,Flood,125841.52
+1915,Gregory,2010,Flood,3270.19
+1915,Lake,2010,Flood,1943.29
+1915,Gregory,2010,Flood,26339.04
+1915,Kingsbury,2010,Flood,16812.89
+1915,Kingsbury,2010,Flood,2262.38
+1915,Hand,2010,Flood,7841.65
+1915,Hutchinson,2010,Flood,22381.3
+1915,Jerauld,2010,Flood,33768.03
+1915,Hanson,2010,Flood,3183.46
+1915,Lake,2010,Flood,7466.02
+1915,Hanson,2010,Flood,12097.29
+1915,Gregory,2010,Flood,7381.95
+1915,Hamlin,2010,Flood,2110.08
+1915,Hyde,2010,Flood,114497.36
+1915,Hand,2010,Flood,2446.95
+1915,Hutchinson,2010,Flood,14557.15
+1915,Hutchinson,2010,Flood,8674.74
+1915,Hamlin,2010,Flood,71945.51
+1915,Marshall,2010,Flood,10621.34
+1915,Hanson,2010,Flood,5993.29
+1915,Miner,2010,Flood,17694.97
+1915,Sanborn,2010,Flood,14756.08
+1915,Spink,2010,Flood,11528.21
+1915,Spink,2010,Flood,25417.81
+1915,McCook,2010,Flood,3416.45
+1915,Marshall,2010,Flood,17439.49
+1915,Miner,2010,Flood,17167.58
+1915,McCook,2010,Flood,6563.56
+1915,Sanborn,2010,Flood,6727.15
+1915,McCook,2010,Flood,3052.73
+1915,Statewide,2010,Flood,9002.52
+1915,Spink,2010,Flood,15188.13
+1915,Moody,2010,Flood,3510.71
+1915,Spink,2010,Flood,8276.44
+1915,Spink,2010,Flood,6036.46
+1915,Spink,2010,Flood,6571.79
+1915,Sanborn,2010,Flood,5883.11
+1915,Sanborn,2010,Flood,101811.43
+1915,Roberts,2010,Flood,9593.06
+1915,Spink,2010,Flood,1919.88
+1915,Roberts,2010,Flood,1888.88
+1915,McCook,2010,Flood,6496.53
+1915,Tripp,2010,Flood,5351.03
+1915,Sanborn,2010,Flood,16321.28
+1915,Spink,2010,Flood,10079.26
+1915,Roberts,2010,Flood,13839.55
+1915,Statewide,2010,Flood,55700.42
+1915,Spink,2010,Flood,2204.8
+1915,Sanborn,2010,Flood,3658.42
+1915,Spink,2010,Flood,44076.75
+1915,McCook,2010,Flood,15810.49
+1915,Moody,2010,Flood,3689.03
+1915,Tripp,2010,Flood,5817.25
+1915,Statewide,2010,Flood,14158.03
+1915,Roberts,2010,Flood,1943.5
+1915,McCook,2010,Flood,2977.5
+1915,Marshall,2010,Flood,40367.57
+1915,Statewide,2010,Flood,32791.68
+1915,Sanborn,2010,Flood,19059.87
+1915,Miner,2010,Flood,6961.42
+1915,Miner,2010,Flood,5187.79
+1915,Spink,2010,Flood,780510.04
+1915,Spink,2010,Flood,9134.79
+1915,Roberts,2010,Flood,17185.05
+1915,Roberts,2010,Flood,2032.05
+1915,Statewide,2010,Flood,5099.67
+1915,Spink,2010,Flood,10485.68
+1915,Sanborn,2010,Flood,25073.65
+1915,Miner,2010,Flood,14106.22
+1915,Sanborn,2010,Flood,65098.22
+1915,Statewide,2010,Flood,96495.76
+1915,Spink,2010,Flood,9862.08
+1915,Miner,2010,Flood,15155.42
+1915,Spink,2010,Flood,41940.15
+1915,Roberts,2010,Flood,10413.22
+1915,Roberts,2010,Flood,4359.54
+1915,Statewide,2010,Flood,0.0
+1915,Sanborn,2010,Flood,57462.38
+1915,Statewide,2010,Flood,19154.77
+1915,Roberts,2010,Flood,2844.32
+1915,Moody,2010,Flood,1615.45
+1915,Sully,2010,Flood,135465.1
+1915,Spink,2010,Flood,11624.7
+1915,Sanborn,2010,Flood,7641.69
+1915,Spink,2010,Flood,19880.2
+1915,Spink,2010,Flood,10951.71
+1915,McCook,2010,Flood,10035.26
+1915,Roberts,2010,Flood,19750.64
+1915,Roberts,2010,Flood,10675.59
+1915,Roberts,2010,Flood,6142.7
+1915,McCook,2010,Flood,4243.06
+1915,Miner,2010,Flood,43768.45
+1915,McPherson,2010,Flood,4663.11
+1915,Spink,2010,Flood,11450.21
+1915,Spink,2010,Flood,15327.52
+1915,McCook,2010,Flood,6528.53
+1915,Spink,2010,Flood,27297.28
+1915,Spink,2010,Flood,763.35
+1915,Statewide,2010,Flood,73041.84
+1915,Marshall,2010,Flood,33795.66
+1915,Spink,2010,Flood,11850.35
+1915,Miner,2010,Flood,19082.57
+1915,Spink,2010,Flood,15764.92
+1915,Statewide,2010,Flood,3791.71
+1915,Miner,2010,Flood,16744.56
+1915,McCook,2010,Flood,8209.11
+1915,Roberts,2010,Flood,10833.32
+1915,Sanborn,2010,Flood,9696.48
+1915,Miner,2010,Flood,3303.84
+1915,Roberts,2010,Flood,43184.57
+1915,McCook,2010,Flood,4160.16
+1915,Miner,2010,Flood,7248.09
+1915,Statewide,2010,Flood,22170.28
+1915,Statewide,2010,Flood,9493.63
+1915,Statewide,2010,Flood,310626.09
+1915,Roberts,2010,Flood,10386.98
+1915,Sanborn,2010,Flood,985.45
+1915,Sanborn,2010,Flood,16571.54
+1915,Roberts,2010,Flood,5005.48
+1915,Spink,2010,Flood,8099.36
+1915,Sanborn,2010,Flood,98170.89
+1915,Sanborn,2010,Flood,82378.77
+1915,Spink,2010,Flood,9972.95
+1915,Statewide,2010,Flood,3226.07
+1915,Spink,2010,Flood,18425.41
+1915,McCook,2010,Flood,19818.69
+1915,Spink,2010,Flood,14924.05
+1915,Roberts,2010,Flood,6486.19
+1915,Marshall,2010,Flood,42621.06
+1915,Miner,2010,Flood,18371.53
+1915,Roberts,2010,Flood,8686.81
+1915,Statewide,2010,Flood,2022.59
+1915,Miner,2010,Flood,20781.89
+1915,Spink,2010,Flood,13337.86
+1915,Miner,2010,Flood,14080.47
+1915,Miner,2010,Flood,15843.7
+1915,Marshall,2010,Flood,9784.37
+1915,McPherson,2010,Flood,43079.41
+1915,Tripp,2010,Flood,3608.09
+1915,Sanborn,2010,Flood,5507.93
+1915,Spink,2010,Flood,16834.08
+1915,Spink,2010,Flood,3366.44
+1915,Spink,2010,Flood,18316.58
+1915,Moody,2010,Flood,2978.12
+1915,Spink,2010,Flood,34427.46
+1915,Miner,2010,Flood,11728.43
+1915,Roberts,2010,Flood,2641.57
+1915,Statewide,2010,Flood,974.19
+1915,Statewide,2010,Flood,11292.63
+1915,Statewide,2010,Flood,224426.47
+1915,Statewide,2010,Flood,19598.06
+1915,Roberts,2010,Flood,6410.96
+1915,Statewide,2010,Flood,35326.37
+1915,Spink,2010,Flood,18327.31
+1915,Statewide,2010,Flood,5739709.65
+1915,Roberts,2010,Flood,14842.29
+1915,Roberts,2010,Flood,16092.23
+1915,McCook,2010,Flood,4119.97
+1915,Spink,2010,Flood,2840.34
+1915,Spink,2010,Flood,8021.81
+1915,Moody,2010,Flood,8159.65
+1915,Roberts,2010,Flood,16763.6
+1915,Statewide,2010,Flood,20057.43
+1915,Miner,2010,Flood,5251.68
+1915,Roberts,2010,Flood,1044.51
+1915,McCook,2010,Flood,3133.73
+1915,Statewide,2010,Flood,28277.72
+1915,Statewide,2010,Flood,7654.35
+1915,Tripp,2010,Flood,7109.99
+1915,Union,2010,Flood,7723.19
+1915,Union,2010,Flood,7120.35
+1915,Turner,2010,Flood,3304.71
+1915,Union,2010,Flood,15694.46
+1915,Tripp,2010,Flood,14179.11
+1915,Turner,2010,Flood,3548.68
+1915,Union,2010,Flood,5741.25
+1915,Turner,2010,Flood,11154.15
+1915,Tripp,2010,Flood,2667.57
+1915,Turner,2010,Flood,10305.56
+1915,Turner,2010,Flood,2275.8
+1915,Tripp,2010,Flood,6635.21
+1915,Sanborn,2010,Flood,196015.19
+1915,Union,2010,Flood,3306.71
+1915,Turner,2010,Flood,6743.79
+1915,Turner,2010,Flood,5996.72
+1915,Turner,2010,Flood,3518.48
+1915,Union,2010,Flood,191432.59
+1915,Union,2010,Flood,1405.1
+1915,Tripp,2010,Flood,12076.88
+1915,Tripp,2010,Flood,10566.48
+1915,Spink,2010,Flood,5030.82
+1915,Turner,2010,Flood,16327.78
+1915,Turner,2010,Flood,3556.07
+1915,Turner,2010,Flood,9924.36
+1915,Turner,2010,Flood,802.79
+1915,Turner,2010,Flood,6110.28
+1915,Turner,2010,Flood,53406.1
+1915,Turner,2010,Flood,9193.84
+1915,Union,2010,Flood,15509.39
+1915,Turner,2010,Flood,1382.09
+1915,Turner,2010,Flood,54063.0
+1915,Tripp,2010,Flood,119448.26
+1915,Turner,2010,Flood,8964.58
+1915,Tripp,2010,Flood,3623.57
+1915,Turner,2010,Flood,8521.63
+1915,Turner,2010,Flood,5259.35
+1915,Union,2010,Flood,5383.13
+1915,Turner,2010,Flood,11303.61
+1915,Tripp,2010,Flood,29718.7
+1915,Tripp,2010,Flood,8579.01
+1915,Tripp,2010,Flood,7456.07
+1929,Ziebach,2010,Severe Storm(s),146663.56
+1929,Statewide,2010,Severe Storm(s),216716.83
+1929,Statewide,2010,Severe Storm(s),140609.7
+1929,Ziebach,2010,Severe Storm(s),6723.59
+1929,Statewide,2010,Severe Storm(s),19902.36
+1929,Dewey,2010,Severe Storm(s),3866.54
+1929,Perkins,2010,Severe Storm(s),187.5
+1929,Statewide,2010,Severe Storm(s),4508.11
+1929,Dewey,2010,Severe Storm(s),42861.42
+1929,Perkins,2010,Severe Storm(s),77312.65
+1929,Statewide,2010,Severe Storm(s),5903.79
+1929,Ziebach,2010,Severe Storm(s),375.0
+1929,Perkins,2010,Severe Storm(s),1017.56
+1938,Beadle,2010,Severe Storm(s),17283.46
+1938,Clay,2010,Severe Storm(s),16048.19
+1938,Beadle,2010,Severe Storm(s),31736.4
+1938,Beadle,2010,Severe Storm(s),41821.37
+1938,Beadle,2010,Severe Storm(s),829.58
+1938,Beadle,2010,Severe Storm(s),11198.67
+1938,Beadle,2010,Severe Storm(s),9329.63
+1938,Beadle,2010,Severe Storm(s),20504.25
+1938,Jerauld,2010,Severe Storm(s),2858.16
+1938,Jerauld,2010,Severe Storm(s),0.0
+1938,Hand,2010,Severe Storm(s),2118.06
+1938,Statewide,2010,Severe Storm(s),21562.93
+1938,Turner,2010,Severe Storm(s),6277.08
+1938,Jerauld,2010,Severe Storm(s),15816.1
+1938,Clay,2010,Severe Storm(s),20983.03
+1938,Sanborn,2010,Severe Storm(s),10716.38
+1938,Minnehaha,2010,Severe Storm(s),2577.37
+1938,Turner,2010,Severe Storm(s),7513.54
+1938,Turner,2010,Severe Storm(s),28656.83
+1938,Lincoln,2010,Severe Storm(s),21086.34
+1938,Hand,2010,Severe Storm(s),1696.28
+1938,Minnehaha,2010,Severe Storm(s),5135.82
+1938,Turner,2010,Severe Storm(s),4930.5
+1938,Union,2010,Severe Storm(s),15686.87
+1938,Union,2010,Severe Storm(s),10605.74
+1938,Clay,2010,Severe Storm(s),12616.11
+1938,Minnehaha,2010,Severe Storm(s),4640.15
+1938,Union,2010,Severe Storm(s),45793.28
+1938,Turner,2010,Severe Storm(s),3404.59
+1938,Sanborn,2010,Severe Storm(s),8015.09
+1938,Jerauld,2010,Severe Storm(s),27918.87
+1938,Miner,2010,Severe Storm(s),8368.6
+1938,Turner,2010,Severe Storm(s),8740.64
+1938,Jerauld,2010,Severe Storm(s),51672.62
+1938,Jerauld,2010,Severe Storm(s),4812.56
+1938,Statewide,2010,Severe Storm(s),45427.62
+1938,Jerauld,2010,Severe Storm(s),40667.05
+1938,Statewide,2010,Severe Storm(s),3621.87
+1938,Lincoln,2010,Severe Storm(s),5325.2
+1938,Jerauld,2010,Severe Storm(s),33398.27
+1938,Turner,2010,Severe Storm(s),1012.35
+1938,Minnehaha,2010,Severe Storm(s),6580.62
+1938,Lincoln,2010,Severe Storm(s),6206.6
+1938,Jerauld,2010,Severe Storm(s),10378.23
+1938,Statewide,2010,Severe Storm(s),18874.48
+1938,Jerauld,2010,Severe Storm(s),3019.45
+1938,Sanborn,2010,Severe Storm(s),10974.98
+1938,Union,2010,Severe Storm(s),5373.74
+1938,Jerauld,2010,Severe Storm(s),10312.31
+1938,Minnehaha,2010,Severe Storm(s),5387.0
+1938,Clay,2010,Severe Storm(s),10292.81
+1938,Clay,2010,Severe Storm(s),4351.22
+1938,Lincoln,2010,Severe Storm(s),1886.14
+1938,Turner,2010,Severe Storm(s),3047.25
+1938,Clay,2010,Severe Storm(s),4367.54
+1938,Miner,2010,Severe Storm(s),2705.68
+1938,Minnehaha,2010,Severe Storm(s),9838.39
+1938,Jerauld,2010,Severe Storm(s),2907.0
+1938,Lincoln,2010,Severe Storm(s),15317.99
+1938,Hand,2010,Severe Storm(s),5977.46
+1938,Hand,2010,Severe Storm(s),269310.23
+1938,Clay,2010,Severe Storm(s),4102.95
+1938,Turner,2010,Severe Storm(s),10149.75
+1938,Hand,2010,Severe Storm(s),1058.27
+1938,Minnehaha,2010,Severe Storm(s),3896.57
+1938,Clay,2010,Severe Storm(s),17100.48
+1938,Miner,2010,Severe Storm(s),21660.02
+1938,Minnehaha,2010,Severe Storm(s),959300.25
+1938,Clay,2010,Severe Storm(s),6636.0
+1938,Miner,2010,Severe Storm(s),9475.25
+1938,Turner,2010,Severe Storm(s),2462.73
+1938,Minnehaha,2010,Severe Storm(s),12906.38
+1938,Fall River,2010,Severe Storm(s),2940.15
+1938,Sanborn,2010,Severe Storm(s),10827.82
+1938,Sanborn,2010,Severe Storm(s),8098.32
+1938,Lincoln,2010,Severe Storm(s),5798.89
+1938,Jerauld,2010,Severe Storm(s),6925.08
+1938,Lincoln,2010,Severe Storm(s),1818.58
+1938,Union,2010,Severe Storm(s),4187.76
+1938,Jerauld,2010,Severe Storm(s),25111.07
+1938,Turner,2010,Severe Storm(s),1579.5
+1938,Turner,2010,Severe Storm(s),829.56
+1938,Hand,2010,Severe Storm(s),4374.56
+1938,Lincoln,2010,Severe Storm(s),829.3
+1938,Statewide,2010,Severe Storm(s),182247.66
+1938,Sanborn,2010,Severe Storm(s),61767.91
+1938,Fall River,2010,Severe Storm(s),46613.63
+1938,Sanborn,2010,Severe Storm(s),3475.94
+1938,Statewide,2010,Severe Storm(s),304292.56
+1938,Jerauld,2010,Severe Storm(s),3712.5
+1938,Turner,2010,Severe Storm(s),5127.52
+1938,Lincoln,2010,Severe Storm(s),42517.9
+1938,Statewide,2010,Severe Storm(s),12634.6
+1938,Union,2010,Severe Storm(s),2729.53
+1938,Union,2010,Severe Storm(s),13313.95
+1938,Union,2010,Severe Storm(s),50867.99
+1938,Turner,2010,Severe Storm(s),1810.39
+1938,Turner,2010,Severe Storm(s),3687.68
+1938,Lincoln,2010,Severe Storm(s),24377.12
+1938,Sanborn,2010,Severe Storm(s),3104.79
+1938,Union,2010,Severe Storm(s),20176.92
+1938,Union,2010,Severe Storm(s),40715.82
+1938,Sanborn,2010,Severe Storm(s),2110.66
+1938,Sanborn,2010,Severe Storm(s),157279.22
+1947,Lake,2010,Severe Storm(s),5460.91
+1947,Brookings,2010,Severe Storm(s),11861.75
+1947,Lake,2010,Severe Storm(s),235737.46
+1947,Lake,2010,Severe Storm(s),11732.94
+1947,Brookings,2010,Severe Storm(s),2028.56
+1947,Lake,2010,Severe Storm(s),11225.18
+1947,Brookings,2010,Severe Storm(s),2893.96
+1947,Moody,2010,Severe Storm(s),4583.79
+1947,Brookings,2010,Severe Storm(s),12205.89
+1947,Lake,2010,Severe Storm(s),1712.06
+1947,Brookings,2010,Severe Storm(s),1358.69
+1947,Brookings,2010,Severe Storm(s),7527.89
+1947,Brookings,2010,Severe Storm(s),17791.93
+1947,Moody,2010,Severe Storm(s),6957.79
+1947,Lake,2010,Severe Storm(s),30411.44
+1947,Union,2010,Severe Storm(s),17392.83
+1947,Union,2010,Severe Storm(s),7165.19
+1947,Moody,2010,Severe Storm(s),5182.87
+1947,Lake,2010,Severe Storm(s),8072.66
+1947,Union,2010,Severe Storm(s),3240.1
+1947,Brookings,2010,Severe Storm(s),27171.09
+1947,Moody,2010,Severe Storm(s),10395.07
+1947,Moody,2010,Severe Storm(s),9627.98
+1947,Lake,2010,Severe Storm(s),20683.4
+1947,Union,2010,Severe Storm(s),88812.73
+1947,Union,2010,Severe Storm(s),24807.09
+1947,Lake,2010,Severe Storm(s),3934.98
+1947,Moody,2010,Severe Storm(s),29666.23
+1947,Union,2010,Severe Storm(s),8249.0
+1947,Brookings,2010,Severe Storm(s),3160.24
+1947,Brookings,2010,Severe Storm(s),14318.66
+1947,Lake,2010,Severe Storm(s),1432.04
+1947,Moody,2010,Severe Storm(s),8166.43
+1947,Lake,2010,Severe Storm(s),3635.21
+1947,Union,2010,Severe Storm(s),5014.35
+1947,Lake,2010,Severe Storm(s),8248.88
+1947,Lake,2010,Severe Storm(s),1688.55
+1947,Brookings,2010,Severe Storm(s),23666.54
+1947,Moody,2010,Severe Storm(s),67207.69
+1947,Brookings,2010,Severe Storm(s),6987.38
+1947,Brookings,2010,Severe Storm(s),6618.07
+1947,Moody,2010,Severe Storm(s),4849.69
+1947,Lake,2010,Severe Storm(s),2595.71
+1947,Brookings,2010,Severe Storm(s),13616.7
+1947,Statewide,2010,Severe Storm(s),48149.01
+1947,Lake,2010,Severe Storm(s),5481.74
+1947,Brookings,2010,Severe Storm(s),5646.41
+1947,Moody,2010,Severe Storm(s),4898.88
+1947,Brookings,2010,Severe Storm(s),1375.81
+1947,Brookings,2010,Severe Storm(s),8340.65
+1947,Moody,2010,Severe Storm(s),3734.26
+1947,Moody,2010,Severe Storm(s),52023.55
+1947,Lake,2010,Severe Storm(s),6366.52
+1947,Brookings,2010,Severe Storm(s),15144.69
+1947,Moody,2010,Severe Storm(s),17848.89
+1947,Brookings,2010,Severe Storm(s),10497.69
+1947,Moody,2010,Severe Storm(s),4141.06
+1947,Lake,2010,Severe Storm(s),18489.18
+1947,Union,2010,Severe Storm(s),9877.98
+1947,Moody,2010,Severe Storm(s),9291.46
+1947,Moody,2010,Severe Storm(s),5371.46
+1947,Statewide,2010,Severe Storm(s),6841.91
+1947,Union,2010,Severe Storm(s),18784.21
+1947,Moody,2010,Severe Storm(s),8578.41
+1947,Statewide,2010,Severe Storm(s),19991.42
+1984,Aurora,2011,Flood,7339.94
+1984,Aurora,2011,Flood,53281.2
+1984,Aurora,2011,Flood,2680.4
+1984,Aurora,2011,Flood,2619.97
+1984,Aurora,2011,Flood,1383.0
+1984,Beadle,2011,Flood,10635.93
+1984,Aurora,2011,Flood,5715.63
+1984,Aurora,2011,Flood,3004.13
+1984,Aurora,2011,Flood,2937.39
+1984,Aurora,2011,Flood,13744.5
+1984,Beadle,2011,Flood,12393.35
+1984,Aurora,2011,Flood,9708.68
+1984,Aurora,2011,Flood,3385.13
+1984,Aurora,2011,Flood,1217.57
+1984,Aurora,2011,Flood,3934.73
+1984,Aurora,2011,Flood,2556.44
+1984,Aurora,2011,Flood,3859.1
+1984,Beadle,2011,Flood,7950.94
+1984,Aurora,2011,Flood,819.36
+1984,Aurora,2011,Flood,10460.68
+1984,Aurora,2011,Flood,5459.21
+1984,Beadle,2011,Flood,12119.86
+1984,Beadle,2011,Flood,15485.41
+1984,Brown,2011,Flood,44007.71
+1984,Beadle,2011,Flood,15805.39
+1984,Brookings,2011,Flood,11517.99
+1984,Beadle,2011,Flood,13887.65
+1984,Clark,2011,Flood,11669.12
+1984,Butte,2011,Flood,6629.5
+1984,Brown,2011,Flood,28760.68
+1984,Brown,2011,Flood,9638.93
+1984,Brown,2011,Flood,28569.17
+1984,Brookings,2011,Flood,15575.49
+1984,Brown,2011,Flood,342275.86
+1984,Brule,2011,Flood,17324.57
+1984,Beadle,2011,Flood,945053.42
+1984,Clark,2011,Flood,14968.16
+1984,Beadle,2011,Flood,21799.59
+1984,Beadle,2011,Flood,32499.82
+1984,Buffalo,2011,Flood,32999.88
+1984,Brule,2011,Flood,3575.88
+1984,Beadle,2011,Flood,13474.98
+1984,Butte,2011,Flood,3124.8
+1984,Brookings,2011,Flood,7358.96
+1984,Butte,2011,Flood,166558.35
+1984,Beadle,2011,Flood,22858.4
+1984,Charles Mix,2011,Flood,7248.53
+1984,Brule,2011,Flood,4863.25
+1984,Charles Mix,2011,Flood,10548.76
+1984,Beadle,2011,Flood,16127.46
+1984,Charles Mix,2011,Flood,7470.46
+1984,Brookings,2011,Flood,7178.42
+1984,Clark,2011,Flood,20681.38
+1984,Brown,2011,Flood,21187.03
+1984,Brown,2011,Flood,26209.42
+1984,Brown,2011,Flood,13466.59
+1984,Brule,2011,Flood,9804.89
+1984,Brown,2011,Flood,3252.47
+1984,Brown,2011,Flood,6176.39
+1984,Brookings,2011,Flood,12669.43
+1984,Brule,2011,Flood,6254.08
+1984,Beadle,2011,Flood,24517.43
+1984,Clark,2011,Flood,400244.26
+1984,Clark,2011,Flood,923.8
+1984,Brown,2011,Flood,28252.4
+1984,Clark,2011,Flood,31623.25
+1984,Brookings,2011,Flood,36801.14
+1984,Beadle,2011,Flood,30173.5
+1984,Brown,2011,Flood,2617.5
+1984,Brown,2011,Flood,44191.42
+1984,Clark,2011,Flood,8591.46
+1984,Beadle,2011,Flood,23595.18
+1984,Beadle,2011,Flood,9125.2
+1984,Brown,2011,Flood,18481.98
+1984,Brookings,2011,Flood,4669.02
+1984,Charles Mix,2011,Flood,8375.15
+1984,Brule,2011,Flood,64207.44
+1984,Brown,2011,Flood,25802.49
+1984,Charles Mix,2011,Flood,4953.11
+1984,Charles Mix,2011,Flood,37767.57
+1984,Beadle,2011,Flood,2562.62
+1984,Charles Mix,2011,Flood,5167.2
+1984,Beadle,2011,Flood,1842.41
+1984,Brookings,2011,Flood,3519.22
+1984,Beadle,2011,Flood,8465.38
+1984,Brookings,2011,Flood,15092.06
+1984,Clark,2011,Flood,14783.05
+1984,Brule,2011,Flood,6842.97
+1984,Brown,2011,Flood,15141.57
+1984,Beadle,2011,Flood,29854.1
+1984,Beadle,2011,Flood,27486.05
+1984,Brown,2011,Flood,64686.86
+1984,Brown,2011,Flood,29338.12
+1984,Brown,2011,Flood,10552.95
+1984,Brown,2011,Flood,24706.39
+1984,Beadle,2011,Flood,18477.72
+1984,Brown,2011,Flood,4765.41
+1984,Brookings,2011,Flood,2419.27
+1984,Beadle,2011,Flood,8445.13
+1984,Brown,2011,Flood,38574.01
+1984,Beadle,2011,Flood,13314.44
+1984,Charles Mix,2011,Flood,1145.09
+1984,Beadle,2011,Flood,20022.01
+1984,Beadle,2011,Flood,19381.64
+1984,Beadle,2011,Flood,6325.73
+1984,Brookings,2011,Flood,19189.88
+1984,Brookings,2011,Flood,28076.34
+1984,Charles Mix,2011,Flood,4228.39
+1984,Brown,2011,Flood,25440.91
+1984,Brown,2011,Flood,10246.92
+1984,Brule,2011,Flood,2710.95
+1984,Charles Mix,2011,Flood,148699.19
+1984,Charles Mix,2011,Flood,3454.34
+1984,Brule,2011,Flood,6018.16
+1984,Beadle,2011,Flood,15762.49
+1984,Brule,2011,Flood,10285.43
+1984,Brown,2011,Flood,27845.99
+1984,Beadle,2011,Flood,17438.56
+1984,Charles Mix,2011,Flood,9694.44
+1984,Brown,2011,Flood,36698.79
+1984,Clark,2011,Flood,69321.86
+1984,Brule,2011,Flood,4738.03
+1984,Brookings,2011,Flood,62254.65
+1984,Brule,2011,Flood,4890.65
+1984,Brookings,2011,Flood,10202.64
+1984,Brown,2011,Flood,20611.83
+1984,Beadle,2011,Flood,10911.37
+1984,Butte,2011,Flood,1221.62
+1984,Brookings,2011,Flood,8271.07
+1984,Brown,2011,Flood,27055.04
+1984,Brule,2011,Flood,175178.56
+1984,Brookings,2011,Flood,12818.37
+1984,Clark,2011,Flood,12734.67
+1984,Brule,2011,Flood,3682.77
+1984,Brown,2011,Flood,58843.72
+1984,Brookings,2011,Flood,14155.12
+1984,Brookings,2011,Flood,3736.12
+1984,Brown,2011,Flood,16521.51
+1984,Beadle,2011,Flood,10912.43
+1984,Brown,2011,Flood,38243.81
+1984,Brookings,2011,Flood,7242.97
+1984,Brown,2011,Flood,55830.3
+1984,Brown,2011,Flood,84475.19
+1984,Brown,2011,Flood,9417.15
+1984,Brookings,2011,Flood,8211.11
+1984,Charles Mix,2011,Flood,6182.5
+1984,Charles Mix,2011,Flood,11334.46
+1984,Brown,2011,Flood,50595.9
+1984,Brown,2011,Flood,14677.85
+1984,Brown,2011,Flood,24897.27
+1984,Beadle,2011,Flood,23832.8
+1984,Beadle,2011,Flood,44836.36
+1984,Beadle,2011,Flood,11994.9
+1984,Beadle,2011,Flood,8853.1
+1984,Brule,2011,Flood,1114.09
+1984,Brown,2011,Flood,82246.04
+1984,Brown,2011,Flood,53745.64
+1984,Beadle,2011,Flood,12104.48
+1984,Butte,2011,Flood,25351.9
+1984,Beadle,2011,Flood,8690.51
+1984,Brown,2011,Flood,70483.27
+1984,Charles Mix,2011,Flood,10430.99
+1984,Brule,2011,Flood,3342.65
+1984,Brown,2011,Flood,8263.37
+1984,Brown,2011,Flood,15598.22
+1984,Brown,2011,Flood,12448.38
+1984,Brown,2011,Flood,92917.7
+1984,Beadle,2011,Flood,23529.69
+1984,Brown,2011,Flood,7674.03
+1984,Brule,2011,Flood,4373.08
+1984,Brown,2011,Flood,26599.64
+1984,Beadle,2011,Flood,12891.63
+1984,Beadle,2011,Flood,27920.06
+1984,Charles Mix,2011,Flood,82525.48
+1984,Clark,2011,Flood,38564.72
+1984,Grant,2011,Flood,4636.19
+1984,Clark,2011,Flood,19345.21
+1984,Faulk,2011,Flood,5304.57
+1984,Day,2011,Flood,38888.43
+1984,Deuel,2011,Flood,4473.6
+1984,Day,2011,Flood,8424.19
+1984,Edmunds,2011,Flood,7595.36
+1984,Clark,2011,Flood,47328.03
+1984,Edmunds,2011,Flood,38288.77
+1984,Faulk,2011,Flood,16446.0
+1984,Edmunds,2011,Flood,6353.4
+1984,Codington,2011,Flood,1721.64
+1984,Codington,2011,Flood,14187.62
+1984,Codington,2011,Flood,18509.12
+1984,Codington,2011,Flood,15047.41
+1984,Faulk,2011,Flood,10023.62
+1984,Clark,2011,Flood,3594.87
+1984,Edmunds,2011,Flood,10056.5
+1984,Grant,2011,Flood,850.42
+1984,Faulk,2011,Flood,5635.06
+1984,Clark,2011,Flood,4608.56
+1984,Day,2011,Flood,47025.07
+1984,Clark,2011,Flood,7967.45
+1984,Faulk,2011,Flood,94262.29
+1984,Grant,2011,Flood,8263.04
+1984,Day,2011,Flood,52269.82
+1984,Clark,2011,Flood,9427.94
+1984,Clark,2011,Flood,9259.82
+1984,Faulk,2011,Flood,7543.9
+1984,Codington,2011,Flood,4151.78
+1984,Edmunds,2011,Flood,7616.93
+1984,Codington,2011,Flood,18754.19
+1984,Faulk,2011,Flood,4268.12
+1984,Day,2011,Flood,5542.71
+1984,Codington,2011,Flood,7637.78
+1984,Edmunds,2011,Flood,16609.47
+1984,Faulk,2011,Flood,4000.54
+1984,Edmunds,2011,Flood,6789.04
+1984,Edmunds,2011,Flood,7917.28
+1984,Day,2011,Flood,43065.27
+1984,Codington,2011,Flood,81778.22
+1984,Clark,2011,Flood,5687.61
+1984,Day,2011,Flood,5004.1
+1984,Clark,2011,Flood,8693.5
+1984,Edmunds,2011,Flood,2975.97
+1984,Deuel,2011,Flood,6434.45
+1984,Clay,2011,Flood,4284.68
+1984,Day,2011,Flood,528773.3
+1984,Clay,2011,Flood,3088.31
+1984,Deuel,2011,Flood,12334.94
+1984,Edmunds,2011,Flood,2252.87
+1984,Deuel,2011,Flood,15615.24
+1984,Clark,2011,Flood,5726.99
+1984,Codington,2011,Flood,32877.19
+1984,Grant,2011,Flood,14424.23
+1984,Edmunds,2011,Flood,16249.23
+1984,Clay,2011,Flood,8457.38
+1984,Day,2011,Flood,23730.53
+1984,Clark,2011,Flood,21644.53
+1984,Grant,2011,Flood,3868.52
+1984,Grant,2011,Flood,4356.68
+1984,Clark,2011,Flood,11661.15
+1984,Grant,2011,Flood,957.5
+1984,Codington,2011,Flood,4586.55
+1984,Clark,2011,Flood,15760.68
+1984,Clay,2011,Flood,2434.31
+1984,Day,2011,Flood,21637.46
+1984,Grant,2011,Flood,12069.05
+1984,Deuel,2011,Flood,1080.73
+1984,Day,2011,Flood,842607.86
+1984,Grant,2011,Flood,4054.41
+1984,Edmunds,2011,Flood,27758.02
+1984,Day,2011,Flood,5750.4
+1984,Day,2011,Flood,13194.97
+1984,Day,2011,Flood,3590.53
+1984,Edmunds,2011,Flood,35630.77
+1984,Edmunds,2011,Flood,16742.79
+1984,Edmunds,2011,Flood,42540.08
+1984,Edmunds,2011,Flood,13435.5
+1984,Grant,2011,Flood,3815.63
+1984,Edmunds,2011,Flood,2333.42
+1984,Clay,2011,Flood,9291.59
+1984,Deuel,2011,Flood,13718.45
+1984,Edmunds,2011,Flood,30762.71
+1984,Codington,2011,Flood,5571.33
+1984,Faulk,2011,Flood,2008.98
+1984,Faulk,2011,Flood,1320.15
+1984,Day,2011,Flood,11723.6
+1984,Faulk,2011,Flood,23796.18
+1984,Grant,2011,Flood,10572.05
+1984,Codington,2011,Flood,4013.94
+1984,Clark,2011,Flood,18713.16
+1984,Codington,2011,Flood,7547.92
+1984,Clark,2011,Flood,14879.37
+1984,Faulk,2011,Flood,4371.02
+1984,Edmunds,2011,Flood,8170.79
+1984,Edmunds,2011,Flood,1094.63
+1984,Codington,2011,Flood,29657.32
+1984,Codington,2011,Flood,181601.49
+1984,Faulk,2011,Flood,2980.16
+1984,Edmunds,2011,Flood,36869.44
+1984,Faulk,2011,Flood,9757.61
+1984,Deuel,2011,Flood,10272.26
+1984,Grant,2011,Flood,1957.92
+1984,Faulk,2011,Flood,7291.85
+1984,Faulk,2011,Flood,13803.75
+1984,Faulk,2011,Flood,26451.19
+1984,Edmunds,2011,Flood,8292.56
+1984,Day,2011,Flood,18231.04
+1984,Grant,2011,Flood,1162.68
+1984,Clark,2011,Flood,5595.19
+1984,Edmunds,2011,Flood,10832.57
+1984,Day,2011,Flood,10763.1
+1984,Clay,2011,Flood,5643.79
+1984,Day,2011,Flood,12725.59
+1984,Faulk,2011,Flood,15246.64
+1984,Codington,2011,Flood,10725.83
+1984,Edmunds,2011,Flood,1400.54
+1984,Deuel,2011,Flood,15118.81
+1984,Codington,2011,Flood,12813.88
+1984,Edmunds,2011,Flood,11821.18
+1984,Clay,2011,Flood,1053.19
+1984,Deuel,2011,Flood,9801.67
+1984,Grant,2011,Flood,14131.96
+1984,Day,2011,Flood,10954.63
+1984,Grant,2011,Flood,7291.85
+1984,Clark,2011,Flood,7643.53
+1984,Edmunds,2011,Flood,10595.47
+1984,Deuel,2011,Flood,34338.11
+1984,Edmunds,2011,Flood,20970.06
+1984,Edmunds,2011,Flood,7609.26
+1984,Clark,2011,Flood,5493.98
+1984,Edmunds,2011,Flood,287335.82
+1984,Codington,2011,Flood,5703.71
+1984,Edmunds,2011,Flood,8656.99
+1984,Clark,2011,Flood,10054.94
+1984,Faulk,2011,Flood,10454.83
+1984,Day,2011,Flood,4111.5
+1984,Day,2011,Flood,19926.4
+1984,Day,2011,Flood,10353.85
+1984,Faulk,2011,Flood,5622.43
+1984,Clark,2011,Flood,7837.25
+1984,Clark,2011,Flood,9088.2
+1984,Edmunds,2011,Flood,32439.23
+1984,Faulk,2011,Flood,6476.78
+1984,Grant,2011,Flood,8750.95
+1984,Day,2011,Flood,26718.97
+1984,Day,2011,Flood,1723.0
+1984,Edmunds,2011,Flood,6471.01
+1984,Edmunds,2011,Flood,20311.38
+1984,Clay,2011,Flood,18331.72
+1984,Deuel,2011,Flood,1898.3
+1984,Day,2011,Flood,9251.52
+1984,Day,2011,Flood,12570.28
+1984,Day,2011,Flood,26872.02
+1984,Kingsbury,2011,Flood,27085.93
+1984,Lake,2011,Flood,15957.46
+1984,Kingsbury,2011,Flood,20258.27
+1984,Hutchinson,2011,Flood,7168.23
+1984,Hanson,2011,Flood,14334.03
+1984,Hughes,2011,Flood,117896.86
+1984,Hutchinson,2011,Flood,5579.66
+1984,Hamlin,2011,Flood,34473.58
+1984,Gregory,2011,Flood,1037.85
+1984,Marshall,2011,Flood,10033.24
+1984,Hand,2011,Flood,1351.22
+1984,Hanson,2011,Flood,35575.83
+1984,Hutchinson,2011,Flood,42464.98
+1984,Hand,2011,Flood,2596.41
+1984,Hand,2011,Flood,4500.53
+1984,Lyman,2011,Flood,117735.7
+1984,Lake,2011,Flood,21648.06
+1984,Marshall,2011,Flood,10646.57
+1984,Hamlin,2011,Flood,32543.49
+1984,Lake,2011,Flood,6076.8
+1984,Hyde,2011,Flood,7368.0
+1984,Kingsbury,2011,Flood,139361.24
+1984,Hand,2011,Flood,5674.28
+1984,Marshall,2011,Flood,1033.76
+1984,Kingsbury,2011,Flood,24799.84
+1984,Lake,2011,Flood,18200.73
+1984,Jerauld,2011,Flood,7694.54
+1984,Lake,2011,Flood,10532.9
+1984,Hand,2011,Flood,315707.01
+1984,Lake,2011,Flood,24020.58
+1984,Kingsbury,2011,Flood,40024.58
+1984,Hamlin,2011,Flood,3235.63
+1984,Hand,2011,Flood,7300.91
+1984,Hand,2011,Flood,12080.24
+1984,Hand,2011,Flood,26129.23
+1984,Hyde,2011,Flood,3293.39
+1984,Hughes,2011,Flood,5702102.37
+1984,Hand,2011,Flood,7105.6
+1984,Hutchinson,2011,Flood,9858.25
+1984,Marshall,2011,Flood,15377.38
+1984,Lake,2011,Flood,4262.24
+1984,Hamlin,2011,Flood,5769.53
+1984,Marshall,2011,Flood,8885.04
+1984,Hand,2011,Flood,10360.9
+1984,Hyde,2011,Flood,161227.66
+1984,Hamlin,2011,Flood,9218.58
+1984,Hutchinson,2011,Flood,4346.77
+1984,Lake,2011,Flood,2043.05
+1984,Hand,2011,Flood,2162.78
+1984,Hand,2011,Flood,5484.79
+1984,Hand,2011,Flood,15753.49
+1984,Marshall,2011,Flood,6324.11
+1984,Hamlin,2011,Flood,11631.26
+1984,Hamlin,2011,Flood,6506.92
+1984,Hanson,2011,Flood,22848.58
+1984,Hutchinson,2011,Flood,2347.7
+1984,Hanson,2011,Flood,6791.11
+1984,Hamlin,2011,Flood,18803.29
+1984,Lake,2011,Flood,26015.24
+1984,Hand,2011,Flood,12494.43
+1984,Jerauld,2011,Flood,5580.92
+1984,Hutchinson,2011,Flood,8625.22
+1984,Lake,2011,Flood,2764.88
+1984,Hand,2011,Flood,31573.96
+1984,Kingsbury,2011,Flood,50407.96
+1984,Kingsbury,2011,Flood,23909.08
+1984,Hand,2011,Flood,786.85
+1984,Hanson,2011,Flood,4053.77
+1984,Marshall,2011,Flood,4536.92
+1984,Hamlin,2011,Flood,675110.69
+1984,Jerauld,2011,Flood,8881.19
+1984,Marshall,2011,Flood,4872.41
+1984,Marshall,2011,Flood,7553.15
+1984,Kingsbury,2011,Flood,15385.18
+1984,Lake,2011,Flood,3521.37
+1984,Marshall,2011,Flood,11425.52
+1984,Lake,2011,Flood,13437.49
+1984,Kingsbury,2011,Flood,1358.84
+1984,Kingsbury,2011,Flood,14604.05
+1984,Jerauld,2011,Flood,10648.13
+1984,Hand,2011,Flood,1654.6
+1984,Hamlin,2011,Flood,29533.46
+1984,Marshall,2011,Flood,6249.46
+1984,Miner,2011,Flood,24385.86
+1984,Miner,2011,Flood,13784.89
+1984,Hamlin,2011,Flood,39250.01
+1984,Hand,2011,Flood,16009.8
+1984,Hand,2011,Flood,2041.74
+1984,Hand,2011,Flood,5343.86
+1984,Hand,2011,Flood,1841.31
+1984,Hand,2011,Flood,8841.93
+1984,Hamlin,2011,Flood,5057.84
+1984,Hand,2011,Flood,39428.61
+1984,Hanson,2011,Flood,5967.12
+1984,Lyman,2011,Flood,107269.86
+1984,Hamlin,2011,Flood,3518.26
+1984,Gregory,2011,Flood,6216.47
+1984,Gregory,2011,Flood,33518.33
+1984,Hutchinson,2011,Flood,16029.98
+1984,Hanson,2011,Flood,16274.39
+1984,Jerauld,2011,Flood,7633.09
+1984,Hanson,2011,Flood,19523.99
+1984,Jerauld,2011,Flood,11486.03
+1984,Jerauld,2011,Flood,10644.72
+1984,Jerauld,2011,Flood,9575.66
+1984,Kingsbury,2011,Flood,9712.37
+1984,Jerauld,2011,Flood,6143.84
+1984,Hanson,2011,Flood,1699.4
+1984,Kingsbury,2011,Flood,42498.86
+1984,Miner,2011,Flood,20752.36
+1984,Lake,2011,Flood,6749.89
+1984,Lyman,2011,Flood,53926.19
+1984,Hamlin,2011,Flood,78937.43
+1984,Hamlin,2011,Flood,29064.87
+1984,Kingsbury,2011,Flood,31664.64
+1984,Jerauld,2011,Flood,5001.48
+1984,Jerauld,2011,Flood,4071.78
+1984,Jackson,2011,Flood,30117.38
+1984,Hand,2011,Flood,9681.9
+1984,Lake,2011,Flood,9821.84
+1984,Lake,2011,Flood,22075.74
+1984,Jerauld,2011,Flood,6841.5
+1984,Kingsbury,2011,Flood,27123.7
+1984,Hand,2011,Flood,9240.76
+1984,Marshall,2011,Flood,5130.83
+1984,Gregory,2011,Flood,1644.47
+1984,Jerauld,2011,Flood,21958.02
+1984,Hughes,2011,Flood,35629.62
+1984,Hand,2011,Flood,8134.17
+1984,Miner,2011,Flood,7711.96
+1984,Miner,2011,Flood,3025.64
+1984,Hand,2011,Flood,2845.44
+1984,Miner,2011,Flood,15792.72
+1984,Kingsbury,2011,Flood,47428.63
+1984,Marshall,2011,Flood,11072.3
+1984,Hand,2011,Flood,8976.93
+1984,Marshall,2011,Flood,140095.23
+1984,Hanson,2011,Flood,5533.46
+1984,Hand,2011,Flood,3778.41
+1984,Marshall,2011,Flood,3358.64
+1984,Lake,2011,Flood,10090.89
+1984,Hamlin,2011,Flood,5917.0
+1984,Marshall,2011,Flood,6718.69
+1984,Hand,2011,Flood,4990.68
+1984,Hand,2011,Flood,5941.28
+1984,Hutchinson,2011,Flood,12686.3
+1984,Marshall,2011,Flood,21126.56
+1984,Marshall,2011,Flood,6468.92
+1984,Lake,2011,Flood,10106.14
+1984,Lake,2011,Flood,5202.12
+1984,Hand,2011,Flood,938.6
+1984,Hanson,2011,Flood,8846.62
+1984,Hand,2011,Flood,17015.82
+1984,Hanson,2011,Flood,13817.66
+1984,Hutchinson,2011,Flood,6478.87
+1984,Miner,2011,Flood,8855.8
+1984,Roberts,2011,Flood,10628.3
+1984,Roberts,2011,Flood,3717.27
+1984,Potter,2011,Flood,45436.94
+1984,Sanborn,2011,Flood,19524.63
+1984,Moody,2011,Flood,6141.45
+1984,Perkins,2011,Flood,2793.28
+1984,Moody,2011,Flood,8741.7
+1984,Roberts,2011,Flood,2053.88
+1984,Roberts,2011,Flood,6691.01
+1984,Roberts,2011,Flood,7294.91
+1984,Moody,2011,Flood,35539.34
+1984,Roberts,2011,Flood,1828.52
+1984,Perkins,2011,Flood,2272.34
+1984,Miner,2011,Flood,45546.07
+1984,Roberts,2011,Flood,3241.97
+1984,Perkins,2011,Flood,1489.35
+1984,Moody,2011,Flood,34145.06
+1984,Roberts,2011,Flood,7444.85
+1984,Miner,2011,Flood,15273.5
+1984,Perkins,2011,Flood,1603.1
+1984,Moody,2011,Flood,2147.69
+1984,Moody,2011,Flood,3588.61
+1984,Moody,2011,Flood,8922.04
+1984,Roberts,2011,Flood,3993.14
+1984,Moody,2011,Flood,7570.46
+1984,Sanborn,2011,Flood,15971.99
+1984,Moody,2011,Flood,3193.91
+1984,Roberts,2011,Flood,1104.54
+1984,Moody,2011,Flood,4341.7
+1984,Roberts,2011,Flood,4872.24
+1984,Miner,2011,Flood,6650.55
+1984,Roberts,2011,Flood,12215.03
+1984,Miner,2011,Flood,4882.24
+1984,Roberts,2011,Flood,2316.66
+1984,Roberts,2011,Flood,1104.11
+1984,Roberts,2011,Flood,6181.88
+1984,Sanborn,2011,Flood,16306.51
+1984,Moody,2011,Flood,5025.4
+1984,Roberts,2011,Flood,1839.89
+1984,Roberts,2011,Flood,2702.09
+1984,Roberts,2011,Flood,2991.56
+1984,Roberts,2011,Flood,4560.46
+1984,Moody,2011,Flood,6006.39
+1984,Roberts,2011,Flood,24950.85
+1984,Roberts,2011,Flood,1299.98
+1984,Moody,2011,Flood,31965.67
+1984,Moody,2011,Flood,6050.73
+1984,Moody,2011,Flood,1482.97
+1984,Perkins,2011,Flood,2512.97
+1984,Roberts,2011,Flood,2681.12
+1984,Perkins,2011,Flood,201938.57
+1984,Miner,2011,Flood,11491.13
+1984,Moody,2011,Flood,9472.98
+1984,Sanborn,2011,Flood,7319.54
+1984,Sanborn,2011,Flood,15787.76
+1984,Miner,2011,Flood,6445.27
+1984,Roberts,2011,Flood,42424.86
+1984,Roberts,2011,Flood,4322.87
+1984,Perkins,2011,Flood,842.76
+1984,Roberts,2011,Flood,15228.13
+1984,Sanborn,2011,Flood,5908.87
+1984,Perkins,2011,Flood,5489.26
+1984,Miner,2011,Flood,16537.66
+1984,Miner,2011,Flood,40055.1
+1984,Moody,2011,Flood,16356.94
+1984,Miner,2011,Flood,8119.79
+1984,Roberts,2011,Flood,1151.39
+1984,Moody,2011,Flood,3350.17
+1984,Miner,2011,Flood,17302.27
+1984,Union,2011,Flood,6261.38
+1984,Sanborn,2011,Flood,13711.2
+1984,Statewide,2011,Flood,3093.76
+1984,Statewide,2011,Flood,4437.19
+1984,Statewide,2011,Flood,20816.21
+1984,Spink,2011,Flood,11629.48
+1984,Spink,2011,Flood,49450.94
+1984,Statewide,2011,Flood,21375.0
+1984,Statewide,2011,Flood,11016.39
+1984,Statewide,2011,Flood,420794.06
+1984,Sanborn,2011,Flood,20992.63
+1984,Statewide,2011,Flood,13579.95
+1984,Statewide,2011,Flood,944228.71
+1984,Spink,2011,Flood,16173.16
+1984,Sanborn,2011,Flood,12159.69
+1984,Statewide,2011,Flood,108536.17
+1984,Spink,2011,Flood,7974.07
+1984,Spink,2011,Flood,261447.15
+1984,Spink,2011,Flood,13746.51
+1984,Spink,2011,Flood,32952.25
+1984,Spink,2011,Flood,7242.44
+1984,Stanley,2011,Flood,90261.66
+1984,Statewide,2011,Flood,26572.06
+1984,Spink,2011,Flood,5616.98
+1984,Stanley,2011,Flood,6239802.42
+1984,Sully,2011,Flood,58798.57
+1984,Union,2011,Flood,46158.72
+1984,Statewide,2011,Flood,11373.43
+1984,Spink,2011,Flood,25065.8
+1984,Spink,2011,Flood,23584.84
+1984,Union,2011,Flood,11112248.68
+1984,Statewide,2011,Flood,54652.85
+1984,Stanley,2011,Flood,120005.25
+1984,Union,2011,Flood,45609.58
+1984,Union,2011,Flood,6638.06
+1984,Statewide,2011,Flood,171270.04
+1984,Spink,2011,Flood,15861.39
+1984,Statewide,2011,Flood,25905.47
+1984,Spink,2011,Flood,1749.57
+1984,Spink,2011,Flood,23715.69
+1984,Sanborn,2011,Flood,19532.16
+1984,Statewide,2011,Flood,281957.89
+1984,Statewide,2011,Flood,28080.83
+1984,Spink,2011,Flood,6821.5
+1984,Statewide,2011,Flood,9145705.85
+1984,Spink,2011,Flood,17521.36
+1984,Statewide,2011,Flood,95805.48
+1984,Statewide,2011,Flood,8070.68
+1984,Spink,2011,Flood,76682.65
+1984,Union,2011,Flood,42579.15
+1984,Spink,2011,Flood,6707.92
+1984,Spink,2011,Flood,9398.66
+1984,Statewide,2011,Flood,9236.32
+1984,Spink,2011,Flood,8567.23
+1984,Spink,2011,Flood,14456.23
+1984,Statewide,2011,Flood,13162.67
+1984,Spink,2011,Flood,6315.23
+1984,Spink,2011,Flood,18277.38
+1984,Spink,2011,Flood,12082.01
+1984,Spink,2011,Flood,21542.58
+1984,Spink,2011,Flood,9260.71
+1984,Statewide,2011,Flood,10827.94
+1984,Spink,2011,Flood,18476.24
+1984,Spink,2011,Flood,3776.7
+1984,Sanborn,2011,Flood,15766.53
+1984,Spink,2011,Flood,21683.63
+1984,Spink,2011,Flood,14204.27
+1984,Spink,2011,Flood,32739.33
+1984,Spink,2011,Flood,22682.02
+1984,Sanborn,2011,Flood,12931.03
+1984,Spink,2011,Flood,7309.11
+1984,Spink,2011,Flood,2065.9
+1984,Spink,2011,Flood,6238.57
+1984,Union,2011,Flood,487833.7
+1984,Spink,2011,Flood,11323.03
+1984,Spink,2011,Flood,32073.38
+1984,Sanborn,2011,Flood,129766.45
+1984,Sanborn,2011,Flood,189779.86
+1984,Spink,2011,Flood,18367.48
+1984,Spink,2011,Flood,10757.67
+1984,Sanborn,2011,Flood,21340.65
+1984,Union,2011,Flood,10041.4
+1984,Yankton,2011,Flood,218271.92
+1984,Union,2011,Flood,5539.52
+1984,Union,2011,Flood,6581.24
+1984,Yankton,2011,Flood,103312.16
+1984,Union,2011,Flood,22788.45
+1984,Union,2011,Flood,3670.49
+1984,Union,2011,Flood,1237663.9
+3234,Statewide,2005,Coastal Storm,204579.45
+3234,Statewide,2005,Coastal Storm,4417.79
+4115,Hutchinson,2013,Severe Storm(s),15591.39
+4115,Minnehaha,2013,Severe Storm(s),11563.5
+4115,Minnehaha,2013,Severe Storm(s),43470.89
+4115,Lincoln,2013,Severe Storm(s),12876.62
+4115,Statewide,2013,Severe Storm(s),230192.84
+4115,Statewide,2013,Severe Storm(s),5181.97
+4115,Statewide,2013,Severe Storm(s),3926.0
+4115,Minnehaha,2013,Severe Storm(s),14004.83
+4115,Lincoln,2013,Severe Storm(s),6641.34
+4115,Statewide,2013,Severe Storm(s),8900.8
+4115,Lincoln,2013,Severe Storm(s),2756.53
+4115,Minnehaha,2013,Severe Storm(s),2089.04
+4115,Minnehaha,2013,Severe Storm(s),13153.42
+4115,Lincoln,2013,Severe Storm(s),8716.28
+4115,Turner,2013,Severe Storm(s),11075.37
+4115,Statewide,2013,Severe Storm(s),67095.93
+4115,Statewide,2013,Severe Storm(s),12730.87
+4115,Minnehaha,2013,Severe Storm(s),6228.59
+4115,Statewide,2013,Severe Storm(s),84666.86
+4115,Minnehaha,2013,Severe Storm(s),5960441.7
+4115,Statewide,2013,Severe Storm(s),417064.4
+4115,Statewide,2013,Severe Storm(s),1109290.48
+4115,McCook,2013,Severe Storm(s),1576.11
+4115,Oglala Lakota,2013,Severe Storm(s),3350.78
+4115,Lincoln,2013,Severe Storm(s),12653.25
+4115,Minnehaha,2013,Severe Storm(s),165794.94
+4125,Lawrence,2013,Severe Storm(s),4899.38
+4125,Union,2013,Severe Storm(s),12157.42
+4125,Statewide,2013,Severe Storm(s),10837.5
+4125,Lincoln,2013,Severe Storm(s),3551.93
+4125,Union,2013,Severe Storm(s),929.25
+4125,Lincoln,2013,Severe Storm(s),50387.87
+4125,Lincoln,2013,Severe Storm(s),69957.92
+4125,Lawrence,2013,Severe Storm(s),324469.21
+4125,Union,2013,Severe Storm(s),9022.1
+4125,Lincoln,2013,Severe Storm(s),4502.2
+4125,Lincoln,2013,Severe Storm(s),1985.4
+4125,Lincoln,2013,Severe Storm(s),8794.09
+4125,Lawrence,2013,Severe Storm(s),29387.5
+4125,Lawrence,2013,Severe Storm(s),1370.48
+4125,Statewide,2013,Severe Storm(s),7104.44
+4125,Lincoln,2013,Severe Storm(s),7023.89
+4125,Lawrence,2013,Severe Storm(s),8298.75
+4125,Lincoln,2013,Severe Storm(s),33392.13
+4125,Corson,2013,Severe Storm(s),124595.94
+4125,Lincoln,2013,Severe Storm(s),26872.54
+4125,Statewide,2013,Severe Storm(s),32581.39
+4125,Lawrence,2013,Severe Storm(s),50728.98
+4125,Lincoln,2013,Severe Storm(s),45504.35
+4125,Union,2013,Severe Storm(s),9799.91
+4125,Union,2013,Severe Storm(s),35157.15
+4125,Lincoln,2013,Severe Storm(s),38486.03
+4125,Union,2013,Severe Storm(s),17314.22
+4125,Lincoln,2013,Severe Storm(s),1398.8
+4125,Union,2013,Severe Storm(s),8297.68
+4125,Union,2013,Severe Storm(s),58564.59
+4125,Lincoln,2013,Severe Storm(s),27603.64
+4125,Union,2013,Severe Storm(s),24912.77
+4125,Statewide,2013,Severe Storm(s),8913.59
+4125,Lincoln,2013,Severe Storm(s),9196.71
+4125,Lincoln,2013,Severe Storm(s),1722.67
+4125,Union,2013,Severe Storm(s),17438.46
+4125,Lincoln,2013,Severe Storm(s),1246.42
+4125,Lincoln,2013,Severe Storm(s),6817.96
+4125,Lincoln,2013,Severe Storm(s),37028.22
+4125,Lawrence,2013,Severe Storm(s),8471.17
+4125,Lincoln,2013,Severe Storm(s),20931.34
+4125,Lawrence,2013,Severe Storm(s),8328.75
+4125,Lincoln,2013,Severe Storm(s),5700.59
+4137,Hamlin,2013,Severe Storm(s),2816.77
+4137,Statewide,2013,Severe Storm(s),142197.46
+4137,Kingsbury,2013,Severe Storm(s),7945.7
+4137,Statewide,2013,Severe Storm(s),2455.61
+4137,Codington,2013,Severe Storm(s),325829.89
+4137,Spink,2013,Severe Storm(s),1856.4
+4137,Statewide,2013,Severe Storm(s),36611.49
+4137,Deuel,2013,Severe Storm(s),21470.75
+4137,Statewide,2013,Severe Storm(s),11380.85
+4137,Kingsbury,2013,Severe Storm(s),4085.05
+4137,Kingsbury,2013,Severe Storm(s),5850.0
+4137,Statewide,2013,Severe Storm(s),66698.08
+4137,Statewide,2013,Severe Storm(s),39908.42
+4137,Spink,2013,Severe Storm(s),4395.28
+4137,Spink,2013,Severe Storm(s),2414.8
+4137,Deuel,2013,Severe Storm(s),13284.18
+4137,Statewide,2013,Severe Storm(s),11476.17
+4137,Beadle,2013,Severe Storm(s),2368.17
+4137,Hamlin,2013,Severe Storm(s),375.0
+4137,Deuel,2013,Severe Storm(s),8509.63
+4137,Spink,2013,Severe Storm(s),7112.25
+4137,Deuel,2013,Severe Storm(s),26160.61
+4137,Deuel,2013,Severe Storm(s),8628.96
+4137,Deuel,2013,Severe Storm(s),3373.44
+4137,Spink,2013,Severe Storm(s),4321.76
+4137,Hamlin,2013,Severe Storm(s),12048.75
+4137,Deuel,2013,Severe Storm(s),25645.71
+4137,Deuel,2013,Severe Storm(s),15797.5
+4137,Kingsbury,2013,Severe Storm(s),10420.75
+4137,Kingsbury,2013,Severe Storm(s),8920.62
+4137,Statewide,2013,Severe Storm(s),971.31
+4137,Statewide,2013,Severe Storm(s),16256.39
+4137,Statewide,2013,Severe Storm(s),4674.78
+4137,Grant,2013,Severe Storm(s),5687.81
+4137,Grant,2013,Severe Storm(s),11131.44
+4137,Deuel,2013,Severe Storm(s),5045.79
+4137,Hamlin,2013,Severe Storm(s),4559.84
+4137,Spink,2013,Severe Storm(s),3267.11
+4137,Hamlin,2013,Severe Storm(s),29837.53
+4137,Codington,2013,Severe Storm(s),16183.05
+4137,Hamlin,2013,Severe Storm(s),5139.99
+4137,Hamlin,2013,Severe Storm(s),7096.65
+4137,Hamlin,2013,Severe Storm(s),2197.87
+4137,Statewide,2013,Severe Storm(s),44772.98
+4137,Beadle,2013,Severe Storm(s),77599.63
+4137,Hamlin,2013,Severe Storm(s),17770.22
+4137,Hamlin,2013,Severe Storm(s),2329.1
+4137,Grant,2013,Severe Storm(s),39813.66
+4137,Deuel,2013,Severe Storm(s),15484.59
+4137,Hamlin,2013,Severe Storm(s),15041.65
+4155,Lawrence,2013,Severe Storm(s),85644.32
+4155,Pennington,2013,Severe Storm(s),8366.46
+4155,Meade,2013,Severe Storm(s),8890.9
+4155,Oglala Lakota,2013,Severe Storm(s),51428.65
+4155,Meade,2013,Severe Storm(s),12047.09
+4155,Meade,2013,Severe Storm(s),169564.27
+4155,Meade,2013,Severe Storm(s),1167.08
+4155,Meade,2013,Severe Storm(s),7129.45
+4155,Meade,2013,Severe Storm(s),5190.65
+4155,Pennington,2013,Severe Storm(s),6763.43
+4155,Pennington,2013,Severe Storm(s),11028.59
+4155,Lawrence,2013,Severe Storm(s),15782.69
+4155,Fall River,2013,Severe Storm(s),104029.12
+4155,Fall River,2013,Severe Storm(s),47640.15
+4155,Lawrence,2013,Severe Storm(s),42876.58
+4155,Lawrence,2013,Severe Storm(s),15729.0
+4155,Butte,2013,Severe Storm(s),120196.11
+4155,Meade,2013,Severe Storm(s),432277.34
+4155,Lawrence,2013,Severe Storm(s),26700.52
+4155,Lawrence,2013,Severe Storm(s),124348.56
+4155,Butte,2013,Severe Storm(s),134620.67
+4155,Lawrence,2013,Severe Storm(s),12809.89
+4155,Pennington,2013,Severe Storm(s),4028.07
+4155,Lawrence,2013,Severe Storm(s),631768.22
+4155,Butte,2013,Severe Storm(s),4526.26
+4155,Lawrence,2013,Severe Storm(s),26578.77
+4155,Butte,2013,Severe Storm(s),1200.0
+4155,Fall River,2013,Severe Storm(s),17849.63
+4155,Meade,2013,Severe Storm(s),19100.66
+4155,Pennington,2013,Severe Storm(s),50195.24
+4155,Meade,2013,Severe Storm(s),3394.73
+4155,Lawrence,2013,Severe Storm(s),83912.39
+4155,Lawrence,2013,Severe Storm(s),1759.69
+4155,Lawrence,2013,Severe Storm(s),39535.46
+4155,Custer,2013,Severe Storm(s),8232.5
+4155,Custer,2013,Severe Storm(s),44391.42
+4155,Lawrence,2013,Severe Storm(s),4875.0
+4155,Lawrence,2013,Severe Storm(s),789.71
+4155,Pennington,2013,Severe Storm(s),1375.75
+4155,Pennington,2013,Severe Storm(s),20157.51
+4155,Pennington,2013,Severe Storm(s),9008.66
+4155,Lawrence,2013,Severe Storm(s),990.0
+4155,Lawrence,2013,Severe Storm(s),3278.53
+4155,Lawrence,2013,Severe Storm(s),12458.99
+4155,Butte,2013,Severe Storm(s),21437.15
+4155,Lawrence,2013,Severe Storm(s),2098.2
+4155,Statewide,2013,Severe Storm(s),207642.15
+4155,Statewide,2013,Severe Storm(s),10918.7
+4155,Statewide,2013,Severe Storm(s),400101.54
+4155,Pennington,2013,Severe Storm(s),18065.87
+4155,Perkins,2013,Severe Storm(s),44703.44
+4155,Statewide,2013,Severe Storm(s),21601.16
+4155,Statewide,2013,Severe Storm(s),3374.85
+4155,Pennington,2013,Severe Storm(s),13538.02
+4155,Statewide,2013,Severe Storm(s),381521.02
+4155,Pennington,2013,Severe Storm(s),12108.7
+4155,Pennington,2013,Severe Storm(s),69164.76
+4155,Statewide,2013,Severe Storm(s),1670304.02
+4155,Pennington,2013,Severe Storm(s),4567.5
+4155,Statewide,2013,Severe Storm(s),23750388.59
+4155,Pennington,2013,Severe Storm(s),45114.57
+4155,Perkins,2013,Severe Storm(s),1575.0
+4155,Perkins,2013,Severe Storm(s),18406.66
+4155,Perkins,2013,Severe Storm(s),6614.11
+4155,Statewide,2013,Severe Storm(s),5070780.49
+4155,Statewide,2013,Severe Storm(s),71528.71
+4155,Perkins,2013,Severe Storm(s),131983.18
+4155,Statewide,2013,Severe Storm(s),256952.11
+4155,Statewide,2013,Severe Storm(s),39069.26
+4155,Statewide,2013,Severe Storm(s),4130.72
+4155,Perkins,2013,Severe Storm(s),20321.39
+4155,Statewide,2013,Severe Storm(s),245403.1
+4155,Statewide,2013,Severe Storm(s),2759469.02
+4155,Statewide,2013,Severe Storm(s),1542690.19
+4155,Perkins,2013,Severe Storm(s),1380.61
+4155,Pennington,2013,Severe Storm(s),15978.24
+4155,Pennington,2013,Severe Storm(s),28881.09
+4155,Pennington,2013,Severe Storm(s),16046.87
+4155,Statewide,2013,Severe Storm(s),756711.05
+4155,Perkins,2013,Severe Storm(s),33862.5
+4155,Pennington,2013,Severe Storm(s),2726410.62
+4155,Pennington,2013,Severe Storm(s),5553.96
+4155,Pennington,2013,Severe Storm(s),1896.66
+4155,Pennington,2013,Severe Storm(s),213200.64
+4155,Pennington,2013,Severe Storm(s),28303.26
+4186,Lincoln,2014,Flood,71964.19
+4186,Lincoln,2014,Flood,13306.58
+4186,Perkins,2014,Flood,7176.38
+4186,Union,2014,Flood,55482.65
+4186,Turner,2014,Flood,6979.17
+4186,Lincoln,2014,Flood,40703.44
+4186,Lincoln,2014,Flood,189107.96
+4186,Lincoln,2014,Flood,35620.58
+4186,Turner,2014,Flood,4285.36
+4186,Hanson,2014,Flood,5565.64
+4186,Statewide,2014,Flood,316808.34
+4186,Lincoln,2014,Flood,86460.31
+4186,Jerauld,2014,Flood,13159.23
+4186,Lincoln,2014,Flood,19491.32
+4186,Minnehaha,2014,Flood,61699.91
+4186,Union,2014,Flood,142506.76
+4186,Perkins,2014,Flood,164292.58
+4186,Clay,2014,Flood,58232.57
+4186,Union,2014,Flood,24306.83
+4186,Lincoln,2014,Flood,40938.96
+4186,Jerauld,2014,Flood,20609.94
+4186,Union,2014,Flood,8072.73
+4186,Statewide,2014,Flood,35535.32
+4186,Union,2014,Flood,10797.11
+4186,Union,2014,Flood,25007.32
+4186,Union,2014,Flood,539719.72
+4186,Minnehaha,2014,Flood,7459.59
+4186,Minnehaha,2014,Flood,120692.03
+4186,Union,2014,Flood,348473.95
+4186,Turner,2014,Flood,31406.09
+4186,Turner,2014,Flood,8491.43
+4186,Minnehaha,2014,Flood,30217.14
+4186,Turner,2014,Flood,5903.39
+4186,Perkins,2014,Flood,10823.57
+4186,Statewide,2014,Flood,1494910.2
+4186,Union,2014,Flood,14128.36
+4186,Clay,2014,Flood,21083.86
+4186,Lincoln,2014,Flood,69217.4
+4186,Minnehaha,2014,Flood,5403.0
+4186,Hanson,2014,Flood,10077.03
+4186,Jerauld,2014,Flood,3750.0
+4186,Turner,2014,Flood,6430.54
+4186,Jerauld,2014,Flood,750730.97
+4186,Union,2014,Flood,4515.11
+4186,Minnehaha,2014,Flood,31261.08
+4186,Turner,2014,Flood,27433.76
+4186,Statewide,2014,Flood,245267.87
+4186,Union,2014,Flood,220622.39
+4186,Lincoln,2014,Flood,23335.26
+4186,Union,2014,Flood,34330.01
+4186,Lincoln,2014,Flood,164422.1
+4186,Turner,2014,Flood,29218.85
+4186,Clay,2014,Flood,19400.24
+4186,Lincoln,2014,Flood,144790.14
+4186,Lincoln,2014,Flood,19645.88
+4186,Lincoln,2014,Flood,56710.02
+4186,Union,2014,Flood,22668.17
+4186,Perkins,2014,Flood,6601.88
+4186,Lincoln,2014,Flood,61368.59
+4186,Minnehaha,2014,Flood,10665.06
+4186,Lincoln,2014,Flood,18190.4
+4186,Statewide,2014,Flood,30137.12
+4186,Minnehaha,2014,Flood,1261330.18
+4186,Minnehaha,2014,Flood,232476.13
+4186,Statewide,2014,Flood,466206.05
+4186,Butte,2014,Flood,117367.22
+4186,Dewey,2014,Flood,147832.83
+4186,Minnehaha,2014,Flood,26597.25
+4186,Perkins,2014,Flood,7037.27
+4186,Minnehaha,2014,Flood,22984.42
+4186,Statewide,2014,Flood,1500148.2
+4186,Turner,2014,Flood,17562.19
+4186,Clay,2014,Flood,11396.33
+4186,Clay,2014,Flood,10885.92
+4186,Lincoln,2014,Flood,56810.54
+4186,Minnehaha,2014,Flood,43434.59
+4186,Minnehaha,2014,Flood,16377.76
+4186,Corson,2014,Flood,127747.83
+4186,Lincoln,2014,Flood,80899.55
+4186,Minnehaha,2014,Flood,48483.21
+4186,Minnehaha,2014,Flood,10202.93
+4186,Turner,2014,Flood,19038.39
+4186,Jerauld,2014,Flood,3750.0
+4186,Lincoln,2014,Flood,12850.82
+4186,Lincoln,2014,Flood,564770.58
+4186,Clay,2014,Flood,27217.68
+4186,Ziebach,2014,Flood,137830.11
+4233,Statewide,2015,Severe Storm(s),4394.25
+4233,Lyman,2015,Severe Storm(s),101.19
+4233,Stanley,2015,Severe Storm(s),84247.75
+4233,Stanley,2015,Severe Storm(s),33037.16
+4233,Statewide,2015,Severe Storm(s),89749.14
+4233,Statewide,2015,Severe Storm(s),593776.26
+4233,Brule,2015,Severe Storm(s),8021.3
+4233,Jackson,2015,Severe Storm(s),13034.04
+4233,Brule,2015,Severe Storm(s),750.0
+4233,Hughes,2015,Severe Storm(s),887430.32
+4233,Statewide,2015,Severe Storm(s),17029.28
+4233,Statewide,2015,Severe Storm(s),42921.94
+4233,Statewide,2015,Severe Storm(s),24618.14
+4233,Statewide,2015,Severe Storm(s),103176.45
+4233,Statewide,2015,Severe Storm(s),86382.73
+4233,Brule,2015,Severe Storm(s),12130.71
+4233,Lyman,2015,Severe Storm(s),7699.86
+4233,Fall River,2015,Severe Storm(s),159527.54
+4233,Statewide,2015,Severe Storm(s),413698.74
+4233,Jerauld,2015,Severe Storm(s),3355.73
+4233,Jerauld,2015,Severe Storm(s),1142.31
+4233,Statewide,2015,Severe Storm(s),285985.13
+4233,Statewide,2015,Severe Storm(s),62187.18
+4233,Fall River,2015,Severe Storm(s),6567.59
+4233,Oglala Lakota,2015,Severe Storm(s),24846.06
+4233,Haakon,2015,Severe Storm(s),112623.35
+4298,Statewide,2017,Severe Storm(s),717011.73
+4298,Statewide,2017,Severe Storm(s),28394.5
+4298,Statewide,2017,Severe Storm(s),2674282.2
+4298,Statewide,2017,Severe Storm(s),12090.84
+4298,Edmunds,2017,Severe Storm(s),10820.53
+4298,Statewide,2017,Severe Storm(s),435184.9
+4298,Statewide,2017,Severe Storm(s),686938.7
+4298,McPherson,2017,Severe Storm(s),10796.12
+4298,Statewide,2017,Severe Storm(s),253151.29
+4298,Statewide,2017,Severe Storm(s),1712475.55
+4298,Codington,2017,Severe Storm(s),7984.79
+4298,Statewide,2017,Severe Storm(s),17686.36
+4298,Statewide,2017,Severe Storm(s),152138.51
+4298,Statewide,2017,Severe Storm(s),430301.34
+4298,Marshall,2017,Severe Storm(s),23778.11
+4298,Statewide,2017,Severe Storm(s),64912.24
+4298,Statewide,2017,Severe Storm(s),44488.33
+4298,McPherson,2017,Severe Storm(s),7519.14
+4298,Marshall,2017,Severe Storm(s),6880.13
+4298,Statewide,2017,Severe Storm(s),987586.49
+4298,Statewide,2017,Severe Storm(s),35767.73
+4298,Statewide,2017,Severe Storm(s),466076.05
+4298,Codington,2017,Severe Storm(s),42625.59
+4298,Statewide,2017,Severe Storm(s),21300.39
+4298,Edmunds,2017,Severe Storm(s),4023.91
+4298,Statewide,2017,Severe Storm(s),18575.76
+4298,Statewide,2017,Severe Storm(s),735002.77
+4298,Edmunds,2017,Severe Storm(s),36625.31
+4298,Statewide,2017,Severe Storm(s),178053.18
+4298,McPherson,2017,Severe Storm(s),4099.3
+4298,Edmunds,2017,Severe Storm(s),8122.33
+4440,Statewide,2019,Flood,85488.9
+4440,Statewide,2019,Flood,35388.9
+4448,Statewide,2019,Severe Storm(s),454066.03
+4440,Bon Homme,2019,Flood,105474.44
+4440,Statewide,2019,Flood,395501.35
+4440,Kingsbury,2019,Flood,7464.52
+4440,Minnehaha,2019,Flood,38336.16
+4440,Minnehaha,2019,Flood,10962.01
+4440,Marshall,2019,Flood,17759.07
+4440,Codington,2019,Flood,43507.69
+4440,Spink,2019,Flood,27665.25
+4440,Brookings,2019,Flood,49939.21
+4440,Spink,2019,Flood,97691.44
+4440,Spink,2019,Flood,39899.5
+4440,Spink,2019,Flood,5555.12
+4440,Kingsbury,2019,Flood,51868.33
+4440,Minnehaha,2019,Flood,57076.27
+4440,Miner,2019,Flood,3388.5
+4440,Miner,2019,Flood,5257.02
+4440,Deuel,2019,Flood,23241.35
+4440,Kingsbury,2019,Flood,2737.5
+4440,Davison,2019,Flood,7060.04
+4440,Roberts,2019,Flood,4411.5
+4440,Grant,2019,Flood,9627.54
+4440,Spink,2019,Flood,3236.21
+4440,Moody,2019,Flood,14286.75
+4440,Kingsbury,2019,Flood,49247.55
+4440,Clark,2019,Flood,7008.43
+4440,Spink,2019,Flood,32212.84
+4440,Kingsbury,2019,Flood,30543.64
+4440,Spink,2019,Flood,7269.69
+4440,Miner,2019,Flood,8136.11
+4440,Miner,2019,Flood,8655.29
+4440,Minnehaha,2019,Flood,351129.08
+4440,Lincoln,2019,Flood,22775.55
+4440,Sanborn,2019,Flood,3874.22
+4440,Davison,2019,Flood,12341.24
+4440,Statewide,2019,Flood,40976.31
+4440,Kingsbury,2019,Flood,17082.73
+4440,Miner,2019,Flood,3218.12
+4440,Clark,2019,Flood,14568.83
+4440,Brookings,2019,Flood,15776.27
+4440,Spink,2019,Flood,22037.81
+4440,Statewide,2019,Flood,39688.55
+4440,Roberts,2019,Flood,3892.13
+4440,Lincoln,2019,Flood,25334.67
+4463,Statewide,2019,Flood,85488.9
+4440,Turner,2019,Flood,2804.1
+4440,Faulk,2019,Flood,9901.31
+4440,Beadle,2019,Flood,5040.0
+4440,Clark,2019,Flood,10204.55
+4440,Marshall,2019,Flood,4727.87
+4440,Miner,2019,Flood,3544.5
+4440,Brown,2019,Flood,4503.0
+4440,Codington,2019,Flood,5007.25
+4440,Faulk,2019,Flood,21784.13
+4440,Grant,2019,Flood,7307.34
+4440,Clark,2019,Flood,5250.41
+4440,Davison,2019,Flood,32639.05
+4440,Beadle,2019,Flood,14362.4
+4440,Lake,2019,Flood,20215.47
+4440,Moody,2019,Flood,16675.62
+4440,Minnehaha,2019,Flood,7500.0
+4440,Hamlin,2019,Flood,3950.23
+4440,Kingsbury,2019,Flood,50094.87
+4440,Hamlin,2019,Flood,412860.02
+4440,Clark,2019,Flood,45725.26
+4440,Spink,2019,Flood,14516.18
+4440,Brown,2019,Flood,91518.56
+4440,Clark,2019,Flood,23454.44
+4440,Clark,2019,Flood,17547.35
+4440,Roberts,2019,Flood,41059.0
+4440,McCook,2019,Flood,15084.74
+4440,Moody,2019,Flood,40082.9
+4440,Minnehaha,2019,Flood,21452.12
+4440,Minnehaha,2019,Flood,50153.66
+4440,Moody,2019,Flood,24130.88
+4440,Grant,2019,Flood,41824.04
+4440,Clark,2019,Flood,20876.56
+4440,Aurora,2019,Flood,60490.81
+4440,Clay,2019,Flood,2700.0
+4440,Statewide,2019,Flood,3750.0
+4440,Brookings,2019,Flood,3882.32
+4440,Grant,2019,Flood,4589.38
+4440,Davison,2019,Flood,23628.59
+4440,Clark,2019,Flood,26957.04
+4440,Spink,2019,Flood,5858.34
+4440,Clark,2019,Flood,30645.32
+4440,Hamlin,2019,Flood,4280.78
+4440,Faulk,2019,Flood,7012.88
+4440,Beadle,2019,Flood,7414.27
+4440,Edmunds,2019,Flood,10216.91
+4440,Davison,2019,Flood,31844.05
+4440,Deuel,2019,Flood,11182.85
+4440,Edmunds,2019,Flood,24400.51
+4440,Brookings,2019,Flood,43896.45
+4440,Clark,2019,Flood,15863.1
+4440,Clay,2019,Flood,13203.76
+4440,Beadle,2019,Flood,101612.5
+4440,McPherson,2019,Flood,56333.78
+4440,McCook,2019,Flood,3834.57
+4440,Grant,2019,Flood,6976.17
+4440,Roberts,2019,Flood,5456.28
+4440,Brown,2019,Flood,7321.61
+4440,Brown,2019,Flood,8507.12
+4440,Brookings,2019,Flood,4083.44
+4440,Brown,2019,Flood,12724.01
+4440,Lincoln,2019,Flood,90040.34
+4440,Jerauld,2019,Flood,3906.63
+4440,Minnehaha,2019,Flood,7780.53
+4440,Moody,2019,Flood,3808.5
+4440,Charles Mix,2019,Flood,3048.75
+4440,McCook,2019,Flood,28387.31
+4440,Beadle,2019,Flood,15631.87
+4440,Moody,2019,Flood,16809.89
+4440,Miner,2019,Flood,23689.11
+4440,Lincoln,2019,Flood,8715.0
+4440,Statewide,2019,Flood,15124.27
+4440,Beadle,2019,Flood,42963.5
+4440,Moody,2019,Flood,41354.04
+4440,Marshall,2019,Flood,8772.81
+4440,Douglas,2019,Flood,23267.79
+4440,Turner,2019,Flood,23491.27
+4440,Minnehaha,2019,Flood,45987.92
+4440,Brown,2019,Flood,24944.3
+4440,Clark,2019,Flood,16956.61
+4440,Codington,2019,Flood,3251.88
+4440,Spink,2019,Flood,9666.08
+4440,Charles Mix,2019,Flood,2596.8
+4440,Aurora,2019,Flood,20347.4
+4440,Spink,2019,Flood,8763.45
+4440,Hamlin,2019,Flood,5535.0
+4440,Miner,2019,Flood,13013.45
+4440,Minnehaha,2019,Flood,13451.25
+4440,Grant,2019,Flood,8377.39
+4440,Beadle,2019,Flood,8574.53
+4440,Sanborn,2019,Flood,13820.63
+4440,Spink,2019,Flood,14436.83
+4440,Sanborn,2019,Flood,29754.73
+4440,Moody,2019,Flood,6436.39
+4440,Perkins,2019,Flood,2978.24
+4440,Charles Mix,2019,Flood,15125.54
+4440,Clark,2019,Flood,10996.98
+4440,Minnehaha,2019,Flood,21318.24
+4440,Brown,2019,Flood,4430.02
+4440,Charles Mix,2019,Flood,9726.08
+4440,Moody,2019,Flood,61671.57
+4440,Minnehaha,2019,Flood,6913.32
+4440,Aurora,2019,Flood,5241.47
+4440,Jones,2019,Flood,15714.07
+4440,McCook,2019,Flood,13202.99
+4440,Brookings,2019,Flood,34766.59
+4440,Davison,2019,Flood,37671.59
+4440,Douglas,2019,Flood,18737.95
+4440,Clay,2019,Flood,80742.95
+4440,McCook,2019,Flood,6990.72
+4440,Davison,2019,Flood,83365.31
+4440,Spink,2019,Flood,22564.68
+4440,Day,2019,Flood,31936.34
+4440,Tripp,2019,Flood,3863.7
+4440,Lincoln,2019,Flood,11922.61
+4440,Statewide,2019,Flood,38541.44
+4440,Davison,2019,Flood,45902.12
+4440,Hutchinson,2019,Flood,15488.02
+4440,Hamlin,2019,Flood,155788.1
+4440,Edmunds,2019,Flood,17268.14
+4440,Davison,2019,Flood,21258.2
+4440,Clark,2019,Flood,6414.87
+4440,Moody,2019,Flood,23796.64
+4440,Turner,2019,Flood,44788.76
+4440,Edmunds,2019,Flood,7192.03
+4440,Hand,2019,Flood,13329.68
+4440,Charles Mix,2019,Flood,45355.34
+4440,Douglas,2019,Flood,49362.83
+4440,Brookings,2019,Flood,7353.36
+4440,Yankton,2019,Flood,3716.42
+4440,Clay,2019,Flood,26536.48
+4440,Kingsbury,2019,Flood,16691.13
+4440,Douglas,2019,Flood,11016.29
+4440,Beadle,2019,Flood,3693.85
+4440,Tripp,2019,Flood,23889.67
+4440,Moody,2019,Flood,3391.26
+4440,Moody,2019,Flood,5669.6
+4440,Roberts,2019,Flood,9475.54
+4440,Minnehaha,2019,Flood,26544.6
+4440,Davison,2019,Flood,38079.03
+4440,Spink,2019,Flood,24427.32
+4440,Gregory,2019,Flood,4505.96
+4440,Hanson,2019,Flood,62022.75
+4440,Yankton,2019,Flood,58234.34
+4440,Statewide,2019,Flood,14932.36
+4440,Yankton,2019,Flood,89687.38
+4440,Charles Mix,2019,Flood,39698.78
+4440,Davison,2019,Flood,18669.09
+4440,Davison,2019,Flood,37916.99
+4467,Statewide,2019,Severe Storm(s),98167.69
+4440,Clark,2019,Flood,3131.25
+4440,Brookings,2019,Flood,3877.49
+4440,Hutchinson,2019,Flood,35687.11
+4440,Beadle,2019,Flood,2412.94
+4440,Charles Mix,2019,Flood,19520.74
+4440,Brown,2019,Flood,11613.9
+4440,Beadle,2019,Flood,5243.72
+4440,Douglas,2019,Flood,15449.06
+4440,Brown,2019,Flood,4109.44
+4440,Douglas,2019,Flood,3032.82
+4440,Brown,2019,Flood,5197.86
+4440,Codington,2019,Flood,5006.25
+4440,Charles Mix,2019,Flood,21630.86
+4440,Brown,2019,Flood,2726.1
+4440,Brookings,2019,Flood,55321.95
+4440,Grant,2019,Flood,6241.42
+4440,Codington,2019,Flood,13144.41
+4440,Marshall,2019,Flood,5747.21
+4440,Douglas,2019,Flood,22658.28
+4440,Hutchinson,2019,Flood,2873.78
+4440,Hamlin,2019,Flood,7216.19
+4440,Edmunds,2019,Flood,5933.49
+4440,Douglas,2019,Flood,40285.49
+4440,Spink,2019,Flood,5623.34
+4440,Spink,2019,Flood,22628.83
+4440,Spink,2019,Flood,9949.07
+4440,Perkins,2019,Flood,9635.12
+4440,Union,2019,Flood,32071.03
+4440,Perkins,2019,Flood,7974.43
+4440,Hand,2019,Flood,33286.49
+4440,Spink,2019,Flood,12959.92
+4440,Marshall,2019,Flood,3312.88
+4440,Hand,2019,Flood,7962.91
+4440,Brown,2019,Flood,12665.66
+4440,Brown,2019,Flood,16252.95
+4440,Douglas,2019,Flood,5663.92
+4440,Codington,2019,Flood,6732.6
+4440,Brown,2019,Flood,11273.45
+4440,Hamlin,2019,Flood,58800.15
+4440,McPherson,2019,Flood,16215.92
+4440,Spink,2019,Flood,9066.29
+4440,Lincoln,2019,Flood,79737.54
+4440,Lake,2019,Flood,39727.07
+4440,McCook,2019,Flood,37024.56
+4440,Roberts,2019,Flood,10189.06
+4440,Perkins,2019,Flood,4857.0
+4440,Hanson,2019,Flood,24435.62
+4440,Marshall,2019,Flood,3117.56
+4440,Spink,2019,Flood,29042.45
+4440,Beadle,2019,Flood,4530.14
+4440,Beadle,2019,Flood,15627.71
+4440,Brown,2019,Flood,4664.61
+4440,Clark,2019,Flood,5977.36
+4440,Clark,2019,Flood,7857.77
+4440,Edmunds,2019,Flood,9516.35
+4440,Hamlin,2019,Flood,3757.5
+4440,Hand,2019,Flood,4037.12
+4440,Hanson,2019,Flood,43404.36
+4440,Hand,2019,Flood,2825.71
+4440,Hand,2019,Flood,4023.41
+4440,Jackson,2019,Flood,3840.93
+4440,Marshall,2019,Flood,5083.07
+4440,Miner,2019,Flood,3099.94
+4440,Minnehaha,2019,Flood,4552.59
+4440,Spink,2019,Flood,22424.49
+4440,Statewide,2019,Flood,14870.95

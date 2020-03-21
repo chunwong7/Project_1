@@ -1,0 +1,1391 @@
+disasterNumber,county,year,incidentType,amountOblig
+1307,Essex,1999,Severe Storm(s),2505.37
+1307,Statewide,1999,Severe Storm(s),0.0
+1307,Lamoille,1999,Severe Storm(s),24385.36
+1307,Rutland,1999,Severe Storm(s),6204.75
+1307,Rutland,1999,Severe Storm(s),3672.0
+1307,Washington,1999,Severe Storm(s),7385.7
+1307,Orleans,1999,Severe Storm(s),6405.47
+1307,Orleans,1999,Severe Storm(s),4368.32
+1307,Windsor,1999,Severe Storm(s),4355.38
+1307,Washington,1999,Severe Storm(s),0.0
+1307,Rutland,1999,Severe Storm(s),11239.5
+1307,Lamoille,1999,Severe Storm(s),104769.16
+1307,Orleans,1999,Severe Storm(s),2039.38
+1307,Windsor,1999,Severe Storm(s),0.0
+1307,Lamoille,1999,Severe Storm(s),2506.51
+1307,Windham,1999,Severe Storm(s),10700.94
+1307,Windsor,1999,Severe Storm(s),60537.69
+1307,Washington,1999,Severe Storm(s),149256.21
+1307,Windham,1999,Severe Storm(s),10757.67
+1307,Windham,1999,Severe Storm(s),9679.7
+1307,Essex,1999,Severe Storm(s),8874.05
+1307,Lamoille,1999,Severe Storm(s),4770.59
+1307,Orange,1999,Severe Storm(s),3487.26
+1307,Windham,1999,Severe Storm(s),6440.84
+1307,Orleans,1999,Severe Storm(s),4493.27
+1307,Rutland,1999,Severe Storm(s),0.0
+1307,Statewide,1999,Severe Storm(s),98837.68
+1307,Statewide,1999,Severe Storm(s),1500.0
+1307,Lamoille,1999,Severe Storm(s),1859.07
+1307,Lamoille,1999,Severe Storm(s),2656.5
+1307,Windham,1999,Severe Storm(s),42748.34
+1307,Orleans,1999,Severe Storm(s),2454.0
+1307,Windham,1999,Severe Storm(s),7662.94
+1307,Windham,1999,Severe Storm(s),18841.94
+1307,Washington,1999,Severe Storm(s),34196.25
+1307,Essex,1999,Severe Storm(s),4919.71
+1307,Orange,1999,Severe Storm(s),5897.25
+1307,Orleans,1999,Severe Storm(s),1334.26
+1307,Windham,1999,Severe Storm(s),34974.75
+1307,Windham,1999,Severe Storm(s),16951.63
+1307,Orange,1999,Severe Storm(s),27766.54
+1307,Caledonia,1999,Severe Storm(s),52362.06
+1307,Windsor,1999,Severe Storm(s),10202.25
+1307,Washington,1999,Severe Storm(s),3593.17
+1307,Orange,1999,Severe Storm(s),9472.09
+1307,Lamoille,1999,Severe Storm(s),0.0
+1307,Statewide,1999,Severe Storm(s),66794.36
+1307,Rutland,1999,Severe Storm(s),59563.5
+1336,Windham,2000,Severe Storm(s),19174.88
+1336,Windham,2000,Severe Storm(s),5760.56
+1336,Rutland,2000,Severe Storm(s),13197.77
+1336,Bennington,2000,Severe Storm(s),35570.17
+1336,Statewide,2000,Severe Storm(s),45339.61
+1336,Bennington,2000,Severe Storm(s),37616.91
+1336,Windsor,2000,Severe Storm(s),15548.07
+1336,Windham,2000,Severe Storm(s),20367.43
+1336,Windham,2000,Severe Storm(s),21297.35
+1336,Bennington,2000,Severe Storm(s),4138.87
+1336,Windham,2000,Severe Storm(s),243789.25
+1336,Windham,2000,Severe Storm(s),15966.24
+1336,Rutland,2000,Severe Storm(s),4539.52
+1336,Addison,2000,Severe Storm(s),81951.64
+1336,Statewide,2000,Severe Storm(s),19513.56
+1336,Windsor,2000,Severe Storm(s),27108.64
+1336,Addison,2000,Severe Storm(s),2530.5
+1336,Bennington,2000,Severe Storm(s),4931.5
+1336,Bennington,2000,Severe Storm(s),862.5
+1336,Addison,2000,Severe Storm(s),476105.96
+1336,Windham,2000,Severe Storm(s),91633.77
+1336,Statewide,2000,Severe Storm(s),12103.71
+1336,Windham,2000,Severe Storm(s),6563.78
+1336,Windsor,2000,Severe Storm(s),0.0
+1336,Windham,2000,Severe Storm(s),0.0
+1336,Bennington,2000,Severe Storm(s),3272.13
+1336,Bennington,2000,Severe Storm(s),12869.55
+1336,Windham,2000,Severe Storm(s),23449.8
+1336,Windham,2000,Severe Storm(s),52466.78
+1336,Windham,2000,Severe Storm(s),15239.16
+1336,Rutland,2000,Severe Storm(s),12887.73
+1336,Windsor,2000,Severe Storm(s),375751.42
+1336,Orange,2000,Severe Storm(s),31952.42
+1336,Windham,2000,Severe Storm(s),383737.8
+1336,Rutland,2000,Severe Storm(s),9662.8
+1336,Rutland,2000,Severe Storm(s),2391.47
+1336,Windham,2000,Severe Storm(s),34287.0
+1336,Bennington,2000,Severe Storm(s),1088.51
+1336,Bennington,2000,Severe Storm(s),1837.93
+1336,Rutland,2000,Severe Storm(s),3148.07
+1336,Orange,2000,Severe Storm(s),14539.15
+1336,Bennington,2000,Severe Storm(s),8631.34
+1336,Rutland,2000,Severe Storm(s),8873.09
+1336,Windham,2000,Severe Storm(s),160995.94
+1358,Rutland,2001,Severe Storm(s),40230.72
+1358,Rutland,2001,Severe Storm(s),12932.93
+1358,Rutland,2001,Severe Storm(s),19263.54
+1358,Rutland,2001,Severe Storm(s),14502.28
+1358,Rutland,2001,Severe Storm(s),7532.97
+1358,Rutland,2001,Severe Storm(s),6222.17
+1358,Rutland,2001,Severe Storm(s),1082.25
+1358,Rutland,2001,Severe Storm(s),15459.51
+1358,Bennington,2001,Severe Storm(s),6312.65
+1358,Rutland,2001,Severe Storm(s),5346.08
+1358,Rutland,2001,Severe Storm(s),5522.47
+1358,Rutland,2001,Severe Storm(s),27471.23
+1358,Rutland,2001,Severe Storm(s),33480.28
+1358,Bennington,2001,Severe Storm(s),19141.93
+1358,Rutland,2001,Severe Storm(s),26472.53
+1358,Bennington,2001,Severe Storm(s),116799.29
+1358,Rutland,2001,Severe Storm(s),27147.78
+1358,Rutland,2001,Severe Storm(s),1000.52
+1358,Statewide,2001,Severe Storm(s),28452.6
+1358,Rutland,2001,Severe Storm(s),38624.02
+1358,Rutland,2001,Severe Storm(s),87176.95
+1358,Bennington,2001,Severe Storm(s),82733.67
+1358,Rutland,2001,Severe Storm(s),10506.49
+1358,Rutland,2001,Severe Storm(s),8968.26
+1358,Statewide,2001,Severe Storm(s),9387.56
+1358,Rutland,2001,Severe Storm(s),21890.65
+1358,Rutland,2001,Severe Storm(s),13125.34
+1428,Orleans,2002,Severe Storm(s),21308.39
+1428,Orleans,2002,Severe Storm(s),8252.43
+1428,Orleans,2002,Severe Storm(s),8319.53
+1428,Franklin,2002,Severe Storm(s),42732.53
+1428,Caledonia,2002,Severe Storm(s),17958.94
+1428,Franklin,2002,Severe Storm(s),2248.88
+1428,Franklin,2002,Severe Storm(s),8431.8
+1428,Orleans,2002,Severe Storm(s),5040.13
+1428,Orleans,2002,Severe Storm(s),16245.15
+1428,Essex,2002,Severe Storm(s),0.0
+1428,Orleans,2002,Severe Storm(s),34824.94
+1428,Lamoille,2002,Severe Storm(s),1599.75
+1428,Franklin,2002,Severe Storm(s),3978.3
+1428,Essex,2002,Severe Storm(s),15518.29
+1428,Orleans,2002,Severe Storm(s),11661.24
+1428,Orleans,2002,Severe Storm(s),13465.8
+1428,Lamoille,2002,Severe Storm(s),7554.89
+1428,Caledonia,2002,Severe Storm(s),32865.69
+1428,Lamoille,2002,Severe Storm(s),6832.55
+1428,Franklin,2002,Severe Storm(s),1068.75
+1428,Lamoille,2002,Severe Storm(s),2863.5
+1428,Statewide,2002,Severe Storm(s),1042.77
+1428,Lamoille,2002,Severe Storm(s),7603.92
+1428,Essex,2002,Severe Storm(s),318256.2
+1428,Franklin,2002,Severe Storm(s),28917.84
+1428,Essex,2002,Severe Storm(s),7411.73
+1428,Essex,2002,Severe Storm(s),13070.06
+1428,Orleans,2002,Severe Storm(s),231979.54
+1428,Orleans,2002,Severe Storm(s),1756.77
+1428,Statewide,2002,Severe Storm(s),15114.34
+1428,Lamoille,2002,Severe Storm(s),11595.61
+1428,Caledonia,2002,Severe Storm(s),208213.24
+1428,Caledonia,2002,Severe Storm(s),110886.58
+1428,Lamoille,2002,Severe Storm(s),27501.35
+1428,Statewide,2002,Severe Storm(s),18213.0
+1428,Caledonia,2002,Severe Storm(s),15846.49
+1428,Statewide,2002,Severe Storm(s),21039.0
+1428,Franklin,2002,Severe Storm(s),43007.72
+1428,Lamoille,2002,Severe Storm(s),21816.92
+1428,Caledonia,2002,Severe Storm(s),25576.71
+1428,Franklin,2002,Severe Storm(s),146154.61
+1428,Orleans,2002,Severe Storm(s),87793.42
+1428,Caledonia,2002,Severe Storm(s),9682.53
+1428,Statewide,2002,Severe Storm(s),1165.72
+1428,Essex,2002,Severe Storm(s),3295.02
+1428,Lamoille,2002,Severe Storm(s),3887.22
+1428,Orleans,2002,Severe Storm(s),14874.75
+1428,Orleans,2002,Severe Storm(s),33475.6
+1428,Caledonia,2002,Severe Storm(s),8703.0
+1488,Windham,2003,Severe Storm(s),10515.18
+1488,Windham,2003,Severe Storm(s),122007.97
+1488,Statewide,2003,Severe Storm(s),8607.37
+1488,Windsor,2003,Severe Storm(s),158780.2
+1488,Windsor,2003,Severe Storm(s),82512.85
+1488,Statewide,2003,Severe Storm(s),0.0
+1488,Windham,2003,Severe Storm(s),12165.59
+1488,Windsor,2003,Severe Storm(s),4783.58
+1488,Windsor,2003,Severe Storm(s),72694.93
+1488,Orange,2003,Severe Storm(s),5710.12
+1488,Orange,2003,Severe Storm(s),64718.67
+1488,Windsor,2003,Severe Storm(s),2510.86
+1488,Bennington,2003,Severe Storm(s),3569.39
+1488,Orange,2003,Severe Storm(s),1697.01
+1488,Windsor,2003,Severe Storm(s),10217.43
+1488,Windham,2003,Severe Storm(s),9341.25
+1488,Statewide,2003,Severe Storm(s),7342.5
+1488,Windham,2003,Severe Storm(s),140842.36
+1488,Statewide,2003,Severe Storm(s),-3807.77
+1488,Bennington,2003,Severe Storm(s),7258.76
+1488,Bennington,2003,Severe Storm(s),757.73
+1488,Orange,2003,Severe Storm(s),45954.93
+1488,Windsor,2003,Severe Storm(s),1402.56
+1488,Windsor,2003,Severe Storm(s),14162.85
+1488,Bennington,2003,Severe Storm(s),4655.27
+1488,Windsor,2003,Severe Storm(s),7753.19
+1488,Windham,2003,Severe Storm(s),9678.35
+1488,Windham,2003,Severe Storm(s),27148.36
+1488,Bennington,2003,Severe Storm(s),27918.39
+1488,Bennington,2003,Severe Storm(s),16506.04
+1488,Bennington,2003,Severe Storm(s),29786.09
+1488,Orange,2003,Severe Storm(s),5472.87
+1559,Addison,2004,Severe Storm(s),73684.43
+1559,Addison,2004,Severe Storm(s),173489.75
+1559,Franklin,2004,Severe Storm(s),15229.39
+1559,Addison,2004,Severe Storm(s),30449.89
+1559,Caledonia,2004,Severe Storm(s),38925.92
+1559,Chittenden,2004,Severe Storm(s),14315.58
+1559,Caledonia,2004,Severe Storm(s),11119.57
+1559,Franklin,2004,Severe Storm(s),46570.96
+1559,Caledonia,2004,Severe Storm(s),99914.19
+1559,Lamoille,2004,Severe Storm(s),7812.0
+1559,Chittenden,2004,Severe Storm(s),7560.28
+1559,Chittenden,2004,Severe Storm(s),29415.84
+1559,Caledonia,2004,Severe Storm(s),28489.46
+1559,Chittenden,2004,Severe Storm(s),8511.99
+1559,Chittenden,2004,Severe Storm(s),52740.58
+1559,Addison,2004,Severe Storm(s),11452.5
+1559,Franklin,2004,Severe Storm(s),13607.53
+1559,Chittenden,2004,Severe Storm(s),102023.81
+1559,Franklin,2004,Severe Storm(s),29894.93
+1559,Lamoille,2004,Severe Storm(s),19911.75
+1559,Chittenden,2004,Severe Storm(s),9532.8
+1559,Chittenden,2004,Severe Storm(s),43773.19
+1559,Caledonia,2004,Severe Storm(s),20044.24
+1559,Caledonia,2004,Severe Storm(s),51106.49
+1559,Franklin,2004,Severe Storm(s),125739.29
+1559,Lamoille,2004,Severe Storm(s),9782.43
+1559,Franklin,2004,Severe Storm(s),173994.68
+1559,Addison,2004,Severe Storm(s),20517.58
+1559,Franklin,2004,Severe Storm(s),857.25
+1559,Caledonia,2004,Severe Storm(s),27097.34
+1559,Chittenden,2004,Severe Storm(s),19274.45
+1559,Caledonia,2004,Severe Storm(s),30622.84
+1559,Addison,2004,Severe Storm(s),13601.47
+1559,Franklin,2004,Severe Storm(s),85776.59
+1559,Caledonia,2004,Severe Storm(s),6109.8
+1559,Franklin,2004,Severe Storm(s),8593.61
+1559,Lamoille,2004,Severe Storm(s),94906.67
+1559,Caledonia,2004,Severe Storm(s),2293.49
+1559,Addison,2004,Severe Storm(s),26742.16
+1559,Caledonia,2004,Severe Storm(s),40553.32
+1559,Addison,2004,Severe Storm(s),15727.08
+1559,Orleans,2004,Severe Storm(s),44334.88
+1559,Statewide,2004,Severe Storm(s),20409.3
+1559,Orleans,2004,Severe Storm(s),88487.49
+1559,Orleans,2004,Severe Storm(s),25019.94
+1559,Windham,2004,Severe Storm(s),66232.0
+1559,Orleans,2004,Severe Storm(s),31069.23
+1559,Windham,2004,Severe Storm(s),165428.61
+1559,Windham,2004,Severe Storm(s),29081.41
+1559,Windham,2004,Severe Storm(s),16363.42
+1559,Orleans,2004,Severe Storm(s),49850.7
+1559,Windham,2004,Severe Storm(s),22245.23
+1559,Statewide,2004,Severe Storm(s),0.0
+1559,Orleans,2004,Severe Storm(s),9483.66
+1559,Statewide,2004,Severe Storm(s),-8785.87
+1559,Orleans,2004,Severe Storm(s),14850.0
+1559,Windham,2004,Severe Storm(s),14884.3
+1698,Bennington,2007,Severe Storm(s),82612.75
+1698,Windsor,2007,Severe Storm(s),12035.17
+1698,Lamoille,2007,Severe Storm(s),2527.66
+1698,Essex,2007,Severe Storm(s),7968.45
+1698,Windsor,2007,Severe Storm(s),22584.0
+1698,Rutland,2007,Severe Storm(s),8677.44
+1698,Essex,2007,Severe Storm(s),10062.56
+1698,Bennington,2007,Severe Storm(s),51291.41
+1698,Windsor,2007,Severe Storm(s),7215.91
+1698,Windsor,2007,Severe Storm(s),14581.07
+1698,Caledonia,2007,Severe Storm(s),9844.79
+1698,Rutland,2007,Severe Storm(s),274722.43
+1698,Windham,2007,Severe Storm(s),26668.32
+1698,Bennington,2007,Severe Storm(s),4537.8
+1698,Windham,2007,Severe Storm(s),14310.39
+1698,Essex,2007,Severe Storm(s),14110.55
+1698,Rutland,2007,Severe Storm(s),17324.86
+1698,Bennington,2007,Severe Storm(s),2271.38
+1698,Caledonia,2007,Severe Storm(s),76151.85
+1698,Rutland,2007,Severe Storm(s),25885.3
+1698,Windsor,2007,Severe Storm(s),5529.6
+1698,Essex,2007,Severe Storm(s),6331.88
+1698,Windham,2007,Severe Storm(s),132342.01
+1698,Windham,2007,Severe Storm(s),219195.51
+1698,Windham,2007,Severe Storm(s),36922.15
+1698,Lamoille,2007,Severe Storm(s),6065.63
+1698,Statewide,2007,Severe Storm(s),61570.65
+1698,Statewide,2007,Severe Storm(s),3125.83
+1698,Lamoille,2007,Severe Storm(s),4509.94
+1698,Windham,2007,Severe Storm(s),16979.09
+1698,Rutland,2007,Severe Storm(s),29393.08
+1698,Windham,2007,Severe Storm(s),15956.4
+1698,Windham,2007,Severe Storm(s),118442.91
+1698,Windham,2007,Severe Storm(s),423950.79
+1698,Windham,2007,Severe Storm(s),56108.21
+1698,Bennington,2007,Severe Storm(s),7192.94
+1698,Rutland,2007,Severe Storm(s),9468.59
+1698,Windsor,2007,Severe Storm(s),53087.99
+1698,Rutland,2007,Severe Storm(s),2351.25
+1698,Windsor,2007,Severe Storm(s),8258.09
+1698,Essex,2007,Severe Storm(s),16251.69
+1698,Bennington,2007,Severe Storm(s),24518.64
+1698,Windsor,2007,Severe Storm(s),35534.85
+1698,Windham,2007,Severe Storm(s),128503.47
+1698,Caledonia,2007,Severe Storm(s),1860.92
+1698,Caledonia,2007,Severe Storm(s),6142.27
+1698,Bennington,2007,Severe Storm(s),12347.68
+1698,Windham,2007,Severe Storm(s),25085.23
+1698,Rutland,2007,Severe Storm(s),995.76
+1698,Orange,2007,Severe Storm(s),78936.49
+1698,Caledonia,2007,Severe Storm(s),10989.93
+1698,Windham,2007,Severe Storm(s),412950.44
+1698,Bennington,2007,Severe Storm(s),33423.09
+1698,Lamoille,2007,Severe Storm(s),3070.33
+1698,Windsor,2007,Severe Storm(s),8435.25
+1698,Windham,2007,Severe Storm(s),31324.37
+1698,Rutland,2007,Severe Storm(s),16714.27
+1698,Windsor,2007,Severe Storm(s),19405.36
+1698,Caledonia,2007,Severe Storm(s),6687.49
+1698,Windham,2007,Severe Storm(s),97311.63
+1698,Caledonia,2007,Severe Storm(s),6701.09
+1698,Windsor,2007,Severe Storm(s),40285.5
+1698,Rutland,2007,Severe Storm(s),4850.68
+1698,Rutland,2007,Severe Storm(s),5614.77
+1698,Essex,2007,Severe Storm(s),10695.14
+1698,Orange,2007,Severe Storm(s),6919.4
+1698,Rutland,2007,Severe Storm(s),16059.99
+1698,Bennington,2007,Severe Storm(s),47551.78
+1698,Statewide,2007,Severe Storm(s),-4117.42
+1698,Rutland,2007,Severe Storm(s),22672.48
+1698,Windham,2007,Severe Storm(s),135944.42
+1698,Rutland,2007,Severe Storm(s),69475.62
+1698,Windham,2007,Severe Storm(s),159282.51
+1698,Caledonia,2007,Severe Storm(s),4472.49
+1715,Orleans,2007,Severe Storm(s),16046.96
+1715,Orange,2007,Severe Storm(s),1143393.94
+1715,Orleans,2007,Severe Storm(s),46289.34
+1715,Statewide,2007,Severe Storm(s),69367.0
+1715,Caledonia,2007,Severe Storm(s),79898.79
+1715,Orange,2007,Severe Storm(s),215971.52
+1715,Orange,2007,Severe Storm(s),17788.99
+1715,Washington,2007,Severe Storm(s),195739.52
+1715,Orange,2007,Severe Storm(s),220591.24
+1715,Caledonia,2007,Severe Storm(s),22952.42
+1715,Orleans,2007,Severe Storm(s),124291.82
+1715,Orange,2007,Severe Storm(s),144001.16
+1715,Orange,2007,Severe Storm(s),5737.5
+1715,Statewide,2007,Severe Storm(s),87058.16
+1715,Caledonia,2007,Severe Storm(s),11265.0
+1715,Washington,2007,Severe Storm(s),420272.16
+1715,Washington,2007,Severe Storm(s),0.0
+1715,Caledonia,2007,Severe Storm(s),51040.8
+1715,Orange,2007,Severe Storm(s),86111.52
+1715,Caledonia,2007,Severe Storm(s),34282.23
+1715,Orleans,2007,Severe Storm(s),58779.31
+1715,Statewide,2007,Severe Storm(s),0.0
+1715,Washington,2007,Severe Storm(s),20154.05
+1715,Washington,2007,Severe Storm(s),39588.57
+1715,Washington,2007,Severe Storm(s),56774.19
+1715,Washington,2007,Severe Storm(s),28623.06
+1715,Washington,2007,Severe Storm(s),10729.67
+1715,Washington,2007,Severe Storm(s),6636.28
+1715,Windsor,2007,Severe Storm(s),36891.57
+1715,Washington,2007,Severe Storm(s),132340.32
+1715,Washington,2007,Severe Storm(s),85374.33
+1715,Washington,2007,Severe Storm(s),10640.06
+1715,Washington,2007,Severe Storm(s),9663.61
+1715,Orleans,2007,Severe Storm(s),50431.72
+1715,Washington,2007,Severe Storm(s),11850.0
+1715,Windsor,2007,Severe Storm(s),564691.76
+1715,Windsor,2007,Severe Storm(s),587378.56
+1778,Statewide,2008,Severe Storm(s),5924.02
+1778,Addison,2008,Severe Storm(s),235276.99
+1778,Franklin,2008,Severe Storm(s),141808.64
+1778,Addison,2008,Severe Storm(s),597134.56
+1778,Franklin,2008,Severe Storm(s),103244.77
+1778,Addison,2008,Severe Storm(s),3475.25
+1784,Lamoille,2008,Severe Storm(s),10166.25
+1784,Lamoille,2008,Severe Storm(s),21780.99
+1784,Statewide,2008,Severe Storm(s),2015.37
+1784,Lamoille,2008,Severe Storm(s),288847.52
+1784,Grand Isle,2008,Severe Storm(s),6171.01
+1784,Grand Isle,2008,Severe Storm(s),106330.57
+1784,Statewide,2008,Severe Storm(s),14170.83
+1790,Orange,2008,Severe Storm(s),69812.13
+1790,Addison,2008,Severe Storm(s),189296.23
+1790,Statewide,2008,Severe Storm(s),22273.17
+1790,Lamoille,2008,Severe Storm(s),78716.01
+1790,Lamoille,2008,Severe Storm(s),74226.47
+1790,Caledonia,2008,Severe Storm(s),13921.47
+1790,Washington,2008,Severe Storm(s),31523.07
+1790,Orange,2008,Severe Storm(s),114995.39
+1790,Essex,2008,Severe Storm(s),34529.0
+1790,Washington,2008,Severe Storm(s),28202.31
+1790,Caledonia,2008,Severe Storm(s),9905.74
+1790,Caledonia,2008,Severe Storm(s),4381.57
+1790,Washington,2008,Severe Storm(s),22056.14
+1790,Orange,2008,Severe Storm(s),90463.53
+1790,Caledonia,2008,Severe Storm(s),54523.11
+1790,Addison,2008,Severe Storm(s),813372.87
+1790,Addison,2008,Severe Storm(s),40367.26
+1790,Caledonia,2008,Severe Storm(s),28265.64
+1790,Lamoille,2008,Severe Storm(s),26998.06
+1790,Washington,2008,Severe Storm(s),73087.53
+1790,Statewide,2008,Severe Storm(s),36339.48
+1790,Addison,2008,Severe Storm(s),134434.03
+1790,Orange,2008,Severe Storm(s),79819.64
+1790,Caledonia,2008,Severe Storm(s),37184.58
+1790,Orange,2008,Severe Storm(s),34000.76
+1790,Addison,2008,Severe Storm(s),57203.31
+1790,Windsor,2008,Severe Storm(s),317473.65
+1790,Addison,2008,Severe Storm(s),141643.23
+1790,Caledonia,2008,Severe Storm(s),29832.21
+1790,Lamoille,2008,Severe Storm(s),14465.41
+1790,Addison,2008,Severe Storm(s),23655.51
+1790,Addison,2008,Severe Storm(s),110557.18
+1790,Addison,2008,Severe Storm(s),18101.63
+1790,Addison,2008,Severe Storm(s),21620.53
+1790,Caledonia,2008,Severe Storm(s),216860.25
+1790,Washington,2008,Severe Storm(s),159461.4
+1790,Addison,2008,Severe Storm(s),11905.21
+1790,Orange,2008,Severe Storm(s),9345.17
+1790,Addison,2008,Severe Storm(s),61391.31
+1790,Washington,2008,Severe Storm(s),216691.37
+1790,Washington,2008,Severe Storm(s),66696.61
+1790,Caledonia,2008,Severe Storm(s),42162.93
+1790,Orange,2008,Severe Storm(s),15808.21
+1790,Caledonia,2008,Severe Storm(s),16120.02
+1790,Essex,2008,Severe Storm(s),114614.82
+1790,Orange,2008,Severe Storm(s),20088.56
+1790,Lamoille,2008,Severe Storm(s),75675.31
+1790,Washington,2008,Severe Storm(s),20593.88
+1790,Washington,2008,Severe Storm(s),22777.24
+1790,Addison,2008,Severe Storm(s),219347.6
+1790,Caledonia,2008,Severe Storm(s),6733.99
+1790,Addison,2008,Severe Storm(s),10283.72
+1790,Statewide,2008,Severe Storm(s),4391.29
+1790,Caledonia,2008,Severe Storm(s),210082.72
+1790,Windsor,2008,Severe Storm(s),18408.02
+1790,Washington,2008,Severe Storm(s),64338.05
+1790,Orange,2008,Severe Storm(s),25483.95
+1790,Addison,2008,Severe Storm(s),18643.47
+1790,Addison,2008,Severe Storm(s),29579.14
+1790,Windsor,2008,Severe Storm(s),15890.43
+1816,Statewide,2009,Severe Ice Storm,34846.03
+1816,Bennington,2009,Severe Ice Storm,118030.7
+1816,Windham,2009,Severe Ice Storm,13067.55
+1816,Windham,2009,Severe Ice Storm,20644.99
+1816,Windham,2009,Severe Ice Storm,107014.74
+1816,Windham,2009,Severe Ice Storm,16191.34
+1816,Windham,2009,Severe Ice Storm,5742.65
+1816,Windham,2009,Severe Ice Storm,252743.28
+1816,Windham,2009,Severe Ice Storm,51959.72
+1816,Bennington,2009,Severe Ice Storm,4219.64
+1816,Windham,2009,Severe Ice Storm,29747.52
+1816,Statewide,2009,Severe Ice Storm,2186.39
+1816,Windham,2009,Severe Ice Storm,8931.26
+1816,Windham,2009,Severe Ice Storm,267411.8
+1816,Windham,2009,Severe Ice Storm,34966.69
+1816,Windham,2009,Severe Ice Storm,2058.92
+1816,Windham,2009,Severe Ice Storm,33050.38
+1816,Windham,2009,Severe Ice Storm,4054.73
+1816,Bennington,2009,Severe Ice Storm,18328.74
+1816,Windham,2009,Severe Ice Storm,84267.35
+1816,Windham,2009,Severe Ice Storm,13330.94
+1816,Windham,2009,Severe Ice Storm,215084.01
+1951,Lamoille,2010,Severe Storm(s),18175.73
+1951,Chittenden,2010,Severe Storm(s),690.89
+1951,Statewide,2010,Severe Storm(s),28204.83
+1951,Chittenden,2010,Severe Storm(s),6334.5
+1951,Chittenden,2010,Severe Storm(s),1113.26
+1951,Chittenden,2010,Severe Storm(s),9053.75
+1951,Chittenden,2010,Severe Storm(s),44853.68
+1951,Statewide,2010,Severe Storm(s),1221647.78
+1951,Chittenden,2010,Severe Storm(s),1945.85
+1951,Chittenden,2010,Severe Storm(s),6976.1
+1951,Chittenden,2010,Severe Storm(s),42343.53
+1951,Lamoille,2010,Severe Storm(s),818.74
+1951,Lamoille,2010,Severe Storm(s),2199.59
+1951,Lamoille,2010,Severe Storm(s),5807.25
+1951,Franklin,2010,Severe Storm(s),93589.88
+1951,Lamoille,2010,Severe Storm(s),14691.15
+1951,Chittenden,2010,Severe Storm(s),4452.98
+1951,Chittenden,2010,Severe Storm(s),5627.12
+1951,Franklin,2010,Severe Storm(s),4878.07
+1951,Chittenden,2010,Severe Storm(s),1329.81
+1951,Franklin,2010,Severe Storm(s),19354.07
+1951,Lamoille,2010,Severe Storm(s),1241.09
+1951,Chittenden,2010,Severe Storm(s),0.0
+1951,Franklin,2010,Severe Storm(s),19689.9
+1995,Addison,2011,Severe Storm(s),2100.0
+1995,Washington,2011,Severe Storm(s),15470.79
+1995,Franklin,2011,Severe Storm(s),44231.29
+1995,Statewide,2011,Severe Storm(s),5606690.14
+1995,Lamoille,2011,Severe Storm(s),421424.5
+1995,Lamoille,2011,Severe Storm(s),66292.8
+1995,Addison,2011,Severe Storm(s),9799.58
+1995,Addison,2011,Severe Storm(s),71644.25
+1995,Essex,2011,Severe Storm(s),268814.14
+1995,Chittenden,2011,Severe Storm(s),16675.57
+1995,Grand Isle,2011,Severe Storm(s),257616.18
+1995,Orleans,2011,Severe Storm(s),7058.14
+1995,Chittenden,2011,Severe Storm(s),37046.08
+1995,Chittenden,2011,Severe Storm(s),203190.75
+1995,Addison,2011,Severe Storm(s),89546.29
+1995,Chittenden,2011,Severe Storm(s),5394.59
+1995,Franklin,2011,Severe Storm(s),35896.54
+1995,Orleans,2011,Severe Storm(s),256877.99
+1995,Addison,2011,Severe Storm(s),28501.42
+1995,Essex,2011,Severe Storm(s),33656.48
+1995,Essex,2011,Severe Storm(s),1911.0
+1995,Franklin,2011,Severe Storm(s),23620.98
+1995,Chittenden,2011,Severe Storm(s),70669.14
+1995,Orleans,2011,Severe Storm(s),11823.68
+1995,Chittenden,2011,Severe Storm(s),39980.67
+1995,Addison,2011,Severe Storm(s),9144.77
+1995,Lamoille,2011,Severe Storm(s),5294.42
+1995,Addison,2011,Severe Storm(s),41834.33
+1995,Orleans,2011,Severe Storm(s),19393.16
+1995,Statewide,2011,Severe Storm(s),4017.38
+1995,Orleans,2011,Severe Storm(s),22106.47
+1995,Orleans,2011,Severe Storm(s),90119.87
+1995,Orleans,2011,Severe Storm(s),21809.37
+1995,Addison,2011,Severe Storm(s),18183.2
+1995,Chittenden,2011,Severe Storm(s),52442.15
+1995,Orleans,2011,Severe Storm(s),20586.47
+1995,Grand Isle,2011,Severe Storm(s),120323.19
+1995,Chittenden,2011,Severe Storm(s),43311.63
+1995,Chittenden,2011,Severe Storm(s),101217.64
+1995,Lamoille,2011,Severe Storm(s),51633.14
+1995,Chittenden,2011,Severe Storm(s),5631.04
+1995,Grand Isle,2011,Severe Storm(s),92359.97
+1995,Chittenden,2011,Severe Storm(s),2442.26
+1995,Orleans,2011,Severe Storm(s),9289.03
+1995,Franklin,2011,Severe Storm(s),15436.19
+1995,Grand Isle,2011,Severe Storm(s),105237.94
+1995,Orleans,2011,Severe Storm(s),117240.84
+1995,Washington,2011,Severe Storm(s),10080.93
+1995,Lamoille,2011,Severe Storm(s),2084.42
+1995,Chittenden,2011,Severe Storm(s),90785.64
+1995,Essex,2011,Severe Storm(s),10426.43
+1995,Orleans,2011,Severe Storm(s),160283.87
+1995,Lamoille,2011,Severe Storm(s),82711.07
+1995,Statewide,2011,Severe Storm(s),5451.71
+1995,Statewide,2011,Severe Storm(s),322274.88
+1995,Statewide,2011,Severe Storm(s),83622.39
+1995,Orleans,2011,Severe Storm(s),41415.11
+1995,Statewide,2011,Severe Storm(s),3412.81
+1995,Orleans,2011,Severe Storm(s),26803.8
+1995,Orleans,2011,Severe Storm(s),70191.37
+1995,Lamoille,2011,Severe Storm(s),38391.64
+1995,Orleans,2011,Severe Storm(s),27360.71
+1995,Essex,2011,Severe Storm(s),39691.13
+1995,Essex,2011,Severe Storm(s),17528.37
+1995,Lamoille,2011,Severe Storm(s),5960.3
+1995,Statewide,2011,Severe Storm(s),396537.17
+1995,Chittenden,2011,Severe Storm(s),151252.2
+1995,Essex,2011,Severe Storm(s),12574.82
+1995,Essex,2011,Severe Storm(s),6599.6
+1995,Chittenden,2011,Severe Storm(s),782013.91
+1995,Grand Isle,2011,Severe Storm(s),67027.12
+1995,Franklin,2011,Severe Storm(s),137358.1
+1995,Orleans,2011,Severe Storm(s),208888.05
+1995,Chittenden,2011,Severe Storm(s),858905.01
+1995,Franklin,2011,Severe Storm(s),34319.21
+1995,Washington,2011,Severe Storm(s),811074.94
+1995,Lamoille,2011,Severe Storm(s),30594.45
+1995,Lamoille,2011,Severe Storm(s),25004.24
+1995,Addison,2011,Severe Storm(s),17558.64
+1995,Lamoille,2011,Severe Storm(s),179890.41
+3167,Orleans,2001,Snow,6244.8
+3167,Chittenden,2001,Snow,6079.12
+3167,Rutland,2001,Snow,1947.96
+3167,Rutland,2001,Snow,6515.48
+3167,Rutland,2001,Snow,2895.72
+3167,Orleans,2001,Snow,1547.61
+3167,Statewide,2001,Snow,328114.37
+3167,Chittenden,2001,Snow,7528.17
+3167,Lamoille,2001,Snow,4739.69
+3167,Lamoille,2001,Snow,1593.84
+3167,Rutland,2001,Snow,3762.8
+3167,Lamoille,2001,Snow,1609.29
+3167,Lamoille,2001,Snow,3150.56
+3167,Rutland,2001,Snow,0.0
+3167,Bennington,2001,Snow,4662.23
+3167,Rutland,2001,Snow,16833.74
+3167,Bennington,2001,Snow,4799.79
+3167,Addison,2001,Snow,4302.55
+3167,Orleans,2001,Snow,2941.12
+3167,Addison,2001,Snow,1206.75
+3167,Bennington,2001,Snow,29211.1
+3167,Orleans,2001,Snow,7665.58
+3167,Chittenden,2001,Snow,7211.21
+3167,Orleans,2001,Snow,3027.62
+3167,Statewide,2001,Snow,3350.32
+3167,Addison,2001,Snow,1906.91
+3167,Lamoille,2001,Snow,860.63
+3167,Addison,2001,Snow,4754.04
+3167,Chittenden,2001,Snow,7803.15
+3167,Rutland,2001,Snow,5076.42
+3167,Chittenden,2001,Snow,8592.59
+3167,Lamoille,2001,Snow,12396.83
+3167,Chittenden,2001,Snow,6277.04
+3167,Chittenden,2001,Snow,9345.17
+3167,Lamoille,2001,Snow,10646.24
+3167,Lamoille,2001,Snow,5681.25
+3167,Chittenden,2001,Snow,7292.81
+3167,Rutland,2001,Snow,6474.15
+3167,Addison,2001,Snow,4142.4
+3167,Orleans,2001,Snow,3500.45
+3167,Bennington,2001,Snow,3857.21
+3167,Chittenden,2001,Snow,2887.5
+3167,Rutland,2001,Snow,4415.49
+3167,Addison,2001,Snow,2252.96
+3167,Chittenden,2001,Snow,4388.07
+3167,Rutland,2001,Snow,5026.94
+3167,Bennington,2001,Snow,2681.43
+3167,Bennington,2001,Snow,6316.01
+3167,Bennington,2001,Snow,3049.04
+3167,Lamoille,2001,Snow,2342.5
+3167,Addison,2001,Snow,21012.08
+3167,Chittenden,2001,Snow,8777.51
+3167,Rutland,2001,Snow,5043.29
+3167,Rutland,2001,Snow,4391.36
+3167,Statewide,2001,Snow,4763.06
+3167,Chittenden,2001,Snow,9552.61
+3167,Addison,2001,Snow,3938.75
+3167,Rutland,2001,Snow,1935.04
+3167,Orleans,2001,Snow,3171.62
+3167,Orleans,2001,Snow,5021.33
+3167,Addison,2001,Snow,5411.0
+3167,Orleans,2001,Snow,3271.01
+3167,Orleans,2001,Snow,2197.7
+3167,Rutland,2001,Snow,1142.36
+3167,Rutland,2001,Snow,2942.19
+3167,Orleans,2001,Snow,1542.84
+3167,Rutland,2001,Snow,3792.47
+3167,Rutland,2001,Snow,1780.75
+3167,Chittenden,2001,Snow,16840.42
+3167,Chittenden,2001,Snow,0.0
+3167,Rutland,2001,Snow,5438.4
+3167,Addison,2001,Snow,2592.88
+3167,Chittenden,2001,Snow,28334.1
+3167,Bennington,2001,Snow,3180.15
+3167,Orleans,2001,Snow,3111.29
+3167,Statewide,2001,Snow,7645.14
+3167,Addison,2001,Snow,6505.62
+3167,Grand Isle,2001,Snow,4354.67
+3167,Orleans,2001,Snow,1545.72
+3167,Windsor,2001,Snow,5864.03
+3167,Windsor,2001,Snow,3918.12
+3167,Windham,2001,Snow,4120.45
+3167,Windham,2001,Snow,22403.69
+3167,Windsor,2001,Snow,5733.43
+3167,Chittenden,2001,Snow,15807.69
+3167,Addison,2001,Snow,5844.3
+3167,Addison,2001,Snow,5150.24
+3167,Windsor,2001,Snow,4422.95
+3167,Chittenden,2001,Snow,8287.55
+3167,Chittenden,2001,Snow,6660.92
+3167,Addison,2001,Snow,3520.3
+3167,Windsor,2001,Snow,4029.56
+3167,Windham,2001,Snow,3472.05
+3167,Windsor,2001,Snow,16975.78
+3167,Windsor,2001,Snow,13628.76
+3167,Windsor,2001,Snow,3128.96
+3167,Windham,2001,Snow,11145.69
+3167,Bennington,2001,Snow,3385.92
+3167,Rutland,2001,Snow,5783.45
+3167,Windham,2001,Snow,8512.37
+3167,Rutland,2001,Snow,4772.58
+3167,Orleans,2001,Snow,4002.53
+3167,Windham,2001,Snow,5201.16
+3167,Windham,2001,Snow,7634.78
+3167,Rutland,2001,Snow,2137.22
+3167,Bennington,2001,Snow,3102.5
+3167,Windsor,2001,Snow,9425.0
+3167,Rutland,2001,Snow,2722.66
+3167,Windham,2001,Snow,2355.36
+3167,Addison,2001,Snow,2793.86
+3167,Chittenden,2001,Snow,20286.87
+3167,Addison,2001,Snow,6326.69
+3167,Lamoille,2001,Snow,2265.75
+3167,Windham,2001,Snow,4793.1
+3167,Grand Isle,2001,Snow,4096.5
+3167,Bennington,2001,Snow,8086.91
+3167,Lamoille,2001,Snow,5778.98
+3167,Windham,2001,Snow,2116.65
+3167,Windsor,2001,Snow,3445.28
+3167,Windham,2001,Snow,6034.15
+3167,Grand Isle,2001,Snow,3977.24
+3167,Orleans,2001,Snow,4960.13
+3167,Grand Isle,2001,Snow,1738.06
+3167,Windham,2001,Snow,3124.64
+3167,Windsor,2001,Snow,3308.05
+3167,Windham,2001,Snow,6769.22
+3167,Bennington,2001,Snow,3047.37
+3167,Windham,2001,Snow,2939.64
+3167,Addison,2001,Snow,8072.44
+3167,Windham,2001,Snow,1365.38
+3167,Windham,2001,Snow,0.0
+3167,Addison,2001,Snow,4683.02
+3167,Windsor,2001,Snow,12724.58
+3167,Windsor,2001,Snow,5214.63
+3167,Windsor,2001,Snow,1632.75
+3167,Addison,2001,Snow,7872.73
+3167,Windsor,2001,Snow,4730.29
+3167,Windham,2001,Snow,4095.86
+3167,Windham,2001,Snow,7063.94
+3167,Windsor,2001,Snow,3010.41
+3167,Windsor,2001,Snow,4982.27
+3167,Rutland,2001,Snow,9861.7
+3167,Windsor,2001,Snow,7800.84
+3167,Windsor,2001,Snow,3997.03
+3167,Windham,2001,Snow,5357.42
+3167,Rutland,2001,Snow,4453.92
+3167,Chittenden,2001,Snow,7147.04
+3167,Windham,2001,Snow,10453.03
+3167,Windsor,2001,Snow,6104.75
+3167,Addison,2001,Snow,2667.08
+3167,Windsor,2001,Snow,2082.01
+3167,Bennington,2001,Snow,5935.52
+3167,Windham,2001,Snow,3004.94
+3167,Orleans,2001,Snow,1408.67
+3167,Windsor,2001,Snow,2901.94
+3167,Rutland,2001,Snow,2172.84
+3167,Windham,2001,Snow,7273.85
+3167,Orleans,2001,Snow,4109.06
+3167,Rutland,2001,Snow,18978.64
+4001,Caledonia,2011,Severe Storm(s),584799.06
+4001,Caledonia,2011,Severe Storm(s),382344.1
+4001,Washington,2011,Severe Storm(s),2682.51
+4001,Caledonia,2011,Severe Storm(s),39389.81
+4001,Caledonia,2011,Severe Storm(s),436281.59
+4001,Washington,2011,Severe Storm(s),342375.98
+4001,Essex,2011,Severe Storm(s),43770.14
+4001,Statewide,2011,Severe Storm(s),102771.79
+4001,Caledonia,2011,Severe Storm(s),14210.27
+4001,Essex,2011,Severe Storm(s),39267.0
+4001,Essex,2011,Severe Storm(s),579281.38
+4001,Orange,2011,Severe Storm(s),18853.07
+4001,Washington,2011,Severe Storm(s),192849.74
+4001,Essex,2011,Severe Storm(s),52170.44
+4001,Orange,2011,Severe Storm(s),7547.34
+4001,Caledonia,2011,Severe Storm(s),89156.12
+4001,Washington,2011,Severe Storm(s),59646.93
+4001,Washington,2011,Severe Storm(s),6809.85
+4001,Washington,2011,Severe Storm(s),2112339.78
+4001,Caledonia,2011,Severe Storm(s),721227.6
+4001,Statewide,2011,Severe Storm(s),540565.52
+4001,Orange,2011,Severe Storm(s),40307.0
+4001,Washington,2011,Severe Storm(s),227485.1
+4001,Caledonia,2011,Severe Storm(s),62785.22
+4001,Statewide,2011,Severe Storm(s),17185.2
+4001,Essex,2011,Severe Storm(s),31274.17
+4001,Caledonia,2011,Severe Storm(s),469139.67
+4001,Essex,2011,Severe Storm(s),81612.17
+4001,Essex,2011,Severe Storm(s),564337.61
+4001,Caledonia,2011,Severe Storm(s),353364.38
+4001,Washington,2011,Severe Storm(s),576127.9
+4001,Orange,2011,Severe Storm(s),100959.3
+4001,Essex,2011,Severe Storm(s),5273.22
+4001,Washington,2011,Severe Storm(s),207709.6
+4001,Washington,2011,Severe Storm(s),275628.88
+4001,Washington,2011,Severe Storm(s),43665.53
+4001,Statewide,2011,Severe Storm(s),13895.5
+4001,Washington,2011,Severe Storm(s),74586.17
+4001,Washington,2011,Severe Storm(s),10311.45
+4001,Washington,2011,Severe Storm(s),78975.22
+4001,Washington,2011,Severe Storm(s),24453.45
+4001,Washington,2011,Severe Storm(s),480976.44
+4001,Washington,2011,Severe Storm(s),390257.52
+4001,Washington,2011,Severe Storm(s),11493.53
+4001,Washington,2011,Severe Storm(s),22692.08
+4001,Washington,2011,Severe Storm(s),12962.36
+4022,Bennington,2011,Hurricane,235517.88
+4022,Caledonia,2011,Hurricane,524113.37
+4022,Chittenden,2011,Hurricane,128104.74
+4022,Bennington,2011,Hurricane,44054.5
+4022,Bennington,2011,Hurricane,276853.44
+4022,Bennington,2011,Hurricane,68021.19
+4022,Addison,2011,Hurricane,55974.37
+4022,Bennington,2011,Hurricane,24804.92
+4022,Addison,2011,Hurricane,42616.14
+4022,Bennington,2011,Hurricane,265503.69
+4022,Caledonia,2011,Hurricane,27040.38
+4022,Franklin,2011,Hurricane,3141.37
+4022,Franklin,2011,Hurricane,68840.43
+4022,Addison,2011,Hurricane,10141.41
+4022,Bennington,2011,Hurricane,661843.76
+4022,Caledonia,2011,Hurricane,3776.94
+4022,Chittenden,2011,Hurricane,124169.46
+4022,Addison,2011,Hurricane,1427448.44
+4022,Bennington,2011,Hurricane,13240.75
+4022,Bennington,2011,Hurricane,3662989.33
+4022,Addison,2011,Hurricane,487359.87
+4022,Bennington,2011,Hurricane,179158.14
+4022,Caledonia,2011,Hurricane,60788.33
+4022,Caledonia,2011,Hurricane,44127.64
+4022,Caledonia,2011,Hurricane,14421.22
+4022,Caledonia,2011,Hurricane,306866.98
+4022,Addison,2011,Hurricane,5435.12
+4022,Caledonia,2011,Hurricane,5863.5
+4022,Franklin,2011,Hurricane,228892.39
+4022,Bennington,2011,Hurricane,184355.25
+4022,Addison,2011,Hurricane,38522.15
+4022,Caledonia,2011,Hurricane,58167.72
+4022,Chittenden,2011,Hurricane,14850.86
+4022,Bennington,2011,Hurricane,73436.37
+4022,Bennington,2011,Hurricane,75676.59
+4022,Caledonia,2011,Hurricane,33962.83
+4022,Caledonia,2011,Hurricane,315564.88
+4022,Caledonia,2011,Hurricane,17091.4
+4022,Addison,2011,Hurricane,164124.08
+4022,Chittenden,2011,Hurricane,105950.4
+4022,Caledonia,2011,Hurricane,30741.07
+4022,Chittenden,2011,Hurricane,6032.99
+4022,Addison,2011,Hurricane,3336.75
+4022,Caledonia,2011,Hurricane,55416.8
+4022,Caledonia,2011,Hurricane,550946.46
+4022,Bennington,2011,Hurricane,346962.08
+4022,Bennington,2011,Hurricane,4093.22
+4022,Bennington,2011,Hurricane,3348.0
+4022,Addison,2011,Hurricane,39908.63
+4022,Addison,2011,Hurricane,1145041.2
+4022,Chittenden,2011,Hurricane,10284.29
+4022,Essex,2011,Hurricane,27850.36
+4022,Addison,2011,Hurricane,14955.23
+4022,Essex,2011,Hurricane,24346.84
+4022,Addison,2011,Hurricane,64822.69
+4022,Addison,2011,Hurricane,112740.58
+4022,Lamoille,2011,Hurricane,22450.69
+4022,Bennington,2011,Hurricane,179805.98
+4022,Addison,2011,Hurricane,16146.41
+4022,Chittenden,2011,Hurricane,46440.0
+4022,Caledonia,2011,Hurricane,184761.07
+4022,Caledonia,2011,Hurricane,9051.3
+4022,Bennington,2011,Hurricane,44084.2
+4022,Orleans,2011,Hurricane,860043.46
+4022,Rutland,2011,Hurricane,1979.79
+4022,Rutland,2011,Hurricane,4790.76
+4022,Windham,2011,Hurricane,11163.79
+4022,Lamoille,2011,Hurricane,1110173.42
+4022,Windsor,2011,Hurricane,2709449.52
+4022,Windsor,2011,Hurricane,90798.45
+4022,Windsor,2011,Hurricane,213110.43
+4022,Windsor,2011,Hurricane,1839080.11
+4022,Orange,2011,Hurricane,732715.62
+4022,Windsor,2011,Hurricane,0.0
+4022,Windham,2011,Hurricane,10236.19
+4022,Windham,2011,Hurricane,60887.86
+4022,Statewide,2011,Hurricane,638.78
+4022,Orleans,2011,Hurricane,79460.7
+4022,Rutland,2011,Hurricane,724598.52
+4022,Washington,2011,Hurricane,29801.79
+4022,Windham,2011,Hurricane,3956374.04
+4022,Rutland,2011,Hurricane,16790.32
+4022,Orange,2011,Hurricane,2700.0
+4022,Rutland,2011,Hurricane,49840.55
+4022,Orange,2011,Hurricane,22799.26
+4022,Windham,2011,Hurricane,1956687.89
+4022,Windsor,2011,Hurricane,28958.4
+4022,Windsor,2011,Hurricane,21500.56
+4022,Windham,2011,Hurricane,927449.2
+4022,Statewide,2011,Hurricane,4294.13
+4022,Rutland,2011,Hurricane,1693.34
+4022,Statewide,2011,Hurricane,990.0
+4022,Windham,2011,Hurricane,1468114.47
+4022,Windham,2011,Hurricane,23666.18
+4022,Windham,2011,Hurricane,1371357.1
+4022,Windsor,2011,Hurricane,5230050.94
+4022,Orleans,2011,Hurricane,16065.08
+4022,Rutland,2011,Hurricane,21226.36
+4022,Rutland,2011,Hurricane,19176.84
+4022,Rutland,2011,Hurricane,456656.97
+4022,Rutland,2011,Hurricane,3163627.71
+4022,Statewide,2011,Hurricane,14268.9
+4022,Rutland,2011,Hurricane,52902.5
+4022,Orleans,2011,Hurricane,13459.52
+4022,Lamoille,2011,Hurricane,17928.01
+4022,Washington,2011,Hurricane,75456.03
+4022,Washington,2011,Hurricane,125054.37
+4022,Washington,2011,Hurricane,410042.44
+4022,Lamoille,2011,Hurricane,17708.86
+4022,Windsor,2011,Hurricane,34853.03
+4022,Lamoille,2011,Hurricane,46317.87
+4022,Windham,2011,Hurricane,931922.18
+4022,Windsor,2011,Hurricane,1062356.54
+4022,Orleans,2011,Hurricane,480122.0
+4022,Rutland,2011,Hurricane,12039.0
+4022,Windham,2011,Hurricane,240460.78
+4022,Rutland,2011,Hurricane,20972.23
+4022,Orleans,2011,Hurricane,28414.59
+4022,Windham,2011,Hurricane,76265.24
+4022,Windsor,2011,Hurricane,83311.82
+4022,Windham,2011,Hurricane,90116.26
+4022,Windsor,2011,Hurricane,59469.11
+4022,Statewide,2011,Hurricane,1146857.24
+4022,Rutland,2011,Hurricane,2136.94
+4022,Statewide,2011,Hurricane,29368649.2
+4022,Orange,2011,Hurricane,52417.44
+4022,Statewide,2011,Hurricane,570945.66
+4022,Washington,2011,Hurricane,1934.31
+4022,Windham,2011,Hurricane,7293.6
+4022,Rutland,2011,Hurricane,87884.78
+4022,Washington,2011,Hurricane,57489.14
+4022,Rutland,2011,Hurricane,49862.88
+4022,Washington,2011,Hurricane,28632.0
+4022,Windsor,2011,Hurricane,2835.35
+4022,Windham,2011,Hurricane,585521.56
+4022,Windsor,2011,Hurricane,668249.07
+4022,Orange,2011,Hurricane,53455.95
+4022,Statewide,2011,Hurricane,36717.08
+4022,Statewide,2011,Hurricane,771630.24
+4022,Windham,2011,Hurricane,886989.97
+4022,Rutland,2011,Hurricane,62178.09
+4022,Windham,2011,Hurricane,38592.83
+4022,Rutland,2011,Hurricane,68970.38
+4022,Orange,2011,Hurricane,3420.0
+4022,Windham,2011,Hurricane,646800.85
+4022,Windsor,2011,Hurricane,49622.65
+4022,Windsor,2011,Hurricane,1666648.11
+4022,Windsor,2011,Hurricane,3430851.41
+4022,Windham,2011,Hurricane,9365.82
+4022,Statewide,2011,Hurricane,1814427.09
+4022,Windham,2011,Hurricane,1023.53
+4022,Windham,2011,Hurricane,2982919.86
+4022,Orange,2011,Hurricane,7761.41
+4022,Orange,2011,Hurricane,113743.71
+4022,Windham,2011,Hurricane,452907.65
+4022,Rutland,2011,Hurricane,7775.9
+4022,Orange,2011,Hurricane,1934430.75
+4022,Statewide,2011,Hurricane,953617.58
+4022,Windham,2011,Hurricane,13684.14
+4022,Windsor,2011,Hurricane,1434314.66
+4022,Washington,2011,Hurricane,22940.43
+4022,Windsor,2011,Hurricane,15100.3
+4022,Windsor,2011,Hurricane,766905.04
+4022,Windsor,2011,Hurricane,23029.06
+4022,Orange,2011,Hurricane,75861.28
+4022,Orange,2011,Hurricane,124097.97
+4022,Statewide,2011,Hurricane,144962.01
+4022,Rutland,2011,Hurricane,29180.37
+4022,Rutland,2011,Hurricane,18921.26
+4022,Windham,2011,Hurricane,194942.13
+4022,Rutland,2011,Hurricane,956264.47
+4022,Washington,2011,Hurricane,102126.42
+4022,Washington,2011,Hurricane,57070.64
+4022,Orleans,2011,Hurricane,17768.1
+4022,Washington,2011,Hurricane,10469.71
+4022,Washington,2011,Hurricane,1603250.33
+4022,Washington,2011,Hurricane,9275.36
+4022,Washington,2011,Hurricane,447722.9
+4022,Rutland,2011,Hurricane,294923.46
+4022,Rutland,2011,Hurricane,76984.46
+4022,Rutland,2011,Hurricane,1984078.76
+4022,Orleans,2011,Hurricane,16391.73
+4022,Windsor,2011,Hurricane,380092.88
+4022,Washington,2011,Hurricane,591153.81
+4022,Orange,2011,Hurricane,5886.16
+4022,Statewide,2011,Hurricane,2035409.31
+4022,Rutland,2011,Hurricane,1914620.57
+4022,Statewide,2011,Hurricane,15315.53
+4022,Orleans,2011,Hurricane,16015.24
+4022,Washington,2011,Hurricane,52229.82
+4022,Statewide,2011,Hurricane,55400687.03
+4022,Windham,2011,Hurricane,2277131.0
+4022,Windsor,2011,Hurricane,1855542.24
+4022,Washington,2011,Hurricane,1680117.0
+4022,Windsor,2011,Hurricane,1996345.74
+4022,Orleans,2011,Hurricane,16264.7
+4022,Rutland,2011,Hurricane,108647.54
+4022,Rutland,2011,Hurricane,170800.37
+4022,Lamoille,2011,Hurricane,13150.82
+4022,Rutland,2011,Hurricane,2459.52
+4022,Windham,2011,Hurricane,469480.97
+4022,Rutland,2011,Hurricane,92831.96
+4022,Statewide,2011,Hurricane,290993.03
+4022,Washington,2011,Hurricane,629594.93
+4022,Orange,2011,Hurricane,2400524.55
+4022,Rutland,2011,Hurricane,41335.07
+4022,Washington,2011,Hurricane,11264.1
+4022,Statewide,2011,Hurricane,11979.0
+4022,Statewide,2011,Hurricane,5989.5
+4022,Windsor,2011,Hurricane,94010.87
+4022,Windsor,2011,Hurricane,266527.2
+4022,Windsor,2011,Hurricane,15335.02
+4022,Windsor,2011,Hurricane,9083.21
+4022,Rutland,2011,Hurricane,928418.57
+4022,Lamoille,2011,Hurricane,6471.59
+4022,Orleans,2011,Hurricane,45878.67
+4022,Windham,2011,Hurricane,3973.99
+4022,Orleans,2011,Hurricane,6300.0
+4022,Washington,2011,Hurricane,346889.01
+4022,Orleans,2011,Hurricane,35141.74
+4022,Rutland,2011,Hurricane,145415.92
+4022,Lamoille,2011,Hurricane,302110.33
+4022,Washington,2011,Hurricane,32134.75
+4022,Windsor,2011,Hurricane,2140606.42
+4022,Statewide,2011,Hurricane,209290.53
+4022,Windham,2011,Hurricane,3013389.24
+4022,Orleans,2011,Hurricane,81236.44
+4022,Orange,2011,Hurricane,49074.88
+4022,Washington,2011,Hurricane,260835.04
+4022,Windham,2011,Hurricane,4151570.7
+4022,Rutland,2011,Hurricane,121653.37
+4022,Orleans,2011,Hurricane,164802.97
+4022,Windsor,2011,Hurricane,8532.0
+4022,Washington,2011,Hurricane,900.0
+4022,Windham,2011,Hurricane,623316.42
+4022,Windham,2011,Hurricane,10976.94
+4022,Washington,2011,Hurricane,2114202.44
+4022,Rutland,2011,Hurricane,8766.0
+4022,Rutland,2011,Hurricane,7588.44
+4022,Rutland,2011,Hurricane,3136.68
+4022,Orange,2011,Hurricane,62556.43
+4022,Orleans,2011,Hurricane,41850.57
+4022,Washington,2011,Hurricane,25983.0
+4022,Windham,2011,Hurricane,131297.83
+4022,Windham,2011,Hurricane,52266.1
+4022,Windham,2011,Hurricane,2378.21
+4022,Windsor,2011,Hurricane,11496.86
+4022,Windsor,2011,Hurricane,1066.64
+4022,Windham,2011,Hurricane,965699.94
+4022,Orange,2011,Hurricane,3055.67
+4022,Chittenden,2011,Hurricane,3803.84
+4022,Orange,2011,Hurricane,139137.95
+4022,Orange,2011,Hurricane,7125.58
+4022,Washington,2011,Hurricane,97397.87
+4022,Rutland,2011,Hurricane,298640.72
+4022,Windsor,2011,Hurricane,20671.58
+4022,Windsor,2011,Hurricane,1813798.54
+4022,Windsor,2011,Hurricane,1929753.17
+4022,Rutland,2011,Hurricane,1454.3
+4022,Rutland,2011,Hurricane,115261.91
+4022,Orleans,2011,Hurricane,1569.6
+4022,Rutland,2011,Hurricane,28382.48
+4022,Windsor,2011,Hurricane,1082.93
+4022,Windsor,2011,Hurricane,5367640.79
+4022,Windham,2011,Hurricane,14787.84
+4022,Windsor,2011,Hurricane,1348440.83
+4022,Windsor,2011,Hurricane,485294.42
+4022,Windsor,2011,Hurricane,1951207.41
+4022,Windsor,2011,Hurricane,156186.97
+4022,Windham,2011,Hurricane,29904.22
+4022,Windsor,2011,Hurricane,8263.79
+4022,Windsor,2011,Hurricane,4431338.88
+4022,Washington,2011,Hurricane,291306.59
+4043,Washington,2011,Severe Storm(s),27975.98
+4043,Franklin,2011,Severe Storm(s),238312.29
+4043,Franklin,2011,Severe Storm(s),361707.92
+4043,Windham,2011,Severe Storm(s),848.85
+4043,Windham,2011,Severe Storm(s),104431.38
+4043,Statewide,2011,Severe Storm(s),20994.76
+4043,Washington,2011,Severe Storm(s),192096.19
+4066,Orleans,2012,Severe Storm(s),59526.85
+4066,Addison,2012,Severe Storm(s),939.18
+4066,Lamoille,2012,Severe Storm(s),69330.59
+4066,Addison,2012,Severe Storm(s),23324.48
+4066,Orleans,2012,Severe Storm(s),3730.33
+4066,Lamoille,2012,Severe Storm(s),25965.07
+4066,Orleans,2012,Severe Storm(s),269142.65
+4066,Lamoille,2012,Severe Storm(s),62934.98
+4066,Orleans,2012,Severe Storm(s),270491.04
+4066,Statewide,2012,Severe Storm(s),22132.8
+4066,Lamoille,2012,Severe Storm(s),62703.39
+4066,Addison,2012,Severe Storm(s),74803.97
+4066,Addison,2012,Severe Storm(s),30568.16
+4066,Lamoille,2012,Severe Storm(s),42167.9
+4120,Lamoille,2013,Flood,42672.95
+4120,Chittenden,2013,Flood,250012.54
+4120,Statewide,2013,Flood,44018.3
+4120,Chittenden,2013,Flood,78415.97
+4120,Chittenden,2013,Flood,57241.86
+4120,Chittenden,2013,Flood,4817.15
+4120,Chittenden,2013,Flood,5434.58
+4120,Lamoille,2013,Flood,236720.04
+4120,Chittenden,2013,Flood,27949.9
+4120,Chittenden,2013,Flood,75342.57
+4120,Essex,2013,Flood,147746.32
+4120,Lamoille,2013,Flood,6572.06
+4120,Chittenden,2013,Flood,312358.24
+4120,Chittenden,2013,Flood,625380.31
+4140,Statewide,2013,Flood,13534.28
+4140,Orange,2013,Flood,4028.96
+4140,Washington,2013,Flood,35136.43
+4140,Statewide,2013,Flood,130661.75
+4140,Windsor,2013,Flood,29443.76
+4140,Windsor,2013,Flood,101966.03
+4140,Windsor,2013,Flood,27678.36
+4140,Chittenden,2013,Flood,331838.82
+4140,Washington,2013,Flood,72325.72
+4140,Rutland,2013,Flood,20845.9
+4140,Orange,2013,Flood,10384.67
+4140,Caledonia,2013,Flood,8145.29
+4140,Rutland,2013,Flood,20296.72
+4140,Washington,2013,Flood,3650.89
+4140,Caledonia,2013,Flood,157903.56
+4140,Rutland,2013,Flood,13643.55
+4140,Orleans,2013,Flood,41195.37
+4140,Windsor,2013,Flood,725312.03
+4140,Orange,2013,Flood,214514.28
+4140,Statewide,2013,Flood,1173171.18
+4140,Caledonia,2013,Flood,7686.44
+4140,Rutland,2013,Flood,86842.68
+4140,Statewide,2013,Flood,28426.65
+4140,Washington,2013,Flood,47146.44
+4140,Windsor,2013,Flood,45228.45
+4140,Orange,2013,Flood,80902.05
+4140,Chittenden,2013,Flood,25702.86
+4140,Chittenden,2013,Flood,8959.3
+4140,Chittenden,2013,Flood,812.77
+4140,Windsor,2013,Flood,186781.69
+4140,Windsor,2013,Flood,18870.27
+4140,Caledonia,2013,Flood,3910.73
+4140,Orleans,2013,Flood,57448.6
+4140,Rutland,2013,Flood,48595.4
+4140,Orange,2013,Flood,306688.42
+4140,Windsor,2013,Flood,24208.77
+4140,Caledonia,2013,Flood,5047.75
+4140,Windsor,2013,Flood,188878.62
+4140,Washington,2013,Flood,771170.02
+4140,Chittenden,2013,Flood,71871.54
+4140,Washington,2013,Flood,5184.0
+4140,Chittenden,2013,Flood,16990.63
+4140,Chittenden,2013,Flood,21923.61
+4140,Orange,2013,Flood,43887.82
+4140,Chittenden,2013,Flood,311461.88
+4140,Caledonia,2013,Flood,46828.01
+4140,Orange,2013,Flood,10795.88
+4140,Chittenden,2013,Flood,43474.73
+4140,Chittenden,2013,Flood,23388.8
+4140,Chittenden,2013,Flood,20552.75
+4140,Orleans,2013,Flood,20312.29
+4140,Washington,2013,Flood,62014.48
+4140,Orange,2013,Flood,2509.94
+4140,Chittenden,2013,Flood,1389.08
+4140,Orange,2013,Flood,73150.2
+4140,Chittenden,2013,Flood,237940.65
+4140,Chittenden,2013,Flood,137906.73
+4140,Rutland,2013,Flood,8626.27
+4163,Franklin,2014,Severe Ice Storm,50936.43
+4163,Orleans,2014,Severe Ice Storm,36631.49
+4163,Caledonia,2014,Severe Ice Storm,30316.86
+4163,Orleans,2014,Severe Ice Storm,11424.56
+4163,Chittenden,2014,Severe Ice Storm,1596.32
+4163,Lamoille,2014,Severe Ice Storm,30521.12
+4163,Statewide,2014,Severe Ice Storm,31796.67
+4163,Franklin,2014,Severe Ice Storm,42314.71
+4163,Franklin,2014,Severe Ice Storm,525423.16
+4163,Caledonia,2014,Severe Ice Storm,18377.97
+4163,Orleans,2014,Severe Ice Storm,28123.56
+4163,Orleans,2014,Severe Ice Storm,9479.68
+4163,Franklin,2014,Severe Ice Storm,5170.13
+4163,Orleans,2014,Severe Ice Storm,7312.46
+4163,Franklin,2014,Severe Ice Storm,4111.8
+4163,Orleans,2014,Severe Ice Storm,4918.71
+4163,Orleans,2014,Severe Ice Storm,6494.48
+4163,Franklin,2014,Severe Ice Storm,50282.91
+4163,Franklin,2014,Severe Ice Storm,51301.04
+4163,Franklin,2014,Severe Ice Storm,8963.39
+4163,Orleans,2014,Severe Ice Storm,16566.7
+4163,Chittenden,2014,Severe Ice Storm,14315.23
+4163,Franklin,2014,Severe Ice Storm,36198.81
+4163,Franklin,2014,Severe Ice Storm,51237.56
+4163,Franklin,2014,Severe Ice Storm,9298.97
+4163,Chittenden,2014,Severe Ice Storm,5114.31
+4163,Statewide,2014,Severe Ice Storm,717163.88
+4163,Franklin,2014,Severe Ice Storm,20681.31
+4163,Chittenden,2014,Severe Ice Storm,47350.77
+4163,Orleans,2014,Severe Ice Storm,38813.54
+4163,Lamoille,2014,Severe Ice Storm,51181.89
+4163,Statewide,2014,Severe Ice Storm,4378920.53
+4178,Orleans,2014,Flood,25490.14
+4178,Orleans,2014,Flood,12312.66
+4178,Franklin,2014,Flood,89741.03
+4178,Orange,2014,Flood,13706.44
+4178,Orleans,2014,Flood,12250.95
+4178,Caledonia,2014,Flood,10357.8
+4178,Essex,2014,Flood,108159.79
+4178,Orange,2014,Flood,30604.63
+4178,Caledonia,2014,Flood,29057.63
+4178,Orange,2014,Flood,46013.07
+4178,Orange,2014,Flood,33253.55
+4178,Statewide,2014,Flood,568136.94
+4178,Orange,2014,Flood,4020.6
+4178,Essex,2014,Flood,14912.72
+4178,Washington,2014,Flood,4166.63
+4178,Lamoille,2014,Flood,23270.79
+4178,Lamoille,2014,Flood,68127.57
+4178,Essex,2014,Flood,38590.2
+4178,Statewide,2014,Flood,37522.85
+4178,Orleans,2014,Flood,14138.38
+4178,Franklin,2014,Flood,16004.39
+4178,Lamoille,2014,Flood,0.0
+4178,Caledonia,2014,Flood,12409.4
+4178,Caledonia,2014,Flood,13750.49
+4178,Orleans,2014,Flood,40574.14
+4178,Lamoille,2014,Flood,11618.45
+4178,Essex,2014,Flood,49951.73
+4178,Lamoille,2014,Flood,283433.26
+4178,Caledonia,2014,Flood,3202.75
+4178,Essex,2014,Flood,28116.05
+4178,Franklin,2014,Flood,7481.81
+4178,Washington,2014,Flood,168264.4
+4178,Caledonia,2014,Flood,5881.43
+4207,Washington,2015,Severe Storm(s),3331.25
+4207,Rutland,2015,Severe Storm(s),16595.42
+4207,Windsor,2015,Severe Storm(s),16718.36
+4207,Orange,2015,Severe Storm(s),11590.26
+4207,Rutland,2015,Severe Storm(s),27659.15
+4207,Addison,2015,Severe Storm(s),17059.15
+4207,Windsor,2015,Severe Storm(s),17763.65
+4207,Orleans,2015,Severe Storm(s),3329.85
+4207,Washington,2015,Severe Storm(s),4162.5
+4207,Addison,2015,Severe Storm(s),6053.25
+4207,Rutland,2015,Severe Storm(s),29400.7
+4207,Chittenden,2015,Severe Storm(s),24824.42
+4207,Rutland,2015,Severe Storm(s),10709.44
+4207,Washington,2015,Severe Storm(s),428002.94
+4207,Orange,2015,Severe Storm(s),4538.22
+4207,Rutland,2015,Severe Storm(s),48477.18
+4207,Windsor,2015,Severe Storm(s),5885.74
+4207,Rutland,2015,Severe Storm(s),10254.09
+4207,Addison,2015,Severe Storm(s),5314.9
+4207,Washington,2015,Severe Storm(s),9552.66
+4207,Rutland,2015,Severe Storm(s),27150.0
+4207,Rutland,2015,Severe Storm(s),13788.74
+4207,Addison,2015,Severe Storm(s),4404.56
+4207,Windsor,2015,Severe Storm(s),74151.35
+4207,Statewide,2015,Severe Storm(s),203811.12
+4207,Addison,2015,Severe Storm(s),54707.56
+4207,Chittenden,2015,Severe Storm(s),115081.5
+4207,Chittenden,2015,Severe Storm(s),14780.76
+4207,Windsor,2015,Severe Storm(s),50491.34
+4207,Rutland,2015,Severe Storm(s),8165.69
+4207,Windsor,2015,Severe Storm(s),14238.92
+4207,Lamoille,2015,Severe Storm(s),2202072.51
+4207,Caledonia,2015,Severe Storm(s),85165.06
+4207,Rutland,2015,Severe Storm(s),34827.21
+4207,Statewide,2015,Severe Storm(s),45975.58
+4207,Orleans,2015,Severe Storm(s),9689.89
+4207,Orange,2015,Severe Storm(s),25248.0
+4207,Washington,2015,Severe Storm(s),8539.82
+4207,Orange,2015,Severe Storm(s),18817.3
+4207,Addison,2015,Severe Storm(s),5244.1
+4207,Washington,2015,Severe Storm(s),11799.09
+4207,Addison,2015,Severe Storm(s),32450.38
+4207,Addison,2015,Severe Storm(s),20951.28
+4207,Windsor,2015,Severe Storm(s),3326.06
+4207,Washington,2015,Severe Storm(s),14799.03
+4207,Chittenden,2015,Severe Storm(s),70424.43
+4207,Chittenden,2015,Severe Storm(s),11184.5
+4207,Orleans,2015,Severe Storm(s),12136.05
+4207,Rutland,2015,Severe Storm(s),20169.18
+4207,Orange,2015,Severe Storm(s),34278.64
+4232,Chittenden,2015,Severe Storm(s),201355.07
+4232,Statewide,2015,Severe Storm(s),50522.0
+4232,Addison,2015,Severe Storm(s),262886.48
+4232,Chittenden,2015,Severe Storm(s),3490.76
+4232,Chittenden,2015,Severe Storm(s),6541.16
+4232,Addison,2015,Severe Storm(s),456372.05
+4232,Chittenden,2015,Severe Storm(s),103673.96
+4232,Chittenden,2015,Severe Storm(s),169442.55
+4232,Statewide,2015,Severe Storm(s),75570.9
+4330,Orange,2017,Severe Storm(s),33392.36
+4330,Washington,2017,Severe Storm(s),620457.59
+4330,Orange,2017,Severe Storm(s),26800.24
+4330,Windsor,2017,Severe Storm(s),149981.45
+4330,Windsor,2017,Severe Storm(s),71136.02
+4330,Addison,2017,Severe Storm(s),50867.76
+4330,Addison,2017,Severe Storm(s),4005.0
+4330,Rutland,2017,Severe Storm(s),395178.53
+4330,Rutland,2017,Severe Storm(s),171927.06
+4330,Statewide,2017,Severe Storm(s),629485.71
+4330,Washington,2017,Severe Storm(s),24094.24
+4330,Caledonia,2017,Severe Storm(s),274701.93
+4330,Rutland,2017,Severe Storm(s),375965.83
+4330,Bennington,2017,Severe Storm(s),70865.22
+4330,Windsor,2017,Severe Storm(s),6157.43
+4330,Orange,2017,Severe Storm(s),22263.63
+4330,Orange,2017,Severe Storm(s),27214.5
+4330,Orange,2017,Severe Storm(s),2437312.03
+4330,Windsor,2017,Severe Storm(s),12325.08
+4330,Windsor,2017,Severe Storm(s),26290.1
+4330,Washington,2017,Severe Storm(s),122502.73
+4330,Caledonia,2017,Severe Storm(s),35464.45
+4330,Addison,2017,Severe Storm(s),7337.69
+4330,Rutland,2017,Severe Storm(s),41807.07
+4330,Addison,2017,Severe Storm(s),142663.29
+4330,Orange,2017,Severe Storm(s),14408.57
+4330,Orange,2017,Severe Storm(s),74079.0
+4330,Rutland,2017,Severe Storm(s),126190.0
+4330,Statewide,2017,Severe Storm(s),862881.07
+4330,Orange,2017,Severe Storm(s),31707.9
+4330,Rutland,2017,Severe Storm(s),39109.5
+4330,Addison,2017,Severe Storm(s),40022.47
+4330,Orange,2017,Severe Storm(s),407234.17
+4330,Rutland,2017,Severe Storm(s),13899.53
+4330,Rutland,2017,Severe Storm(s),5123.19
+4330,Rutland,2017,Severe Storm(s),31447.09
+4330,Windsor,2017,Severe Storm(s),2464673.74
+4330,Windsor,2017,Severe Storm(s),215551.97
+4330,Addison,2017,Severe Storm(s),31533.49
+4330,Windsor,2017,Severe Storm(s),33262.08
+4330,Caledonia,2017,Severe Storm(s),2784.34
+4330,Washington,2017,Severe Storm(s),44698.74
+4330,Addison,2017,Severe Storm(s),400705.55
+4330,Orange,2017,Severe Storm(s),28571.81
+4330,Orange,2017,Severe Storm(s),56098.01
+4330,Orange,2017,Severe Storm(s),24237.58
+4330,Orange,2017,Severe Storm(s),14382.62
+4330,Windsor,2017,Severe Storm(s),39095.58
+4330,Orange,2017,Severe Storm(s),78317.14
+4330,Rutland,2017,Severe Storm(s),47088.1
+4330,Caledonia,2017,Severe Storm(s),58965.89
+4356,Chittenden,2018,Severe Storm(s),8044.47
+4356,Orleans,2018,Severe Storm(s),3465.9
+4356,Washington,2018,Severe Storm(s),538420.04
+4356,Washington,2018,Severe Storm(s),10716.53
+4356,Franklin,2018,Severe Storm(s),7421.12
+4356,Addison,2018,Severe Storm(s),9381.14
+4356,Franklin,2018,Severe Storm(s),17268.37
+4356,Chittenden,2018,Severe Storm(s),8359.77
+4356,Windham,2018,Severe Storm(s),191059.11
+4356,Orange,2018,Severe Storm(s),17914.04
+4356,Addison,2018,Severe Storm(s),25293.39
+4356,Windham,2018,Severe Storm(s),153918.52
+4356,Washington,2018,Severe Storm(s),6943.54
+4356,Franklin,2018,Severe Storm(s),3396.16
+4356,Windham,2018,Severe Storm(s),211846.56
+4356,Addison,2018,Severe Storm(s),13670.24
+4356,Lamoille,2018,Severe Storm(s),13420.37
+4356,Statewide,2018,Severe Storm(s),236955.49
+4356,Chittenden,2018,Severe Storm(s),15536.57
+4356,Chittenden,2018,Severe Storm(s),17710.36
+4356,Statewide,2018,Severe Storm(s),18896.85
+4356,Chittenden,2018,Severe Storm(s),54666.91
+4356,Franklin,2018,Severe Storm(s),28762.79
+4356,Addison,2018,Severe Storm(s),12810.81
+4356,Windham,2018,Severe Storm(s),420467.52
+4356,Windham,2018,Severe Storm(s),90856.41
+4356,Franklin,2018,Severe Storm(s),7275.45
+4356,Windham,2018,Severe Storm(s),15974.41
+4356,Chittenden,2018,Severe Storm(s),13354.04
+4356,Lamoille,2018,Severe Storm(s),314251.66
+4356,Washington,2018,Severe Storm(s),7145.06
+4356,Franklin,2018,Severe Storm(s),85106.44
+4356,Washington,2018,Severe Storm(s),10315.23
+4356,Orange,2018,Severe Storm(s),4322.56
+4356,Chittenden,2018,Severe Storm(s),20698.2
+4356,Lamoille,2018,Severe Storm(s),123438.45
+4356,Chittenden,2018,Severe Storm(s),3176.17
+4356,Statewide,2018,Severe Storm(s),2106191.74
+4356,Statewide,2018,Severe Storm(s),449156.79
+4356,Addison,2018,Severe Storm(s),8691.01
+4380,Lamoille,2018,Severe Storm(s),3487.91
+4380,Chittenden,2018,Severe Storm(s),30161.6
+4380,Chittenden,2018,Severe Storm(s),1230303.15
+4380,Washington,2018,Severe Storm(s),115962.72
+4380,Chittenden,2018,Severe Storm(s),116853.78
+4380,Chittenden,2018,Severe Storm(s),130619.86
+4380,Statewide,2018,Severe Storm(s),272547.85
+4380,Statewide,2018,Severe Storm(s),1319252.18
+4380,Chittenden,2018,Severe Storm(s),21331.4
+4380,Lamoille,2018,Severe Storm(s),30203.41
+4380,Lamoille,2018,Severe Storm(s),7089.87
+4445,Statewide,2019,Flood,80517.25
+4445,Rutland,2019,Flood,9366.96
+4445,Windsor,2019,Flood,17166.82
+4445,Statewide,2019,Flood,9556.87
+4445,Windsor,2019,Flood,35549.99
+4445,Rutland,2019,Flood,11877.26
+4445,Washington,2019,Flood,126007.34
+4445,Orange,2019,Flood,21058.33
+4445,Rutland,2019,Flood,18033.45
+4445,Orange,2019,Flood,14568.37
+4445,Essex,2019,Flood,2634.38
+4445,Windsor,2019,Flood,31897.43
+4445,Rutland,2019,Flood,23135.67
+4445,Orange,2019,Flood,47998.67
+4445,Windsor,2019,Flood,10687.5
+4445,Rutland,2019,Flood,20634.93
+4445,Windsor,2019,Flood,32866.57
+4445,Rutland,2019,Flood,58131.45
+4445,Windsor,2019,Flood,34599.35
+4445,Rutland,2019,Flood,11296.21
+4445,Bennington,2019,Flood,72122.43
+4445,Washington,2019,Flood,11093.54
+4445,Rutland,2019,Flood,9053.94
+4445,Windsor,2019,Flood,81641.99
+4445,Washington,2019,Flood,3948.75
+4445,Washington,2019,Flood,12298.58

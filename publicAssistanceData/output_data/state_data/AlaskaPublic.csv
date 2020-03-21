@@ -1,0 +1,478 @@
+disasterNumber,county,year,incidentType,amountOblig
+1316,Aleutians East,2000,Severe Storm(s),7535.63
+1316,Statewide,2000,Severe Storm(s),239776.11
+1316,Lake and Peninsula,2000,Severe Storm(s),46156.43
+1316,Kenai Peninsula,2000,Severe Storm(s),328201.97
+1316,Anchorage,2000,Severe Storm(s),558241.21
+1316,Kenai Peninsula,2000,Severe Storm(s),463934.3
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),31699.25
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),167075.82
+1316,Kenai Peninsula,2000,Severe Storm(s),580121.97
+1316,Kenai Peninsula,2000,Severe Storm(s),0.0
+1316,Lake and Peninsula,2000,Severe Storm(s),21495.75
+1316,Statewide,2000,Severe Storm(s),9210.07
+1316,Dillingham (CA),2000,Severe Storm(s),15485.21
+1316,Aleutians East,2000,Severe Storm(s),2329.28
+1316,Aleutians East,2000,Severe Storm(s),19763.67
+1316,Kodiak Island,2000,Severe Storm(s),23809.41
+1316,Kenai Peninsula,2000,Severe Storm(s),28911.16
+1316,Southeast Fairbanks (C,2000,Severe Storm(s),11493.75
+1316,Statewide,2000,Severe Storm(s),3352741.98
+1316,Fairbanks North Star,2000,Severe Storm(s),181871.9
+1316,Lake and Peninsula,2000,Severe Storm(s),27569.9
+1316,Statewide,2000,Severe Storm(s),215879.45
+1316,Aleutians East,2000,Severe Storm(s),18473.1
+1316,Aleutians East,2000,Severe Storm(s),6115.5
+1316,Anchorage,2000,Severe Storm(s),6435.75
+1316,Kenai Peninsula,2000,Severe Storm(s),9785.34
+1316,Lake and Peninsula,2000,Severe Storm(s),1814.4
+1316,Fairbanks North Star,2000,Severe Storm(s),37139.21
+1316,Statewide,2000,Severe Storm(s),532282.35
+1316,Lake and Peninsula,2000,Severe Storm(s),0.0
+1316,Lake and Peninsula,2000,Severe Storm(s),2895.9
+1316,Statewide,2000,Severe Storm(s),29170.71
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),4049.84
+1316,Anchorage,2000,Severe Storm(s),874807.47
+1316,Lake and Peninsula,2000,Severe Storm(s),0.0
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),24804.83
+1316,Statewide,2000,Severe Storm(s),111179.99
+1316,Bristol Bay,2000,Severe Storm(s),550038.89
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),106028.63
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),2201.25
+1316,Kenai Peninsula,2000,Severe Storm(s),12713.2
+1316,Lake and Peninsula,2000,Severe Storm(s),44215.5
+1316,Lake and Peninsula,2000,Severe Storm(s),4716.0
+1316,Statewide,2000,Severe Storm(s),59791.47
+1316,Bethel (CA),2000,Severe Storm(s),14128.09
+1316,Lake and Peninsula,2000,Severe Storm(s),5914.5
+1316,Kenai Peninsula,2000,Severe Storm(s),8178.02
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),49077.34
+1316,Matanuska-Susitna,2000,Severe Storm(s),319567.83
+1316,Dillingham (CA),2000,Severe Storm(s),18783.94
+1316,Lake and Peninsula,2000,Severe Storm(s),5257.16
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),232453.86
+1316,Lake and Peninsula,2000,Severe Storm(s),975.0
+1316,Kenai Peninsula,2000,Severe Storm(s),36654.23
+1316,Dillingham (CA),2000,Severe Storm(s),6131.99
+1316,Statewide,2000,Severe Storm(s),837410.78
+1316,Matanuska-Susitna,2000,Severe Storm(s),35606.84
+1316,Statewide,2000,Severe Storm(s),51493.13
+1316,Aleutians East,2000,Severe Storm(s),12165.71
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),2286.38
+1316,Valdez-Cordova (CA),2000,Severe Storm(s),20046.75
+1316,Matanuska-Susitna,2000,Severe Storm(s),15947.25
+1423,Statewide,2002,Flood,186598.27
+1423,Bethel (CA),2002,Flood,31267.5
+1423,Bethel (CA),2002,Flood,54333.37
+1423,Bethel (CA),2002,Flood,91688.25
+1423,Wade Hampton (CA),2002,Flood,109186.53
+1423,Fairbanks North Star,2002,Flood,0.0
+1423,Yukon-Koyukuk (CA),2002,Flood,23945.0
+1423,Fairbanks North Star,2002,Flood,15874.37
+1423,Statewide,2002,Flood,33923.46
+1423,Statewide,2002,Flood,360483.06
+1423,Statewide,2002,Flood,406280.25
+1423,Bethel (CA),2002,Flood,876.98
+1423,Wade Hampton (CA),2002,Flood,1015.2
+1423,Wade Hampton (CA),2002,Flood,108003.69
+1423,Bethel (CA),2002,Flood,48088.78
+1423,Bethel (CA),2002,Flood,14565.75
+1423,Statewide,2002,Flood,0.0
+1423,Bethel (CA),2002,Flood,3870.0
+1423,Bethel (CA),2002,Flood,35035.5
+1423,Bethel (CA),2002,Flood,1593826.72
+1423,Dillingham (CA),2002,Flood,0.0
+1423,Bethel (CA),2002,Flood,7547.25
+1423,Fairbanks North Star,2002,Flood,18669.35
+1440,Southeast Fairbanks (C,2002,Earthquake,179735.7
+1440,Yukon-Koyukuk (CA),2002,Earthquake,3723.88
+1440,Statewide,2002,Earthquake,16280108.47
+1440,Valdez-Cordova (CA),2002,Earthquake,8275.5
+1440,Southeast Fairbanks (C,2002,Earthquake,67361.25
+1440,Statewide,2002,Earthquake,1734.14
+1440,Valdez-Cordova (CA),2002,Earthquake,162756.16
+1440,Southeast Fairbanks (C,2002,Earthquake,109010.4
+1440,Statewide,2002,Earthquake,23076.0
+1440,Valdez-Cordova (CA),2002,Earthquake,116673.36
+1440,Southeast Fairbanks (C,2002,Earthquake,10818.8
+1445,Kenai Peninsula,2002,Severe Storm(s),567132.45
+1445,Kenai Peninsula,2002,Severe Storm(s),6747.68
+1445,Kodiak Island,2002,Severe Storm(s),1461147.22
+1445,Statewide,2002,Severe Storm(s),2305213.63
+1445,Lake and Peninsula,2002,Severe Storm(s),1484.44
+1445,Kenai Peninsula,2002,Severe Storm(s),889282.01
+1445,Statewide,2002,Severe Storm(s),8749.34
+1445,Kodiak Island,2002,Severe Storm(s),3676.34
+1445,Statewide,2002,Severe Storm(s),1409318.72
+1445,Kenai Peninsula,2002,Severe Storm(s),82049.45
+1445,Lake and Peninsula,2002,Severe Storm(s),76136.6
+1445,Kenai Peninsula,2002,Severe Storm(s),356491.75
+1445,Kodiak Island,2002,Severe Storm(s),3134.51
+1445,Statewide,2002,Severe Storm(s),304207.22
+1445,Lake and Peninsula,2002,Severe Storm(s),251794.37
+1445,Kodiak Island,2002,Severe Storm(s),24022.96
+1445,Kenai Peninsula,2002,Severe Storm(s),27926.92
+1445,Kodiak Island,2002,Severe Storm(s),13510.21
+1445,Kenai Peninsula,2002,Severe Storm(s),15970.02
+1440,Statewide,2002,Earthquake,672293.22
+1445,Kenai Peninsula,2002,Severe Storm(s),773.7
+1445,Statewide,2002,Severe Storm(s),520501.17
+1440,Valdez-Cordova (CA),2002,Earthquake,323061.96
+1445,Statewide,2002,Severe Storm(s),91215.4
+1445,Kenai Peninsula,2002,Severe Storm(s),0.0
+1445,Kodiak Island,2002,Severe Storm(s),12640.26
+1445,Kenai Peninsula,2002,Severe Storm(s),19615.5
+1461,Statewide,2003,Severe Storm(s),128727.4
+1461,Statewide,2003,Severe Storm(s),0.0
+1461,Statewide,2003,Severe Storm(s),159251.2
+1461,Statewide,2003,Severe Storm(s),91537.79
+1461,Kenai Peninsula,2003,Severe Storm(s),216154.87
+1461,Matanuska-Susitna,2003,Severe Storm(s),16329.58
+1461,Matanuska-Susitna,2003,Severe Storm(s),1477.05
+1461,Statewide,2003,Severe Storm(s),33038.64
+1461,Matanuska-Susitna,2003,Severe Storm(s),20772.58
+1461,Matanuska-Susitna,2003,Severe Storm(s),443258.78
+1461,Anchorage,2003,Severe Storm(s),2449.5
+1461,Matanuska-Susitna,2003,Severe Storm(s),15006.41
+1461,Statewide,2003,Severe Storm(s),35249.75
+1461,Matanuska-Susitna,2003,Severe Storm(s),1387.65
+1461,Statewide,2003,Severe Storm(s),29382.33
+1461,Matanuska-Susitna,2003,Severe Storm(s),5272.93
+1461,Anchorage,2003,Severe Storm(s),148364.95
+1461,Statewide,2003,Severe Storm(s),5650.78
+1461,Anchorage,2003,Severe Storm(s),250958.82
+1461,Kenai Peninsula,2003,Severe Storm(s),21537.26
+1461,Matanuska-Susitna,2003,Severe Storm(s),202410.88
+1571,Nome (CA),2004,Severe Storm(s),111468.59
+1571,Bethel (CA),2004,Severe Storm(s),8971.81
+1571,Bethel (CA),2004,Severe Storm(s),0.0
+1571,Nome (CA),2004,Severe Storm(s),30080.71
+1571,Bethel (CA),2004,Severe Storm(s),0.0
+1571,Nome (CA),2004,Severe Storm(s),110488.83
+1571,Nome (CA),2004,Severe Storm(s),39129.58
+1571,Bethel (CA),2004,Severe Storm(s),1810.46
+1571,Bethel (CA),2004,Severe Storm(s),0.0
+1571,Bethel (CA),2004,Severe Storm(s),61705.9
+1571,Aleutians West (CA),2004,Severe Storm(s),6633092.89
+1571,Bethel (CA),2004,Severe Storm(s),74202.27
+1571,Nome (CA),2004,Severe Storm(s),0.0
+1571,Nome (CA),2004,Severe Storm(s),2877263.27
+1571,Nome (CA),2004,Severe Storm(s),81687.39
+1571,Nome (CA),2004,Severe Storm(s),7377.15
+1571,Nome (CA),2004,Severe Storm(s),2397.85
+1571,Nome (CA),2004,Severe Storm(s),30364.78
+1571,Nome (CA),2004,Severe Storm(s),0.0
+1571,Bethel (CA),2004,Severe Storm(s),567094.85
+1571,Bethel (CA),2004,Severe Storm(s),12960.0
+1571,Nome (CA),2004,Severe Storm(s),0.0
+1571,Nome (CA),2004,Severe Storm(s),7653.27
+1571,Nome (CA),2004,Severe Storm(s),11838.75
+1571,Nome (CA),2004,Severe Storm(s),790.04
+1571,Nome (CA),2004,Severe Storm(s),0.0
+1571,Nome (CA),2004,Severe Storm(s),16200.0
+1571,Statewide,2004,Severe Storm(s),0.0
+1571,Wade Hampton (CA),2004,Severe Storm(s),0.0
+1571,Bethel (CA),2004,Severe Storm(s),967.23
+1571,Northwest Arctic,2004,Severe Storm(s),39864.34
+1571,Wade Hampton (CA),2004,Severe Storm(s),0.0
+1571,Statewide,2004,Severe Storm(s),0.0
+1571,Statewide,2004,Severe Storm(s),62232.43
+1571,Statewide,2004,Severe Storm(s),325140.9
+1571,Nome (CA),2004,Severe Storm(s),5448.69
+1571,Wade Hampton (CA),2004,Severe Storm(s),32077.84
+1571,Northwest Arctic,2004,Severe Storm(s),31495.5
+1571,Wade Hampton (CA),2004,Severe Storm(s),0.0
+1571,Northwest Arctic,2004,Severe Storm(s),114618.88
+1571,Nome (CA),2004,Severe Storm(s),8411.03
+1571,Wade Hampton (CA),2004,Severe Storm(s),7621.26
+1571,Statewide,2004,Severe Storm(s),0.0
+1571,Northwest Arctic,2004,Severe Storm(s),21426.72
+1571,Nome (CA),2004,Severe Storm(s),3324.9
+1571,Statewide,2004,Severe Storm(s),0.0
+1571,Wade Hampton (CA),2004,Severe Storm(s),0.0
+1571,Nome (CA),2004,Severe Storm(s),0.0
+1571,Nome (CA),2004,Severe Storm(s),0.0
+1571,Wade Hampton (CA),2004,Severe Storm(s),102130.03
+1571,Wade Hampton (CA),2004,Severe Storm(s),0.0
+1571,Wade Hampton (CA),2004,Severe Storm(s),27776.37
+1571,Bethel (CA),2004,Severe Storm(s),34230.49
+1571,Statewide,2004,Severe Storm(s),579711.36
+1584,North Slope,2005,Severe Storm(s),5150.41
+1584,Statewide,2005,Severe Storm(s),150134.25
+1584,North Slope,2005,Severe Storm(s),2115474.7
+1584,North Slope,2005,Severe Storm(s),3240.68
+1584,North Slope,2005,Severe Storm(s),102560.45
+1584,North Slope,2005,Severe Storm(s),5286.05
+1618,Nome (CA),2005,Severe Storm(s),35958.0
+1618,Statewide,2005,Severe Storm(s),602909.67
+1618,Northwest Arctic,2005,Severe Storm(s),0.0
+1618,Nome (CA),2005,Severe Storm(s),40406.25
+1618,Nome (CA),2005,Severe Storm(s),19590.75
+1618,Nome (CA),2005,Severe Storm(s),0.0
+1618,Bethel (CA),2005,Severe Storm(s),454374.63
+1618,Nome (CA),2005,Severe Storm(s),0.0
+1618,Northwest Arctic,2005,Severe Storm(s),0.0
+1618,Nome (CA),2005,Severe Storm(s),0.0
+1618,Nome (CA),2005,Severe Storm(s),43293.93
+1618,Bethel (CA),2005,Severe Storm(s),3716.25
+1618,Nome (CA),2005,Severe Storm(s),24000.0
+1618,Wade Hampton (CA),2005,Severe Storm(s),0.0
+1618,Statewide,2005,Severe Storm(s),128986.3
+1657,Wade Hampton (CA),2006,Flood,65775.86
+1657,Wade Hampton (CA),2006,Flood,191886.96
+1657,Yukon-Koyukuk (CA),2006,Flood,190529.87
+1657,Bethel (CA),2006,Flood,13831.08
+1657,Bethel (CA),2006,Flood,19031.05
+1657,Yukon-Koyukuk (CA),2006,Flood,76983.0
+1657,Statewide,2006,Flood,38082.11
+1657,Bethel (CA),2006,Flood,18032.49
+1657,Yukon-Koyukuk (CA),2006,Flood,40559.21
+1657,Bethel (CA),2006,Flood,74900.76
+1657,Statewide,2006,Flood,188139.54
+1657,Wade Hampton (CA),2006,Flood,0.0
+1657,Yukon-Koyukuk (CA),2006,Flood,21275.76
+1663,Statewide,2006,Severe Storm(s),1177375.37
+1663,Statewide,2006,Severe Storm(s),505773.84
+1663,Statewide,2006,Severe Storm(s),246329.77
+1663,Matanuska-Susitna,2006,Severe Storm(s),25026.47
+1663,Valdez-Cordova (CA),2006,Severe Storm(s),5499.15
+1663,Statewide,2006,Severe Storm(s),71908.96
+1663,Statewide,2006,Severe Storm(s),6625.19
+1663,Valdez-Cordova (CA),2006,Severe Storm(s),1556.77
+1663,Matanuska-Susitna,2006,Severe Storm(s),71374.98
+1663,Matanuska-Susitna,2006,Severe Storm(s),1147554.31
+1663,Statewide,2006,Severe Storm(s),4169806.57
+1663,Statewide,2006,Severe Storm(s),1489975.84
+1669,Valdez-Cordova (CA),2006,Severe Storm(s),646457.74
+1666,Statewide,2006,Fire,2255205.79
+1666,Wade Hampton (CA),2006,Fire,0.0
+1669,Statewide,2006,Severe Storm(s),886455.33
+1666,Statewide,2006,Fire,454093.5
+1669,Statewide,2006,Severe Storm(s),312430.58
+1669,Statewide,2006,Severe Storm(s),33040.26
+1669,Kenai Peninsula,2006,Severe Storm(s),295846.91
+1669,Kenai Peninsula,2006,Severe Storm(s),531874.67
+1669,Kenai Peninsula,2006,Severe Storm(s),15886.22
+1669,Statewide,2006,Severe Storm(s),933609.24
+1669,Valdez-Cordova (CA),2006,Severe Storm(s),155300.71
+1666,Wade Hampton (CA),2006,Fire,247393.81
+1669,Valdez-Cordova (CA),2006,Severe Storm(s),0.0
+1669,Kenai Peninsula,2006,Severe Storm(s),490936.96
+1669,Valdez-Cordova (CA),2006,Severe Storm(s),128215.34
+1669,Statewide,2006,Severe Storm(s),406358.17
+1669,Valdez-Cordova (CA),2006,Severe Storm(s),3864879.85
+1669,Statewide,2006,Severe Storm(s),33588.59
+1669,Valdez-Cordova (CA),2006,Severe Storm(s),25985.21
+1669,Statewide,2006,Severe Storm(s),37586.23
+1669,Kenai Peninsula,2006,Severe Storm(s),98848.37
+1669,Statewide,2006,Severe Storm(s),68601.85
+1796,Denali,2008,Severe Storm(s),1929.08
+1796,Fairbanks North Star,2008,Severe Storm(s),222505.15
+1796,Statewide,2008,Severe Storm(s),34370.63
+1796,North Slope,2008,Severe Storm(s),8179859.62
+1796,Statewide,2008,Severe Storm(s),1625147.68
+1796,Fairbanks North Star,2008,Severe Storm(s),0.0
+1796,Statewide,2008,Severe Storm(s),66703.53
+1796,Statewide,2008,Severe Storm(s),744527.8
+1796,Yukon-Koyukuk (CA),2008,Severe Storm(s),12828.94
+1796,Yukon-Koyukuk (CA),2008,Severe Storm(s),1169171.82
+1796,Statewide,2008,Severe Storm(s),129773.76
+1843,Southeast Fairbanks (C,2009,Flood,1833234.68
+1843,Statewide,2009,Flood,1051094.22
+1843,Statewide,2009,Flood,439839.5
+1843,Statewide,2009,Flood,0.0
+1843,Wade Hampton (CA),2009,Flood,6709810.19
+1843,Bethel (CA),2009,Flood,14888.76
+1843,Southeast Fairbanks (C,2009,Flood,7705.91
+1843,Statewide,2009,Flood,282204.24
+1843,Statewide,2009,Flood,0.0
+1843,Statewide,2009,Flood,57479.17
+1843,Bethel (CA),2009,Flood,0.0
+1843,Statewide,2009,Flood,57803.71
+1843,Statewide,2009,Flood,4156224.52
+1843,Statewide,2009,Flood,200850.53
+1843,Bethel (CA),2009,Flood,9096.56
+1843,Fairbanks North Star,2009,Flood,0.0
+1843,Bethel (CA),2009,Flood,54006.75
+1843,Wade Hampton (CA),2009,Flood,323668.73
+1843,Statewide,2009,Flood,0.0
+1843,Bethel (CA),2009,Flood,83503.24
+1843,Bethel (CA),2009,Flood,1336.22
+1843,Bethel (CA),2009,Flood,157034.62
+1843,Bethel (CA),2009,Flood,0.0
+1843,Bethel (CA),2009,Flood,63339.05
+1843,Southeast Fairbanks (C,2009,Flood,0.0
+1843,Statewide,2009,Flood,758272.68
+1843,Statewide,2009,Flood,289300.17
+1843,Statewide,2009,Flood,2144763.37
+1843,Statewide,2009,Flood,58303.25
+1843,Bethel (CA),2009,Flood,199183.38
+1843,Bethel (CA),2009,Flood,0.0
+1843,Statewide,2009,Flood,217852.79
+1843,Statewide,2009,Flood,66818.54
+1843,Yukon-Koyukuk (CA),2009,Flood,241656.37
+1843,Wade Hampton (CA),2009,Flood,0.0
+1843,Wade Hampton (CA),2009,Flood,0.0
+1843,Yukon-Koyukuk (CA),2009,Flood,7580.68
+1843,Wade Hampton (CA),2009,Flood,0.0
+1843,Yukon-Koyukuk (CA),2009,Flood,71297.85
+1865,Kodiak Island,2009,Severe Storm(s),137334.21
+1865,Statewide,2009,Severe Storm(s),1841941.46
+1865,Statewide,2009,Severe Storm(s),1399720.62
+1865,Statewide,2009,Severe Storm(s),313614.01
+1865,Kodiak Island,2009,Severe Storm(s),258127.47
+1992,Bethel (CA),2011,Flood,154911.6
+1992,Bethel (CA),2011,Flood,51857.64
+1992,Bethel (CA),2011,Flood,716530.17
+1992,Statewide,2011,Flood,712472.88
+1992,Statewide,2011,Flood,120574.51
+4050,Bethel (CA),2011,Severe Storm(s),114214.21
+4050,Bethel (CA),2011,Severe Storm(s),0.0
+4050,Bethel (CA),2011,Severe Storm(s),0.0
+4050,Nome (CA),2011,Severe Storm(s),1514.66
+4050,Statewide,2011,Severe Storm(s),55508.91
+4050,Statewide,2011,Severe Storm(s),500404.97
+4050,Bethel (CA),2011,Severe Storm(s),0.0
+4050,Wade Hampton (CA),2011,Severe Storm(s),21049.18
+4050,Nome (CA),2011,Severe Storm(s),2405.78
+4050,Nome (CA),2011,Severe Storm(s),2621.24
+4050,Nome (CA),2011,Severe Storm(s),233340.46
+4050,Nome (CA),2011,Severe Storm(s),38024.33
+4050,Statewide,2011,Severe Storm(s),45234.75
+4050,Nome (CA),2011,Severe Storm(s),236243.74
+4050,Nome (CA),2011,Severe Storm(s),3490299.56
+4050,Statewide,2011,Severe Storm(s),28723.58
+4050,Statewide,2011,Severe Storm(s),1763.96
+4050,Nome (CA),2011,Severe Storm(s),2013.25
+4050,Bethel (CA),2011,Severe Storm(s),0.0
+4050,Wade Hampton (CA),2011,Severe Storm(s),155207.4
+4050,Dillingham (CA),2011,Severe Storm(s),20650.65
+4054,Statewide,2012,Severe Storm(s),91713.8
+4054,Kenai Peninsula,2012,Severe Storm(s),37844.63
+4054,Kenai Peninsula,2012,Severe Storm(s),5298.64
+4054,Statewide,2012,Severe Storm(s),114288.53
+4054,Kenai Peninsula,2012,Severe Storm(s),8779.51
+4054,Kenai Peninsula,2012,Severe Storm(s),26546.56
+4054,Kenai Peninsula,2012,Severe Storm(s),905565.19
+4054,Kenai Peninsula,2012,Severe Storm(s),50379.83
+4054,Kenai Peninsula,2012,Severe Storm(s),100400.93
+4094,Kenai Peninsula,2012,Severe Storm(s),15759.54
+4094,Statewide,2012,Severe Storm(s),366906.58
+4094,Kenai Peninsula,2012,Severe Storm(s),1441721.52
+4094,Kenai Peninsula,2012,Severe Storm(s),153594.91
+4094,Statewide,2012,Severe Storm(s),58590.23
+4094,Matanuska-Susitna,2012,Severe Storm(s),39416.67
+4094,Statewide,2012,Severe Storm(s),685421.79
+4094,Statewide,2012,Severe Storm(s),757103.91
+4094,Statewide,2012,Severe Storm(s),14661643.68
+4094,Kenai Peninsula,2012,Severe Storm(s),360950.56
+4094,Statewide,2012,Severe Storm(s),836853.81
+4094,Statewide,2012,Severe Storm(s),2370773.67
+4094,Statewide,2012,Severe Storm(s),217280.08
+4094,Statewide,2012,Severe Storm(s),0.0
+4094,Matanuska-Susitna,2012,Severe Storm(s),3639519.82
+4094,Kenai Peninsula,2012,Severe Storm(s),17261.27
+4122,Yukon-Koyukuk (CA),2013,Flood,40102.49
+4122,Statewide,2013,Flood,5511476.27
+4122,Wade Hampton (CA),2013,Flood,2182.09
+4122,Statewide,2013,Flood,134927.93
+4122,Valdez-Cordova (CA),2013,Flood,127063.01
+4122,Statewide,2013,Flood,6196066.06
+4122,Statewide,2013,Flood,406281.92
+4122,Statewide,2013,Flood,5141355.67
+4122,Wade Hampton (CA),2013,Flood,586239.82
+4122,Yukon-Koyukuk (CA),2013,Flood,21839.59
+4122,Yukon-Koyukuk (CA),2013,Flood,17159.88
+4122,Wade Hampton (CA),2013,Flood,4786259.91
+4122,Yukon-Koyukuk (CA),2013,Flood,175850.13
+4122,Yukon-Koyukuk (CA),2013,Flood,310614.4
+4122,Yukon-Koyukuk (CA),2013,Flood,59986.81
+4122,Statewide,2013,Flood,905282.08
+4122,Southeast Fairbanks (C,2013,Flood,0.0
+4122,Statewide,2013,Flood,35534.71
+4122,Valdez-Cordova (CA),2013,Flood,16642.01
+4122,Yukon-Koyukuk (CA),2013,Flood,103614.4
+4122,Yukon-Koyukuk (CA),2013,Flood,7344977.12
+4122,Yukon-Koyukuk (CA),2013,Flood,28747.29
+4162,Statewide,2014,Severe Storm(s),1750847.74
+4162,Statewide,2014,Severe Storm(s),578920.49
+4162,Wade Hampton (CA),2014,Severe Storm(s),1913839.01
+4161,Kenai Peninsula,2014,Flood,467457.64
+4162,Wade Hampton (CA),2014,Severe Storm(s),16284.89
+4162,Wade Hampton (CA),2014,Severe Storm(s),10902.41
+4161,Statewide,2014,Flood,10650.0
+4162,Statewide,2014,Severe Storm(s),1075185.86
+4162,Wade Hampton (CA),2014,Severe Storm(s),105277.24
+4162,Fairbanks North Star,2014,Severe Storm(s),1688501.63
+4162,Wade Hampton (CA),2014,Severe Storm(s),5425073.0
+4161,Statewide,2014,Flood,97229.88
+4162,Statewide,2014,Severe Storm(s),5242764.76
+4161,Kenai Peninsula,2014,Flood,109321.24
+4162,Statewide,2014,Severe Storm(s),20493.17
+4161,Kenai Peninsula,2014,Flood,126376.98
+4162,Bethel (CA),2014,Severe Storm(s),0.0
+4162,Nome (CA),2014,Severe Storm(s),0.0
+4162,Nome (CA),2014,Severe Storm(s),5891.71
+4162,Nome (CA),2014,Severe Storm(s),1038364.62
+4161,Kenai Peninsula,2014,Flood,85994.53
+4162,Anchorage,2014,Severe Storm(s),8070882.5
+4162,Statewide,2014,Severe Storm(s),5175961.96
+4162,Nome (CA),2014,Severe Storm(s),106822.09
+4161,Statewide,2014,Flood,247244.25
+4162,Statewide,2014,Severe Storm(s),582654.16
+4244,Statewide,2015,Coastal Storm,130767.0
+4244,North Slope,2015,Coastal Storm,3915189.31
+4257,Statewide,2016,Severe Storm(s),412436.0
+4257,Aleutians West (CA),2016,Severe Storm(s),11051697.02
+4351,North Slope,2017,Severe Storm(s),8561921.88
+4351,Statewide,2017,Severe Storm(s),39565.0
+4351,North Slope,2017,Severe Storm(s),45858.47
+4369,Kenai Peninsula,2018,Coastal Storm,2994493.77
+4369,Statewide,2018,Coastal Storm,40613.0
+4369,Statewide,2018,Coastal Storm,1064812.5
+4413,Anchorage,2019,Earthquake,3136733.72
+4413,Anchorage,2019,Earthquake,611095.88
+4413,Anchorage,2019,Earthquake,253261.47
+4413,Kenai Peninsula,2019,Earthquake,130517.14
+4413,Anchorage,2019,Earthquake,30359.9
+4413,Anchorage,2019,Earthquake,137404.7
+4413,Anchorage,2019,Earthquake,268584.21
+4413,Anchorage,2019,Earthquake,354630.78
+4413,Matanuska-Susitna,2019,Earthquake,46848.03
+4413,Anchorage,2019,Earthquake,197220.0
+4413,Anchorage,2019,Earthquake,894407.65
+4413,Anchorage,2019,Earthquake,445196.48
+4413,Matanuska-Susitna,2019,Earthquake,627840.68
+4413,Anchorage,2019,Earthquake,9460.5
+4413,Anchorage,2019,Earthquake,3712.8
+4413,Anchorage,2019,Earthquake,73130.67
+4413,Anchorage,2019,Earthquake,1785994.5
+4413,Statewide,2019,Earthquake,421097.18
+4413,Statewide,2019,Earthquake,35182.77
+4413,Statewide,2019,Earthquake,1507734.31
+4413,Statewide,2019,Earthquake,192814.09
+4413,Statewide,2019,Earthquake,87339.93
+4413,Statewide,2019,Earthquake,807867.46
+4413,Statewide,2019,Earthquake,1797237.33
+4413,Anchorage,2019,Earthquake,35206.7
+4413,Matanuska-Susitna,2019,Earthquake,4300768.13
+4413,Anchorage,2019,Earthquake,548874.92
+4413,Anchorage,2019,Earthquake,786738.1
+4413,Anchorage,2019,Earthquake,27331.16
+4413,Anchorage,2019,Earthquake,10436.57
+4413,Anchorage,2019,Earthquake,34147.17
+4413,Anchorage,2019,Earthquake,203409.75
+4413,Anchorage,2019,Earthquake,272180.51
+4413,Anchorage,2019,Earthquake,2955.11
+4413,Anchorage,2019,Earthquake,25487.03
+4413,Statewide,2019,Earthquake,218769.0
+4413,Anchorage,2019,Earthquake,160249.87
+4413,Anchorage,2019,Earthquake,239309.29
+4413,Anchorage,2019,Earthquake,41880.89
+4413,Anchorage,2019,Earthquake,2951.18
+4413,Anchorage,2019,Earthquake,54090.67
+4413,Statewide,2019,Earthquake,1568994.38
+4413,Anchorage,2019,Earthquake,107014.04
+4161,Statewide,2014,Flood,55805.0
+4413,Anchorage,2019,Earthquake,27307.82
+4413,Statewide,2019,Earthquake,5365.24

@@ -1,0 +1,733 @@
+disasterNumber,county,year,incidentType,amountOblig
+1704,Newport,2007,Severe Storm(s),10399.08
+1704,Newport,2007,Severe Storm(s),1596.73
+1704,Statewide,2007,Severe Storm(s),-12523.5
+1704,Newport,2007,Severe Storm(s),16272.03
+1704,Newport,2007,Severe Storm(s),4045.22
+1704,Newport,2007,Severe Storm(s),522744.36
+1704,Newport,2007,Severe Storm(s),14325.98
+1704,Statewide,2007,Severe Storm(s),5814.04
+1894,Kent,2010,Severe Storm(s),1646.56
+1894,Kent,2010,Severe Storm(s),1295920.23
+1894,Kent,2010,Severe Storm(s),551991.23
+1894,Bristol,2010,Severe Storm(s),145484.11
+1894,Bristol,2010,Severe Storm(s),156711.72
+1894,Kent,2010,Severe Storm(s),10384619.58
+1894,Kent,2010,Severe Storm(s),910393.0
+1894,Kent,2010,Severe Storm(s),18434.54
+1894,Bristol,2010,Severe Storm(s),118532.75
+1894,Kent,2010,Severe Storm(s),421771.12
+1894,Kent,2010,Severe Storm(s),125973.14
+1894,Kent,2010,Severe Storm(s),182006.22
+1894,Kent,2010,Severe Storm(s),2348.69
+1894,Kent,2010,Severe Storm(s),18991.16
+1894,Bristol,2010,Severe Storm(s),900.0
+1894,Kent,2010,Severe Storm(s),1157.93
+1894,Statewide,2010,Severe Storm(s),47374.31
+1894,Statewide,2010,Severe Storm(s),6511.39
+1894,Statewide,2010,Severe Storm(s),23394.56
+1894,Providence,2010,Severe Storm(s),1484.77
+1894,Statewide,2010,Severe Storm(s),4903.49
+1894,Newport,2010,Severe Storm(s),8836.75
+1894,Providence,2010,Severe Storm(s),31705.2
+1894,Statewide,2010,Severe Storm(s),3632.79
+1894,Kent,2010,Severe Storm(s),18995.87
+1894,Providence,2010,Severe Storm(s),22670.44
+1894,Providence,2010,Severe Storm(s),1311353.08
+1894,Washington,2010,Severe Storm(s),5175.0
+1894,Washington,2010,Severe Storm(s),4525.26
+1894,Statewide,2010,Severe Storm(s),36645.2
+1894,Statewide,2010,Severe Storm(s),1055215.71
+1894,Washington,2010,Severe Storm(s),440916.3
+1894,Providence,2010,Severe Storm(s),1095046.49
+1894,Providence,2010,Severe Storm(s),127405.86
+1894,Washington,2010,Severe Storm(s),109996.04
+1894,Providence,2010,Severe Storm(s),533554.36
+1894,Washington,2010,Severe Storm(s),5925.66
+1894,Providence,2010,Severe Storm(s),27017.08
+1894,Washington,2010,Severe Storm(s),58613.9
+1894,Statewide,2010,Severe Storm(s),135431.95
+1894,Providence,2010,Severe Storm(s),250333.21
+1894,Statewide,2010,Severe Storm(s),70866.92
+1894,Washington,2010,Severe Storm(s),28917.18
+1894,Providence,2010,Severe Storm(s),226006.15
+1894,Newport,2010,Severe Storm(s),152703.33
+1894,Washington,2010,Severe Storm(s),1483.87
+1894,Washington,2010,Severe Storm(s),441941.13
+1894,Providence,2010,Severe Storm(s),7253.86
+1894,Statewide,2010,Severe Storm(s),26032.85
+1894,Providence,2010,Severe Storm(s),31983.43
+1894,Providence,2010,Severe Storm(s),8908.22
+1894,Providence,2010,Severe Storm(s),35185.46
+1894,Washington,2010,Severe Storm(s),20533.8
+1894,Providence,2010,Severe Storm(s),0.0
+1894,Providence,2010,Severe Storm(s),2815.71
+1894,Washington,2010,Severe Storm(s),3577.29
+1894,Providence,2010,Severe Storm(s),2848.87
+1894,Providence,2010,Severe Storm(s),1912.2
+1894,Providence,2010,Severe Storm(s),23747.82
+1894,Newport,2010,Severe Storm(s),73371.66
+1894,Providence,2010,Severe Storm(s),14797.09
+1894,Statewide,2010,Severe Storm(s),413616.44
+1894,Washington,2010,Severe Storm(s),3624.43
+1894,Providence,2010,Severe Storm(s),3694.7
+1894,Providence,2010,Severe Storm(s),4227.43
+1894,Washington,2010,Severe Storm(s),17584.53
+1894,Providence,2010,Severe Storm(s),14053.3
+1894,Providence,2010,Severe Storm(s),100557.54
+1894,Newport,2010,Severe Storm(s),86966.78
+1894,Statewide,2010,Severe Storm(s),566239.95
+1894,Statewide,2010,Severe Storm(s),170327.02
+1894,Providence,2010,Severe Storm(s),86295.66
+1894,Providence,2010,Severe Storm(s),15160.27
+1894,Washington,2010,Severe Storm(s),362620.73
+1894,Washington,2010,Severe Storm(s),318108.78
+1894,Washington,2010,Severe Storm(s),80919.06
+1894,Newport,2010,Severe Storm(s),4324.5
+1894,Providence,2010,Severe Storm(s),174423.45
+1894,Statewide,2010,Severe Storm(s),1358.1
+1894,Statewide,2010,Severe Storm(s),1945.1
+1894,Providence,2010,Severe Storm(s),27000.36
+1894,Providence,2010,Severe Storm(s),2250.0
+1894,Washington,2010,Severe Storm(s),114926.71
+1894,Providence,2010,Severe Storm(s),505740.69
+1894,Providence,2010,Severe Storm(s),565712.22
+1894,Statewide,2010,Severe Storm(s),90371.95
+1894,Providence,2010,Severe Storm(s),18063.27
+1894,Providence,2010,Severe Storm(s),13258.15
+1894,Providence,2010,Severe Storm(s),5983.8
+1894,Washington,2010,Severe Storm(s),6557.78
+1894,Newport,2010,Severe Storm(s),324872.39
+1894,Statewide,2010,Severe Storm(s),9429.58
+1894,Kent,2010,Severe Storm(s),35597.64
+1894,Providence,2010,Severe Storm(s),36410.46
+1894,Providence,2010,Severe Storm(s),386078.16
+1894,Statewide,2010,Severe Storm(s),171339.68
+1894,Washington,2010,Severe Storm(s),171544.05
+1894,Washington,2010,Severe Storm(s),134870.5
+1894,Providence,2010,Severe Storm(s),1598.34
+1894,Statewide,2010,Severe Storm(s),32769.23
+1894,Providence,2010,Severe Storm(s),11427.07
+1894,Statewide,2010,Severe Storm(s),115396.27
+1894,Providence,2010,Severe Storm(s),3989.11
+1894,Statewide,2010,Severe Storm(s),100545.49
+1894,Statewide,2010,Severe Storm(s),30641.56
+1894,Washington,2010,Severe Storm(s),5960.2
+1894,Providence,2010,Severe Storm(s),116470.39
+1894,Washington,2010,Severe Storm(s),15840.67
+1894,Washington,2010,Severe Storm(s),358037.68
+3094,nan,1992,Toxic Substances,594162.14
+3094,nan,1992,Toxic Substances,1159.5
+3094,nan,1992,Toxic Substances,1023200.88
+3094,nan,1992,Toxic Substances,96988.79
+3094,nan,1992,Toxic Substances,25460.3
+3094,nan,1992,Toxic Substances,13526.84
+3094,nan,1992,Toxic Substances,49718.36
+3102,NaN,1993,Snow,4660.12
+3102,NaN,1993,Snow,904.7
+3102,NaN,1993,Snow,1312.35
+3102,NaN,1993,Snow,1306.16
+3102,NaN,1993,Snow,731.81
+3102,NaN,1993,Snow,3951.91
+3102,NaN,1993,Snow,3732.02
+3102,NaN,1993,Snow,1325.73
+3102,NaN,1993,Snow,2913.77
+3102,NaN,1993,Snow,1106.72
+3102,NaN,1993,Snow,409.77
+3102,NaN,1993,Snow,3246.58
+3102,NaN,1993,Snow,225.0
+3102,NaN,1993,Snow,5266.58
+3102,NaN,1993,Snow,1572.09
+3102,NaN,1993,Snow,3002.52
+3102,NaN,1993,Snow,2140.6
+3102,NaN,1993,Snow,2188.13
+3102,NaN,1993,Snow,4276.67
+3102,NaN,1993,Snow,194.39
+3102,NaN,1993,Snow,1929.56
+3102,NaN,1993,Snow,4408.98
+3102,NaN,1993,Snow,308.54
+3102,NaN,1993,Snow,4414.47
+3102,NaN,1993,Snow,1667.66
+3102,NaN,1993,Snow,1606.22
+3102,NaN,1993,Snow,1768.55
+3102,NaN,1993,Snow,1015.16
+3102,NaN,1993,Snow,1131.95
+3102,NaN,1993,Snow,12001.98
+3102,NaN,1993,Snow,4664.36
+3102,NaN,1993,Snow,1339.82
+3102,NaN,1993,Snow,10734.24
+3102,NaN,1993,Snow,2167.07
+3102,NaN,1993,Snow,16120.25
+3102,NaN,1993,Snow,2486.16
+3102,NaN,1993,Snow,43638.86
+3102,NaN,1993,Snow,617.93
+3102,NaN,1993,Snow,801.36
+3123,NaN,1996,Other,69526.13
+3123,NaN,1996,Other,58821.05
+3123,NaN,1996,Other,2465.69
+3123,NaN,1996,Other,6593.09
+3123,nan,1996,Other,3143.66
+3123,nan,1996,Other,1207602.98
+3123,nan,1996,Other,75377.25
+3182,Statewide,2003,Snow,9632.72
+3182,Washington,2003,Snow,8440.34
+3182,Washington,2003,Snow,7202.55
+3182,Providence,2003,Snow,22093.4
+3182,Providence,2003,Snow,11028.56
+3182,Providence,2003,Snow,1875.0
+3182,Providence,2003,Snow,16708.24
+3182,Statewide,2003,Snow,4341.6
+3182,Providence,2003,Snow,918.9
+3182,Providence,2003,Snow,4655.76
+3182,Providence,2003,Snow,8900.15
+3182,Washington,2003,Snow,35802.44
+3182,Providence,2003,Snow,43920.75
+3182,Providence,2003,Snow,8464.78
+3182,Providence,2003,Snow,10507.89
+3182,Washington,2003,Snow,5747.87
+3182,Providence,2003,Snow,9498.56
+3182,Providence,2003,Snow,66868.95
+3182,Providence,2003,Snow,1028.36
+3182,Providence,2003,Snow,2011.22
+3182,Washington,2003,Snow,2374.48
+3182,Providence,2003,Snow,24897.69
+3182,Providence,2003,Snow,855.0
+3182,Statewide,2003,Snow,14330.09
+3182,Providence,2003,Snow,5020.18
+3182,Providence,2003,Snow,10569.97
+3182,Providence,2003,Snow,39645.7
+3182,Providence,2003,Snow,1676.99
+3182,Washington,2003,Snow,21373.43
+3182,Providence,2003,Snow,44593.6
+3182,Providence,2003,Snow,2857.5
+3182,Providence,2003,Snow,70305.35
+3182,Statewide,2003,Snow,7249.58
+3182,Washington,2003,Snow,31027.44
+3182,Providence,2003,Snow,24389.75
+3182,Providence,2003,Snow,14924.9
+3182,Providence,2003,Snow,32284.65
+3182,Statewide,2003,Snow,-18414.48
+3182,Providence,2003,Snow,72523.43
+3182,Providence,2003,Snow,10875.96
+3182,Statewide,2003,Snow,632431.51
+3182,Providence,2003,Snow,52323.86
+3182,Washington,2003,Snow,7878.74
+3182,Washington,2003,Snow,12291.92
+3182,Washington,2003,Snow,2392.5
+3182,Providence,2003,Snow,8429.44
+3182,Providence,2003,Snow,5736.6
+3182,Providence,2003,Snow,6005.55
+3182,Washington,2003,Snow,17356.79
+3182,Providence,2003,Snow,24651.05
+3182,Providence,2003,Snow,16152.23
+3182,Statewide,2003,Snow,2515.52
+3182,Providence,2003,Snow,105189.06
+3182,Providence,2003,Snow,182220.71
+3182,Washington,2003,Snow,26607.92
+3182,Washington,2003,Snow,29185.7
+3182,Providence,2003,Snow,9746.53
+3182,Providence,2003,Snow,6045.23
+3182,Providence,2003,Snow,62459.67
+3182,Providence,2003,Snow,1012.5
+3182,Providence,2003,Snow,787.5
+3203,Bristol,2005,Snow,65900.45
+3203,Bristol,2005,Snow,42754.39
+3203,Bristol,2005,Snow,33493.36
+3203,Providence,2005,Snow,1346.25
+3203,Providence,2005,Snow,20497.96
+3203,Kent,2005,Snow,3555.38
+3203,Providence,2005,Snow,10871.88
+3203,Providence,2005,Snow,139324.19
+3203,Providence,2005,Snow,92592.17
+3203,Statewide,2005,Snow,4407.3
+3203,Newport,2005,Snow,8296.56
+3203,Kent,2005,Snow,2175.0
+3203,Providence,2005,Snow,1991.03
+3203,Statewide,2005,Snow,18697.1
+3203,Newport,2005,Snow,68396.74
+3203,Providence,2005,Snow,39310.76
+3203,Washington,2005,Snow,24532.76
+3203,Washington,2005,Snow,7833.7
+3203,Providence,2005,Snow,73142.51
+3203,Kent,2005,Snow,4418.87
+3203,Providence,2005,Snow,13584.43
+3203,Newport,2005,Snow,41801.96
+3203,Statewide,2005,Snow,2228452.95
+3203,Providence,2005,Snow,9663.38
+3203,Providence,2005,Snow,1215.0
+3203,Providence,2005,Snow,4631.25
+3203,Kent,2005,Snow,228226.81
+3203,Washington,2005,Snow,65909.68
+3203,Providence,2005,Snow,10038.0
+3203,Washington,2005,Snow,16676.54
+3203,Newport,2005,Snow,54791.21
+3203,Kent,2005,Snow,33999.38
+3203,Statewide,2005,Snow,4254.87
+3203,Providence,2005,Snow,5819.66
+3203,Providence,2005,Snow,69991.64
+3203,Providence,2005,Snow,20613.42
+3203,Newport,2005,Snow,38600.84
+3203,Kent,2005,Snow,2070.75
+3203,Providence,2005,Snow,2895.75
+3203,Statewide,2005,Snow,46793.25
+3203,Statewide,2005,Snow,4225.3
+3203,Washington,2005,Snow,19180.31
+3203,Providence,2005,Snow,2633.12
+3203,Newport,2005,Snow,3525.0
+3203,Statewide,2005,Snow,-63259.27
+3203,Providence,2005,Snow,25965.32
+3203,Kent,2005,Snow,31724.63
+3203,Statewide,2005,Snow,36094.21
+3203,Kent,2005,Snow,13907.36
+3203,Bristol,2005,Snow,30992.91
+3203,Statewide,2005,Snow,33614.42
+3203,Statewide,2005,Snow,6989.96
+3203,Providence,2005,Snow,205191.38
+3203,Providence,2005,Snow,9112.31
+3203,Washington,2005,Snow,1587.96
+3203,Washington,2005,Snow,70801.55
+3203,Kent,2005,Snow,67725.06
+3203,Statewide,2005,Snow,4218.75
+3203,Statewide,2005,Snow,38494.99
+3203,Providence,2005,Snow,21102.7
+3203,Providence,2005,Snow,3586.64
+3203,Providence,2005,Snow,3990.75
+3203,Providence,2005,Snow,1869.69
+3203,Washington,2005,Snow,7850.72
+3203,Providence,2005,Snow,1727.24
+3203,Providence,2005,Snow,16474.34
+3203,Statewide,2005,Snow,1731.49
+3203,Newport,2005,Snow,2418.75
+3203,Providence,2005,Snow,2599.49
+3203,Washington,2005,Snow,12309.51
+3203,Washington,2005,Snow,41187.32
+3203,Providence,2005,Snow,22673.08
+3203,Providence,2005,Snow,40280.25
+3203,Providence,2005,Snow,1125.0
+3203,Providence,2005,Snow,81265.79
+3203,Providence,2005,Snow,19969.73
+3203,Kent,2005,Snow,82334.93
+3203,Providence,2005,Snow,3026.48
+3203,Providence,2005,Snow,41632.45
+3203,Providence,2005,Snow,34108.06
+3203,Washington,2005,Snow,3054.08
+3203,Kent,2005,Snow,959.69
+3203,Providence,2005,Snow,843.75
+3203,Newport,2005,Snow,26453.25
+3203,Statewide,2005,Snow,16615.23
+3203,Providence,2005,Snow,95414.21
+3203,Kent,2005,Snow,24508.72
+3203,Newport,2005,Snow,14513.85
+3203,Kent,2005,Snow,2243.51
+3203,Washington,2005,Snow,2925.0
+3203,Washington,2005,Snow,104198.28
+3203,Providence,2005,Snow,1774.89
+3203,Providence,2005,Snow,32056.56
+3203,Kent,2005,Snow,1006.04
+3203,Kent,2005,Snow,1496.25
+3203,Providence,2005,Snow,24875.25
+3203,Providence,2005,Snow,67586.12
+3203,Washington,2005,Snow,86338.61
+3203,Providence,2005,Snow,23496.68
+3203,Providence,2005,Snow,15248.25
+3203,Providence,2005,Snow,18752.78
+3203,Providence,2005,Snow,168459.95
+3203,Providence,2005,Snow,26018.39
+3203,Providence,2005,Snow,10650.43
+3203,Newport,2005,Snow,15998.6
+3203,Providence,2005,Snow,22739.11
+3203,Providence,2005,Snow,16825.45
+3203,Washington,2005,Snow,20171.69
+3203,Providence,2005,Snow,1875.0
+3203,Providence,2005,Snow,1541.6
+3203,Statewide,2005,Snow,141469.07
+3203,Providence,2005,Snow,4484.48
+3203,Providence,2005,Snow,1238.45
+3203,Providence,2005,Snow,44706.51
+3203,Providence,2005,Snow,382350.47
+3203,Newport,2005,Snow,1485.74
+3203,Providence,2005,Snow,1325.89
+3203,Providence,2005,Snow,3291.0
+3203,Providence,2005,Snow,4078.87
+3203,Providence,2005,Snow,26537.01
+3203,Newport,2005,Snow,2897.48
+3203,Providence,2005,Snow,11254.52
+3255,Statewide,2005,Hurricane,8767.82
+3255,Statewide,2005,Hurricane,788754.49
+3255,Statewide,2005,Hurricane,84101.15
+3255,Statewide,2005,Hurricane,15481.67
+3255,Statewide,2005,Hurricane,4639.95
+3255,Statewide,2005,Hurricane,7541.44
+3255,Newport,2005,Hurricane,111023.57
+3255,Statewide,2005,Hurricane,35039.39
+3255,Statewide,2005,Hurricane,7101.78
+4027,Newport,2011,Hurricane,79053.81
+4027,Bristol,2011,Hurricane,310349.91
+4027,Kent,2011,Hurricane,11749.52
+4027,Kent,2011,Hurricane,36259.33
+4027,Kent,2011,Hurricane,18015.0
+4027,Kent,2011,Hurricane,8539.12
+4027,Newport,2011,Hurricane,159108.58
+4027,Kent,2011,Hurricane,13137.56
+4027,Bristol,2011,Hurricane,7687.5
+4027,Newport,2011,Hurricane,58365.73
+4027,Providence,2011,Hurricane,22711.45
+4027,Newport,2011,Hurricane,51326.16
+4027,Bristol,2011,Hurricane,142243.62
+4027,Kent,2011,Hurricane,7845.0
+4027,Newport,2011,Hurricane,73750.74
+4027,Newport,2011,Hurricane,21460.98
+4027,Kent,2011,Hurricane,5366.92
+4027,Kent,2011,Hurricane,1263.7
+4027,Newport,2011,Hurricane,54650.64
+4027,Kent,2011,Hurricane,6517.92
+4027,Bristol,2011,Hurricane,70663.85
+4027,Kent,2011,Hurricane,77238.75
+4027,Providence,2011,Hurricane,20064.35
+4027,Kent,2011,Hurricane,180883.93
+4027,Kent,2011,Hurricane,9197.52
+4027,Kent,2011,Hurricane,600380.16
+4027,Bristol,2011,Hurricane,113391.68
+4027,Kent,2011,Hurricane,158879.08
+4027,Providence,2011,Hurricane,80297.27
+4027,Providence,2011,Hurricane,9150.52
+4027,Providence,2011,Hurricane,19537.64
+4027,Washington,2011,Hurricane,24293.14
+4027,Providence,2011,Hurricane,44105.0
+4027,Providence,2011,Hurricane,1415762.17
+4027,Washington,2011,Hurricane,6461.11
+4027,Providence,2011,Hurricane,853959.95
+4027,Washington,2011,Hurricane,3079.0
+4027,Providence,2011,Hurricane,5957.34
+4027,Statewide,2011,Hurricane,59308.42
+4027,Providence,2011,Hurricane,89177.69
+4027,Washington,2011,Hurricane,9305.75
+4027,Providence,2011,Hurricane,6617.29
+4027,Providence,2011,Hurricane,45842.07
+4027,Providence,2011,Hurricane,2211.06
+4027,Washington,2011,Hurricane,66388.2
+4027,Providence,2011,Hurricane,44925.31
+4027,Providence,2011,Hurricane,4965.13
+4027,Providence,2011,Hurricane,115895.59
+4027,Washington,2011,Hurricane,28271.37
+4027,Providence,2011,Hurricane,14691.89
+4027,Providence,2011,Hurricane,123106.76
+4027,Providence,2011,Hurricane,1575.14
+4027,Providence,2011,Hurricane,423181.78
+4027,Providence,2011,Hurricane,7131.03
+4027,Washington,2011,Hurricane,4319.03
+4027,Providence,2011,Hurricane,53399.75
+4027,Washington,2011,Hurricane,6689.45
+4027,Washington,2011,Hurricane,13005.23
+4027,Statewide,2011,Hurricane,10886.12
+4027,Providence,2011,Hurricane,87891.73
+4027,Washington,2011,Hurricane,50693.34
+4027,Providence,2011,Hurricane,21890.69
+4027,Washington,2011,Hurricane,4992.78
+4027,Statewide,2011,Hurricane,47114.88
+4027,Statewide,2011,Hurricane,896354.48
+4027,Providence,2011,Hurricane,26857.87
+4027,Providence,2011,Hurricane,7088.45
+4027,Providence,2011,Hurricane,1569.88
+4027,Providence,2011,Hurricane,72597.97
+4027,Statewide,2011,Hurricane,9675.81
+4027,Providence,2011,Hurricane,157063.47
+4027,Providence,2011,Hurricane,34809.14
+4027,Providence,2011,Hurricane,6994.89
+4027,Providence,2011,Hurricane,7224.2
+4027,Providence,2011,Hurricane,25376.63
+4027,Providence,2011,Hurricane,46945.0
+4027,Washington,2011,Hurricane,6659.57
+4027,Providence,2011,Hurricane,375.0
+4027,Providence,2011,Hurricane,311297.85
+4027,Statewide,2011,Hurricane,119316.16
+4027,Providence,2011,Hurricane,1180.71
+4027,Providence,2011,Hurricane,3365.77
+4027,Washington,2011,Hurricane,35305.34
+4027,Washington,2011,Hurricane,12223.45
+4027,Washington,2011,Hurricane,63733.87
+4027,Washington,2011,Hurricane,127714.06
+4027,Washington,2011,Hurricane,117478.02
+4027,Washington,2011,Hurricane,4631.25
+4027,Washington,2011,Hurricane,10056.69
+4027,Washington,2011,Hurricane,109214.45
+4089,Statewide,2012,Hurricane,180391.94
+4089,Newport,2012,Hurricane,58068.48
+4089,Washington,2012,Hurricane,23066.1
+4089,Bristol,2012,Hurricane,152965.45
+4089,Kent,2012,Hurricane,76151.73
+4089,Washington,2012,Hurricane,49881.88
+4089,Washington,2012,Hurricane,6175.11
+4089,Kent,2012,Hurricane,8400.34
+4089,Washington,2012,Hurricane,334343.32
+4089,Washington,2012,Hurricane,2119215.48
+4089,Kent,2012,Hurricane,8819.51
+4089,Kent,2012,Hurricane,17642.66
+4089,Washington,2012,Hurricane,127090.79
+4089,Statewide,2012,Hurricane,411741.32
+4089,Washington,2012,Hurricane,12966.17
+4089,Statewide,2012,Hurricane,446538.67
+4089,Washington,2012,Hurricane,8900.49
+4089,Washington,2012,Hurricane,235201.25
+4089,Washington,2012,Hurricane,13537.5
+4089,Washington,2012,Hurricane,8442.35
+4089,Newport,2012,Hurricane,467604.77
+4089,Washington,2012,Hurricane,8746.94
+4089,Kent,2012,Hurricane,7612.52
+4089,Washington,2012,Hurricane,13905.58
+4089,Washington,2012,Hurricane,12295.94
+4089,Washington,2012,Hurricane,9448.67
+4089,Newport,2012,Hurricane,20229.75
+4089,Bristol,2012,Hurricane,81992.73
+4089,Washington,2012,Hurricane,59993.95
+4089,Statewide,2012,Hurricane,1075653.99
+4089,Newport,2012,Hurricane,64435.49
+4089,Statewide,2012,Hurricane,12913.11
+4089,Newport,2012,Hurricane,142594.65
+4089,Kent,2012,Hurricane,195577.79
+4089,Bristol,2012,Hurricane,80079.61
+4089,Newport,2012,Hurricane,59022.02
+4089,Washington,2012,Hurricane,35278.65
+4089,Newport,2012,Hurricane,201711.66
+4089,Kent,2012,Hurricane,18074.44
+4089,Washington,2012,Hurricane,2896.75
+4089,Washington,2012,Hurricane,109728.33
+4089,Kent,2012,Hurricane,41535.69
+4089,Kent,2012,Hurricane,7543.1
+4089,Washington,2012,Hurricane,28112.47
+4089,Statewide,2012,Hurricane,180497.56
+4089,Kent,2012,Hurricane,3115.13
+4089,Washington,2012,Hurricane,685467.86
+4089,Bristol,2012,Hurricane,58656.38
+4089,Kent,2012,Hurricane,10692.69
+4089,Washington,2012,Hurricane,5822.76
+4089,Washington,2012,Hurricane,1875.0
+4089,Washington,2012,Hurricane,4252.61
+4089,Kent,2012,Hurricane,96062.24
+4089,Washington,2012,Hurricane,218313.19
+4089,Statewide,2012,Hurricane,18827.35
+4089,Newport,2012,Hurricane,100925.37
+4089,Newport,2012,Hurricane,20078.73
+4089,Statewide,2012,Hurricane,202113.67
+4089,Washington,2012,Hurricane,65628.86
+4089,Newport,2012,Hurricane,37120.63
+4089,Washington,2012,Hurricane,3750.0
+4089,Washington,2012,Hurricane,33864.0
+4107,Bristol,2013,Severe Storm(s),39766.98
+4107,Bristol,2013,Severe Storm(s),75543.72
+4107,Statewide,2013,Severe Storm(s),278622.74
+4107,Statewide,2013,Severe Storm(s),60974.51
+4107,Washington,2013,Severe Storm(s),10993.49
+4107,Providence,2013,Severe Storm(s),4376.48
+4107,Providence,2013,Severe Storm(s),12494.84
+4107,Providence,2013,Severe Storm(s),6606.44
+4107,Providence,2013,Severe Storm(s),76162.97
+4107,Kent,2013,Severe Storm(s),5743.25
+4107,Providence,2013,Severe Storm(s),4383.29
+4107,Providence,2013,Severe Storm(s),45025.67
+4107,Providence,2013,Severe Storm(s),344507.69
+4107,Kent,2013,Severe Storm(s),109087.39
+4107,Providence,2013,Severe Storm(s),10894.22
+4107,Kent,2013,Severe Storm(s),17864.81
+4107,Kent,2013,Severe Storm(s),2655.0
+4107,Providence,2013,Severe Storm(s),73437.82
+4107,Providence,2013,Severe Storm(s),2178.83
+4107,Newport,2013,Severe Storm(s),66460.27
+4107,Washington,2013,Severe Storm(s),4263.75
+4107,Providence,2013,Severe Storm(s),2850.0
+4107,Providence,2013,Severe Storm(s),5842.95
+4107,Washington,2013,Severe Storm(s),43490.92
+4107,Providence,2013,Severe Storm(s),1971.93
+4107,Washington,2013,Severe Storm(s),5957.48
+4107,Providence,2013,Severe Storm(s),26456.9
+4107,Newport,2013,Severe Storm(s),9211.22
+4107,Providence,2013,Severe Storm(s),2280.0
+4107,Kent,2013,Severe Storm(s),2745.0
+4107,Providence,2013,Severe Storm(s),8492.54
+4107,Washington,2013,Severe Storm(s),1923.75
+4107,Providence,2013,Severe Storm(s),4295.77
+4107,Washington,2013,Severe Storm(s),5773.68
+4107,Providence,2013,Severe Storm(s),5411.33
+4107,Providence,2013,Severe Storm(s),218503.09
+4107,Providence,2013,Severe Storm(s),47012.77
+4107,Kent,2013,Severe Storm(s),4401.95
+4107,Statewide,2013,Severe Storm(s),127024.5
+4107,Kent,2013,Severe Storm(s),29033.66
+4107,Providence,2013,Severe Storm(s),4507.43
+4107,Providence,2013,Severe Storm(s),21380.8
+4107,Newport,2013,Severe Storm(s),91306.43
+4107,Providence,2013,Severe Storm(s),18435.24
+4107,Washington,2013,Severe Storm(s),94793.58
+4107,Washington,2013,Severe Storm(s),164424.14
+4107,Newport,2013,Severe Storm(s),68514.52
+4107,Washington,2013,Severe Storm(s),16126.79
+4107,Providence,2013,Severe Storm(s),1207.13
+4107,Providence,2013,Severe Storm(s),3506.81
+4107,Providence,2013,Severe Storm(s),1027.5
+4107,Providence,2013,Severe Storm(s),1278.38
+4107,Kent,2013,Severe Storm(s),18040.34
+4107,Washington,2013,Severe Storm(s),146035.78
+4107,Washington,2013,Severe Storm(s),7262.17
+4107,Providence,2013,Severe Storm(s),111518.79
+4107,Providence,2013,Severe Storm(s),4115.63
+4107,Statewide,2013,Severe Storm(s),64021.21
+4107,Washington,2013,Severe Storm(s),36676.5
+4107,Providence,2013,Severe Storm(s),4684.37
+4107,Providence,2013,Severe Storm(s),27696.14
+4107,Kent,2013,Severe Storm(s),77758.75
+4107,Providence,2013,Severe Storm(s),1356.0
+4107,Kent,2013,Severe Storm(s),1752.66
+4107,Newport,2013,Severe Storm(s),30924.37
+4107,Washington,2013,Severe Storm(s),113185.71
+4107,Providence,2013,Severe Storm(s),3075.0
+4107,Providence,2013,Severe Storm(s),5421.05
+4107,Providence,2013,Severe Storm(s),3660.0
+4107,Providence,2013,Severe Storm(s),128000.97
+4107,Providence,2013,Severe Storm(s),2044.5
+4107,Providence,2013,Severe Storm(s),772.5
+4107,Providence,2013,Severe Storm(s),80477.81
+4107,Kent,2013,Severe Storm(s),1104.71
+4107,Providence,2013,Severe Storm(s),804.99
+4107,Statewide,2013,Severe Storm(s),57426.23
+4107,Providence,2013,Severe Storm(s),103557.21
+4107,Kent,2013,Severe Storm(s),364329.81
+4107,Providence,2013,Severe Storm(s),63337.23
+4107,Washington,2013,Severe Storm(s),49935.84
+4107,Washington,2013,Severe Storm(s),81781.7
+4107,Kent,2013,Severe Storm(s),1916.5
+4107,Providence,2013,Severe Storm(s),40714.76
+4107,Providence,2013,Severe Storm(s),52689.78
+4107,Providence,2013,Severe Storm(s),108276.31
+4107,Providence,2013,Severe Storm(s),171494.27
+4107,Providence,2013,Severe Storm(s),3263.99
+4107,Providence,2013,Severe Storm(s),48156.73
+4107,Washington,2013,Severe Storm(s),48900.59
+4107,Providence,2013,Severe Storm(s),6023.78
+4107,Kent,2013,Severe Storm(s),96806.48
+4107,Providence,2013,Severe Storm(s),28803.0
+4107,Providence,2013,Severe Storm(s),113281.26
+4107,Statewide,2013,Severe Storm(s),90460.96
+4107,Kent,2013,Severe Storm(s),3231.57
+4107,Providence,2013,Severe Storm(s),51510.92
+4107,Statewide,2013,Severe Storm(s),212700.75
+4107,Bristol,2013,Severe Storm(s),56683.56
+4107,Washington,2013,Severe Storm(s),85924.57
+4107,Providence,2013,Severe Storm(s),18742.68
+4107,Bristol,2013,Severe Storm(s),129255.34
+4107,Providence,2013,Severe Storm(s),4224.38
+4107,Newport,2013,Severe Storm(s),18333.75
+4107,Newport,2013,Severe Storm(s),65956.48
+4107,Washington,2013,Severe Storm(s),5579.84
+4107,Providence,2013,Severe Storm(s),59744.34
+4107,Statewide,2013,Severe Storm(s),110239.53
+4107,Providence,2013,Severe Storm(s),1162.5
+4107,Kent,2013,Severe Storm(s),6241.92
+4107,Providence,2013,Severe Storm(s),593834.37
+4107,Providence,2013,Severe Storm(s),0.0
+4107,Washington,2013,Severe Storm(s),4693.22
+4107,Providence,2013,Severe Storm(s),4608.09
+4107,Providence,2013,Severe Storm(s),999.71
+4107,Statewide,2013,Severe Storm(s),1788597.49
+4212,Providence,2015,Severe Storm(s),29036.2
+4212,Providence,2015,Severe Storm(s),36617.24
+4212,Providence,2015,Severe Storm(s),6185.47
+4212,Washington,2015,Severe Storm(s),9213.74
+4212,Providence,2015,Severe Storm(s),23602.94
+4212,Washington,2015,Severe Storm(s),56576.72
+4212,Providence,2015,Severe Storm(s),5017.5
+4212,Providence,2015,Severe Storm(s),2901.13
+4212,Kent,2015,Severe Storm(s),63311.89
+4212,Statewide,2015,Severe Storm(s),41596.58
+4212,Providence,2015,Severe Storm(s),33584.94
+4212,Statewide,2015,Severe Storm(s),76055.69
+4212,Providence,2015,Severe Storm(s),54105.78
+4212,Providence,2015,Severe Storm(s),105098.6
+4212,Washington,2015,Severe Storm(s),31884.96
+4212,Providence,2015,Severe Storm(s),290177.24
+4212,Statewide,2015,Severe Storm(s),8248.84
+4212,Providence,2015,Severe Storm(s),6070.0
+4212,Providence,2015,Severe Storm(s),31293.04
+4212,Providence,2015,Severe Storm(s),3900.0
+4212,Kent,2015,Severe Storm(s),43046.45
+4212,Providence,2015,Severe Storm(s),120179.33
+4212,Providence,2015,Severe Storm(s),47680.38
+4212,Statewide,2015,Severe Storm(s),21435.41
+4212,Statewide,2015,Severe Storm(s),27061.1
+4212,Kent,2015,Severe Storm(s),10544.71
+4212,Washington,2015,Severe Storm(s),45798.06
+4212,Providence,2015,Severe Storm(s),101288.58
+4212,Kent,2015,Severe Storm(s),13094.63
+4212,Kent,2015,Severe Storm(s),27188.32
+4212,Providence,2015,Severe Storm(s),42679.22
+4212,Providence,2015,Severe Storm(s),6286.53
+4212,Providence,2015,Severe Storm(s),157511.56
+4212,Bristol,2015,Severe Storm(s),41053.17
+4212,Newport,2015,Severe Storm(s),117105.13
+4212,Statewide,2015,Severe Storm(s),84164.57
+4212,Providence,2015,Severe Storm(s),223385.49
+4212,Kent,2015,Severe Storm(s),2737.7
+4212,Newport,2015,Severe Storm(s),27537.13
+4212,Newport,2015,Severe Storm(s),11304.54
+4212,Bristol,2015,Severe Storm(s),55282.79
+4212,Newport,2015,Severe Storm(s),109020.69
+4212,Providence,2015,Severe Storm(s),24673.33
+4212,Kent,2015,Severe Storm(s),176555.73
+4212,Kent,2015,Severe Storm(s),246186.29
+4212,Providence,2015,Severe Storm(s),13648.25
+4212,Providence,2015,Severe Storm(s),3128.23
+4212,Statewide,2015,Severe Storm(s),243251.02
+4212,Statewide,2015,Severe Storm(s),70209.07
+4212,Newport,2015,Severe Storm(s),36571.13
+4212,Washington,2015,Severe Storm(s),36697.31
+4212,Bristol,2015,Severe Storm(s),36069.14
+4212,Providence,2015,Severe Storm(s),83256.13
+4212,Providence,2015,Severe Storm(s),54082.24
+4212,Kent,2015,Severe Storm(s),3347.97
+4212,Providence,2015,Severe Storm(s),188268.14
+4212,Providence,2015,Severe Storm(s),128816.18
+4212,Providence,2015,Severe Storm(s),120435.85
+4212,Bristol,2015,Severe Storm(s),46224.14
+4212,Providence,2015,Severe Storm(s),3375.0
+4212,Providence,2015,Severe Storm(s),3038.57
+4212,Statewide,2015,Severe Storm(s),20094.8
+4212,Providence,2015,Severe Storm(s),96022.8
+4212,Statewide,2015,Severe Storm(s),81492.68
+4212,Providence,2015,Severe Storm(s),4644.97
+4212,Providence,2015,Severe Storm(s),20229.58
+4212,Providence,2015,Severe Storm(s),113497.5
+4212,Providence,2015,Severe Storm(s),6873.93
+4212,Washington,2015,Severe Storm(s),34705.71
+4212,Providence,2015,Severe Storm(s),4626.75
+4212,Providence,2015,Severe Storm(s),385510.87
+4212,Washington,2015,Severe Storm(s),32276.71
+4212,Kent,2015,Severe Storm(s),47898.7
+4212,Providence,2015,Severe Storm(s),3276.27
+4212,Washington,2015,Severe Storm(s),38476.31
+4212,Newport,2015,Severe Storm(s),14006.47
+4212,Newport,2015,Severe Storm(s),94818.61
+4212,Providence,2015,Severe Storm(s),78669.94
+4212,Providence,2015,Severe Storm(s),591570.21
+4212,Providence,2015,Severe Storm(s),63124.26
+4212,Kent,2015,Severe Storm(s),3168.63
+4212,Statewide,2015,Severe Storm(s),2379951.61
+4212,Providence,2015,Severe Storm(s),26283.11
+4212,Washington,2015,Severe Storm(s),2739.38
+4212,Kent,2015,Severe Storm(s),27909.37
+4212,Kent,2015,Severe Storm(s),17147.18
+4212,Providence,2015,Severe Storm(s),19976.5
+4212,Statewide,2015,Severe Storm(s),317689.61
+4212,Statewide,2015,Severe Storm(s),33004.43
+4212,Providence,2015,Severe Storm(s),21786.08
+4212,Kent,2015,Severe Storm(s),2488.85
+4212,Kent,2015,Severe Storm(s),4719.71
+4212,Providence,2015,Severe Storm(s),24721.97
+4212,Washington,2015,Severe Storm(s),54549.01
+4212,Providence,2015,Severe Storm(s),2832.0
+4212,Newport,2015,Severe Storm(s),51510.29
+4212,Washington,2015,Severe Storm(s),66185.77
+4212,Washington,2015,Severe Storm(s),87516.17
+4212,Washington,2015,Severe Storm(s),3050.59
+4212,Washington,2015,Severe Storm(s),117073.7
+4212,Providence,2015,Severe Storm(s),37711.29
+4212,Statewide,2015,Severe Storm(s),77167.92
+4212,Washington,2015,Severe Storm(s),2523.08

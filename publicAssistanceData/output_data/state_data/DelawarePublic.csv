@@ -1,0 +1,649 @@
+disasterNumber,county,year,incidentType,amountOblig
+1297,New Castle,1999,Hurricane,3939.75
+1297,New Castle,1999,Hurricane,7955.95
+1297,Statewide,1999,Hurricane,500186.17
+1297,New Castle,1999,Hurricane,7723.77
+1297,New Castle,1999,Hurricane,6063.08
+1297,New Castle,1999,Hurricane,1319.6
+1297,New Castle,1999,Hurricane,1623095.19
+1297,New Castle,1999,Hurricane,1886.25
+1297,Statewide,1999,Hurricane,35824.5
+1297,New Castle,1999,Hurricane,2972.2
+1297,Statewide,1999,Hurricane,23460.78
+1297,New Castle,1999,Hurricane,5625.0
+1297,Statewide,1999,Hurricane,20619.0
+1297,New Castle,1999,Hurricane,2192.0
+1297,New Castle,1999,Hurricane,19921.5
+1297,Statewide,1999,Hurricane,46558.52
+1297,Statewide,1999,Hurricane,7188.74
+1297,Statewide,1999,Hurricane,6741.75
+1297,New Castle,1999,Hurricane,0.0
+1297,New Castle,1999,Hurricane,123712.43
+1297,New Castle,1999,Hurricane,34035.86
+1297,New Castle,1999,Hurricane,375.0
+1297,New Castle,1999,Hurricane,3424.5
+1297,Statewide,1999,Hurricane,8734.5
+1297,New Castle,1999,Hurricane,8889.58
+1297,Statewide,1999,Hurricane,6356.72
+1297,Statewide,1999,Hurricane,44742.57
+1297,New Castle,1999,Hurricane,693589.86
+1494,Kent,2003,Hurricane,2316.0
+1494,Kent,2003,Hurricane,3868.5
+1494,Kent,2003,Hurricane,1794.62
+1494,Kent,2003,Hurricane,2135.12
+1494,Kent,2003,Hurricane,7261.27
+1494,Kent,2003,Hurricane,2700.0
+1494,Kent,2003,Hurricane,34867.5
+1494,Kent,2003,Hurricane,4823.85
+1494,Sussex,2003,Hurricane,3512.2
+1494,New Castle,2003,Hurricane,2800.67
+1494,New Castle,2003,Hurricane,1187.21
+1494,New Castle,2003,Hurricane,14504.75
+1494,New Castle,2003,Hurricane,82370.06
+1494,Sussex,2003,Hurricane,9493.85
+1494,New Castle,2003,Hurricane,164895.75
+1494,Kent,2003,Hurricane,3788.18
+1494,Kent,2003,Hurricane,1875.0
+1494,Kent,2003,Hurricane,1103.02
+1494,Kent,2003,Hurricane,1749.14
+1494,New Castle,2003,Hurricane,18419.52
+1494,New Castle,2003,Hurricane,12427.52
+1494,New Castle,2003,Hurricane,2740.05
+1494,Statewide,2003,Hurricane,68469.23
+1494,Statewide,2003,Hurricane,1457.25
+1494,New Castle,2003,Hurricane,1687.27
+1494,Statewide,2003,Hurricane,8498.25
+1494,Sussex,2003,Hurricane,8180.09
+1494,Sussex,2003,Hurricane,13850.39
+1494,New Castle,2003,Hurricane,6799.81
+1494,Sussex,2003,Hurricane,3537.68
+1494,Statewide,2003,Hurricane,125889.88
+1494,New Castle,2003,Hurricane,5419.29
+1494,New Castle,2003,Hurricane,8754.05
+1494,New Castle,2003,Hurricane,2586.87
+1494,Statewide,2003,Hurricane,32659.55
+1494,Statewide,2003,Hurricane,35310.75
+1494,New Castle,2003,Hurricane,2652.0
+1494,Kent,2003,Hurricane,1988.01
+1494,Sussex,2003,Hurricane,1584.0
+1494,Sussex,2003,Hurricane,2684.3
+1494,New Castle,2003,Hurricane,8277.25
+1494,Statewide,2003,Hurricane,80627.33
+1494,New Castle,2003,Hurricane,18552.75
+1494,New Castle,2003,Hurricane,18687.52
+1494,New Castle,2003,Hurricane,1140.75
+1494,Sussex,2003,Hurricane,7693.01
+1494,New Castle,2003,Hurricane,5575.5
+1494,Sussex,2003,Hurricane,10228.85
+1494,Kent,2003,Hurricane,375.0
+1494,Kent,2003,Hurricane,2212.5
+1494,Kent,2003,Hurricane,25242.3
+1494,New Castle,2003,Hurricane,1579.66
+1494,New Castle,2003,Hurricane,9919.5
+1494,Sussex,2003,Hurricane,16046.14
+1494,Sussex,2003,Hurricane,2970.42
+1494,New Castle,2003,Hurricane,6775.72
+1494,Kent,2003,Hurricane,1826.76
+1494,Sussex,2003,Hurricane,1016.65
+1494,New Castle,2003,Hurricane,84912.75
+1494,Kent,2003,Hurricane,1637.28
+1494,Kent,2003,Hurricane,11664.76
+1494,Sussex,2003,Hurricane,1793.52
+1494,New Castle,2003,Hurricane,201100.12
+1494,Sussex,2003,Hurricane,7893.77
+1494,Sussex,2003,Hurricane,1153.25
+1494,Sussex,2003,Hurricane,2925.89
+1495,New Castle,2003,Hurricane,7329072.9
+1494,Sussex,2003,Hurricane,136104.58
+1494,Sussex,2003,Hurricane,27579.17
+1494,Sussex,2003,Hurricane,13971.29
+1495,Statewide,2003,Hurricane,8718.75
+1495,New Castle,2003,Hurricane,3548.12
+1494,New Castle,2003,Hurricane,5520.83
+1495,New Castle,2003,Hurricane,6663.0
+1495,New Castle,2003,Hurricane,65112.67
+1494,Kent,2003,Hurricane,104750.45
+1494,Statewide,2003,Hurricane,55958.25
+1495,Statewide,2003,Hurricane,773267.58
+1494,Sussex,2003,Hurricane,3155.25
+1494,Sussex,2003,Hurricane,8512.08
+1494,Sussex,2003,Hurricane,2367.82
+1495,New Castle,2003,Hurricane,5409.05
+1494,Statewide,2003,Hurricane,22435.5
+1495,New Castle,2003,Hurricane,2587.78
+1495,Statewide,2003,Hurricane,37053.02
+1495,New Castle,2003,Hurricane,199852.11
+1494,Statewide,2003,Hurricane,54161.85
+1494,Sussex,2003,Hurricane,35910.24
+1495,Statewide,2003,Hurricane,3393.0
+1494,Statewide,2003,Hurricane,222782.87
+1495,New Castle,2003,Hurricane,2908.5
+1494,New Castle,2003,Hurricane,4966.12
+1495,New Castle,2003,Hurricane,42192.0
+1495,Statewide,2003,Hurricane,375.0
+1494,New Castle,2003,Hurricane,85245.81
+1495,Statewide,2003,Hurricane,8373.0
+1494,Kent,2003,Hurricane,12886.53
+1495,New Castle,2003,Hurricane,5396.81
+1494,Sussex,2003,Hurricane,8528.53
+1495,Statewide,2003,Hurricane,-21549.38
+1494,Sussex,2003,Hurricane,7305.92
+1494,Sussex,2003,Hurricane,4317.18
+1495,New Castle,2003,Hurricane,8698.44
+1495,Statewide,2003,Hurricane,2720.59
+1494,New Castle,2003,Hurricane,4464.11
+1494,New Castle,2003,Hurricane,44998.92
+1572,New Castle,2004,Severe Storm(s),2472.26
+1572,New Castle,2004,Severe Storm(s),2655.93
+1572,New Castle,2004,Severe Storm(s),16091.25
+1572,Statewide,2004,Severe Storm(s),32589.61
+1572,New Castle,2004,Severe Storm(s),63143.25
+1572,New Castle,2004,Severe Storm(s),5867.97
+1572,New Castle,2004,Severe Storm(s),16481.18
+1572,New Castle,2004,Severe Storm(s),61216.52
+1572,Statewide,2004,Severe Storm(s),375.0
+1572,New Castle,2004,Severe Storm(s),21593.59
+1572,New Castle,2004,Severe Storm(s),2839.05
+1572,New Castle,2004,Severe Storm(s),5852.83
+1572,New Castle,2004,Severe Storm(s),1383.12
+1572,New Castle,2004,Severe Storm(s),4959.16
+1572,Statewide,2004,Severe Storm(s),14557.38
+1572,New Castle,2004,Severe Storm(s),98335.9
+1572,New Castle,2004,Severe Storm(s),0.0
+1572,New Castle,2004,Severe Storm(s),6047.56
+1572,New Castle,2004,Severe Storm(s),3533.89
+1572,Statewide,2004,Severe Storm(s),1860.2
+1572,New Castle,2004,Severe Storm(s),0.0
+1572,Statewide,2004,Severe Storm(s),25728.89
+1572,New Castle,2004,Severe Storm(s),28197.59
+1572,Statewide,2004,Severe Storm(s),12427.52
+1572,Statewide,2004,Severe Storm(s),4260.3
+1572,Statewide,2004,Severe Storm(s),336247.51
+1572,New Castle,2004,Severe Storm(s),4446.75
+1572,New Castle,2004,Severe Storm(s),16861.22
+1654,Statewide,2006,Severe Storm(s),10005.0
+1654,Sussex,2006,Severe Storm(s),37563.09
+1654,Statewide,2006,Severe Storm(s),5211.5
+1654,Statewide,2006,Severe Storm(s),325209.65
+1654,Sussex,2006,Severe Storm(s),903.3
+1654,Sussex,2006,Severe Storm(s),12604.07
+1654,Sussex,2006,Severe Storm(s),1429.1
+1654,Statewide,2006,Severe Storm(s),7367.21
+1654,Sussex,2006,Severe Storm(s),9693.37
+1654,Sussex,2006,Severe Storm(s),0.0
+1654,Statewide,2006,Severe Storm(s),73644.42
+1654,Sussex,2006,Severe Storm(s),0.0
+1654,Statewide,2006,Severe Storm(s),-6810.48
+1654,Sussex,2006,Severe Storm(s),28549.79
+1896,Kent,2010,Snow,33949.91
+1896,Kent,2010,Snow,2766.93
+1896,New Castle,2010,Snow,119894.35
+1896,Kent,2010,Snow,14479.36
+1896,New Castle,2010,Snow,3154.07
+1896,Statewide,2010,Snow,1048007.61
+1896,New Castle,2010,Snow,4172.76
+1896,New Castle,2010,Snow,2519.49
+1896,Kent,2010,Snow,5125.13
+1896,Statewide,2010,Snow,105590.06
+1896,New Castle,2010,Snow,12064.41
+1896,Kent,2010,Snow,25834.96
+1896,New Castle,2010,Snow,1706.03
+1896,New Castle,2010,Snow,7086.63
+1896,Statewide,2010,Snow,2256.04
+1896,New Castle,2010,Snow,2724.82
+1896,New Castle,2010,Snow,7956.42
+1896,Kent,2010,Snow,67325.2
+1896,Kent,2010,Snow,6963.9
+1896,Kent,2010,Snow,5520.92
+1896,Kent,2010,Snow,8249.81
+1896,Kent,2010,Snow,18262.84
+1896,Kent,2010,Snow,12704.54
+1896,New Castle,2010,Snow,6086.8
+1896,New Castle,2010,Snow,2872.5
+1896,Statewide,2010,Snow,97631.49
+1896,New Castle,2010,Snow,1825.47
+1896,New Castle,2010,Snow,5399.06
+1896,Kent,2010,Snow,3106.43
+1896,New Castle,2010,Snow,1480.74
+1896,New Castle,2010,Snow,3513.5
+1896,Kent,2010,Snow,10242.65
+1896,Kent,2010,Snow,42652.05
+1896,New Castle,2010,Snow,2025.67
+1896,Kent,2010,Snow,9179.78
+1896,Kent,2010,Snow,3210.48
+1896,New Castle,2010,Snow,6484.6
+1896,Statewide,2010,Snow,899.78
+1896,New Castle,2010,Snow,5108.15
+1896,New Castle,2010,Snow,17406.58
+1896,Statewide,2010,Snow,130838.64
+1896,Kent,2010,Snow,6706.28
+1896,New Castle,2010,Snow,1242.2
+1896,New Castle,2010,Snow,21314.78
+1896,New Castle,2010,Snow,4693.13
+1896,New Castle,2010,Snow,14027.15
+1896,New Castle,2010,Snow,34641.52
+1896,New Castle,2010,Snow,850.73
+1896,Statewide,2010,Snow,487302.92
+1896,Statewide,2010,Snow,1879.76
+1896,Statewide,2010,Snow,177188.08
+1896,Kent,2010,Snow,3970.51
+1896,Kent,2010,Snow,6954.78
+1896,Kent,2010,Snow,5718.75
+1896,New Castle,2010,Snow,585921.59
+1896,Statewide,2010,Snow,318921.77
+1896,Kent,2010,Snow,13887.11
+1896,New Castle,2010,Snow,1563.69
+1896,New Castle,2010,Snow,7489.09
+1896,New Castle,2010,Snow,7223.94
+1896,New Castle,2010,Snow,2184.48
+1896,New Castle,2010,Snow,4335.0
+1896,New Castle,2010,Snow,5793.75
+1896,New Castle,2010,Snow,750.0
+1896,Statewide,2010,Snow,97537.49
+1896,New Castle,2010,Snow,2280.71
+1896,New Castle,2010,Snow,5245.75
+1896,Statewide,2010,Snow,2559818.88
+1896,Kent,2010,Snow,29490.91
+1896,New Castle,2010,Snow,20863.0
+1896,New Castle,2010,Snow,1891.39
+1896,Statewide,2010,Snow,12198.56
+1896,Statewide,2010,Snow,26536.2
+1896,Kent,2010,Snow,2104.8
+1896,Statewide,2010,Snow,44015.75
+1896,New Castle,2010,Snow,4920.0
+1896,New Castle,2010,Snow,4827.5
+1896,Kent,2010,Snow,14282.61
+1896,New Castle,2010,Snow,297357.66
+1896,New Castle,2010,Snow,2025.0
+1896,Kent,2010,Snow,36817.16
+1896,New Castle,2010,Snow,3840.04
+1896,New Castle,2010,Snow,88640.72
+1896,New Castle,2010,Snow,358381.94
+1896,New Castle,2010,Snow,4135.18
+1896,New Castle,2010,Snow,81345.21
+1896,Statewide,2010,Snow,11952.42
+1896,Kent,2010,Snow,13917.3
+1896,Kent,2010,Snow,5271.89
+1896,New Castle,2010,Snow,2447.5
+1896,Statewide,2010,Snow,25875.0
+1896,New Castle,2010,Snow,2353.59
+1896,Kent,2010,Snow,2131.67
+1896,Statewide,2010,Snow,3315.86
+1896,New Castle,2010,Snow,4438.5
+1896,New Castle,2010,Snow,0.0
+1896,Kent,2010,Snow,9613.49
+1896,New Castle,2010,Snow,17435.78
+1896,New Castle,2010,Snow,16567.36
+1896,New Castle,2010,Snow,23136.64
+1896,New Castle,2010,Snow,3135.99
+1896,New Castle,2010,Snow,2487.75
+1896,Kent,2010,Snow,1754.0
+1896,Kent,2010,Snow,4538.79
+1896,Kent,2010,Snow,1908.43
+1896,Kent,2010,Snow,49391.41
+1896,New Castle,2010,Snow,13833.64
+1896,Kent,2010,Snow,2145.0
+1896,Statewide,2010,Snow,795.0
+1896,Kent,2010,Snow,4146.81
+1896,Kent,2010,Snow,187267.9
+1896,Kent,2010,Snow,5427.85
+1896,New Castle,2010,Snow,3676.63
+1896,New Castle,2010,Snow,5625.0
+1896,New Castle,2010,Snow,1882.97
+1896,Kent,2010,Snow,12342.06
+1896,Statewide,2010,Snow,5176.7
+1896,New Castle,2010,Snow,4119.93
+1896,Sussex,2010,Snow,2620.69
+1896,Sussex,2010,Snow,49982.05
+1896,Sussex,2010,Snow,4584.37
+1896,Sussex,2010,Snow,7618.19
+1896,Sussex,2010,Snow,10498.15
+1896,Sussex,2010,Snow,21618.6
+1896,Sussex,2010,Snow,7723.78
+1896,Statewide,2010,Snow,372992.42
+1896,Sussex,2010,Snow,34751.65
+1896,Sussex,2010,Snow,3077.68
+1896,Sussex,2010,Snow,20217.89
+1896,Statewide,2010,Snow,8632.52
+1896,Sussex,2010,Snow,36728.57
+1896,Statewide,2010,Snow,2049.65
+1896,Statewide,2010,Snow,36547.9
+1896,Statewide,2010,Snow,777.14
+1896,Statewide,2010,Snow,12781.92
+1896,Sussex,2010,Snow,3211.21
+1896,Statewide,2010,Snow,8419.71
+1896,Sussex,2010,Snow,6047.65
+1896,Statewide,2010,Snow,1268.96
+1896,Sussex,2010,Snow,11437.87
+1896,Sussex,2010,Snow,3941.25
+1896,Sussex,2010,Snow,8375.45
+1896,Sussex,2010,Snow,96479.41
+1896,Sussex,2010,Snow,10996.36
+1896,Sussex,2010,Snow,6232.71
+1896,New Castle,2010,Snow,3556.57
+1896,Sussex,2010,Snow,33148.45
+1896,Sussex,2010,Snow,8006.55
+1896,Sussex,2010,Snow,10945.72
+1896,Sussex,2010,Snow,11224.46
+1896,Sussex,2010,Snow,5430.11
+1896,Sussex,2010,Snow,12221.12
+1896,Sussex,2010,Snow,17862.52
+1896,Sussex,2010,Snow,8730.1
+1896,Sussex,2010,Snow,125652.1
+1896,Statewide,2010,Snow,916.88
+1896,Sussex,2010,Snow,3838.11
+1896,Sussex,2010,Snow,2649.83
+1896,Statewide,2010,Snow,6358.05
+1896,Sussex,2010,Snow,9119.46
+1896,New Castle,2010,Snow,53856.41
+1896,Sussex,2010,Snow,8555.6
+1896,Sussex,2010,Snow,4231.31
+1896,Sussex,2010,Snow,1111.76
+1896,Sussex,2010,Snow,27583.35
+1896,Sussex,2010,Snow,9838.37
+1896,Sussex,2010,Snow,3425.1
+1896,Sussex,2010,Snow,29232.65
+1896,Sussex,2010,Snow,3262.28
+1896,Sussex,2010,Snow,1781.44
+1896,Sussex,2010,Snow,15792.11
+1896,Sussex,2010,Snow,6046.45
+1896,Sussex,2010,Snow,1728.66
+1896,Statewide,2010,Snow,8990.38
+1896,Sussex,2010,Snow,938.14
+1896,Statewide,2010,Snow,53936.18
+1896,Kent,2010,Snow,1836.74
+1896,Sussex,2010,Snow,9960.14
+1896,Sussex,2010,Snow,2900.51
+1896,Sussex,2010,Snow,67082.02
+1896,Statewide,2010,Snow,6261.19
+1896,Statewide,2010,Snow,38606.96
+1896,Sussex,2010,Snow,2142.78
+1896,New Castle,2010,Snow,49368.18
+1896,Sussex,2010,Snow,2030.86
+1896,Statewide,2010,Snow,3490.92
+1896,Sussex,2010,Snow,8286.38
+3111,NaN,1993,Snow,82.5
+3111,NaN,1993,Snow,998.02
+3111,NaN,1993,Snow,430551.89
+3111,NaN,1993,Snow,872.8
+3111,NaN,1993,Snow,114.25
+3111,NaN,1993,Snow,3583.18
+3111,NaN,1993,Snow,3021.57
+3111,NaN,1993,Snow,1612.5
+3111,NaN,1993,Snow,2977.98
+3111,NaN,1993,Snow,10335.15
+3111,NaN,1993,Snow,945.0
+3111,NaN,1993,Snow,2209.23
+3111,NaN,1993,Snow,384.3
+3111,NaN,1993,Snow,621.08
+3111,NaN,1993,Snow,1119.17
+3111,NaN,1993,Snow,109033.79
+3111,NaN,1993,Snow,112.5
+3111,NaN,1993,Snow,185.25
+3111,NaN,1993,Snow,97.13
+3111,NaN,1993,Snow,794.31
+3111,NaN,1993,Snow,1239.38
+3111,NaN,1993,Snow,399.41
+3111,NaN,1993,Snow,470.25
+3111,NaN,1993,Snow,598.5
+3111,NaN,1993,Snow,360.0
+3111,NaN,1993,Snow,155.05
+3111,NaN,1993,Snow,71.25
+3111,NaN,1993,Snow,4677.95
+3111,NaN,1993,Snow,6824.83
+3111,NaN,1993,Snow,1818.61
+3111,NaN,1993,Snow,592.23
+3111,NaN,1993,Snow,512.22
+3111,NaN,1993,Snow,2011.79
+3183,New Castle,2003,Snow,1878.75
+3183,New Castle,2003,Snow,3251.25
+3183,New Castle,2003,Snow,1867.5
+3183,New Castle,2003,Snow,8919.29
+3183,New Castle,2003,Snow,796.5
+3183,New Castle,2003,Snow,9498.0
+3183,New Castle,2003,Snow,47193.0
+3183,Kent,2003,Snow,3074.54
+3183,New Castle,2003,Snow,1254.38
+3183,New Castle,2003,Snow,2302.5
+3183,New Castle,2003,Snow,4413.75
+3183,New Castle,2003,Snow,3201.0
+3183,New Castle,2003,Snow,1496.25
+3183,Kent,2003,Snow,10495.5
+3183,Kent,2003,Snow,2085.66
+3183,New Castle,2003,Snow,16816.5
+3183,Kent,2003,Snow,0.0
+3183,Kent,2003,Snow,17539.5
+3183,New Castle,2003,Snow,51271.65
+3183,Kent,2003,Snow,3639.75
+3183,Kent,2003,Snow,14088.12
+3183,New Castle,2003,Snow,1770.0
+3183,New Castle,2003,Snow,36144.0
+3183,Kent,2003,Snow,8079.71
+3183,New Castle,2003,Snow,2078.44
+3183,Kent,2003,Snow,803.3
+3183,New Castle,2003,Snow,807.75
+3183,New Castle,2003,Snow,37062.75
+3183,Kent,2003,Snow,14715.25
+3183,New Castle,2003,Snow,1497.75
+3183,New Castle,2003,Snow,107764.5
+3183,Kent,2003,Snow,129433.35
+3183,New Castle,2003,Snow,2835.75
+3183,New Castle,2003,Snow,1968.75
+3183,Kent,2003,Snow,20069.25
+3183,New Castle,2003,Snow,8605.65
+3183,New Castle,2003,Snow,1389.0
+3183,Kent,2003,Snow,12032.71
+3183,New Castle,2003,Snow,12480.0
+3183,Kent,2003,Snow,2515.66
+3183,Kent,2003,Snow,3618.02
+3183,New Castle,2003,Snow,73281.75
+3183,New Castle,2003,Snow,2017.5
+3183,New Castle,2003,Snow,0.0
+3183,Kent,2003,Snow,6731.27
+3183,New Castle,2003,Snow,1550.25
+3183,Kent,2003,Snow,7740.31
+3183,Kent,2003,Snow,34168.82
+3183,New Castle,2003,Snow,3256.96
+3183,Kent,2003,Snow,2223.75
+3183,New Castle,2003,Snow,1518.75
+3183,Kent,2003,Snow,0.0
+3183,New Castle,2003,Snow,20646.75
+3183,New Castle,2003,Snow,6031.5
+3183,Kent,2003,Snow,759.75
+3183,New Castle,2003,Snow,34433.82
+3183,Kent,2003,Snow,22107.26
+3183,New Castle,2003,Snow,1857.75
+3183,Kent,2003,Snow,8733.75
+3183,New Castle,2003,Snow,6881.25
+3183,New Castle,2003,Snow,2090.25
+3183,Kent,2003,Snow,4752.75
+3183,Kent,2003,Snow,5738.05
+3183,Statewide,2003,Snow,144266.08
+3183,Statewide,2003,Snow,29539.5
+3183,Sussex,2003,Snow,2353.5
+3183,Sussex,2003,Snow,11780.25
+3183,Statewide,2003,Snow,10829.76
+3183,Sussex,2003,Snow,1406.8
+3183,Sussex,2003,Snow,2211.75
+3183,Statewide,2003,Snow,10003.5
+3183,Statewide,2003,Snow,5328.0
+3183,Sussex,2003,Snow,1560.34
+3183,Sussex,2003,Snow,874.9
+3183,Sussex,2003,Snow,2349.0
+3183,New Castle,2003,Snow,468342.55
+3183,Sussex,2003,Snow,2925.0
+3183,Statewide,2003,Snow,4208.3
+3183,Statewide,2003,Snow,5574.0
+3183,Sussex,2003,Snow,10673.25
+3183,Statewide,2003,Snow,5486.25
+3183,Statewide,2003,Snow,34521.0
+3183,Sussex,2003,Snow,6186.72
+3183,Sussex,2003,Snow,1852.01
+3183,Sussex,2003,Snow,883.51
+3183,Statewide,2003,Snow,24163.5
+3183,Statewide,2003,Snow,1329740.82
+3183,Statewide,2003,Snow,10557.75
+3183,Statewide,2003,Snow,178974.0
+3183,Sussex,2003,Snow,8019.75
+3183,Statewide,2003,Snow,36491.05
+3183,Statewide,2003,Snow,22956.0
+3183,Sussex,2003,Snow,17142.8
+3183,Sussex,2003,Snow,1504.52
+3183,Sussex,2003,Snow,12776.25
+3183,Sussex,2003,Snow,1488.0
+3183,Sussex,2003,Snow,12503.09
+3183,Sussex,2003,Snow,2133.0
+3183,Statewide,2003,Snow,63503.66
+3183,New Castle,2003,Snow,16696.01
+3183,New Castle,2003,Snow,1323.75
+3183,New Castle,2003,Snow,2446.5
+3183,Sussex,2003,Snow,5648.98
+3183,New Castle,2003,Snow,34035.23
+3183,Sussex,2003,Snow,3664.11
+3183,Statewide,2003,Snow,7485.75
+3183,Sussex,2003,Snow,7353.75
+3263,Statewide,2005,Hurricane,89661.81
+3336,New Castle,2011,Hurricane,30028.6
+3336,New Castle,2011,Hurricane,142231.74
+3336,New Castle,2011,Hurricane,3176.47
+3336,Kent,2011,Hurricane,1108.11
+3336,Kent,2011,Hurricane,4697.41
+3336,New Castle,2011,Hurricane,15703.82
+3336,New Castle,2011,Hurricane,1571.73
+3336,New Castle,2011,Hurricane,6108.68
+3336,New Castle,2011,Hurricane,6388.0
+3336,Statewide,2011,Hurricane,32544.23
+3336,New Castle,2011,Hurricane,2475.96
+3336,New Castle,2011,Hurricane,5039.58
+3336,New Castle,2011,Hurricane,72510.06
+3336,New Castle,2011,Hurricane,12035.82
+3336,New Castle,2011,Hurricane,4141.04
+3336,New Castle,2011,Hurricane,2439.61
+3336,New Castle,2011,Hurricane,11552.6
+3336,New Castle,2011,Hurricane,3213.99
+3336,New Castle,2011,Hurricane,1413.24
+3336,Statewide,2011,Hurricane,163380.44
+3336,Statewide,2011,Hurricane,25570.32
+3336,Statewide,2011,Hurricane,48775.62
+3336,New Castle,2011,Hurricane,3443.15
+3336,Statewide,2011,Hurricane,3571.69
+3336,Statewide,2011,Hurricane,176026.82
+3336,New Castle,2011,Hurricane,25256.99
+3336,Statewide,2011,Hurricane,4549.31
+3336,New Castle,2011,Hurricane,107888.5
+4037,Kent,2011,Hurricane,19299.08
+4037,Kent,2011,Hurricane,1788.86
+4037,Kent,2011,Hurricane,75585.09
+4037,Statewide,2011,Hurricane,5880.51
+4037,Kent,2011,Hurricane,1596.45
+4037,Kent,2011,Hurricane,790.41
+4037,Kent,2011,Hurricane,2296.86
+4037,Kent,2011,Hurricane,29967.08
+4037,Kent,2011,Hurricane,7802.0
+4037,Statewide,2011,Hurricane,630341.71
+4037,Kent,2011,Hurricane,8456.22
+4037,New Castle,2011,Hurricane,5169.13
+4037,Statewide,2011,Hurricane,13692.62
+4037,Kent,2011,Hurricane,1853.1
+4037,Kent,2011,Hurricane,3174.17
+4037,Kent,2011,Hurricane,157494.68
+4037,Kent,2011,Hurricane,7429.98
+4037,Kent,2011,Hurricane,2238.18
+4037,Kent,2011,Hurricane,6915.16
+4037,Kent,2011,Hurricane,1743.19
+4037,Sussex,2011,Hurricane,1648.72
+4037,Sussex,2011,Hurricane,1916.17
+4037,Sussex,2011,Hurricane,5136.65
+4037,Sussex,2011,Hurricane,21230.57
+4037,Sussex,2011,Hurricane,7640.82
+4037,Sussex,2011,Hurricane,2773.59
+4037,Sussex,2011,Hurricane,60670.95
+4037,Sussex,2011,Hurricane,11943.37
+4037,Sussex,2011,Hurricane,14912.8
+4037,Sussex,2011,Hurricane,5546.86
+4037,Statewide,2011,Hurricane,234097.97
+4037,Statewide,2011,Hurricane,35104.31
+4037,Sussex,2011,Hurricane,9130.16
+4037,Sussex,2011,Hurricane,8136.68
+4037,Sussex,2011,Hurricane,2495.75
+4037,Statewide,2011,Hurricane,4211.42
+4037,Statewide,2011,Hurricane,2688.65
+4037,Sussex,2011,Hurricane,17384.75
+4037,Statewide,2011,Hurricane,171053.43
+4037,Statewide,2011,Hurricane,6720.18
+4037,Sussex,2011,Hurricane,2011.93
+4037,Sussex,2011,Hurricane,4694.2
+4037,Sussex,2011,Hurricane,2859.86
+4037,Statewide,2011,Hurricane,7500.0
+4037,Sussex,2011,Hurricane,31382.86
+4037,Sussex,2011,Hurricane,5726.88
+4037,Sussex,2011,Hurricane,48272.25
+4037,Statewide,2011,Hurricane,302393.61
+4037,Sussex,2011,Hurricane,8778.08
+4037,Statewide,2011,Hurricane,3375.61
+4037,Sussex,2011,Hurricane,4275.8
+4037,Sussex,2011,Hurricane,5613.36
+4037,Sussex,2011,Hurricane,1902.89
+4090,Statewide,2012,Hurricane,28579.46
+4090,Sussex,2012,Hurricane,94296.87
+4090,Sussex,2012,Hurricane,13119.7
+4090,Kent,2012,Hurricane,6827.27
+4090,Sussex,2012,Hurricane,46040.37
+4090,New Castle,2012,Hurricane,405661.96
+4090,Statewide,2012,Hurricane,2588352.07
+4090,New Castle,2012,Hurricane,2146.35
+4090,Statewide,2012,Hurricane,111839.71
+4090,Statewide,2012,Hurricane,47556.11
+4090,Kent,2012,Hurricane,22966.28
+4090,Sussex,2012,Hurricane,21492.5
+4090,Sussex,2012,Hurricane,7938.58
+4090,Kent,2012,Hurricane,8095.11
+4090,New Castle,2012,Hurricane,7852.5
+4090,Sussex,2012,Hurricane,4978.45
+4090,Kent,2012,Hurricane,2244.68
+4090,New Castle,2012,Hurricane,105769.09
+4090,Sussex,2012,Hurricane,21250.9
+4090,Kent,2012,Hurricane,254636.69
+4090,Sussex,2012,Hurricane,53668.39
+4090,Statewide,2012,Hurricane,189026.09
+4090,New Castle,2012,Hurricane,4626.55
+4090,New Castle,2012,Hurricane,40018.84
+4090,Sussex,2012,Hurricane,2679.95
+4090,Sussex,2012,Hurricane,15112.43
+4090,New Castle,2012,Hurricane,8749.86
+4090,New Castle,2012,Hurricane,38146.7
+4090,Sussex,2012,Hurricane,8099.49
+4090,Statewide,2012,Hurricane,8307.29
+4090,New Castle,2012,Hurricane,34216.45
+4090,New Castle,2012,Hurricane,3885.98
+4090,Sussex,2012,Hurricane,1952.52
+4090,Sussex,2012,Hurricane,2016.39
+4090,Statewide,2012,Hurricane,216162.11
+4090,Kent,2012,Hurricane,1879.43
+4090,New Castle,2012,Hurricane,210245.47
+4090,Sussex,2012,Hurricane,8935.34
+4090,Sussex,2012,Hurricane,49804.66
+4090,Sussex,2012,Hurricane,19603.74
+4090,Sussex,2012,Hurricane,18750.0
+4090,New Castle,2012,Hurricane,3563.72
+4090,Statewide,2012,Hurricane,1193759.43
+4090,Kent,2012,Hurricane,1495.27
+4090,Sussex,2012,Hurricane,5306.69
+4090,Sussex,2012,Hurricane,11109.56
+4090,Sussex,2012,Hurricane,30375.12
+4090,Statewide,2012,Hurricane,61647.02
+4090,Statewide,2012,Hurricane,69418.91
+4090,New Castle,2012,Hurricane,1646.4
+4090,Statewide,2012,Hurricane,499222.14
+4265,Statewide,2016,Snow,3464.87
+4265,Statewide,2016,Snow,8786.88
+4265,Statewide,2016,Snow,454842.52
+4265,Statewide,2016,Snow,6322.2
+4265,Sussex,2016,Snow,9856.09
+4265,Sussex,2016,Snow,8281.92
+4265,Sussex,2016,Snow,30751.92
+4265,Sussex,2016,Snow,8949.28
+4265,Statewide,2016,Snow,22567.01
+4265,Sussex,2016,Snow,43896.59
+4265,Statewide,2016,Snow,64208.79
+4265,Sussex,2016,Snow,940783.43

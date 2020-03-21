@@ -1,0 +1,377 @@
+disasterNumber,county,year,incidentType,amountOblig
+1248,nan,1998,Hurricane,9654.09
+1248,nan,1998,Hurricane,3645.0
+1248,nan,1998,Hurricane,98528.37
+1248,nan,1998,Hurricane,5836.5
+1248,nan,1998,Hurricane,206182.39
+1248,nan,1998,Hurricane,100413.59
+1248,nan,1998,Hurricane,446851.1
+1248,nan,1998,Hurricane,-0.48
+1248,nan,1998,Hurricane,23309.77
+1248,nan,1998,Hurricane,106544.61
+1248,nan,1998,Hurricane,2205.0
+1248,nan,1998,Hurricane,47656.45
+1248,nan,1998,Hurricane,1464540.3
+1248,nan,1998,Hurricane,9648.77
+1248,nan,1998,Hurricane,54313.91
+1248,nan,1998,Hurricane,30276.79
+1248,nan,1998,Hurricane,0.0
+1248,nan,1998,Hurricane,20706.63
+1248,nan,1998,Hurricane,1605.68
+1248,nan,1998,Hurricane,153949.24
+1248,nan,1998,Hurricane,75693.6
+1248,nan,1998,Hurricane,37720.73
+1248,nan,1998,Hurricane,6347.76
+1248,nan,1998,Hurricane,10054.94
+1248,nan,1998,Hurricane,29201.55
+1248,nan,1998,Hurricane,62904.58
+1248,nan,1998,Hurricane,944.25
+1248,nan,1998,Hurricane,1111270.87
+1248,nan,1998,Hurricane,195414.51
+1248,nan,1998,Hurricane,5237.87
+1248,nan,1998,Hurricane,274359.75
+1248,nan,1998,Hurricane,43147.91
+1248,nan,1998,Hurricane,8791.2
+1248,nan,1998,Hurricane,44618.68
+1309,Statewide,1999,Hurricane,3278.03
+1309,Statewide,1999,Hurricane,13808.63
+1309,Statewide,1999,Hurricane,0.0
+1309,Statewide,1999,Hurricane,5564.7
+1309,Statewide,1999,Hurricane,0.0
+1309,St. Croix,1999,Hurricane,17325.0
+1309,Statewide,1999,Hurricane,1689228.34
+1309,Statewide,1999,Hurricane,57146.89
+1309,Statewide,1999,Hurricane,163915.39
+1309,Statewide,1999,Hurricane,17864.22
+1309,Statewide,1999,Hurricane,25518.64
+1309,Statewide,1999,Hurricane,1530.0
+1309,Statewide,1999,Hurricane,238048.11
+1309,St. Croix,1999,Hurricane,4013.1
+1309,Statewide,1999,Hurricane,1844.1
+1309,St. Croix,1999,Hurricane,13837.5
+1309,St. Croix,1999,Hurricane,61729.3
+1309,St. Croix,1999,Hurricane,37762.54
+1309,Statewide,1999,Hurricane,3407.14
+1309,Statewide,1999,Hurricane,834813.9
+1309,Statewide,1999,Hurricane,15973.93
+1309,Statewide,1999,Hurricane,40933.18
+1309,Statewide,1999,Hurricane,920.7
+1309,Statewide,1999,Hurricane,0.0
+1309,Statewide,1999,Hurricane,12612.99
+1309,Statewide,1999,Hurricane,17811.91
+1309,Statewide,1999,Hurricane,71930.33
+1309,Statewide,1999,Hurricane,230646.6
+1309,Statewide,1999,Hurricane,43253.56
+1309,Statewide,1999,Hurricane,532082.7
+1309,Statewide,1999,Hurricane,0.02
+1309,Statewide,1999,Hurricane,189084.03
+1309,Statewide,1999,Hurricane,0.0
+1309,Statewide,1999,Hurricane,68427.7
+1309,Statewide,1999,Hurricane,291527.17
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,St. Croix,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),194231.24
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),6337.8
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,St. Croix,2003,Severe Storm(s),1009.91
+1503,Statewide,2003,Severe Storm(s),11605.66
+1503,Statewide,2003,Severe Storm(s),3141.01
+1503,Statewide,2003,Severe Storm(s),165624.38
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),858505.64
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),38278.22
+1503,Statewide,2003,Severe Storm(s),170903.77
+1503,St. Thomas,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),54784.68
+1503,Statewide,2003,Severe Storm(s),3503.7
+1503,Statewide,2003,Severe Storm(s),10291.38
+1503,St. John,2003,Severe Storm(s),2469.0
+1503,St. Croix,2003,Severe Storm(s),0.0
+1503,Statewide,2003,Severe Storm(s),0.0
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,0.0
+1567,St. Thomas,2004,Hurricane,55485.0
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,993.75
+1567,Statewide,2004,Hurricane,2677.5
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,5220.41
+1567,Statewide,2004,Hurricane,262026.23
+1567,Statewide,2004,Hurricane,128404.69
+1567,Statewide,2004,Hurricane,156985.88
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,3424.99
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,6585.0
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,307.5
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,906.96
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,310874.78
+1567,Statewide,2004,Hurricane,7357.87
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,0.0
+1567,Statewide,2004,Hurricane,581201.89
+1567,Statewide,2004,Hurricane,0.0
+1567,St. Croix,2004,Hurricane,1293.75
+1567,Statewide,2004,Hurricane,107342.19
+1807,St. Croix,2008,Hurricane,7302.91
+1807,Statewide,2008,Hurricane,10971.15
+1807,Statewide,2008,Hurricane,16808.45
+1807,Statewide,2008,Hurricane,20952.33
+1807,Statewide,2008,Hurricane,613620.97
+1807,Statewide,2008,Hurricane,6224.84
+1807,St. John,2008,Hurricane,10985.93
+1807,Statewide,2008,Hurricane,27459.01
+1807,St. Croix,2008,Hurricane,4300.03
+1807,Statewide,2008,Hurricane,102533.04
+1807,Statewide,2008,Hurricane,17441.96
+1807,St. Croix,2008,Hurricane,2999.25
+1807,Statewide,2008,Hurricane,118331.69
+1807,St. Croix,2008,Hurricane,19449.27
+1807,Statewide,2008,Hurricane,73983.77
+1807,Statewide,2008,Hurricane,0.0
+1807,Statewide,2008,Hurricane,0.0
+1807,Statewide,2008,Hurricane,11564.87
+1807,Statewide,2008,Hurricane,22790.97
+1807,Statewide,2008,Hurricane,0.0
+1807,Statewide,2008,Hurricane,6875.21
+1807,Statewide,2008,Hurricane,256091.4
+1807,Statewide,2008,Hurricane,23443.32
+1807,St. Croix,2008,Hurricane,1220.63
+1807,Statewide,2008,Hurricane,957953.55
+1807,Statewide,2008,Hurricane,30260.26
+1807,Statewide,2008,Hurricane,2517965.14
+1807,Statewide,2008,Hurricane,290927.43
+1807,Statewide,2008,Hurricane,2282.03
+1807,Statewide,2008,Hurricane,8875.65
+1807,St. Croix,2008,Hurricane,0.0
+1807,St. Croix,2008,Hurricane,0.0
+1807,St. Croix,2008,Hurricane,4131.88
+1807,Statewide,2008,Hurricane,913.17
+1807,Statewide,2008,Hurricane,172223.23
+1807,Statewide,2008,Hurricane,0.0
+1807,Statewide,2008,Hurricane,7106.14
+1807,Statewide,2008,Hurricane,2237303.9
+1807,Statewide,2008,Hurricane,0.0
+1807,Statewide,2008,Hurricane,39729.33
+1939,Statewide,2010,Hurricane,39149.36
+1939,Statewide,2010,Hurricane,51731.17
+1939,Statewide,2010,Hurricane,937.5
+1939,Statewide,2010,Hurricane,666800.53
+1939,Statewide,2010,Hurricane,16075.89
+1939,Statewide,2010,Hurricane,1107678.97
+1939,Statewide,2010,Hurricane,8791.01
+1939,Statewide,2010,Hurricane,38313.65
+1939,Statewide,2010,Hurricane,141000.65
+1939,Statewide,2010,Hurricane,115291.72
+1939,Statewide,2010,Hurricane,39155.23
+1939,Statewide,2010,Hurricane,81331.5
+1939,Statewide,2010,Hurricane,7982.75
+1939,Statewide,2010,Hurricane,128002.46
+1939,Statewide,2010,Hurricane,1264.44
+1939,Statewide,2010,Hurricane,6592.27
+1939,Statewide,2010,Hurricane,448918.31
+1939,Statewide,2010,Hurricane,66934.44
+1939,Statewide,2010,Hurricane,79069.51
+1948,Statewide,2010,Severe Storm(s),244584.6
+1948,Statewide,2010,Severe Storm(s),29061.75
+1948,Statewide,2010,Severe Storm(s),95062.59
+1948,Statewide,2010,Severe Storm(s),433587.15
+1948,Statewide,2010,Severe Storm(s),51840.5
+1948,Statewide,2010,Severe Storm(s),27845.79
+1949,Statewide,2010,Severe Storm(s),16404.91
+1949,Statewide,2010,Severe Storm(s),135247.14
+1948,Statewide,2010,Severe Storm(s),118210.67
+1948,Statewide,2010,Severe Storm(s),1116.75
+1949,St. Croix,2010,Severe Storm(s),159625.04
+1949,Statewide,2010,Severe Storm(s),15659.25
+1949,Statewide,2010,Severe Storm(s),4500.0
+1949,Statewide,2010,Severe Storm(s),14151.17
+1949,Statewide,2010,Severe Storm(s),15442.8
+1949,Statewide,2010,Severe Storm(s),89312.1
+1949,Statewide,2010,Severe Storm(s),71005.02
+1949,Statewide,2010,Severe Storm(s),920.24
+1949,Statewide,2010,Severe Storm(s),82696.24
+1949,Statewide,2010,Severe Storm(s),58684.6
+1949,Statewide,2010,Severe Storm(s),38914.2
+1949,Statewide,2010,Severe Storm(s),855612.32
+1949,St. Croix,2010,Severe Storm(s),209840.33
+1949,Statewide,2010,Severe Storm(s),25290.16
+1949,Statewide,2010,Severe Storm(s),46716.78
+4335,Statewide,2017,Hurricane,666321.44
+4335,St. Croix,2017,Hurricane,3225.87
+4335,Statewide,2017,Hurricane,49132.04
+4335,Statewide,2017,Hurricane,14987.3
+4335,Statewide,2017,Hurricane,360582.79
+4335,Statewide,2017,Hurricane,874069.04
+4335,St. Thomas,2017,Hurricane,25935.0
+4335,Statewide,2017,Hurricane,16755.6
+4335,Statewide,2017,Hurricane,0.0
+4335,Statewide,2017,Hurricane,12707.6
+4335,St. Croix,2017,Hurricane,26208.69
+4335,Statewide,2017,Hurricane,24029.52
+4335,Statewide,2017,Hurricane,1754932.25
+4335,Statewide,2017,Hurricane,173758.13
+4335,Statewide,2017,Hurricane,4747.39
+4335,Statewide,2017,Hurricane,114641.94
+4335,Statewide,2017,Hurricane,154224.57
+4335,Statewide,2017,Hurricane,68187.25
+4335,Statewide,2017,Hurricane,9724.7
+4335,Statewide,2017,Hurricane,585412.97
+4335,Statewide,2017,Hurricane,42170.03
+4335,Statewide,2017,Hurricane,38720.0
+4335,Statewide,2017,Hurricane,92177.16
+4335,St. John,2017,Hurricane,9284.91
+4335,Statewide,2017,Hurricane,87948.0
+4335,Statewide,2017,Hurricane,7548.2
+4335,Statewide,2017,Hurricane,16270.01
+4335,Statewide,2017,Hurricane,611860.62
+4335,Statewide,2017,Hurricane,938894.82
+4335,Statewide,2017,Hurricane,128758.05
+4335,St. Thomas,2017,Hurricane,61091.81
+4335,Statewide,2017,Hurricane,66853.58
+4335,Statewide,2017,Hurricane,1136574.9
+4335,Statewide,2017,Hurricane,31050.0
+4335,Statewide,2017,Hurricane,388002.23
+4335,Statewide,2017,Hurricane,62897.31
+4335,Statewide,2017,Hurricane,0.0
+4335,Statewide,2017,Hurricane,27825.01
+4335,St. Thomas,2017,Hurricane,154900.08
+4335,Statewide,2017,Hurricane,36295.0
+4335,Statewide,2017,Hurricane,1074491.57
+4335,Statewide,2017,Hurricane,521282.72
+4335,Statewide,2017,Hurricane,95327.93
+4335,Statewide,2017,Hurricane,18456.56
+4335,Statewide,2017,Hurricane,10800.0
+4335,Statewide,2017,Hurricane,19428.16
+4335,Statewide,2017,Hurricane,5036.44
+4335,Statewide,2017,Hurricane,32704.91
+4335,Statewide,2017,Hurricane,8238.0
+4335,Statewide,2017,Hurricane,60136.48
+4335,Statewide,2017,Hurricane,109640.99
+4335,Statewide,2017,Hurricane,2149550.23
+4335,Statewide,2017,Hurricane,380728.67
+4335,Statewide,2017,Hurricane,619369.32
+4335,Statewide,2017,Hurricane,107664.45
+4335,Statewide,2017,Hurricane,863185.68
+4335,Statewide,2017,Hurricane,0.0
+4335,Statewide,2017,Hurricane,1439914.8
+4335,Statewide,2017,Hurricane,179621.52
+4335,Statewide,2017,Hurricane,200758.18
+4335,Statewide,2017,Hurricane,42798228.23
+4335,Statewide,2017,Hurricane,14649.02
+4335,Statewide,2017,Hurricane,7596.39
+4335,Statewide,2017,Hurricane,9978.3
+4335,Statewide,2017,Hurricane,642927.99
+4335,Statewide,2017,Hurricane,135531.64
+4335,Statewide,2017,Hurricane,265214.12
+4335,Statewide,2017,Hurricane,51783.89
+4335,Statewide,2017,Hurricane,2592610.63
+4335,Statewide,2017,Hurricane,181951.1
+4335,Statewide,2017,Hurricane,2061511.15
+4340,Statewide,2017,Hurricane,65386.2
+4340,Statewide,2017,Hurricane,4710.0
+4340,Statewide,2017,Hurricane,1125294.35
+4340,Statewide,2017,Hurricane,3920.0
+4340,St. Croix,2017,Hurricane,6465.0
+4340,Statewide,2017,Hurricane,21905.95
+4340,St. Thomas,2017,Hurricane,668643.57
+4340,Statewide,2017,Hurricane,246673.64
+4340,Statewide,2017,Hurricane,2404468.22
+4340,Statewide,2017,Hurricane,133791137.32
+4340,Statewide,2017,Hurricane,62125.84
+4340,Statewide,2017,Hurricane,168672.72
+4340,Statewide,2017,Hurricane,314647.95
+4340,Statewide,2017,Hurricane,3721117.0
+4340,Statewide,2017,Hurricane,95916.87
+4340,Statewide,2017,Hurricane,8086.38
+4340,Statewide,2017,Hurricane,969174.44
+4340,Statewide,2017,Hurricane,24167.8
+4340,Statewide,2017,Hurricane,491713.92
+4340,Statewide,2017,Hurricane,43265.98
+4340,Statewide,2017,Hurricane,231917.4
+4340,Statewide,2017,Hurricane,37030.0
+4340,Statewide,2017,Hurricane,620651.57
+4340,Statewide,2017,Hurricane,7875.0
+4340,Statewide,2017,Hurricane,192899.56
+4340,St. Croix,2017,Hurricane,60175.07
+4340,Statewide,2017,Hurricane,173731.3
+4340,Statewide,2017,Hurricane,166850.67
+4340,St. Croix,2017,Hurricane,303587.37
+4340,Statewide,2017,Hurricane,4708.07
+4340,Statewide,2017,Hurricane,66806.55
+4340,Statewide,2017,Hurricane,49418.64
+4340,Statewide,2017,Hurricane,50324.94
+4340,Statewide,2017,Hurricane,107233.68
+4340,Statewide,2017,Hurricane,557024.75
+4340,Statewide,2017,Hurricane,134789.16
+4340,Statewide,2017,Hurricane,873512.47
+4340,Statewide,2017,Hurricane,0.0
+4340,Statewide,2017,Hurricane,1376106.65
+4340,Statewide,2017,Hurricane,84010054.55
+4340,Statewide,2017,Hurricane,5328970.48
+4340,Statewide,2017,Hurricane,51375.17
+4340,Statewide,2017,Hurricane,235869.98
+4340,Statewide,2017,Hurricane,1270933.7
+4340,Statewide,2017,Hurricane,10700.0
+4340,Statewide,2017,Hurricane,9500.0
+4340,Statewide,2017,Hurricane,3422982.16
+4340,Statewide,2017,Hurricane,740325.54
+4340,St. John,2017,Hurricane,20635.07
+4340,Statewide,2017,Hurricane,795514.64
+4340,Statewide,2017,Hurricane,9614.78
+4340,Statewide,2017,Hurricane,74306.51
+4340,Statewide,2017,Hurricane,12294.85
+4340,Statewide,2017,Hurricane,720818.61
+4340,Statewide,2017,Hurricane,3057.48
+4340,Statewide,2017,Hurricane,183205.47
+4340,Statewide,2017,Hurricane,187917.3
+4340,St. Thomas,2017,Hurricane,17663.4
+4340,Statewide,2017,Hurricane,24881.31
+4340,Statewide,2017,Hurricane,51044303.43
+4340,Statewide,2017,Hurricane,5997803.01
+4340,Statewide,2017,Hurricane,117028760.05
+4340,Statewide,2017,Hurricane,7052.54
+4340,Statewide,2017,Hurricane,6632615.03
+4340,Statewide,2017,Hurricane,12415.0
+4340,Statewide,2017,Hurricane,17906187.42
+4340,Statewide,2017,Hurricane,138202.34
+4340,Statewide,2017,Hurricane,377792.43
+4340,Statewide,2017,Hurricane,112491.85
+4340,Statewide,2017,Hurricane,48285.0
+4340,Statewide,2017,Hurricane,511383241.4
+4340,Statewide,2017,Hurricane,1439746.44
+4340,Statewide,2017,Hurricane,1803103.63
+4340,Statewide,2017,Hurricane,2135626.82
+4340,Statewide,2017,Hurricane,1092998.14
+4340,Statewide,2017,Hurricane,46661761.43
+4340,Statewide,2017,Hurricane,0.0
+4340,Statewide,2017,Hurricane,164462.31
+4340,Statewide,2017,Hurricane,938339.46
+4340,Statewide,2017,Hurricane,1047505388.98
+4340,Statewide,2017,Hurricane,138472.55
+4340,Statewide,2017,Hurricane,746107.1
+4340,Statewide,2017,Hurricane,157420.57
+4340,Statewide,2017,Hurricane,70603050.24
+4340,Statewide,2017,Hurricane,53824.07
+4335,Statewide,2017,Hurricane,39544.0
+4335,Statewide,2017,Hurricane,37877.75
+4340,Statewide,2017,Hurricane,92047.89
+4340,Statewide,2017,Hurricane,46929.2
+4335,Statewide,2017,Hurricane,54515.93
+4340,Statewide,2017,Hurricane,56762.54
+4340,Statewide,2017,Hurricane,34189.12

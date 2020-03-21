@@ -1,0 +1,2645 @@
+disasterNumber,county,year,incidentType,amountOblig
+1266,White,1999,Severe Storm(s),261826.32
+1266,Statewide,1999,Severe Storm(s),35579.0
+1266,White,1999,Severe Storm(s),528451.58
+1266,Pulaski,1999,Severe Storm(s),1674.61
+1266,St. Francis,1999,Severe Storm(s),26853.25
+1266,White,1999,Severe Storm(s),16372.5
+1266,Greene,1999,Severe Storm(s),76344.31
+1266,Randolph,1999,Severe Storm(s),17841.5
+1266,Columbia,1999,Severe Storm(s),179938.84
+1266,Statewide,1999,Severe Storm(s),26331.98
+1266,Drew,1999,Severe Storm(s),55020.38
+1266,White,1999,Severe Storm(s),180217.52
+1266,Saline,1999,Severe Storm(s),11035.07
+1266,Jackson,1999,Severe Storm(s),4161.24
+1266,Chicot,1999,Severe Storm(s),36031.34
+1266,Statewide,1999,Severe Storm(s),6412.5
+1266,Miller,1999,Severe Storm(s),119407.73
+1266,White,1999,Severe Storm(s),426440.52
+1266,Independence,1999,Severe Storm(s),117341.25
+1266,Monroe,1999,Severe Storm(s),55902.0
+1266,Statewide,1999,Severe Storm(s),101928.98
+1266,Pulaski,1999,Severe Storm(s),24841.02
+1266,Independence,1999,Severe Storm(s),88217.89
+1266,Pulaski,1999,Severe Storm(s),75000.0
+1266,Bradley,1999,Severe Storm(s),32330.26
+1266,Clay,1999,Severe Storm(s),5950.62
+1266,Miller,1999,Severe Storm(s),21105.0
+1266,White,1999,Severe Storm(s),127395.51
+1266,Pulaski,1999,Severe Storm(s),7608.0
+1266,White,1999,Severe Storm(s),2675.25
+1266,Pulaski,1999,Severe Storm(s),3482504.24
+1266,Pulaski,1999,Severe Storm(s),8073.87
+1266,Saline,1999,Severe Storm(s),88375.05
+1266,Statewide,1999,Severe Storm(s),10615.8
+1266,Clay,1999,Severe Storm(s),7500.0
+1266,Statewide,1999,Severe Storm(s),20284.28
+1266,Clay,1999,Severe Storm(s),2359.37
+1266,Jackson,1999,Severe Storm(s),750.0
+1266,Statewide,1999,Severe Storm(s),267368.0
+1266,Jackson,1999,Severe Storm(s),62251.54
+1266,Pulaski,1999,Severe Storm(s),14149.5
+1266,Clay,1999,Severe Storm(s),15750.0
+1266,Pulaski,1999,Severe Storm(s),187524.0
+1266,Statewide,1999,Severe Storm(s),3750.0
+1266,Statewide,1999,Severe Storm(s),61627.5
+1266,Clay,1999,Severe Storm(s),118441.1
+1354,Cleveland,2000,Severe Ice Storm,8526.93
+1354,Columbia,2000,Severe Ice Storm,1456.13
+1354,Benton,2000,Severe Ice Storm,1875.0
+1354,Bradley,2000,Severe Ice Storm,750.0
+1354,Conway,2000,Severe Ice Storm,1500.0
+1354,Conway,2000,Severe Ice Storm,23220.42
+1354,Columbia,2000,Severe Ice Storm,12347.97
+1354,Cleburne,2000,Severe Ice Storm,12867.76
+1354,Conway,2000,Severe Ice Storm,22137.09
+1354,Cleburne,2000,Severe Ice Storm,415564.39
+1354,Calhoun,2000,Severe Ice Storm,29162.68
+1354,Baxter,2000,Severe Ice Storm,872.05
+1354,Clark,2000,Severe Ice Storm,15030.27
+1354,Baxter,2000,Severe Ice Storm,68286.44
+1354,Calhoun,2000,Severe Ice Storm,19689.01
+1354,Columbia,2000,Severe Ice Storm,3896.1
+1354,Baxter,2000,Severe Ice Storm,3065.06
+1354,Benton,2000,Severe Ice Storm,1160.0
+1354,Bradley,2000,Severe Ice Storm,15096.0
+1354,Arkansas,2000,Severe Ice Storm,3452.0
+1354,Columbia,2000,Severe Ice Storm,37121.64
+1354,Clark,2000,Severe Ice Storm,18377.76
+1354,Columbia,2000,Severe Ice Storm,1133.25
+1354,Calhoun,2000,Severe Ice Storm,1850.0
+1354,Benton,2000,Severe Ice Storm,1388.72
+1354,Columbia,2000,Severe Ice Storm,1921.5
+1354,Boone,2000,Severe Ice Storm,3225.0
+1354,Calhoun,2000,Severe Ice Storm,512173.51
+1354,Cleburne,2000,Severe Ice Storm,18250.5
+1354,Columbia,2000,Severe Ice Storm,0.0
+1354,Arkansas,2000,Severe Ice Storm,3550.0
+1354,Arkansas,2000,Severe Ice Storm,11562.6
+1354,Cleveland,2000,Severe Ice Storm,624988.26
+1354,Benton,2000,Severe Ice Storm,11877.86
+1354,Arkansas,2000,Severe Ice Storm,24029.64
+1354,Baxter,2000,Severe Ice Storm,5034.34
+1354,Cleveland,2000,Severe Ice Storm,7137.45
+1354,Arkansas,2000,Severe Ice Storm,387271.13
+1354,Benton,2000,Severe Ice Storm,321528.48
+1354,Cleveland,2000,Severe Ice Storm,750.0
+1354,Columbia,2000,Severe Ice Storm,78532.8
+1354,Cleveland,2000,Severe Ice Storm,2970.0
+1354,Columbia,2000,Severe Ice Storm,155966.99
+1354,Clark,2000,Severe Ice Storm,383216.56
+1354,Benton,2000,Severe Ice Storm,4117.73
+1354,Columbia,2000,Severe Ice Storm,13319.25
+1354,Arkansas,2000,Severe Ice Storm,28689.26
+1354,Benton,2000,Severe Ice Storm,18313.13
+1354,Arkansas,2000,Severe Ice Storm,27735.83
+1354,Baxter,2000,Severe Ice Storm,1766.57
+1354,Baxter,2000,Severe Ice Storm,45169.16
+1354,Conway,2000,Severe Ice Storm,589536.68
+1354,Clark,2000,Severe Ice Storm,993.0
+1354,Columbia,2000,Severe Ice Storm,320919.0
+1354,Clark,2000,Severe Ice Storm,3096856.91
+1354,Clark,2000,Severe Ice Storm,4770.0
+1354,Benton,2000,Severe Ice Storm,24681.75
+1354,Boone,2000,Severe Ice Storm,138037.11
+1354,Cleveland,2000,Severe Ice Storm,0.0
+1354,Baxter,2000,Severe Ice Storm,2240.39
+1354,Bradley,2000,Severe Ice Storm,203788.0
+1354,Boone,2000,Severe Ice Storm,66132.46
+1354,Columbia,2000,Severe Ice Storm,33574.0
+1354,Benton,2000,Severe Ice Storm,3389.19
+1354,Columbia,2000,Severe Ice Storm,758604.0
+1354,Columbia,2000,Severe Ice Storm,10778.21
+1354,Benton,2000,Severe Ice Storm,56808.17
+1354,Columbia,2000,Severe Ice Storm,18274345.2
+1354,Boone,2000,Severe Ice Storm,5209.07
+1354,Baxter,2000,Severe Ice Storm,3920.79
+1354,Conway,2000,Severe Ice Storm,375.0
+1354,Benton,2000,Severe Ice Storm,5134.01
+1354,Baxter,2000,Severe Ice Storm,1784.4
+1354,Clark,2000,Severe Ice Storm,204200.11
+1354,Lee,2000,Severe Ice Storm,22215.85
+1354,Little River,2000,Severe Ice Storm,28375.0
+1354,Franklin,2000,Severe Ice Storm,1599.0
+1354,Hempstead,2000,Severe Ice Storm,4000.0
+1354,Faulkner,2000,Severe Ice Storm,783565.49
+1354,Cross,2000,Severe Ice Storm,5851.11
+1354,Dallas,2000,Severe Ice Storm,59851.37
+1354,Cross,2000,Severe Ice Storm,120188.06
+1354,Jackson,2000,Severe Ice Storm,4692.59
+1354,Jackson,2000,Severe Ice Storm,2753.26
+1354,Lafayette,2000,Severe Ice Storm,5261.0
+1354,Jefferson,2000,Severe Ice Storm,3633.0
+1354,Faulkner,2000,Severe Ice Storm,303497.33
+1354,Cross,2000,Severe Ice Storm,280172.59
+1354,Lafayette,2000,Severe Ice Storm,1287.51
+1354,Franklin,2000,Severe Ice Storm,2807.25
+1354,Conway,2000,Severe Ice Storm,2425.47
+1354,Conway,2000,Severe Ice Storm,3469.55
+1354,Lafayette,2000,Severe Ice Storm,13812.0
+1354,Hempstead,2000,Severe Ice Storm,784368.0
+1354,Hempstead,2000,Severe Ice Storm,137949.96
+1354,Cross,2000,Severe Ice Storm,10254.42
+1354,Little River,2000,Severe Ice Storm,370397.83
+1354,Fulton,2000,Severe Ice Storm,10376.73
+1354,Fulton,2000,Severe Ice Storm,0.0
+1354,Jefferson,2000,Severe Ice Storm,13454.25
+1354,Benton,2000,Severe Ice Storm,3782.57
+1354,Jackson,2000,Severe Ice Storm,8510.25
+1354,Cross,2000,Severe Ice Storm,8470.53
+1354,Hot Spring,2000,Severe Ice Storm,2076.0
+1354,Dallas,2000,Severe Ice Storm,252458.46
+1354,Jefferson,2000,Severe Ice Storm,159222.5
+1354,Hot Spring,2000,Severe Ice Storm,1042.5
+1354,Hot Spring,2000,Severe Ice Storm,10613.0
+1354,Crittenden,2000,Severe Ice Storm,7314.75
+1354,Dallas,2000,Severe Ice Storm,1081.07
+1354,Lee,2000,Severe Ice Storm,15273.94
+1354,Crittenden,2000,Severe Ice Storm,1412.55
+1354,Crawford,2000,Severe Ice Storm,161490.75
+1354,Grant,2000,Severe Ice Storm,4076.25
+1354,Jackson,2000,Severe Ice Storm,10656.15
+1354,Franklin,2000,Severe Ice Storm,28441.28
+1354,Dallas,2000,Severe Ice Storm,15071.5
+1354,Franklin,2000,Severe Ice Storm,25109.22
+1354,Lafayette,2000,Severe Ice Storm,55322.13
+1354,Izard,2000,Severe Ice Storm,7849.72
+1354,Franklin,2000,Severe Ice Storm,14884.82
+1354,Hempstead,2000,Severe Ice Storm,940702.24
+1354,Cross,2000,Severe Ice Storm,3897.14
+1354,Franklin,2000,Severe Ice Storm,17514.56
+1354,Lafayette,2000,Severe Ice Storm,36494.0
+1354,Crittenden,2000,Severe Ice Storm,21250.2
+1354,Conway,2000,Severe Ice Storm,18882.0
+1354,Franklin,2000,Severe Ice Storm,937.5
+1354,Jackson,2000,Severe Ice Storm,6316.88
+1354,Hempstead,2000,Severe Ice Storm,28422.47
+1354,Cross,2000,Severe Ice Storm,16992.07
+1354,Arkansas,2000,Severe Ice Storm,93066.31
+1354,Jefferson,2000,Severe Ice Storm,52597.0
+1354,Lafayette,2000,Severe Ice Storm,261.0
+1354,Fulton,2000,Severe Ice Storm,78496.14
+1354,Franklin,2000,Severe Ice Storm,2265.68
+1354,Faulkner,2000,Severe Ice Storm,288496.03
+1354,Garland,2000,Severe Ice Storm,1347.0
+1354,Crittenden,2000,Severe Ice Storm,862.04
+1354,Howard,2000,Severe Ice Storm,553807.56
+1354,Jefferson,2000,Severe Ice Storm,2119700.18
+1354,Faulkner,2000,Severe Ice Storm,19426.28
+1354,Crawford,2000,Severe Ice Storm,571934.78
+1354,Jefferson,2000,Severe Ice Storm,2762.55
+1354,Hot Spring,2000,Severe Ice Storm,13020.75
+1354,Faulkner,2000,Severe Ice Storm,52822.35
+1354,Conway,2000,Severe Ice Storm,29438.52
+1354,Lafayette,2000,Severe Ice Storm,515248.07
+1354,Garland,2000,Severe Ice Storm,8636.25
+1354,Hempstead,2000,Severe Ice Storm,64291.25
+1354,Hot Spring,2000,Severe Ice Storm,2900.0
+1354,Lafayette,2000,Severe Ice Storm,1400.0
+1354,Dallas,2000,Severe Ice Storm,993.75
+1354,Drew,2000,Severe Ice Storm,35084.48
+1354,Crittenden,2000,Severe Ice Storm,1340.4
+1354,Hot Spring,2000,Severe Ice Storm,1162.5
+1354,Desha,2000,Severe Ice Storm,11577.98
+1354,Faulkner,2000,Severe Ice Storm,22906.62
+1354,Howard,2000,Severe Ice Storm,362982.88
+1354,Crittenden,2000,Severe Ice Storm,2955.51
+1354,Faulkner,2000,Severe Ice Storm,54276.08
+1354,Drew,2000,Severe Ice Storm,1033.6
+1354,Crawford,2000,Severe Ice Storm,2137.46
+1354,Howard,2000,Severe Ice Storm,11895.64
+1354,Franklin,2000,Severe Ice Storm,7504.65
+1354,Franklin,2000,Severe Ice Storm,863534.8
+1354,Garland,2000,Severe Ice Storm,7204.75
+1354,Johnson,2000,Severe Ice Storm,5015.06
+1354,Benton,2000,Severe Ice Storm,2170.0
+1354,Lincoln,2000,Severe Ice Storm,63124.5
+1354,Grant,2000,Severe Ice Storm,3757.25
+1354,Cross,2000,Severe Ice Storm,5520.84
+1354,Hempstead,2000,Severe Ice Storm,1758.61
+1354,Hempstead,2000,Severe Ice Storm,11135492.59
+1354,Crittenden,2000,Severe Ice Storm,28470.4
+1354,Lafayette,2000,Severe Ice Storm,74517.0
+1354,Lee,2000,Severe Ice Storm,17091.27
+1354,Lafayette,2000,Severe Ice Storm,4626.75
+1354,Cross,2000,Severe Ice Storm,4601.77
+1354,Grant,2000,Severe Ice Storm,7137.45
+1354,Jackson,2000,Severe Ice Storm,28958.91
+1354,Desha,2000,Severe Ice Storm,88293.31
+1354,Garland,2000,Severe Ice Storm,1858770.21
+1354,Lincoln,2000,Severe Ice Storm,716551.28
+1354,Fulton,2000,Severe Ice Storm,2373.56
+1354,Lincoln,2000,Severe Ice Storm,336400.68
+1354,Jefferson,2000,Severe Ice Storm,45065.0
+1354,Howard,2000,Severe Ice Storm,57762.92
+1354,Jackson,2000,Severe Ice Storm,9541.04
+1354,Lincoln,2000,Severe Ice Storm,176669.5
+1354,Jefferson,2000,Severe Ice Storm,40823.75
+1354,Garland,2000,Severe Ice Storm,2666440.23
+1354,Lee,2000,Severe Ice Storm,8088.08
+1354,Hempstead,2000,Severe Ice Storm,7981.95
+1354,Howard,2000,Severe Ice Storm,36005.66
+1354,Jefferson,2000,Severe Ice Storm,6623571.25
+1354,Lafayette,2000,Severe Ice Storm,1194.9
+1354,Jackson,2000,Severe Ice Storm,0.0
+1354,Grant,2000,Severe Ice Storm,6057.85
+1354,Cross,2000,Severe Ice Storm,11529.09
+1354,Dallas,2000,Severe Ice Storm,9444.0
+1354,Grant,2000,Severe Ice Storm,6222.75
+1354,Crittenden,2000,Severe Ice Storm,4999.24
+1354,Hempstead,2000,Severe Ice Storm,1229.69
+1354,Desha,2000,Severe Ice Storm,2876.25
+1354,Crawford,2000,Severe Ice Storm,80936.44
+1354,Lafayette,2000,Severe Ice Storm,77417.72
+1354,Jefferson,2000,Severe Ice Storm,16172.75
+1354,Crittenden,2000,Severe Ice Storm,202501.45
+1354,Johnson,2000,Severe Ice Storm,224736.64
+1354,Hot Spring,2000,Severe Ice Storm,774.75
+1354,Fulton,2000,Severe Ice Storm,12975.0
+1354,Hot Spring,2000,Severe Ice Storm,80145.0
+1354,Izard,2000,Severe Ice Storm,100379.21
+1354,Hot Spring,2000,Severe Ice Storm,27851.0
+1354,Franklin,2000,Severe Ice Storm,18619.52
+1354,Poinsett,2000,Severe Ice Storm,34523.18
+1354,Ouachita,2000,Severe Ice Storm,1423.28
+1354,Poinsett,2000,Severe Ice Storm,818.25
+1354,Logan,2000,Severe Ice Storm,2597.25
+1354,Perry,2000,Severe Ice Storm,1894.36
+1354,Miller,2000,Severe Ice Storm,8084.12
+1354,Pulaski,2000,Severe Ice Storm,1030.8
+1354,Prairie,2000,Severe Ice Storm,8950.38
+1354,Poinsett,2000,Severe Ice Storm,6210.27
+1354,Pulaski,2000,Severe Ice Storm,4524.72
+1354,Little River,2000,Severe Ice Storm,2082029.26
+1354,Polk,2000,Severe Ice Storm,23241.75
+1354,Logan,2000,Severe Ice Storm,2212303.94
+1354,Pulaski,2000,Severe Ice Storm,9812.12
+1354,Ouachita,2000,Severe Ice Storm,9668.48
+1354,Monroe,2000,Severe Ice Storm,5677.26
+1354,Miller,2000,Severe Ice Storm,2464098.43
+1354,Hempstead,2000,Severe Ice Storm,34275.6
+1354,Pike,2000,Severe Ice Storm,3256.53
+1354,Polk,2000,Severe Ice Storm,65468.72
+1354,Lonoke,2000,Severe Ice Storm,2850.0
+1354,Poinsett,2000,Severe Ice Storm,19023.82
+1354,Garland,2000,Severe Ice Storm,769.5
+1354,Lonoke,2000,Severe Ice Storm,8631.75
+1354,Mississippi,2000,Severe Ice Storm,54387.77
+1354,Polk,2000,Severe Ice Storm,1831.51
+1354,Perry,2000,Severe Ice Storm,17027.7
+1354,Poinsett,2000,Severe Ice Storm,15042.75
+1354,Monroe,2000,Severe Ice Storm,40653.45
+1354,Miller,2000,Severe Ice Storm,9476.56
+1354,Logan,2000,Severe Ice Storm,0.0
+1354,Polk,2000,Severe Ice Storm,7825.26
+1354,Pulaski,2000,Severe Ice Storm,5495037.26
+1354,Ouachita,2000,Severe Ice Storm,1241254.95
+1354,Saline,2000,Severe Ice Storm,19836.19
+1354,Little River,2000,Severe Ice Storm,12490.8
+1354,Ouachita,2000,Severe Ice Storm,30719.0
+1354,Polk,2000,Severe Ice Storm,8963.37
+1354,Newton,2000,Severe Ice Storm,900.0
+1354,Miller,2000,Severe Ice Storm,209036.69
+1354,Saline,2000,Severe Ice Storm,0.0
+1354,Howard,2000,Severe Ice Storm,25051.54
+1354,Marion,2000,Severe Ice Storm,0.0
+1354,Polk,2000,Severe Ice Storm,0.0
+1354,Grant,2000,Severe Ice Storm,217697.66
+1354,Logan,2000,Severe Ice Storm,3359.41
+1354,Pulaski,2000,Severe Ice Storm,4000.0
+1354,Miller,2000,Severe Ice Storm,31850.0
+1354,Lonoke,2000,Severe Ice Storm,270517.47
+1354,Polk,2000,Severe Ice Storm,833227.8
+1354,Pulaski,2000,Severe Ice Storm,8828.25
+1354,Pulaski,2000,Severe Ice Storm,38287.46
+1354,Pulaski,2000,Severe Ice Storm,38730.83
+1354,Miller,2000,Severe Ice Storm,2170956.81
+1354,Nevada,2000,Severe Ice Storm,2543.33
+1354,Ouachita,2000,Severe Ice Storm,29446.39
+1354,Poinsett,2000,Severe Ice Storm,6866.0
+1354,Saline,2000,Severe Ice Storm,15464.0
+1354,Polk,2000,Severe Ice Storm,4321.41
+1354,Newton,2000,Severe Ice Storm,326223.39
+1354,Mississippi,2000,Severe Ice Storm,7000.0
+1354,Pulaski,2000,Severe Ice Storm,36991.68
+1354,Ouachita,2000,Severe Ice Storm,375.0
+1354,Polk,2000,Severe Ice Storm,164405.44
+1354,Little River,2000,Severe Ice Storm,34315.43
+1354,Miller,2000,Severe Ice Storm,25877.0
+1354,Perry,2000,Severe Ice Storm,28476.85
+1354,Pike,2000,Severe Ice Storm,2530134.94
+1354,Marion,2000,Severe Ice Storm,11127.05
+1354,Mississippi,2000,Severe Ice Storm,3840.0
+1354,Poinsett,2000,Severe Ice Storm,2827.0
+1354,Little River,2000,Severe Ice Storm,8959.8
+1354,Pike,2000,Severe Ice Storm,1542.44
+1354,Little River,2000,Severe Ice Storm,14820.42
+1354,Logan,2000,Severe Ice Storm,190530.85
+1354,Ouachita,2000,Severe Ice Storm,2820829.92
+1354,Mississippi,2000,Severe Ice Storm,15066.4
+1354,Prairie,2000,Severe Ice Storm,86240.3
+1354,Pulaski,2000,Severe Ice Storm,29844.33
+1354,Mississippi,2000,Severe Ice Storm,12071.55
+1354,Mississippi,2000,Severe Ice Storm,4200.0
+1354,Pulaski,2000,Severe Ice Storm,2225978.43
+1354,Pike,2000,Severe Ice Storm,64482.0
+1354,Saline,2000,Severe Ice Storm,32949.47
+1354,Mississippi,2000,Severe Ice Storm,750.0
+1354,Pulaski,2000,Severe Ice Storm,4264862.31
+1354,Little River,2000,Severe Ice Storm,181204.35
+1354,Polk,2000,Severe Ice Storm,21197.25
+1354,Saline,2000,Severe Ice Storm,2044.76
+1354,Ouachita,2000,Severe Ice Storm,2285.09
+1354,Prairie,2000,Severe Ice Storm,36030.81
+1354,Marion,2000,Severe Ice Storm,2930.24
+1354,Pike,2000,Severe Ice Storm,24536.79
+1354,Saline,2000,Severe Ice Storm,696602.83
+1354,Monroe,2000,Severe Ice Storm,37506.59
+1354,Newton,2000,Severe Ice Storm,2732.14
+1354,Montgomery,2000,Severe Ice Storm,50875.0
+1354,Newton,2000,Severe Ice Storm,0.0
+1354,Pike,2000,Severe Ice Storm,109752.04
+1354,Mississippi,2000,Severe Ice Storm,6306.0
+1354,Marion,2000,Severe Ice Storm,4514.15
+1354,Pope,2000,Severe Ice Storm,2733.36
+1354,Saline,2000,Severe Ice Storm,46292.07
+1354,Lonoke,2000,Severe Ice Storm,84560.12
+1354,Pulaski,2000,Severe Ice Storm,145020.08
+1354,Poinsett,2000,Severe Ice Storm,13879.5
+1354,Pike,2000,Severe Ice Storm,16532.18
+1354,Prairie,2000,Severe Ice Storm,1233.0
+1354,Nevada,2000,Severe Ice Storm,7160.01
+1354,Pope,2000,Severe Ice Storm,215156.79
+1354,Mississippi,2000,Severe Ice Storm,26051.26
+1354,Pope,2000,Severe Ice Storm,40462.49
+1354,Miller,2000,Severe Ice Storm,16500.0
+1354,Polk,2000,Severe Ice Storm,3444.81
+1354,Nevada,2000,Severe Ice Storm,32046.25
+1354,Polk,2000,Severe Ice Storm,3645.69
+1354,Marion,2000,Severe Ice Storm,15784.81
+1354,Marion,2000,Severe Ice Storm,356990.79
+1354,Hot Spring,2000,Severe Ice Storm,1188346.96
+1354,Prairie,2000,Severe Ice Storm,190517.9
+1354,Pulaski,2000,Severe Ice Storm,8383.01
+1354,Lonoke,2000,Severe Ice Storm,2701042.74
+1354,Hempstead,2000,Severe Ice Storm,27390.32
+1354,Poinsett,2000,Severe Ice Storm,6224.3
+1354,Marion,2000,Severe Ice Storm,8680.87
+1354,Ouachita,2000,Severe Ice Storm,39855.48
+1354,Pulaski,2000,Severe Ice Storm,14500.0
+1354,Polk,2000,Severe Ice Storm,1907.23
+1354,Mississippi,2000,Severe Ice Storm,10159.4
+1354,Madison,2000,Severe Ice Storm,6152.1
+1354,Lonoke,2000,Severe Ice Storm,140175.92
+1354,Mississippi,2000,Severe Ice Storm,27972.0
+1354,Logan,2000,Severe Ice Storm,3746.96
+1354,Prairie,2000,Severe Ice Storm,54166.56
+1354,Crawford,2000,Severe Ice Storm,27871.38
+1354,Monroe,2000,Severe Ice Storm,31765.57
+1354,Izard,2000,Severe Ice Storm,3886.71
+1354,Nevada,2000,Severe Ice Storm,2350.0
+1354,Saline,2000,Severe Ice Storm,0.0
+1354,Newton,2000,Severe Ice Storm,2757.92
+1354,Conway,2000,Severe Ice Storm,5550.99
+1354,Pulaski,2000,Severe Ice Storm,24970.0
+1354,Grant,2000,Severe Ice Storm,56526.75
+1354,Logan,2000,Severe Ice Storm,10603.42
+1354,Mississippi,2000,Severe Ice Storm,2968.33
+1354,Montgomery,2000,Severe Ice Storm,17974.11
+1354,Nevada,2000,Severe Ice Storm,6022472.17
+1354,Montgomery,2000,Severe Ice Storm,4829809.66
+1354,Howard,2000,Severe Ice Storm,8347278.01
+1354,Monroe,2000,Severe Ice Storm,53138.16
+1354,Lonoke,2000,Severe Ice Storm,181814.91
+1354,Madison,2000,Severe Ice Storm,397500.98
+1354,Marion,2000,Severe Ice Storm,15452.95
+1354,Polk,2000,Severe Ice Storm,13649.3
+1354,Statewide,2000,Severe Ice Storm,360707.54
+1354,Washington,2000,Severe Ice Storm,319114.59
+1354,Searcy,2000,Severe Ice Storm,50984.78
+1354,Sharp,2000,Severe Ice Storm,13780.58
+1354,Polk,2000,Severe Ice Storm,25483.92
+1354,Statewide,2000,Severe Ice Storm,3055768.74
+1354,Union,2000,Severe Ice Storm,12900.0
+1354,Sevier,2000,Severe Ice Storm,61918.06
+1354,Sebastian,2000,Severe Ice Storm,201383.94
+1354,Statewide,2000,Severe Ice Storm,50054.63
+1354,Sebastian,2000,Severe Ice Storm,5140.69
+1354,Sevier,2000,Severe Ice Storm,407811.91
+1354,Scott,2000,Severe Ice Storm,384996.58
+1354,Van Buren,2000,Severe Ice Storm,488402.07
+1354,Sebastian,2000,Severe Ice Storm,41742.03
+1354,Union,2000,Severe Ice Storm,375.0
+1354,White,2000,Severe Ice Storm,19364.13
+1354,Sebastian,2000,Severe Ice Storm,460732.78
+1354,White,2000,Severe Ice Storm,8358.98
+1354,Sevier,2000,Severe Ice Storm,10370.42
+1354,St. Francis,2000,Severe Ice Storm,7226.26
+1354,Statewide,2000,Severe Ice Storm,6078088.5
+1354,Washington,2000,Severe Ice Storm,5917.5
+1354,Statewide,2000,Severe Ice Storm,46993.19
+1354,Nevada,2000,Severe Ice Storm,601697.68
+1354,Sharp,2000,Severe Ice Storm,35427.6
+1354,Statewide,2000,Severe Ice Storm,229734.86
+1354,Mississippi,2000,Severe Ice Storm,6791.27
+1354,Saline,2000,Severe Ice Storm,5286.82
+1354,Union,2000,Severe Ice Storm,750.0
+1354,Statewide,2000,Severe Ice Storm,14286.0
+1354,Van Buren,2000,Severe Ice Storm,35988.75
+1354,Statewide,2000,Severe Ice Storm,74554.83
+1354,St. Francis,2000,Severe Ice Storm,183732.1
+1354,Monroe,2000,Severe Ice Storm,4855.0
+1354,Statewide,2000,Severe Ice Storm,2110048.59
+1354,Saline,2000,Severe Ice Storm,2309.55
+1354,Saline,2000,Severe Ice Storm,12245.32
+1354,Sharp,2000,Severe Ice Storm,6635.25
+1354,White,2000,Severe Ice Storm,11346.3
+1354,Statewide,2000,Severe Ice Storm,23656.6
+1354,Sebastian,2000,Severe Ice Storm,5069.16
+1354,Saline,2000,Severe Ice Storm,2945.04
+1354,Statewide,2000,Severe Ice Storm,4896802.07
+1354,White,2000,Severe Ice Storm,22988.1
+1354,Woodruff,2000,Severe Ice Storm,48981.02
+1354,Statewide,2000,Severe Ice Storm,4055875.29
+1354,Sharp,2000,Severe Ice Storm,39124.5
+1354,Saline,2000,Severe Ice Storm,42354.22
+1354,Sevier,2000,Severe Ice Storm,20706.25
+1354,Saline,2000,Severe Ice Storm,4389.05
+1354,Union,2000,Severe Ice Storm,4000.0
+1354,Sebastian,2000,Severe Ice Storm,2991.45
+1354,Van Buren,2000,Severe Ice Storm,6692.7
+1354,Saline,2000,Severe Ice Storm,3307.79
+1354,Pulaski,2000,Severe Ice Storm,178221.34
+1354,Scott,2000,Severe Ice Storm,29827.81
+1354,Saline,2000,Severe Ice Storm,2747714.04
+1354,Searcy,2000,Severe Ice Storm,1047.0
+1354,Washington,2000,Severe Ice Storm,1990.03
+1354,White,2000,Severe Ice Storm,582641.56
+1354,Sebastian,2000,Severe Ice Storm,974590.55
+1354,Union,2000,Severe Ice Storm,45134.37
+1354,Sebastian,2000,Severe Ice Storm,25504.22
+1354,Statewide,2000,Severe Ice Storm,13957.52
+1354,Scott,2000,Severe Ice Storm,2372.46
+1354,White,2000,Severe Ice Storm,7851.75
+1354,White,2000,Severe Ice Storm,43840.84
+1354,Sharp,2000,Severe Ice Storm,23653.5
+1354,Statewide,2000,Severe Ice Storm,62129.77
+1354,White,2000,Severe Ice Storm,59491.4
+1354,Statewide,2000,Severe Ice Storm,762968.85
+1354,St. Francis,2000,Severe Ice Storm,25044.79
+1354,Union,2000,Severe Ice Storm,397370.57
+1354,Saline,2000,Severe Ice Storm,3006.83
+1354,Scott,2000,Severe Ice Storm,3897363.45
+1354,Sebastian,2000,Severe Ice Storm,4177.0
+1354,Sevier,2000,Severe Ice Storm,32125.44
+1354,Sebastian,2000,Severe Ice Storm,9680.72
+1354,Scott,2000,Severe Ice Storm,9282.61
+1354,Union,2000,Severe Ice Storm,10035.0
+1354,Statewide,2000,Severe Ice Storm,4571.12
+1354,Statewide,2000,Severe Ice Storm,23368.62
+1354,St. Francis,2000,Severe Ice Storm,4153.14
+1354,Statewide,2000,Severe Ice Storm,6903.73
+1354,Sebastian,2000,Severe Ice Storm,18933.85
+1354,Statewide,2000,Severe Ice Storm,1822131.8
+1354,St. Francis,2000,Severe Ice Storm,23701.13
+1354,Stone,2000,Severe Ice Storm,8482.5
+1354,Sebastian,2000,Severe Ice Storm,375.0
+1354,White,2000,Severe Ice Storm,2880.75
+1354,Sevier,2000,Severe Ice Storm,5892.68
+1354,Sevier,2000,Severe Ice Storm,103525.14
+1354,Sharp,2000,Severe Ice Storm,41803.5
+1354,Washington,2000,Severe Ice Storm,125967.27
+1354,St. Francis,2000,Severe Ice Storm,28243.73
+1354,Statewide,2000,Severe Ice Storm,1000.0
+1354,Saline,2000,Severe Ice Storm,11460.59
+1354,Saline,2000,Severe Ice Storm,13761.99
+1354,Little River,2000,Severe Ice Storm,14925.14
+1354,Woodruff,2000,Severe Ice Storm,46689.62
+1354,Van Buren,2000,Severe Ice Storm,1881.0
+1354,St. Francis,2000,Severe Ice Storm,8085.0
+1354,Sebastian,2000,Severe Ice Storm,125615.37
+1354,Statewide,2000,Severe Ice Storm,3070145.01
+1354,Sevier,2000,Severe Ice Storm,1878386.87
+1354,Saline,2000,Severe Ice Storm,1181.51
+1354,Washington,2000,Severe Ice Storm,3987.84
+1354,Statewide,2000,Severe Ice Storm,201397.39
+1354,Sharp,2000,Severe Ice Storm,414515.81
+1354,White,2000,Severe Ice Storm,3969.56
+1354,Statewide,2000,Severe Ice Storm,162031.72
+1354,Statewide,2000,Severe Ice Storm,1690461.19
+1354,Union,2000,Severe Ice Storm,1490580.79
+1354,Van Buren,2000,Severe Ice Storm,6570.0
+1354,Sebastian,2000,Severe Ice Storm,17524.01
+1354,White,2000,Severe Ice Storm,6929.3
+1354,Sebastian,2000,Severe Ice Storm,2000.0
+1354,Sebastian,2000,Severe Ice Storm,13822.45
+1354,Statewide,2000,Severe Ice Storm,739132.81
+1354,Sebastian,2000,Severe Ice Storm,38971.91
+1354,Stone,2000,Severe Ice Storm,253751.81
+1354,Statewide,2000,Severe Ice Storm,139399.99
+1354,Statewide,2000,Severe Ice Storm,11096835.0
+1354,Van Buren,2000,Severe Ice Storm,86964.3
+1354,Union,2000,Severe Ice Storm,2421.12
+1354,Statewide,2000,Severe Ice Storm,750.0
+1354,Statewide,2000,Severe Ice Storm,3996.94
+1354,Washington,2000,Severe Ice Storm,10048.45
+1354,White,2000,Severe Ice Storm,892.5
+1354,Stone,2000,Severe Ice Storm,12099.0
+1354,Statewide,2000,Severe Ice Storm,75361.1
+1354,White,2000,Severe Ice Storm,93343.18
+1354,St. Francis,2000,Severe Ice Storm,8225.97
+1354,Stone,2000,Severe Ice Storm,825.0
+1354,White,2000,Severe Ice Storm,6143.38
+1354,Scott,2000,Severe Ice Storm,1605.0
+1354,Nevada,2000,Severe Ice Storm,105050.99
+1354,Sevier,2000,Severe Ice Storm,10362.11
+1354,White,2000,Severe Ice Storm,3528.0
+1354,Union,2000,Severe Ice Storm,8098.95
+1354,Statewide,2000,Severe Ice Storm,0.0
+1354,Washington,2000,Severe Ice Storm,1973.55
+1354,Saline,2000,Severe Ice Storm,4870.15
+1354,Saline,2000,Severe Ice Storm,1676.47
+1354,Statewide,2000,Severe Ice Storm,59256.47
+1354,St. Francis,2000,Severe Ice Storm,23699.49
+1354,Van Buren,2000,Severe Ice Storm,39727.8
+1354,Washington,2000,Severe Ice Storm,48061.09
+1354,Perry,2000,Severe Ice Storm,125508.75
+1354,Woodruff,2000,Severe Ice Storm,1851.25
+1354,Woodruff,2000,Severe Ice Storm,28215.51
+1354,Statewide,2000,Severe Ice Storm,74473.28
+1354,Yell,2000,Severe Ice Storm,1805.54
+1354,Woodruff,2000,Severe Ice Storm,8046.35
+1354,Yell,2000,Severe Ice Storm,10065.0
+1354,Yell,2000,Severe Ice Storm,1990459.53
+1354,Woodruff,2000,Severe Ice Storm,3324.5
+1354,Woodruff,2000,Severe Ice Storm,44756.53
+1363,Conway,2001,Severe Storm(s),324939.69
+1363,Columbia,2001,Severe Storm(s),109913.46
+1363,Dallas,2001,Severe Storm(s),0.0
+1363,Union,2001,Severe Storm(s),3163.5
+1363,Union,2001,Severe Storm(s),9440.52
+1363,Hempstead,2001,Severe Storm(s),244363.97
+1363,Drew,2001,Severe Storm(s),33369.0
+1363,Clark,2001,Severe Storm(s),187692.13
+1363,Craighead,2001,Severe Storm(s),27997.51
+1363,Craighead,2001,Severe Storm(s),19420.97
+1363,Cleveland,2001,Severe Storm(s),21342.38
+1363,Clark,2001,Severe Storm(s),1086.24
+1363,Ouachita,2001,Severe Storm(s),245733.0
+1363,Union,2001,Severe Storm(s),30013.5
+1363,Craighead,2001,Severe Storm(s),68554.15
+1363,Bradley,2001,Severe Storm(s),37010.24
+1363,Polk,2001,Severe Storm(s),34958.36
+1363,Franklin,2001,Severe Storm(s),6996.67
+1363,Columbia,2001,Severe Storm(s),14745.0
+1363,Miller,2001,Severe Storm(s),107348.87
+1363,Lafayette,2001,Severe Storm(s),17254.95
+1363,Craighead,2001,Severe Storm(s),158580.68
+1363,Dallas,2001,Severe Storm(s),64562.25
+1363,Statewide,2001,Severe Storm(s),-18484.33
+1363,Craighead,2001,Severe Storm(s),17000.25
+1363,Hot Spring,2001,Severe Storm(s),48377.25
+1363,Little River,2001,Severe Storm(s),64145.48
+1363,Lincoln,2001,Severe Storm(s),57055.5
+1363,Newton,2001,Severe Storm(s),11143.5
+1363,Statewide,2001,Severe Storm(s),8619.49
+1363,Craighead,2001,Severe Storm(s),8122.61
+1363,Statewide,2001,Severe Storm(s),11544.42
+1363,Miller,2001,Severe Storm(s),19104.6
+1363,Prairie,2001,Severe Storm(s),26577.59
+1363,Columbia,2001,Severe Storm(s),8952.36
+1363,White,2001,Severe Storm(s),117957.14
+1363,Miller,2001,Severe Storm(s),61118.07
+1363,Union,2001,Severe Storm(s),33483.0
+1363,Little River,2001,Severe Storm(s),5666.63
+1363,Lafayette,2001,Severe Storm(s),4988.25
+1363,Miller,2001,Severe Storm(s),472085.19
+1363,Nevada,2001,Severe Storm(s),155079.0
+1400,Woodruff,2002,Severe Storm(s),91288.88
+1400,Franklin,2002,Severe Storm(s),199316.51
+1400,White,2002,Severe Storm(s),12861.75
+1400,Crittenden,2002,Severe Storm(s),81500.25
+1400,Craighead,2002,Severe Storm(s),42195.75
+1400,Jackson,2002,Severe Storm(s),64193.65
+1400,Crittenden,2002,Severe Storm(s),53175.0
+1400,Craighead,2002,Severe Storm(s),2778.75
+1400,Jackson,2002,Severe Storm(s),23912.76
+1400,Statewide,2002,Severe Storm(s),31571.25
+1400,Craighead,2002,Severe Storm(s),66550.5
+1400,Cleburne,2002,Severe Storm(s),41051.37
+1400,Poinsett,2002,Severe Storm(s),119973.36
+1400,White,2002,Severe Storm(s),3370.77
+1400,Clay,2002,Severe Storm(s),6828.75
+1400,Logan,2002,Severe Storm(s),5532.56
+1400,Scott,2002,Severe Storm(s),57534.68
+1400,Clay,2002,Severe Storm(s),1804.61
+1400,Clay,2002,Severe Storm(s),5790.89
+1400,Cleburne,2002,Severe Storm(s),94093.15
+1400,White,2002,Severe Storm(s),2171.84
+1400,Little River,2002,Severe Storm(s),43825.5
+1400,Stone,2002,Severe Storm(s),55327.81
+1400,Ashley,2002,Severe Storm(s),18445.5
+1400,Greene,2002,Severe Storm(s),73893.26
+1400,Independence,2002,Severe Storm(s),49256.22
+1400,Lincoln,2002,Severe Storm(s),23482.26
+1400,White,2002,Severe Storm(s),155850.21
+1400,Crittenden,2002,Severe Storm(s),187656.61
+1400,Logan,2002,Severe Storm(s),36297.42
+1400,Statewide,2002,Severe Storm(s),-26302.63
+1400,Franklin,2002,Severe Storm(s),15821.63
+1400,Franklin,2002,Severe Storm(s),18357.0
+1400,Jackson,2002,Severe Storm(s),5105.31
+1400,Clay,2002,Severe Storm(s),22157.25
+1400,Logan,2002,Severe Storm(s),100629.61
+1400,Clay,2002,Severe Storm(s),47643.84
+1400,Craighead,2002,Severe Storm(s),34738.5
+1400,Prairie,2002,Severe Storm(s),36058.8
+1400,Monroe,2002,Severe Storm(s),14054.88
+1400,Columbia,2002,Severe Storm(s),30174.5
+1400,Ashley,2002,Severe Storm(s),163422.27
+1450,Clay,2003,Severe Ice Storm,2482.43
+1450,Clay,2003,Severe Ice Storm,3825.0
+1450,Clay,2003,Severe Ice Storm,53998.49
+1450,Clay,2003,Severe Ice Storm,2549.25
+1450,Clay,2003,Severe Ice Storm,32311.92
+1450,Clay,2003,Severe Ice Storm,1511271.28
+1450,Baxter,2003,Severe Ice Storm,9389.77
+1450,Baxter,2003,Severe Ice Storm,23801.25
+1450,Clay,2003,Severe Ice Storm,89485.56
+1450,Clay,2003,Severe Ice Storm,7594.5
+1450,Clay,2003,Severe Ice Storm,2386.4
+1450,Clay,2003,Severe Ice Storm,5437.25
+1450,Statewide,2003,Severe Ice Storm,290040.94
+1450,Independence,2003,Severe Ice Storm,40782.9
+1450,Stone,2003,Severe Ice Storm,39841.36
+1450,Lawrence,2003,Severe Ice Storm,10830.56
+1450,Clay,2003,Severe Ice Storm,2170.48
+1450,Lawrence,2003,Severe Ice Storm,2980.63
+1450,Clay,2003,Severe Ice Storm,4109.27
+1450,Clay,2003,Severe Ice Storm,3969.82
+1450,Statewide,2003,Severe Ice Storm,92567.12
+1450,Craighead,2003,Severe Ice Storm,5997.22
+1450,Independence,2003,Severe Ice Storm,6983.38
+1450,Sharp,2003,Severe Ice Storm,1898.39
+1450,Greene,2003,Severe Ice Storm,2670.78
+1450,Greene,2003,Severe Ice Storm,99526.68
+1450,Searcy,2003,Severe Ice Storm,11811.86
+1450,Sharp,2003,Severe Ice Storm,109348.89
+1450,Craighead,2003,Severe Ice Storm,6661.65
+1450,White,2003,Severe Ice Storm,8851.2
+1450,Sharp,2003,Severe Ice Storm,29772.0
+1450,Greene,2003,Severe Ice Storm,6448.65
+1450,Sharp,2003,Severe Ice Storm,36034.23
+1450,Clay,2003,Severe Ice Storm,35810.01
+1450,Statewide,2003,Severe Ice Storm,365081.36
+1450,Lawrence,2003,Severe Ice Storm,41218.8
+1450,Izard,2003,Severe Ice Storm,4196.55
+1450,Craighead,2003,Severe Ice Storm,48088.22
+1450,Lawrence,2003,Severe Ice Storm,5221.5
+1450,Jackson,2003,Severe Ice Storm,884.58
+1450,Lawrence,2003,Severe Ice Storm,42984.9
+1450,Cleburne,2003,Severe Ice Storm,98759.8
+1450,Craighead,2003,Severe Ice Storm,407342.1
+1450,Jackson,2003,Severe Ice Storm,30720.53
+1450,Craighead,2003,Severe Ice Storm,304797.18
+1450,Statewide,2003,Severe Ice Storm,6140.72
+1450,Independence,2003,Severe Ice Storm,8296.38
+1450,Statewide,2003,Severe Ice Storm,743195.76
+1450,Izard,2003,Severe Ice Storm,4357.5
+1450,Independence,2003,Severe Ice Storm,1875.0
+1450,Van Buren,2003,Severe Ice Storm,30507.15
+1450,Greene,2003,Severe Ice Storm,36932.54
+1450,Randolph,2003,Severe Ice Storm,41636.89
+1450,Lawrence,2003,Severe Ice Storm,32468.66
+1450,Clay,2003,Severe Ice Storm,41511.43
+1450,Searcy,2003,Severe Ice Storm,5755.42
+1450,Independence,2003,Severe Ice Storm,2893.5
+1450,Lawrence,2003,Severe Ice Storm,1427.36
+1450,Statewide,2003,Severe Ice Storm,24358.29
+1450,Jackson,2003,Severe Ice Storm,5250.0
+1450,Izard,2003,Severe Ice Storm,4019.93
+1450,Fulton,2003,Severe Ice Storm,2463.45
+1450,Statewide,2003,Severe Ice Storm,363266.72
+1450,Greene,2003,Severe Ice Storm,0.0
+1450,Jackson,2003,Severe Ice Storm,33614.6
+1450,Izard,2003,Severe Ice Storm,10185.67
+1450,Statewide,2003,Severe Ice Storm,166853.05
+1450,Independence,2003,Severe Ice Storm,3600.0
+1450,Greene,2003,Severe Ice Storm,188732.08
+1450,Randolph,2003,Severe Ice Storm,30567.73
+1450,Izard,2003,Severe Ice Storm,25231.01
+1450,Independence,2003,Severe Ice Storm,4882.38
+1450,Jackson,2003,Severe Ice Storm,35520.13
+1450,Sharp,2003,Severe Ice Storm,1101.75
+1450,Statewide,2003,Severe Ice Storm,33578.85
+1450,Stone,2003,Severe Ice Storm,1539.11
+1450,Stone,2003,Severe Ice Storm,8111.01
+1450,Craighead,2003,Severe Ice Storm,12553.05
+1450,White,2003,Severe Ice Storm,4621.83
+1450,Statewide,2003,Severe Ice Storm,1820.34
+1450,Fulton,2003,Severe Ice Storm,18239.1
+1450,Sharp,2003,Severe Ice Storm,40402.54
+1450,Lawrence,2003,Severe Ice Storm,1820.34
+1450,White,2003,Severe Ice Storm,1945.42
+1450,Statewide,2003,Severe Ice Storm,3014642.55
+1450,Sharp,2003,Severe Ice Storm,4565.99
+1450,Statewide,2003,Severe Ice Storm,22558.34
+1450,Independence,2003,Severe Ice Storm,110754.05
+1450,Searcy,2003,Severe Ice Storm,62075.5
+1450,Newton,2003,Severe Ice Storm,54226.31
+1450,Jackson,2003,Severe Ice Storm,2625.0
+1450,Statewide,2003,Severe Ice Storm,16794.27
+1450,Jackson,2003,Severe Ice Storm,51481.19
+1472,Poinsett,2003,Severe Storm(s),19628.84
+1472,Craighead,2003,Severe Storm(s),113709.45
+1472,Statewide,2003,Severe Storm(s),12259.8
+1472,Conway,2003,Severe Storm(s),14399.42
+1472,Poinsett,2003,Severe Storm(s),134871.72
+1472,Poinsett,2003,Severe Storm(s),8277.47
+1472,Poinsett,2003,Severe Storm(s),0.0
+1472,Craighead,2003,Severe Storm(s),0.0
+1472,Poinsett,2003,Severe Storm(s),4465.5
+1472,Jackson,2003,Severe Storm(s),14906.24
+1472,Jackson,2003,Severe Storm(s),47599.83
+1472,Perry,2003,Severe Storm(s),17783.69
+1472,Poinsett,2003,Severe Storm(s),4416.08
+1472,Chicot,2003,Severe Storm(s),6885.91
+1472,Chicot,2003,Severe Storm(s),46762.13
+1472,Jackson,2003,Severe Storm(s),1485.56
+1472,Craighead,2003,Severe Storm(s),0.0
+1472,Statewide,2003,Severe Storm(s),129923.8
+1472,Independence,2003,Severe Storm(s),66042.07
+1472,Van Buren,2003,Severe Storm(s),11386.89
+1472,Conway,2003,Severe Storm(s),11073.37
+1472,Cross,2003,Severe Storm(s),37128.75
+1472,White,2003,Severe Storm(s),19668.5
+1472,Cross,2003,Severe Storm(s),354630.33
+1472,Poinsett,2003,Severe Storm(s),0.0
+1472,Conway,2003,Severe Storm(s),8293.28
+1472,St. Francis,2003,Severe Storm(s),35065.51
+1472,Conway,2003,Severe Storm(s),933105.89
+1472,Perry,2003,Severe Storm(s),103859.01
+1472,Jackson,2003,Severe Storm(s),764.48
+1472,Cleburne,2003,Severe Storm(s),941691.92
+1472,Conway,2003,Severe Storm(s),1162.5
+1472,St. Francis,2003,Severe Storm(s),9622.5
+1472,Perry,2003,Severe Storm(s),10585.5
+1472,Statewide,2003,Severe Storm(s),31116.66
+1472,Cleburne,2003,Severe Storm(s),67497.63
+1472,St. Francis,2003,Severe Storm(s),5085.38
+1472,Cross,2003,Severe Storm(s),33322.54
+1472,Conway,2003,Severe Storm(s),1071.38
+1472,Cleburne,2003,Severe Storm(s),881.32
+1472,Cleburne,2003,Severe Storm(s),29825.03
+1472,Poinsett,2003,Severe Storm(s),0.0
+1472,Jackson,2003,Severe Storm(s),999.66
+1472,St. Francis,2003,Severe Storm(s),26927.63
+1472,Madison,2003,Severe Storm(s),348325.59
+1472,Conway,2003,Severe Storm(s),38912.38
+1472,Newton,2003,Severe Storm(s),128398.62
+1472,Chicot,2003,Severe Storm(s),1065.86
+1472,Statewide,2003,Severe Storm(s),115837.76
+1472,Poinsett,2003,Severe Storm(s),102963.75
+1472,Poinsett,2003,Severe Storm(s),3411.92
+1472,St. Francis,2003,Severe Storm(s),200342.92
+1472,Poinsett,2003,Severe Storm(s),50001.69
+1472,Jackson,2003,Severe Storm(s),5405.17
+1472,White,2003,Severe Storm(s),6508.55
+1472,White,2003,Severe Storm(s),5011.41
+1472,Van Buren,2003,Severe Storm(s),171959.48
+1472,White,2003,Severe Storm(s),267053.77
+1472,White,2003,Severe Storm(s),173020.65
+1472,Woodruff,2003,Severe Storm(s),59207.55
+1472,Poinsett,2003,Severe Storm(s),3436.5
+1472,White,2003,Severe Storm(s),17887.8
+1472,White,2003,Severe Storm(s),19583.68
+1472,Woodruff,2003,Severe Storm(s),22139.03
+1472,Woodruff,2003,Severe Storm(s),30239.29
+1516,Independence,2004,Severe Storm(s),8818.16
+1516,Marion,2004,Severe Storm(s),4650.08
+1516,Boone,2004,Severe Storm(s),19918.83
+1516,Johnson,2004,Severe Storm(s),2203.0
+1516,Searcy,2004,Severe Storm(s),75911.64
+1516,Newton,2004,Severe Storm(s),122655.84
+1516,Marion,2004,Severe Storm(s),2713.5
+1516,Washington,2004,Severe Storm(s),471465.78
+1516,Statewide,2004,Severe Storm(s),325251.01
+1516,Statewide,2004,Severe Storm(s),1236964.88
+1516,Searcy,2004,Severe Storm(s),12251.25
+1516,Washington,2004,Severe Storm(s),8120.25
+1516,Franklin,2004,Severe Storm(s),4055.25
+1516,Washington,2004,Severe Storm(s),204192.76
+1516,Madison,2004,Severe Storm(s),991564.88
+1516,Washington,2004,Severe Storm(s),659763.67
+1516,Boone,2004,Severe Storm(s),137159.68
+1516,Washington,2004,Severe Storm(s),22020.97
+1516,Carroll,2004,Severe Storm(s),95468.84
+1516,Newton,2004,Severe Storm(s),7357.76
+1516,Statewide,2004,Severe Storm(s),49995.75
+1516,Boone,2004,Severe Storm(s),5178.32
+1516,Newton,2004,Severe Storm(s),3487.69
+1516,Newton,2004,Severe Storm(s),270267.19
+1516,Newton,2004,Severe Storm(s),2482.43
+1516,Johnson,2004,Severe Storm(s),4465.15
+1516,Marion,2004,Severe Storm(s),71595.43
+1516,Washington,2004,Severe Storm(s),9077.48
+1516,Marion,2004,Severe Storm(s),352012.71
+1516,Baxter,2004,Severe Storm(s),565933.43
+1516,Independence,2004,Severe Storm(s),6919.09
+1516,Boone,2004,Severe Storm(s),3169.57
+1516,Washington,2004,Severe Storm(s),1862.74
+1516,Independence,2004,Severe Storm(s),24825.83
+1516,Newton,2004,Severe Storm(s),6000.0
+1516,Statewide,2004,Severe Storm(s),-24703.66
+1516,Washington,2004,Severe Storm(s),4387.5
+1516,Statewide,2004,Severe Storm(s),29225.39
+1516,Johnson,2004,Severe Storm(s),2991.32
+1516,Franklin,2004,Severe Storm(s),5288.39
+1516,Woodruff,2004,Severe Storm(s),31950.08
+1516,Stone,2004,Severe Storm(s),199783.03
+1516,Statewide,2004,Severe Storm(s),2512.5
+1516,Jackson,2004,Severe Storm(s),65799.08
+1516,Carroll,2004,Severe Storm(s),8675.02
+1516,Johnson,2004,Severe Storm(s),61910.49
+1516,Franklin,2004,Severe Storm(s),26710.94
+1516,Washington,2004,Severe Storm(s),10366.67
+1516,Carroll,2004,Severe Storm(s),5654.16
+1516,Marion,2004,Severe Storm(s),51499.88
+1516,Madison,2004,Severe Storm(s),0.0
+1516,Stone,2004,Severe Storm(s),750.0
+1516,Franklin,2004,Severe Storm(s),515167.6
+1528,Sevier,2004,Severe Storm(s),33985.64
+1528,Lafayette,2004,Severe Storm(s),16413.75
+1528,Little River,2004,Severe Storm(s),11896.5
+1528,Statewide,2004,Severe Storm(s),18848.96
+1528,Benton,2004,Severe Storm(s),11283.12
+1528,Ouachita,2004,Severe Storm(s),1517.1
+1528,Nevada,2004,Severe Storm(s),11244.75
+1528,Benton,2004,Severe Storm(s),5266.95
+1528,Benton,2004,Severe Storm(s),3794.29
+1528,Hempstead,2004,Severe Storm(s),203269.27
+1528,Howard,2004,Severe Storm(s),9528.18
+1528,Benton,2004,Severe Storm(s),57183.07
+1528,Ouachita,2004,Severe Storm(s),41800.85
+1528,Benton,2004,Severe Storm(s),1733.23
+1528,Nevada,2004,Severe Storm(s),16012.05
+1528,Benton,2004,Severe Storm(s),66926.38
+1528,Columbia,2004,Severe Storm(s),14488.72
+1528,Lafayette,2004,Severe Storm(s),6145.5
+1528,Statewide,2004,Severe Storm(s),6689.01
+1528,Hempstead,2004,Severe Storm(s),114096.55
+1528,Bradley,2004,Severe Storm(s),54393.59
+1528,Statewide,2004,Severe Storm(s),84131.5
+1528,Columbia,2004,Severe Storm(s),78727.13
+1528,Benton,2004,Severe Storm(s),94756.08
+1528,Benton,2004,Severe Storm(s),10202.97
+1528,Howard,2004,Severe Storm(s),12612.98
+1528,Clark,2004,Severe Storm(s),12517.3
+1528,Pike,2004,Severe Storm(s),12216.38
+1528,Statewide,2004,Severe Storm(s),124966.37
+1528,Statewide,2004,Severe Storm(s),144243.09
+1528,Calhoun,2004,Severe Storm(s),111766.77
+1528,Lafayette,2004,Severe Storm(s),1875.0
+1528,Pike,2004,Severe Storm(s),9333.52
+1528,Columbia,2004,Severe Storm(s),8781.75
+1528,Hempstead,2004,Severe Storm(s),21830.74
+1528,Benton,2004,Severe Storm(s),3419.33
+1528,Ouachita,2004,Severe Storm(s),112199.06
+1528,Benton,2004,Severe Storm(s),6330.0
+1528,Statewide,2004,Severe Storm(s),140121.79
+1528,Franklin,2004,Severe Storm(s),30461.88
+1528,Little River,2004,Severe Storm(s),44302.1
+1528,Benton,2004,Severe Storm(s),6311.29
+1528,Howard,2004,Severe Storm(s),116620.67
+1528,Hempstead,2004,Severe Storm(s),145142.07
+1528,Bradley,2004,Severe Storm(s),17204.33
+1528,Hempstead,2004,Severe Storm(s),750.0
+1528,Nevada,2004,Severe Storm(s),8873.66
+1528,Calhoun,2004,Severe Storm(s),3012.0
+1528,Calhoun,2004,Severe Storm(s),23102.57
+1528,Lafayette,2004,Severe Storm(s),22153.23
+1528,Ouachita,2004,Severe Storm(s),1973.94
+1528,Howard,2004,Severe Storm(s),2988.97
+1528,Little River,2004,Severe Storm(s),1650.0
+1528,Benton,2004,Severe Storm(s),0.0
+1528,Calhoun,2004,Severe Storm(s),4004.62
+1528,Clark,2004,Severe Storm(s),29730.75
+1528,Nevada,2004,Severe Storm(s),23863.67
+1528,Clark,2004,Severe Storm(s),1199.25
+1528,Statewide,2004,Severe Storm(s),0.0
+1528,Benton,2004,Severe Storm(s),69673.48
+1528,Statewide,2004,Severe Storm(s),391246.75
+1528,Statewide,2004,Severe Storm(s),1942.16
+1528,Statewide,2004,Severe Storm(s),297013.79
+1528,Statewide,2004,Severe Storm(s),83613.53
+1528,Nevada,2004,Severe Storm(s),84460.83
+1528,Statewide,2004,Severe Storm(s),-2535.3
+1528,Statewide,2004,Severe Storm(s),44101.61
+1636,Statewide,2006,Severe Storm(s),128050.2
+1636,Randolph,2006,Severe Storm(s),46443.53
+1636,Cross,2006,Severe Storm(s),4216.87
+1636,Greene,2006,Severe Storm(s),268507.27
+1636,Cross,2006,Severe Storm(s),750.0
+1636,Statewide,2006,Severe Storm(s),81104.52
+1636,Greene,2006,Severe Storm(s),514803.79
+1636,Statewide,2006,Severe Storm(s),3044.39
+1636,Statewide,2006,Severe Storm(s),13627.5
+1636,Cross,2006,Severe Storm(s),83799.92
+1636,Statewide,2006,Severe Storm(s),8622.94
+1636,Greene,2006,Severe Storm(s),114738.63
+1636,Randolph,2006,Severe Storm(s),42288.6
+1636,Statewide,2006,Severe Storm(s),424276.39
+1636,Cross,2006,Severe Storm(s),1044.68
+1636,Statewide,2006,Severe Storm(s),424434.42
+1636,Cross,2006,Severe Storm(s),0.0
+1636,Statewide,2006,Severe Storm(s),28910.77
+1744,Sharp,2008,Severe Storm(s),20662.18
+1744,Baxter,2008,Severe Storm(s),14162.42
+1744,Statewide,2008,Severe Storm(s),36372.05
+1744,Randolph,2008,Severe Storm(s),14760.57
+1744,Izard,2008,Severe Storm(s),118763.6
+1744,Statewide,2008,Severe Storm(s),51764.6
+1744,Baxter,2008,Severe Storm(s),4446.08
+1744,Conway,2008,Severe Storm(s),168558.2
+1744,Statewide,2008,Severe Storm(s),168718.9
+1744,Van Buren,2008,Severe Storm(s),468084.1
+1744,Van Buren,2008,Severe Storm(s),256015.5
+1744,Sharp,2008,Severe Storm(s),750.0
+1744,Sharp,2008,Severe Storm(s),2954.62
+1744,Sharp,2008,Severe Storm(s),375.0
+1744,Pope,2008,Severe Storm(s),185707.88
+1744,Statewide,2008,Severe Storm(s),14512.27
+1744,Stone,2008,Severe Storm(s),292114.04
+1744,Pope,2008,Severe Storm(s),139485.88
+1744,Stone,2008,Severe Storm(s),97832.0
+1744,Sharp,2008,Severe Storm(s),3000.0
+1744,Stone,2008,Severe Storm(s),8250.0
+1744,Union,2008,Severe Storm(s),10544.33
+1744,Statewide,2008,Severe Storm(s),194915.65
+1744,Newton,2008,Severe Storm(s),399058.9
+1744,Stone,2008,Severe Storm(s),2870.96
+1744,Statewide,2008,Severe Storm(s),1223049.42
+1744,Statewide,2008,Severe Storm(s),13196.14
+1744,Stone,2008,Severe Storm(s),112119.16
+1744,Sharp,2008,Severe Storm(s),301798.43
+1744,Statewide,2008,Severe Storm(s),65228.58
+1744,Statewide,2008,Severe Storm(s),25365.22
+1744,Baxter,2008,Severe Storm(s),331506.31
+1744,Marion,2008,Severe Storm(s),31315.96
+1744,Izard,2008,Severe Storm(s),54855.0
+1744,Statewide,2008,Severe Storm(s),79802.35
+1751,Benton,2008,Severe Storm(s),375.0
+1751,Franklin,2008,Severe Storm(s),3640141.59
+1751,Arkansas,2008,Severe Storm(s),55456.18
+1751,Hot Spring,2008,Severe Storm(s),8079.1
+1751,Crawford,2008,Severe Storm(s),20245.86
+1751,Cross,2008,Severe Storm(s),1723028.81
+1751,Independence,2008,Severe Storm(s),0.0
+1751,Hempstead,2008,Severe Storm(s),106948.77
+1751,Benton,2008,Severe Storm(s),3534.0
+1751,Fulton,2008,Severe Storm(s),14516.84
+1751,Izard,2008,Severe Storm(s),68805.09
+1751,Independence,2008,Severe Storm(s),23902.56
+1751,Fulton,2008,Severe Storm(s),1444840.27
+1751,Benton,2008,Severe Storm(s),26058.46
+1751,Clay,2008,Severe Storm(s),63012.31
+1751,Crawford,2008,Severe Storm(s),56147.49
+1751,Arkansas,2008,Severe Storm(s),1698.57
+1751,Izard,2008,Severe Storm(s),7803.08
+1751,Benton,2008,Severe Storm(s),1406.25
+1751,Carroll,2008,Severe Storm(s),464402.21
+1751,Desha,2008,Severe Storm(s),28956.07
+1751,Fulton,2008,Severe Storm(s),25861.49
+1751,Benton,2008,Severe Storm(s),146734.54
+1751,Hempstead,2008,Severe Storm(s),4500.0
+1751,Crawford,2008,Severe Storm(s),375.0
+1751,Clay,2008,Severe Storm(s),787.5
+1751,Fulton,2008,Severe Storm(s),26196.19
+1751,Crawford,2008,Severe Storm(s),14698.09
+1751,Boone,2008,Severe Storm(s),22133.57
+1751,Boone,2008,Severe Storm(s),13290.58
+1751,Craighead,2008,Severe Storm(s),276584.39
+1751,Benton,2008,Severe Storm(s),18880.64
+1751,Calhoun,2008,Severe Storm(s),65283.26
+1751,Clark,2008,Severe Storm(s),27284.65
+1751,Independence,2008,Severe Storm(s),11247.86
+1751,Garland,2008,Severe Storm(s),7134.72
+1751,Greene,2008,Severe Storm(s),1757.51
+1751,Independence,2008,Severe Storm(s),45159.39
+1751,Boone,2008,Severe Storm(s),353567.55
+1751,Cleburne,2008,Severe Storm(s),4914.0
+1751,Benton,2008,Severe Storm(s),115613.56
+1751,Crawford,2008,Severe Storm(s),43197.75
+1751,Crawford,2008,Severe Storm(s),30160.93
+1751,Carroll,2008,Severe Storm(s),123800.7
+1751,Cleburne,2008,Severe Storm(s),266829.87
+1751,Benton,2008,Severe Storm(s),25015.74
+1751,Carroll,2008,Severe Storm(s),12447.11
+1751,Clay,2008,Severe Storm(s),37755.65
+1751,Benton,2008,Severe Storm(s),30013.37
+1751,Greene,2008,Severe Storm(s),7906.97
+1751,Franklin,2008,Severe Storm(s),7229.33
+1751,Franklin,2008,Severe Storm(s),2849.98
+1751,Benton,2008,Severe Storm(s),6973.5
+1751,Garland,2008,Severe Storm(s),113811.55
+1751,Clay,2008,Severe Storm(s),35197.4
+1751,Franklin,2008,Severe Storm(s),184792.7
+1751,Crawford,2008,Severe Storm(s),3563.71
+1751,Carroll,2008,Severe Storm(s),16285.72
+1751,Crawford,2008,Severe Storm(s),327806.81
+1751,Crawford,2008,Severe Storm(s),23570.28
+1751,Benton,2008,Severe Storm(s),885645.91
+1751,Hempstead,2008,Severe Storm(s),9976.27
+1751,Benton,2008,Severe Storm(s),114857.3
+1751,Garland,2008,Severe Storm(s),35716.42
+1751,Craighead,2008,Severe Storm(s),187406.96
+1751,Independence,2008,Severe Storm(s),359534.24
+1751,Crawford,2008,Severe Storm(s),17976.83
+1751,Hot Spring,2008,Severe Storm(s),453500.15
+1751,Howard,2008,Severe Storm(s),172899.19
+1751,Clark,2008,Severe Storm(s),130805.33
+1751,Conway,2008,Severe Storm(s),4486.01
+1751,Crawford,2008,Severe Storm(s),1769431.2
+1751,Crawford,2008,Severe Storm(s),1875.0
+1751,Hot Spring,2008,Severe Storm(s),2367.0
+1751,Independence,2008,Severe Storm(s),143220.8
+1751,Independence,2008,Severe Storm(s),0.0
+1751,Cleburne,2008,Severe Storm(s),1302308.2
+1751,Clay,2008,Severe Storm(s),11787.73
+1751,Greene,2008,Severe Storm(s),4355.02
+1751,Conway,2008,Severe Storm(s),286949.6
+1751,Benton,2008,Severe Storm(s),0.0
+1751,Crawford,2008,Severe Storm(s),16691.27
+1751,Carroll,2008,Severe Storm(s),24010.64
+1751,Greene,2008,Severe Storm(s),304870.6
+1751,Baxter,2008,Severe Storm(s),505254.73
+1751,Benton,2008,Severe Storm(s),5443.43
+1751,Baxter,2008,Severe Storm(s),15418.88
+1751,Clay,2008,Severe Storm(s),26587.5
+1751,Sharp,2008,Severe Storm(s),63035.75
+1751,Prairie,2008,Severe Storm(s),367858.86
+1751,Miller,2008,Severe Storm(s),5213.59
+1751,Van Buren,2008,Severe Storm(s),3142.91
+1751,Pulaski,2008,Severe Storm(s),4368.22
+1751,Statewide,2008,Severe Storm(s),2315.58
+1751,Madison,2008,Severe Storm(s),8573.01
+1751,Izard,2008,Severe Storm(s),6889.5
+1751,Statewide,2008,Severe Storm(s),907.29
+1751,Johnson,2008,Severe Storm(s),7260.82
+1751,Monroe,2008,Severe Storm(s),155804.57
+1751,Saline,2008,Severe Storm(s),298093.62
+1751,Saline,2008,Severe Storm(s),39924.14
+1751,Jackson,2008,Severe Storm(s),3594.09
+1751,Lawrence,2008,Severe Storm(s),99695.46
+1751,Pulaski,2008,Severe Storm(s),488366.02
+1751,Sharp,2008,Severe Storm(s),9942.2
+1751,Marion,2008,Severe Storm(s),227264.25
+1751,St. Francis,2008,Severe Storm(s),248744.41
+1751,White,2008,Severe Storm(s),11613.99
+1751,Jackson,2008,Severe Storm(s),6216.72
+1751,Sebastian,2008,Severe Storm(s),18750.0
+1751,Pulaski,2008,Severe Storm(s),35889.27
+1751,Pope,2008,Severe Storm(s),1363996.68
+1751,Sebastian,2008,Severe Storm(s),51489.47
+1751,White,2008,Severe Storm(s),22508.55
+1751,Logan,2008,Severe Storm(s),131229.89
+1751,Monroe,2008,Severe Storm(s),89625.54
+1751,Newton,2008,Severe Storm(s),3468.33
+1751,Statewide,2008,Severe Storm(s),30758.5
+1751,Izard,2008,Severe Storm(s),9057.61
+1751,Marion,2008,Severe Storm(s),242738.46
+1751,Logan,2008,Severe Storm(s),342661.13
+1751,Miller,2008,Severe Storm(s),49862.92
+1751,Izard,2008,Severe Storm(s),33848.92
+1751,Saline,2008,Severe Storm(s),4462.64
+1751,Statewide,2008,Severe Storm(s),44468.27
+1751,Yell,2008,Severe Storm(s),5855.21
+1751,Sebastian,2008,Severe Storm(s),3375.0
+1751,Newton,2008,Severe Storm(s),9492.35
+1751,Lee,2008,Severe Storm(s),171048.28
+1751,Prairie,2008,Severe Storm(s),3896.92
+1751,Madison,2008,Severe Storm(s),30727.31
+1751,Monroe,2008,Severe Storm(s),81243.23
+1751,Pulaski,2008,Severe Storm(s),1535513.32
+1751,St. Francis,2008,Severe Storm(s),16751.71
+1751,Sebastian,2008,Severe Storm(s),3879.58
+1751,Sebastian,2008,Severe Storm(s),377821.16
+1751,Statewide,2008,Severe Storm(s),104595.73
+1751,Marion,2008,Severe Storm(s),202943.86
+1751,Stone,2008,Severe Storm(s),391530.36
+1751,Perry,2008,Severe Storm(s),2756.68
+1751,Jackson,2008,Severe Storm(s),118195.41
+1751,Mississippi,2008,Severe Storm(s),165331.37
+1751,Pope,2008,Severe Storm(s),141301.16
+1751,Pike,2008,Severe Storm(s),233654.82
+1751,White,2008,Severe Storm(s),83120.73
+1751,Van Buren,2008,Severe Storm(s),20287.88
+1751,Newton,2008,Severe Storm(s),5161.97
+1751,Washington,2008,Severe Storm(s),177587.9
+1751,Saline,2008,Severe Storm(s),409752.21
+1751,Pike,2008,Severe Storm(s),8447.48
+1751,Little River,2008,Severe Storm(s),155886.37
+1751,Van Buren,2008,Severe Storm(s),315325.66
+1751,Lonoke,2008,Severe Storm(s),109468.67
+1751,Statewide,2008,Severe Storm(s),365379.5
+1751,Scott,2008,Severe Storm(s),186013.23
+1751,Mississippi,2008,Severe Storm(s),23983.85
+1751,Madison,2008,Severe Storm(s),16203.96
+1751,Saline,2008,Severe Storm(s),212075.33
+1751,Sharp,2008,Severe Storm(s),1016093.87
+1751,Mississippi,2008,Severe Storm(s),8826.17
+1751,Yell,2008,Severe Storm(s),16803.88
+1751,Randolph,2008,Severe Storm(s),4749.32
+1751,Nevada,2008,Severe Storm(s),48942.96
+1751,Pulaski,2008,Severe Storm(s),273069.91
+1751,Pulaski,2008,Severe Storm(s),356618.63
+1751,Woodruff,2008,Severe Storm(s),105939.94
+1751,Izard,2008,Severe Storm(s),482787.58
+1751,Mississippi,2008,Severe Storm(s),42878.48
+1751,Sebastian,2008,Severe Storm(s),14625.0
+1751,Sharp,2008,Severe Storm(s),11916.4
+1751,Randolph,2008,Severe Storm(s),93147.78
+1751,Sebastian,2008,Severe Storm(s),0.0
+1751,Randolph,2008,Severe Storm(s),91517.77
+1751,Lawrence,2008,Severe Storm(s),3658.84
+1751,Yell,2008,Severe Storm(s),255674.4
+1751,Jackson,2008,Severe Storm(s),180240.92
+1751,Sebastian,2008,Severe Storm(s),26501.5
+1751,Marion,2008,Severe Storm(s),8464.14
+1751,Logan,2008,Severe Storm(s),95483.32
+1751,Van Buren,2008,Severe Storm(s),896727.81
+1751,Perry,2008,Severe Storm(s),138159.51
+1751,Johnson,2008,Severe Storm(s),649120.82
+1751,Prairie,2008,Severe Storm(s),21703.83
+1751,Newton,2008,Severe Storm(s),2058.41
+1751,Van Buren,2008,Severe Storm(s),19464.15
+1751,Marion,2008,Severe Storm(s),52349.99
+1751,Sebastian,2008,Severe Storm(s),146952.75
+1751,Searcy,2008,Severe Storm(s),997690.14
+1751,Washington,2008,Severe Storm(s),421605.5
+1751,Miller,2008,Severe Storm(s),24833.79
+1751,Statewide,2008,Severe Storm(s),2080.79
+1751,Newton,2008,Severe Storm(s),20513.1
+1751,Mississippi,2008,Severe Storm(s),132543.54
+1751,Newton,2008,Severe Storm(s),1094655.9
+1751,Stone,2008,Severe Storm(s),254434.16
+1751,Statewide,2008,Severe Storm(s),171442.55
+1751,White,2008,Severe Storm(s),1131.82
+1751,Randolph,2008,Severe Storm(s),698279.45
+1751,Lawrence,2008,Severe Storm(s),16634.71
+1751,Madison,2008,Severe Storm(s),21120.56
+1751,White,2008,Severe Storm(s),6980.99
+1751,Madison,2008,Severe Storm(s),1521958.92
+1751,Sharp,2008,Severe Storm(s),3370.47
+1751,Sharp,2008,Severe Storm(s),897532.88
+1751,Statewide,2008,Severe Storm(s),162048.92
+1751,Sharp,2008,Severe Storm(s),20816.78
+1751,Statewide,2008,Severe Storm(s),148507.19
+1751,Randolph,2008,Severe Storm(s),5859.38
+1751,Statewide,2008,Severe Storm(s),545649.11
+1751,Sebastian,2008,Severe Storm(s),50866.08
+1751,Phillips,2008,Severe Storm(s),62566.5
+1751,Sharp,2008,Severe Storm(s),2365.41
+1751,Phillips,2008,Severe Storm(s),10817.42
+1751,Newton,2008,Severe Storm(s),6829.74
+1751,White,2008,Severe Storm(s),4318.1
+1751,Searcy,2008,Severe Storm(s),30635.47
+1751,Prairie,2008,Severe Storm(s),69618.04
+1751,Lonoke,2008,Severe Storm(s),17147.36
+1758,Van Buren,2008,Severe Storm(s),67251.98
+1758,Statewide,2008,Severe Storm(s),53054.41
+1758,Arkansas,2008,Severe Storm(s),505687.09
+1758,Statewide,2008,Severe Storm(s),14358.94
+1758,Grant,2008,Severe Storm(s),86740.36
+1758,Statewide,2008,Severe Storm(s),75000.0
+1758,Cleburne,2008,Severe Storm(s),151678.51
+1758,Statewide,2008,Severe Storm(s),276804.93
+1758,Lonoke,2008,Severe Storm(s),88489.15
+1758,Statewide,2008,Severe Storm(s),28863.83
+1758,Statewide,2008,Severe Storm(s),43782.45
+1758,Conway,2008,Severe Storm(s),140227.08
+1758,Crittenden,2008,Severe Storm(s),61234.76
+1758,Arkansas,2008,Severe Storm(s),750.0
+1758,Van Buren,2008,Severe Storm(s),17162.06
+1758,Crittenden,2008,Severe Storm(s),142767.19
+1758,Cleburne,2008,Severe Storm(s),5964.23
+1758,Cleburne,2008,Severe Storm(s),39619.56
+1758,Statewide,2008,Severe Storm(s),8279.21
+1758,Statewide,2008,Severe Storm(s),15725.19
+1758,Statewide,2008,Severe Storm(s),555200.14
+1758,Statewide,2008,Severe Storm(s),159926.13
+1758,Statewide,2008,Severe Storm(s),39141.26
+1758,Phillips,2008,Severe Storm(s),41610.49
+1758,Grant,2008,Severe Storm(s),57639.33
+1793,Statewide,2008,Hurricane,14384.07
+1793,Dallas,2008,Hurricane,206545.42
+1793,Perry,2008,Hurricane,56869.99
+1793,Lincoln,2008,Hurricane,99520.23
+1793,Statewide,2008,Hurricane,8178.43
+1793,Chicot,2008,Hurricane,9851.54
+1793,Conway,2008,Hurricane,147242.15
+1793,Drew,2008,Hurricane,10299.19
+1793,Van Buren,2008,Hurricane,39380.41
+1793,Chicot,2008,Hurricane,19586.77
+1793,Saline,2008,Hurricane,60868.3
+1793,Chicot,2008,Hurricane,39676.66
+1793,Statewide,2008,Hurricane,265463.98
+1793,Lincoln,2008,Hurricane,216447.12
+1793,Saline,2008,Hurricane,232051.79
+1793,Conway,2008,Hurricane,8368.02
+1793,Hot Spring,2008,Hurricane,18497.33
+1793,Statewide,2008,Hurricane,43389.32
+1793,Drew,2008,Hurricane,75964.25
+1793,Prairie,2008,Hurricane,38433.27
+1793,Cleveland,2008,Hurricane,17333.56
+1793,Bradley,2008,Hurricane,284606.54
+1793,Hot Spring,2008,Hurricane,42273.45
+1793,Montgomery,2008,Hurricane,48650.33
+1793,Saline,2008,Hurricane,1220.27
+1793,Statewide,2008,Hurricane,13359.72
+1793,Ashley,2008,Hurricane,124252.19
+1793,Hot Spring,2008,Hurricane,161465.01
+1793,Clark,2008,Hurricane,72500.83
+1793,Garland,2008,Hurricane,68593.93
+1793,Clark,2008,Hurricane,16464.48
+1793,Saline,2008,Hurricane,209558.02
+1793,Bradley,2008,Hurricane,105714.1
+1793,Bradley,2008,Hurricane,29568.49
+1793,Statewide,2008,Hurricane,14538.72
+1793,Cleveland,2008,Hurricane,219247.83
+1793,Ashley,2008,Hurricane,98563.5
+1793,Saline,2008,Hurricane,7500.0
+1793,Van Buren,2008,Hurricane,174264.92
+1793,Calhoun,2008,Hurricane,412176.78
+1793,Garland,2008,Hurricane,152001.66
+1793,Hot Spring,2008,Hurricane,7367.96
+1804,Sharp,2008,Severe Storm(s),3777.57
+1804,Statewide,2008,Severe Storm(s),342722.49
+1804,Howard,2008,Severe Storm(s),33406.25
+1804,Craighead,2008,Severe Storm(s),295529.69
+1804,Clay,2008,Severe Storm(s),779.25
+1804,Statewide,2008,Severe Storm(s),89769.29
+1804,Statewide,2008,Severe Storm(s),40797.29
+1804,Van Buren,2008,Severe Storm(s),12013.65
+1804,Miller,2008,Severe Storm(s),25081.97
+1804,Miller,2008,Severe Storm(s),7698.68
+1804,Greene,2008,Severe Storm(s),4815.08
+1804,Miller,2008,Severe Storm(s),5746.5
+1804,Clay,2008,Severe Storm(s),33927.93
+1804,Greene,2008,Severe Storm(s),26858.65
+1804,Statewide,2008,Severe Storm(s),43546.95
+1804,Lafayette,2008,Severe Storm(s),4130.18
+1804,Statewide,2008,Severe Storm(s),209582.73
+1804,Lafayette,2008,Severe Storm(s),1033.02
+1804,Lafayette,2008,Severe Storm(s),25928.26
+1804,Randolph,2008,Severe Storm(s),18437.84
+1804,Miller,2008,Severe Storm(s),41859.4
+1804,Statewide,2008,Severe Storm(s),356579.26
+1804,Clay,2008,Severe Storm(s),4064.17
+1804,Statewide,2008,Severe Storm(s),96835.31
+1804,Sharp,2008,Severe Storm(s),20736.03
+1804,Carroll,2008,Severe Storm(s),51655.29
+1804,Hempstead,2008,Severe Storm(s),21475.67
+1804,Hempstead,2008,Severe Storm(s),41003.35
+1804,Greene,2008,Severe Storm(s),22757.82
+1804,Sharp,2008,Severe Storm(s),4722.85
+1804,Statewide,2008,Severe Storm(s),7011.0
+1804,Statewide,2008,Severe Storm(s),159140.25
+1804,Craighead,2008,Severe Storm(s),5023.58
+1804,Sharp,2008,Severe Storm(s),5739.87
+1804,Carroll,2008,Severe Storm(s),199951.35
+1804,Sharp,2008,Severe Storm(s),2876.45
+1804,Statewide,2008,Severe Storm(s),91289.34
+1804,Craighead,2008,Severe Storm(s),6284.12
+1804,Randolph,2008,Severe Storm(s),24822.08
+1804,Clay,2008,Severe Storm(s),66565.74
+1804,Craighead,2008,Severe Storm(s),5632.58
+1804,Craighead,2008,Severe Storm(s),81405.43
+1819,Baxter,2009,Severe Storm(s),30811.18
+1819,Greene,2009,Severe Storm(s),13826.4
+1819,Benton,2009,Severe Storm(s),4624980.93
+1819,Jackson,2009,Severe Storm(s),42405.33
+1819,Greene,2009,Severe Storm(s),18642.97
+1819,Clay,2009,Severe Storm(s),23150.36
+1819,Jackson,2009,Severe Storm(s),13442.29
+1819,Craighead,2009,Severe Storm(s),51852.31
+1819,Boone,2009,Severe Storm(s),630231.46
+1819,Carroll,2009,Severe Storm(s),38088.65
+1819,Clay,2009,Severe Storm(s),5220.0
+1819,Benton,2009,Severe Storm(s),1017310.8
+1819,Benton,2009,Severe Storm(s),21388.88
+1819,Independence,2009,Severe Storm(s),17225.39
+1819,Greene,2009,Severe Storm(s),14435.38
+1819,Clay,2009,Severe Storm(s),14813.25
+1819,Greene,2009,Severe Storm(s),57833.52
+1819,Fulton,2009,Severe Storm(s),90543.54
+1819,Jackson,2009,Severe Storm(s),6482.27
+1819,Clay,2009,Severe Storm(s),4726.51
+1819,Greene,2009,Severe Storm(s),4850339.7
+1819,Benton,2009,Severe Storm(s),25260.14
+1819,Clay,2009,Severe Storm(s),4899.0
+1819,Craighead,2009,Severe Storm(s),46686.38
+1819,Benton,2009,Severe Storm(s),18169.55
+1819,Jackson,2009,Severe Storm(s),7601.4
+1819,Baxter,2009,Severe Storm(s),3441.75
+1819,Baxter,2009,Severe Storm(s),11014.0
+1819,Cross,2009,Severe Storm(s),18077.67
+1819,Crawford,2009,Severe Storm(s),43301.18
+1819,Boone,2009,Severe Storm(s),2677.5
+1819,Independence,2009,Severe Storm(s),7857.46
+1819,Baxter,2009,Severe Storm(s),60268.5
+1819,Baxter,2009,Severe Storm(s),933798.96
+1819,Baxter,2009,Severe Storm(s),79299.0
+1819,Greene,2009,Severe Storm(s),69470.05
+1819,Fulton,2009,Severe Storm(s),4442.68
+1819,Izard,2009,Severe Storm(s),3841.0
+1819,Baxter,2009,Severe Storm(s),4354380.96
+1819,Benton,2009,Severe Storm(s),12290.11
+1819,Boone,2009,Severe Storm(s),10305.62
+1819,Clay,2009,Severe Storm(s),281934.68
+1819,Craighead,2009,Severe Storm(s),9063.1
+1819,Izard,2009,Severe Storm(s),141882.51
+1819,Carroll,2009,Severe Storm(s),1039701.1
+1819,Greene,2009,Severe Storm(s),37243.24
+1819,Craighead,2009,Severe Storm(s),1361128.15
+1819,Izard,2009,Severe Storm(s),11997.51
+1819,Clay,2009,Severe Storm(s),43124.42
+1819,Benton,2009,Severe Storm(s),111717.66
+1819,Clay,2009,Severe Storm(s),15336.59
+1819,Clay,2009,Severe Storm(s),36778.5
+1819,Baxter,2009,Severe Storm(s),32706.75
+1819,Benton,2009,Severe Storm(s),67028.33
+1819,Benton,2009,Severe Storm(s),23270.23
+1819,Franklin,2009,Severe Storm(s),71006.92
+1819,Benton,2009,Severe Storm(s),8094.89
+1819,Clay,2009,Severe Storm(s),376363.4
+1819,Clay,2009,Severe Storm(s),26094.89
+1819,Clay,2009,Severe Storm(s),10534.91
+1819,Izard,2009,Severe Storm(s),450814.91
+1819,Jackson,2009,Severe Storm(s),67163.63
+1819,Craighead,2009,Severe Storm(s),173338.99
+1819,Fulton,2009,Severe Storm(s),4782.15
+1819,Fulton,2009,Severe Storm(s),2832673.04
+1819,Boone,2009,Severe Storm(s),29737.26
+1819,Boone,2009,Severe Storm(s),11766.12
+1819,Clay,2009,Severe Storm(s),1550824.04
+1819,Izard,2009,Severe Storm(s),118360.94
+1819,Boone,2009,Severe Storm(s),3102.0
+1819,Baxter,2009,Severe Storm(s),8376.33
+1819,Benton,2009,Severe Storm(s),576470.98
+1819,Greene,2009,Severe Storm(s),40517.92
+1819,Boone,2009,Severe Storm(s),1147378.88
+1819,Fulton,2009,Severe Storm(s),91006.45
+1819,Izard,2009,Severe Storm(s),7893.44
+1819,Jackson,2009,Severe Storm(s),83640.19
+1819,Baxter,2009,Severe Storm(s),62001.92
+1819,Greene,2009,Severe Storm(s),19985.5
+1819,Jackson,2009,Severe Storm(s),1340.46
+1819,Greene,2009,Severe Storm(s),2264.93
+1819,Izard,2009,Severe Storm(s),20834.65
+1819,Benton,2009,Severe Storm(s),21633.37
+1819,Greene,2009,Severe Storm(s),26802.35
+1819,Greene,2009,Severe Storm(s),32220.0
+1819,Independence,2009,Severe Storm(s),211297.72
+1819,Baxter,2009,Severe Storm(s),6242.25
+1819,Cross,2009,Severe Storm(s),6081.61
+1819,Fulton,2009,Severe Storm(s),32269.45
+1819,Clay,2009,Severe Storm(s),11373.0
+1819,Jackson,2009,Severe Storm(s),6937.98
+1819,Craighead,2009,Severe Storm(s),4417.09
+1819,Greene,2009,Severe Storm(s),2694394.61
+1819,Boone,2009,Severe Storm(s),15204.0
+1819,Izard,2009,Severe Storm(s),463306.1
+1819,Benton,2009,Severe Storm(s),37914.86
+1819,Cleburne,2009,Severe Storm(s),320795.18
+1819,Cross,2009,Severe Storm(s),7971.37
+1819,Jackson,2009,Severe Storm(s),335832.18
+1819,Craighead,2009,Severe Storm(s),71266.31
+1819,Carroll,2009,Severe Storm(s),485323.2
+1819,Jackson,2009,Severe Storm(s),1404.71
+1819,Fulton,2009,Severe Storm(s),10010.44
+1819,Jackson,2009,Severe Storm(s),16687.91
+1819,Carroll,2009,Severe Storm(s),308375.52
+1819,Greene,2009,Severe Storm(s),12741.32
+1819,Craighead,2009,Severe Storm(s),26464.13
+1819,Clay,2009,Severe Storm(s),346858.66
+1819,Craighead,2009,Severe Storm(s),1801278.65
+1819,Craighead,2009,Severe Storm(s),87668.96
+1819,Clay,2009,Severe Storm(s),17988.82
+1819,Baxter,2009,Severe Storm(s),34541.71
+1819,Boone,2009,Severe Storm(s),6060.48
+1819,Clay,2009,Severe Storm(s),212548.92
+1819,Boone,2009,Severe Storm(s),10792.5
+1819,Benton,2009,Severe Storm(s),352585.99
+1819,Izard,2009,Severe Storm(s),27438.04
+1819,Jackson,2009,Severe Storm(s),9660.41
+1819,Greene,2009,Severe Storm(s),2217.11
+1819,Clay,2009,Severe Storm(s),3958.6
+1819,Boone,2009,Severe Storm(s),62955.24
+1819,Baxter,2009,Severe Storm(s),8881.0
+1819,Clay,2009,Severe Storm(s),56072.13
+1819,Statewide,2009,Severe Storm(s),416818.71
+1819,Searcy,2009,Severe Storm(s),27913.54
+1819,Lawrence,2009,Severe Storm(s),30286.46
+1819,Poinsett,2009,Severe Storm(s),22424.82
+1819,Stone,2009,Severe Storm(s),6091.53
+1819,Randolph,2009,Severe Storm(s),12393.59
+1819,Randolph,2009,Severe Storm(s),8383.79
+1819,Sharp,2009,Severe Storm(s),18940.84
+1819,Statewide,2009,Severe Storm(s),92469.06
+1819,Poinsett,2009,Severe Storm(s),4324.3
+1819,Poinsett,2009,Severe Storm(s),25197.33
+1819,Sharp,2009,Severe Storm(s),1875.0
+1819,Statewide,2009,Severe Storm(s),65284.75
+1819,Statewide,2009,Severe Storm(s),12684.07
+1819,Searcy,2009,Severe Storm(s),83010.75
+1819,Washington,2009,Severe Storm(s),90902.95
+1819,Statewide,2009,Severe Storm(s),26376093.17
+1819,Jackson,2009,Severe Storm(s),84897.59
+1819,Statewide,2009,Severe Storm(s),1057784.66
+1819,Statewide,2009,Severe Storm(s),98852.03
+1819,Statewide,2009,Severe Storm(s),32387478.23
+1819,Statewide,2009,Severe Storm(s),1755088.42
+1819,Statewide,2009,Severe Storm(s),5158.0
+1819,Craighead,2009,Severe Storm(s),48603.11
+1819,Carroll,2009,Severe Storm(s),186184.66
+1819,Newton,2009,Severe Storm(s),1469916.02
+1819,Lawrence,2009,Severe Storm(s),21131.32
+1819,Marion,2009,Severe Storm(s),2046.0
+1819,Sharp,2009,Severe Storm(s),81755.65
+1819,Newton,2009,Severe Storm(s),9212.4
+1819,Poinsett,2009,Severe Storm(s),3527.97
+1819,Washington,2009,Severe Storm(s),968159.4
+1819,Randolph,2009,Severe Storm(s),381286.09
+1819,Marion,2009,Severe Storm(s),63993.93
+1819,Van Buren,2009,Severe Storm(s),28010.86
+1819,Lawrence,2009,Severe Storm(s),8092.58
+1819,Madison,2009,Severe Storm(s),9185.86
+1819,Statewide,2009,Severe Storm(s),11874146.83
+1819,Sharp,2009,Severe Storm(s),915700.72
+1819,Statewide,2009,Severe Storm(s),493081.66
+1819,Poinsett,2009,Severe Storm(s),184539.13
+1819,Mississippi,2009,Severe Storm(s),1700343.83
+1819,Washington,2009,Severe Storm(s),38173.07
+1819,Marion,2009,Severe Storm(s),5474.18
+1819,Washington,2009,Severe Storm(s),65415.99
+1819,Washington,2009,Severe Storm(s),17988.64
+1819,Washington,2009,Severe Storm(s),18568.41
+1819,Washington,2009,Severe Storm(s),71767.21
+1819,Washington,2009,Severe Storm(s),33640.66
+1819,Lawrence,2009,Severe Storm(s),6125.65
+1819,Sharp,2009,Severe Storm(s),56663.61
+1819,Statewide,2009,Severe Storm(s),22648.56
+1819,Marion,2009,Severe Storm(s),20298.0
+1819,Mississippi,2009,Severe Storm(s),16281.77
+1819,Sharp,2009,Severe Storm(s),81747.61
+1819,Newton,2009,Severe Storm(s),4263.75
+1819,Statewide,2009,Severe Storm(s),30149018.04
+1819,Washington,2009,Severe Storm(s),27861.3
+1819,Statewide,2009,Severe Storm(s),33744.63
+1819,Van Buren,2009,Severe Storm(s),418558.96
+1819,Marion,2009,Severe Storm(s),40944.42
+1819,Randolph,2009,Severe Storm(s),23860.68
+1819,Randolph,2009,Severe Storm(s),96279.01
+1819,Statewide,2009,Severe Storm(s),148029.93
+1819,Newton,2009,Severe Storm(s),7855.5
+1819,Craighead,2009,Severe Storm(s),986020.31
+1819,Sharp,2009,Severe Storm(s),108182.24
+1819,Lawrence,2009,Severe Storm(s),138219.25
+1819,Randolph,2009,Severe Storm(s),9367.3
+1819,Sharp,2009,Severe Storm(s),2680.5
+1819,Randolph,2009,Severe Storm(s),53945.51
+1819,Lawrence,2009,Severe Storm(s),26888.57
+1819,Sharp,2009,Severe Storm(s),12270.0
+1819,Statewide,2009,Severe Storm(s),537102.72
+1819,Statewide,2009,Severe Storm(s),215201.19
+1819,Washington,2009,Severe Storm(s),8924.81
+1819,Madison,2009,Severe Storm(s),7804.46
+1819,Stone,2009,Severe Storm(s),920382.39
+1819,Lawrence,2009,Severe Storm(s),83141.89
+1819,Mississippi,2009,Severe Storm(s),160012.64
+1819,Washington,2009,Severe Storm(s),2997892.12
+1819,Lawrence,2009,Severe Storm(s),7876.37
+1819,Sharp,2009,Severe Storm(s),158718.38
+1819,Fulton,2009,Severe Storm(s),8622.23
+1819,Washington,2009,Severe Storm(s),119828.08
+1819,Pope,2009,Severe Storm(s),61953.9
+1819,Washington,2009,Severe Storm(s),50574.38
+1819,Statewide,2009,Severe Storm(s),29291090.1
+1819,Sharp,2009,Severe Storm(s),5500.0
+1819,Randolph,2009,Severe Storm(s),674055.17
+1819,Mississippi,2009,Severe Storm(s),210152.94
+1819,Jackson,2009,Severe Storm(s),49215.48
+1819,Stone,2009,Severe Storm(s),2474.65
+1819,Johnson,2009,Severe Storm(s),60400.27
+1819,Lawrence,2009,Severe Storm(s),12554.07
+1819,Statewide,2009,Severe Storm(s),8870264.94
+1819,Mississippi,2009,Severe Storm(s),66811.06
+1819,Stone,2009,Severe Storm(s),11777.02
+1819,Van Buren,2009,Severe Storm(s),29207.87
+1819,Statewide,2009,Severe Storm(s),34902.77
+1819,Poinsett,2009,Severe Storm(s),8704.66
+1819,Lawrence,2009,Severe Storm(s),9779.37
+1819,Madison,2009,Severe Storm(s),425762.77
+1819,Mississippi,2009,Severe Storm(s),29526.88
+1819,Marion,2009,Severe Storm(s),49018.35
+1819,Mississippi,2009,Severe Storm(s),5828661.27
+1819,Stone,2009,Severe Storm(s),86854.0
+1819,Lawrence,2009,Severe Storm(s),28241.21
+1819,Statewide,2009,Severe Storm(s),15274.02
+1819,Statewide,2009,Severe Storm(s),7021.73
+1819,Madison,2009,Severe Storm(s),88408.84
+1819,Statewide,2009,Severe Storm(s),472363.65
+1819,Lawrence,2009,Severe Storm(s),344187.48
+1819,Lawrence,2009,Severe Storm(s),166794.27
+1819,Searcy,2009,Severe Storm(s),913596.91
+1819,Poinsett,2009,Severe Storm(s),75651.07
+1819,Mississippi,2009,Severe Storm(s),9402.78
+1819,Randolph,2009,Severe Storm(s),13142.0
+1819,Mississippi,2009,Severe Storm(s),25832.87
+1819,Sharp,2009,Severe Storm(s),2291759.45
+1819,Statewide,2009,Severe Storm(s),72351.74
+1819,Randolph,2009,Severe Storm(s),12102.2
+1819,Lawrence,2009,Severe Storm(s),35860.35
+1819,Statewide,2009,Severe Storm(s),1310668.4
+1819,Washington,2009,Severe Storm(s),3988034.71
+1819,Lawrence,2009,Severe Storm(s),18109.54
+1819,Statewide,2009,Severe Storm(s),36500.18
+1819,Marion,2009,Severe Storm(s),514532.59
+1819,Statewide,2009,Severe Storm(s),16733.22
+1819,Statewide,2009,Severe Storm(s),14858.89
+1819,Mississippi,2009,Severe Storm(s),64222.72
+1819,Lawrence,2009,Severe Storm(s),57142.23
+1819,Statewide,2009,Severe Storm(s),4987707.97
+1819,Mississippi,2009,Severe Storm(s),84088.54
+1819,Mississippi,2009,Severe Storm(s),84373.52
+1819,Poinsett,2009,Severe Storm(s),123169.31
+1819,Washington,2009,Severe Storm(s),6396.47
+1819,Mississippi,2009,Severe Storm(s),202665.67
+1819,Washington,2009,Severe Storm(s),78560.71
+1819,Poinsett,2009,Severe Storm(s),38162.39
+1819,Poinsett,2009,Severe Storm(s),30896.32
+1819,Washington,2009,Severe Storm(s),44786.57
+1819,Statewide,2009,Severe Storm(s),25444.67
+1819,Marion,2009,Severe Storm(s),2955315.37
+1819,Lawrence,2009,Severe Storm(s),6066.63
+1819,Statewide,2009,Severe Storm(s),43334.59
+1819,Mississippi,2009,Severe Storm(s),20417.53
+1834,Polk,2009,Tornado,138944.68
+1834,Statewide,2009,Tornado,719943.49
+1834,Ashley,2009,Tornado,75526.95
+1834,Statewide,2009,Tornado,52078.0
+1834,Polk,2009,Tornado,66486.77
+1834,Statewide,2009,Tornado,37182.93
+1834,Polk,2009,Tornado,15220.73
+1834,Statewide,2009,Tornado,13737.4
+1834,Polk,2009,Tornado,64952.79
+1834,Polk,2009,Tornado,2573195.8
+1834,Ashley,2009,Tornado,6531.48
+1834,Howard,2009,Tornado,11644.77
+1834,Statewide,2009,Tornado,200281.75
+1834,Statewide,2009,Tornado,43004.61
+1834,Sevier,2009,Tornado,31857.5
+1834,Miller,2009,Tornado,64891.07
+1834,Statewide,2009,Tornado,61026.0
+1834,Statewide,2009,Tornado,57971.4
+1834,Howard,2009,Tornado,446327.89
+1834,Polk,2009,Tornado,23595.45
+1845,Grant,2009,Severe Storm(s),7169.01
+1845,Conway,2009,Severe Storm(s),8622.93
+1845,Grant,2009,Severe Storm(s),18309.58
+1845,Arkansas,2009,Severe Storm(s),98778.78
+1845,Cleveland,2009,Severe Storm(s),207931.9
+1845,Bradley,2009,Severe Storm(s),204710.34
+1845,Fulton,2009,Severe Storm(s),289518.44
+1845,Conway,2009,Severe Storm(s),37500.0
+1845,Drew,2009,Severe Storm(s),150427.31
+1845,Arkansas,2009,Severe Storm(s),129230.67
+1845,Chicot,2009,Severe Storm(s),145281.11
+1845,Bradley,2009,Severe Storm(s),5455.87
+1845,Drew,2009,Severe Storm(s),177144.65
+1845,Clark,2009,Severe Storm(s),25459.26
+1845,Clark,2009,Severe Storm(s),145861.96
+1845,Dallas,2009,Severe Storm(s),106900.74
+1845,Grant,2009,Severe Storm(s),125086.48
+1845,Conway,2009,Severe Storm(s),300997.12
+1845,Hot Spring,2009,Severe Storm(s),31630.76
+1845,Poinsett,2009,Severe Storm(s),12892.99
+1845,Polk,2009,Severe Storm(s),10635.92
+1845,Saline,2009,Severe Storm(s),5980.12
+1845,Ouachita,2009,Severe Storm(s),11988.9
+1845,Pike,2009,Severe Storm(s),335965.78
+1845,Ouachita,2009,Severe Storm(s),81920.27
+1845,Union,2009,Severe Storm(s),82695.61
+1845,Jackson,2009,Severe Storm(s),23237.68
+1845,Lafayette,2009,Severe Storm(s),63709.31
+1845,Statewide,2009,Severe Storm(s),24189.0
+1845,Nevada,2009,Severe Storm(s),4077.0
+1845,Hot Spring,2009,Severe Storm(s),129459.06
+1845,St. Francis,2009,Severe Storm(s),318267.29
+1845,Lincoln,2009,Severe Storm(s),59133.82
+1845,Ouachita,2009,Severe Storm(s),219048.63
+1845,Hempstead,2009,Severe Storm(s),219020.35
+1845,Saline,2009,Severe Storm(s),35135.16
+1845,Statewide,2009,Severe Storm(s),15714.38
+1845,Jefferson,2009,Severe Storm(s),25835.34
+1845,Miller,2009,Severe Storm(s),33637.61
+1845,Pope,2009,Severe Storm(s),174818.72
+1845,Greene,2009,Severe Storm(s),201162.86
+1845,Polk,2009,Severe Storm(s),15093.76
+1845,Statewide,2009,Severe Storm(s),8451.4
+1845,Howard,2009,Severe Storm(s),59706.23
+1845,Lee,2009,Severe Storm(s),1037776.93
+1845,Jefferson,2009,Severe Storm(s),50826.41
+1845,Marion,2009,Severe Storm(s),254001.37
+1845,Nevada,2009,Severe Storm(s),182429.47
+1845,Hot Spring,2009,Severe Storm(s),8651.04
+1845,Poinsett,2009,Severe Storm(s),77031.94
+1845,Pike,2009,Severe Storm(s),18038.58
+1845,Monroe,2009,Severe Storm(s),10124.25
+1845,Phillips,2009,Severe Storm(s),106702.39
+1845,Searcy,2009,Severe Storm(s),173457.06
+1845,Monroe,2009,Severe Storm(s),387798.43
+1845,Prairie,2009,Severe Storm(s),44438.18
+1845,Calhoun,2009,Severe Storm(s),251332.9
+1845,Hot Spring,2009,Severe Storm(s),59514.28
+1845,Lincoln,2009,Severe Storm(s),38188.06
+1845,Polk,2009,Severe Storm(s),37219.13
+1845,Statewide,2009,Severe Storm(s),2527.33
+1845,Saline,2009,Severe Storm(s),318176.85
+1845,Perry,2009,Severe Storm(s),40314.23
+1845,Miller,2009,Severe Storm(s),159460.61
+1845,Saline,2009,Severe Storm(s),2973.22
+1845,Statewide,2009,Severe Storm(s),219318.1
+1845,Statewide,2009,Severe Storm(s),325959.56
+1845,Saline,2009,Severe Storm(s),750.0
+1845,Statewide,2009,Severe Storm(s),37346.99
+1845,Hot Spring,2009,Severe Storm(s),10690.36
+1845,Lafayette,2009,Severe Storm(s),1459.88
+1845,Stone,2009,Severe Storm(s),530420.36
+1845,Little River,2009,Severe Storm(s),270781.15
+1861,Ouachita,2009,Severe Storm(s),124651.9
+1861,Statewide,2009,Severe Storm(s),53479.76
+1861,Marion,2009,Severe Storm(s),324223.83
+1861,Woodruff,2009,Severe Storm(s),655094.72
+1861,Dallas,2009,Severe Storm(s),22469.49
+1861,Statewide,2009,Severe Storm(s),6600.82
+1861,Prairie,2009,Severe Storm(s),120898.05
+1861,Statewide,2009,Severe Storm(s),284618.23
+1861,Cleburne,2009,Severe Storm(s),1138884.83
+1861,Izard,2009,Severe Storm(s),112283.26
+1861,Fulton,2009,Severe Storm(s),778120.39
+1861,Calhoun,2009,Severe Storm(s),258916.97
+1861,Van Buren,2009,Severe Storm(s),16913.62
+1861,Columbia,2009,Severe Storm(s),13270.5
+1861,Drew,2009,Severe Storm(s),23278.55
+1861,Sharp,2009,Severe Storm(s),21722.67
+1861,Pulaski,2009,Severe Storm(s),321189.04
+1861,Cleveland,2009,Severe Storm(s),64139.52
+1861,Johnson,2009,Severe Storm(s),199233.66
+1861,Izard,2009,Severe Storm(s),24816.85
+1861,Statewide,2009,Severe Storm(s),8750.02
+1861,Bradley,2009,Severe Storm(s),17175.0
+1861,Drew,2009,Severe Storm(s),10741.5
+1861,Newton,2009,Severe Storm(s),445189.7
+1861,Statewide,2009,Severe Storm(s),27834.41
+1861,St. Francis,2009,Severe Storm(s),1223.25
+1861,Ouachita,2009,Severe Storm(s),506722.17
+1861,Conway,2009,Severe Storm(s),655629.39
+1861,Grant,2009,Severe Storm(s),52305.31
+1861,Lawrence,2009,Severe Storm(s),90609.25
+1861,Pulaski,2009,Severe Storm(s),424918.31
+1861,Pulaski,2009,Severe Storm(s),1049725.37
+1861,Stone,2009,Severe Storm(s),28972.38
+1861,Franklin,2009,Severe Storm(s),171198.82
+1861,Lincoln,2009,Severe Storm(s),65387.36
+1861,Stone,2009,Severe Storm(s),2298.09
+1861,Boone,2009,Severe Storm(s),297247.64
+1861,Nevada,2009,Severe Storm(s),133202.78
+1861,Scott,2009,Severe Storm(s),384764.0
+1861,Cross,2009,Severe Storm(s),532587.16
+1861,Pulaski,2009,Severe Storm(s),333943.67
+1861,Pulaski,2009,Severe Storm(s),5793.83
+1861,Carroll,2009,Severe Storm(s),62378.68
+1861,Logan,2009,Severe Storm(s),252037.71
+1861,Dallas,2009,Severe Storm(s),314767.61
+1861,St. Francis,2009,Severe Storm(s),46630.8
+1861,Poinsett,2009,Severe Storm(s),25391.83
+1861,White,2009,Severe Storm(s),64688.26
+1861,Sharp,2009,Severe Storm(s),2374004.31
+1861,Randolph,2009,Severe Storm(s),239451.95
+1861,Boone,2009,Severe Storm(s),39030.75
+1861,Lafayette,2009,Severe Storm(s),139292.92
+1861,St. Francis,2009,Severe Storm(s),31407.0
+1861,Lafayette,2009,Severe Storm(s),8728.17
+1861,St. Francis,2009,Severe Storm(s),164905.85
+1861,Newton,2009,Severe Storm(s),44174.4
+1861,Lafayette,2009,Severe Storm(s),8955.83
+1861,Conway,2009,Severe Storm(s),39732.94
+1861,Van Buren,2009,Severe Storm(s),168243.38
+1861,Union,2009,Severe Storm(s),4791.33
+1861,Columbia,2009,Severe Storm(s),295585.08
+1861,Lincoln,2009,Severe Storm(s),73997.63
+1861,Sharp,2009,Severe Storm(s),79484.02
+1861,Grant,2009,Severe Storm(s),54894.47
+1861,Pulaski,2009,Severe Storm(s),23132.74
+1861,Marion,2009,Severe Storm(s),16607.62
+1861,Newton,2009,Severe Storm(s),14851.8
+1861,St. Francis,2009,Severe Storm(s),41004.43
+1861,Statewide,2009,Severe Storm(s),142313.06
+1861,Statewide,2009,Severe Storm(s),79362.79
+1861,Bradley,2009,Severe Storm(s),214960.72
+1861,Columbia,2009,Severe Storm(s),7087.7
+1861,Poinsett,2009,Severe Storm(s),38727.96
+1861,Sharp,2009,Severe Storm(s),1928.25
+1861,Jackson,2009,Severe Storm(s),57025.46
+1861,Monroe,2009,Severe Storm(s),1892.02
+1861,Van Buren,2009,Severe Storm(s),10929.44
+1861,White,2009,Severe Storm(s),15360.35
+1861,Union,2009,Severe Storm(s),252599.96
+1861,Boone,2009,Severe Storm(s),28314.42
+1861,Columbia,2009,Severe Storm(s),16070.01
+1872,Clark,2010,Severe Storm(s),2206.61
+1872,Hempstead,2010,Severe Storm(s),26467.26
+1872,Jefferson,2010,Severe Storm(s),221749.38
+1872,Craighead,2010,Severe Storm(s),154009.68
+1872,Pulaski,2010,Severe Storm(s),7630.18
+1872,Lafayette,2010,Severe Storm(s),61084.82
+1872,Monroe,2010,Severe Storm(s),10324.69
+1872,Lincoln,2010,Severe Storm(s),31080.37
+1872,Woodruff,2010,Severe Storm(s),25545.9
+1872,Drew,2010,Severe Storm(s),8357.42
+1872,Clark,2010,Severe Storm(s),55059.37
+1872,Dallas,2010,Severe Storm(s),100506.24
+1872,Lonoke,2010,Severe Storm(s),72548.16
+1872,Bradley,2010,Severe Storm(s),61318.88
+1872,Greene,2010,Severe Storm(s),16860.79
+1872,Statewide,2010,Severe Storm(s),108172.75
+1872,Statewide,2010,Severe Storm(s),1609.88
+1872,Bradley,2010,Severe Storm(s),659942.32
+1872,Woodruff,2010,Severe Storm(s),106827.57
+1872,Hempstead,2010,Severe Storm(s),285816.2
+1872,Poinsett,2010,Severe Storm(s),2571.77
+1872,Cleveland,2010,Severe Storm(s),3073.37
+1872,Miller,2010,Severe Storm(s),55010.96
+1872,Bradley,2010,Severe Storm(s),13279.03
+1872,Statewide,2010,Severe Storm(s),249965.67
+1872,Ouachita,2010,Severe Storm(s),183472.18
+1872,Pulaski,2010,Severe Storm(s),217685.85
+1872,Clay,2010,Severe Storm(s),41825.57
+1872,Lincoln,2010,Severe Storm(s),72989.66
+1872,Craighead,2010,Severe Storm(s),14821.88
+1872,Clay,2010,Severe Storm(s),13963.4
+1872,Jackson,2010,Severe Storm(s),190132.79
+1872,Clark,2010,Severe Storm(s),4176.92
+1872,Statewide,2010,Severe Storm(s),2173.67
+1872,Lincoln,2010,Severe Storm(s),22704.77
+1872,White,2010,Severe Storm(s),6546.1
+1872,Nevada,2010,Severe Storm(s),214712.55
+1872,White,2010,Severe Storm(s),21354.21
+1872,Jefferson,2010,Severe Storm(s),19973.96
+1872,Pulaski,2010,Severe Storm(s),42862.04
+1872,Statewide,2010,Severe Storm(s),2637.29
+1872,Pulaski,2010,Severe Storm(s),57055.07
+1872,Grant,2010,Severe Storm(s),76968.32
+1872,Prairie,2010,Severe Storm(s),159193.43
+1872,Jefferson,2010,Severe Storm(s),228377.55
+1872,Monroe,2010,Severe Storm(s),2710620.61
+1872,Statewide,2010,Severe Storm(s),32309.59
+1872,Greene,2010,Severe Storm(s),21631.25
+1872,Woodruff,2010,Severe Storm(s),2667.17
+1872,Cleveland,2010,Severe Storm(s),208545.14
+1872,Craighead,2010,Severe Storm(s),7882.24
+1872,Drew,2010,Severe Storm(s),1957.09
+1872,Hempstead,2010,Severe Storm(s),10525.36
+1872,Jefferson,2010,Severe Storm(s),5587.5
+1872,Poinsett,2010,Severe Storm(s),10270.84
+1872,Pulaski,2010,Severe Storm(s),1091634.48
+1872,Calhoun,2010,Severe Storm(s),303694.09
+1872,Lincoln,2010,Severe Storm(s),89701.92
+1872,Poinsett,2010,Severe Storm(s),23587.72
+1872,Greene,2010,Severe Storm(s),183461.5
+1872,Clark,2010,Severe Storm(s),275046.14
+1872,Miller,2010,Severe Storm(s),345409.33
+1872,Jefferson,2010,Severe Storm(s),49106.23
+1975,Hot Spring,2011,Severe Storm(s),14191.49
+1975,Crittenden,2011,Severe Storm(s),15479.72
+1975,Benton,2011,Severe Storm(s),10438.87
+1975,Faulkner,2011,Severe Storm(s),394540.96
+1975,Conway,2011,Severe Storm(s),55739.0
+1975,Hot Spring,2011,Severe Storm(s),70970.96
+1975,Crittenden,2011,Severe Storm(s),6340.75
+1975,Chicot,2011,Severe Storm(s),1171221.13
+1975,Lawrence,2011,Severe Storm(s),90499.42
+1975,Greene,2011,Severe Storm(s),19428.9
+1975,Independence,2011,Severe Storm(s),6366.36
+1975,Faulkner,2011,Severe Storm(s),671394.37
+1975,Garland,2011,Severe Storm(s),3969.75
+1975,Crawford,2011,Severe Storm(s),26135.56
+1975,Lawrence,2011,Severe Storm(s),20480.26
+1975,Cleveland,2011,Severe Storm(s),295143.81
+1975,Conway,2011,Severe Storm(s),66589.95
+1975,Boone,2011,Severe Storm(s),225536.15
+1975,Izard,2011,Severe Storm(s),70461.48
+1975,Lincoln,2011,Severe Storm(s),57893.8
+1975,Cleburne,2011,Severe Storm(s),240308.45
+1975,Lawrence,2011,Severe Storm(s),57688.58
+1975,Independence,2011,Severe Storm(s),706327.77
+1975,Cleburne,2011,Severe Storm(s),32904.03
+1975,Benton,2011,Severe Storm(s),14118.75
+1975,Crawford,2011,Severe Storm(s),46007.62
+1975,Cross,2011,Severe Storm(s),84072.48
+1975,Crawford,2011,Severe Storm(s),3092.87
+1975,Benton,2011,Severe Storm(s),104239.93
+1975,Craighead,2011,Severe Storm(s),228589.65
+1975,Franklin,2011,Severe Storm(s),149619.65
+1975,Crittenden,2011,Severe Storm(s),8531.41
+1975,Clay,2011,Severe Storm(s),60464.46
+1975,Carroll,2011,Severe Storm(s),30341.77
+1975,Boone,2011,Severe Storm(s),37827.61
+1975,Benton,2011,Severe Storm(s),21175.38
+1975,Crittenden,2011,Severe Storm(s),2282.18
+1975,Faulkner,2011,Severe Storm(s),97466.84
+1975,Jackson,2011,Severe Storm(s),3909.94
+1975,Benton,2011,Severe Storm(s),0.0
+1975,Benton,2011,Severe Storm(s),31673.97
+1975,Izard,2011,Severe Storm(s),49472.88
+1975,Jackson,2011,Severe Storm(s),103824.12
+1975,Carroll,2011,Severe Storm(s),173923.66
+1975,Cleburne,2011,Severe Storm(s),1055888.27
+1975,Garland,2011,Severe Storm(s),701493.34
+1975,Crittenden,2011,Severe Storm(s),33131.09
+1975,Howard,2011,Severe Storm(s),9430.32
+1975,Izard,2011,Severe Storm(s),3286.18
+1975,Howard,2011,Severe Storm(s),165718.84
+1975,Boone,2011,Severe Storm(s),37913.25
+1975,Jackson,2011,Severe Storm(s),443818.93
+1975,Lawrence,2011,Severe Storm(s),107539.67
+1975,Clay,2011,Severe Storm(s),3539.86
+1975,Calhoun,2011,Severe Storm(s),353547.79
+1975,Benton,2011,Severe Storm(s),138996.36
+1975,Benton,2011,Severe Storm(s),202578.25
+1975,Izard,2011,Severe Storm(s),609316.11
+1975,Lincoln,2011,Severe Storm(s),44533.43
+1975,Benton,2011,Severe Storm(s),53355.95
+1975,Boone,2011,Severe Storm(s),95658.15
+1975,Craighead,2011,Severe Storm(s),96799.54
+1975,Johnson,2011,Severe Storm(s),98460.88
+1975,Boone,2011,Severe Storm(s),30021.37
+1975,Carroll,2011,Severe Storm(s),104362.72
+1975,Lawrence,2011,Severe Storm(s),7604.82
+1975,Benton,2011,Severe Storm(s),2794048.99
+1975,Fulton,2011,Severe Storm(s),13905.87
+1975,Baxter,2011,Severe Storm(s),165472.59
+1975,Greene,2011,Severe Storm(s),2226720.22
+1975,Fulton,2011,Severe Storm(s),1000050.62
+1975,Clay,2011,Severe Storm(s),18720.64
+1975,Arkansas,2011,Severe Storm(s),61144.81
+1975,Lee,2011,Severe Storm(s),2484706.8
+1975,Johnson,2011,Severe Storm(s),5170.39
+1975,Boone,2011,Severe Storm(s),1098859.04
+1975,Lawrence,2011,Severe Storm(s),4740.0
+1975,Lawrence,2011,Severe Storm(s),3080.67
+1975,Lawrence,2011,Severe Storm(s),40678.46
+1975,Crawford,2011,Severe Storm(s),15674.08
+1975,Boone,2011,Severe Storm(s),21118.25
+1975,Conway,2011,Severe Storm(s),2182.64
+1975,Baxter,2011,Severe Storm(s),11119.05
+1975,Benton,2011,Severe Storm(s),685426.21
+1975,Jackson,2011,Severe Storm(s),10239.03
+1975,Boone,2011,Severe Storm(s),21066.83
+1975,Carroll,2011,Severe Storm(s),48638.22
+1975,Bradley,2011,Severe Storm(s),122402.98
+1975,Garland,2011,Severe Storm(s),76408.02
+1975,Benton,2011,Severe Storm(s),64241.25
+1975,Crittenden,2011,Severe Storm(s),610528.52
+1975,Crawford,2011,Severe Storm(s),38812.45
+1975,Statewide,2011,Severe Storm(s),295718.83
+1975,Randolph,2011,Severe Storm(s),642531.18
+1975,Washington,2011,Severe Storm(s),40931.17
+1975,Carroll,2011,Severe Storm(s),461262.75
+1975,Van Buren,2011,Severe Storm(s),31246.32
+1975,Dallas,2011,Severe Storm(s),99614.54
+1975,Woodruff,2011,Severe Storm(s),25033.4
+1975,Dallas,2011,Severe Storm(s),83416.17
+1975,Woodruff,2011,Severe Storm(s),58608.79
+1975,Statewide,2011,Severe Storm(s),75295.36
+1975,Marion,2011,Severe Storm(s),6547.92
+1975,Van Buren,2011,Severe Storm(s),8063.93
+1975,Washington,2011,Severe Storm(s),12729.52
+1975,Crawford,2011,Severe Storm(s),1159014.58
+1975,Clay,2011,Severe Storm(s),44567.15
+1975,Madison,2011,Severe Storm(s),1467578.87
+1975,Mississippi,2011,Severe Storm(s),71289.95
+1975,Mississippi,2011,Severe Storm(s),10647.3
+1975,Lincoln,2011,Severe Storm(s),2613.99
+1975,Montgomery,2011,Severe Storm(s),269098.31
+1975,Izard,2011,Severe Storm(s),21776.35
+1975,Pulaski,2011,Severe Storm(s),102825.53
+1975,Randolph,2011,Severe Storm(s),124954.53
+1975,Washington,2011,Severe Storm(s),43709.71
+1975,Prairie,2011,Severe Storm(s),384936.55
+1975,Marion,2011,Severe Storm(s),209805.37
+1975,Mississippi,2011,Severe Storm(s),16320.94
+1975,Washington,2011,Severe Storm(s),20732.56
+1975,Sharp,2011,Severe Storm(s),127090.98
+1975,Mississippi,2011,Severe Storm(s),149450.34
+1975,Phillips,2011,Severe Storm(s),228188.65
+1975,White,2011,Severe Storm(s),115170.48
+1975,Washington,2011,Severe Storm(s),6358.86
+1975,Benton,2011,Severe Storm(s),38075.52
+1975,Pike,2011,Severe Storm(s),28343.41
+1975,Washington,2011,Severe Storm(s),91659.17
+1975,Poinsett,2011,Severe Storm(s),6228.25
+1975,Searcy,2011,Severe Storm(s),3685.5
+1975,Lonoke,2011,Severe Storm(s),315922.94
+1975,Washington,2011,Severe Storm(s),604446.97
+1975,Washington,2011,Severe Storm(s),16760.7
+1975,St. Francis,2011,Severe Storm(s),10942.7
+1975,Marion,2011,Severe Storm(s),51400.97
+1975,Saline,2011,Severe Storm(s),446982.7
+1975,Cross,2011,Severe Storm(s),11279.99
+1975,Statewide,2011,Severe Storm(s),113596.55
+1975,Phillips,2011,Severe Storm(s),192639.9
+1975,Randolph,2011,Severe Storm(s),10823.76
+1975,Randolph,2011,Severe Storm(s),6928.13
+1975,Searcy,2011,Severe Storm(s),6551.27
+1975,Marion,2011,Severe Storm(s),22482.56
+1975,Yell,2011,Severe Storm(s),29611.0
+1975,St. Francis,2011,Severe Storm(s),12664.96
+1975,St. Francis,2011,Severe Storm(s),7217.91
+1975,Pulaski,2011,Severe Storm(s),85916.39
+1975,Yell,2011,Severe Storm(s),2288.52
+1975,Newton,2011,Severe Storm(s),3282.81
+1975,Prairie,2011,Severe Storm(s),79972.14
+1975,Searcy,2011,Severe Storm(s),712002.88
+1975,Prairie,2011,Severe Storm(s),73146.95
+1975,Lincoln,2011,Severe Storm(s),94965.06
+1975,Lawrence,2011,Severe Storm(s),750.0
+1975,Washington,2011,Severe Storm(s),6810.52
+1975,Searcy,2011,Severe Storm(s),25391.89
+1975,White,2011,Severe Storm(s),261247.69
+1975,Monroe,2011,Severe Storm(s),45722.96
+1975,Washington,2011,Severe Storm(s),40924.38
+1975,Pulaski,2011,Severe Storm(s),149248.17
+1975,Cleveland,2011,Severe Storm(s),20732.68
+1975,Madison,2011,Severe Storm(s),7828.38
+1975,Statewide,2011,Severe Storm(s),56981.38
+1975,Washington,2011,Severe Storm(s),101738.25
+1975,Pike,2011,Severe Storm(s),271234.98
+1975,Monroe,2011,Severe Storm(s),25831.43
+1975,White,2011,Severe Storm(s),35026.34
+1975,Statewide,2011,Severe Storm(s),871548.35
+1975,Crittenden,2011,Severe Storm(s),58189.66
+1975,Nevada,2011,Severe Storm(s),84350.33
+1975,Statewide,2011,Severe Storm(s),208144.31
+1975,Statewide,2011,Severe Storm(s),1614772.89
+1975,St. Francis,2011,Severe Storm(s),211570.69
+1975,Mississippi,2011,Severe Storm(s),3963.0
+1975,Washington,2011,Severe Storm(s),564557.89
+1975,Van Buren,2011,Severe Storm(s),323733.85
+1975,Woodruff,2011,Severe Storm(s),4301.1
+1975,Statewide,2011,Severe Storm(s),91835.4
+1975,Statewide,2011,Severe Storm(s),118442.85
+1975,Washington,2011,Severe Storm(s),15015.96
+1975,Madison,2011,Severe Storm(s),23501.63
+1975,Statewide,2011,Severe Storm(s),230488.45
+1975,Statewide,2011,Severe Storm(s),148499.54
+1975,Monroe,2011,Severe Storm(s),126928.38
+1975,Randolph,2011,Severe Storm(s),14525.65
+1975,Faulkner,2011,Severe Storm(s),57360.71
+1975,Woodruff,2011,Severe Storm(s),283663.21
+1975,Sharp,2011,Severe Storm(s),200453.91
+1975,Statewide,2011,Severe Storm(s),236913.08
+1975,Statewide,2011,Severe Storm(s),102247.84
+1975,Washington,2011,Severe Storm(s),63285.57
+1975,Polk,2011,Severe Storm(s),68926.09
+1975,Statewide,2011,Severe Storm(s),1765979.02
+1975,Stone,2011,Severe Storm(s),137992.42
+1975,Statewide,2011,Severe Storm(s),53417.97
+1975,Statewide,2011,Severe Storm(s),1169726.32
+1975,Washington,2011,Severe Storm(s),15308.06
+1975,Washington,2011,Severe Storm(s),28496.34
+1975,Sharp,2011,Severe Storm(s),27409.45
+1975,Statewide,2011,Severe Storm(s),19208.47
+1975,Perry,2011,Severe Storm(s),119757.83
+1975,Statewide,2011,Severe Storm(s),135857.6
+1975,Jackson,2011,Severe Storm(s),39415.57
+1975,Van Buren,2011,Severe Storm(s),108427.41
+1975,Sharp,2011,Severe Storm(s),1623107.27
+1975,Phillips,2011,Severe Storm(s),47826.49
+1975,St. Francis,2011,Severe Storm(s),1323.75
+1975,Pulaski,2011,Severe Storm(s),60862.18
+1975,Pulaski,2011,Severe Storm(s),446290.65
+1975,Poinsett,2011,Severe Storm(s),25213.37
+1975,White,2011,Severe Storm(s),31546.91
+1975,Washington,2011,Severe Storm(s),60686.27
+1975,Poinsett,2011,Severe Storm(s),19170.0
+1975,Statewide,2011,Severe Storm(s),89582.15
+1975,St. Francis,2011,Severe Storm(s),14881.33
+1975,Washington,2011,Severe Storm(s),221511.32
+1975,Monroe,2011,Severe Storm(s),58055.24
+1975,Mississippi,2011,Severe Storm(s),3342.01
+1975,Stone,2011,Severe Storm(s),631527.5
+1975,Pulaski,2011,Severe Storm(s),517424.15
+1975,Lincoln,2011,Severe Storm(s),699052.03
+1975,Statewide,2011,Severe Storm(s),78894.68
+1975,Statewide,2011,Severe Storm(s),2777.25
+1975,Prairie,2011,Severe Storm(s),11096.51
+1975,Newton,2011,Severe Storm(s),1089916.15
+1975,White,2011,Severe Storm(s),146432.75
+1975,Poinsett,2011,Severe Storm(s),46016.7
+1975,Pulaski,2011,Severe Storm(s),295651.93
+1975,Statewide,2011,Severe Storm(s),999402.8
+1975,Statewide,2011,Severe Storm(s),44976.72
+1975,Pulaski,2011,Severe Storm(s),596180.99
+1975,Randolph,2011,Severe Storm(s),287287.74
+1975,Pike,2011,Severe Storm(s),20297.26
+1975,Yell,2011,Severe Storm(s),138390.41
+1975,Washington,2011,Severe Storm(s),71481.38
+1975,Mississippi,2011,Severe Storm(s),33907.09
+1975,St. Francis,2011,Severe Storm(s),22023.31
+3215,Logan,2005,Hurricane,17050.78
+3215,Phillips,2005,Hurricane,71635.36
+3215,Hot Spring,2005,Hurricane,28074.55
+3215,Pulaski,2005,Hurricane,79746.27
+3215,Sharp,2005,Hurricane,22448.67
+3215,St. Francis,2005,Hurricane,32467.94
+3215,Garland,2005,Hurricane,15984.25
+3215,Benton,2005,Hurricane,82800.08
+3215,Pulaski,2005,Hurricane,35862.74
+3215,Stone,2005,Hurricane,1047.06
+3215,Crittenden,2005,Hurricane,12894.4
+3215,Polk,2005,Hurricane,66138.81
+3215,Hempstead,2005,Hurricane,12768.38
+3215,Union,2005,Hurricane,0.0
+3215,Ashley,2005,Hurricane,3421.08
+3215,Sevier,2005,Hurricane,5513.19
+3215,Cleveland,2005,Hurricane,-8605.31
+3215,Craighead,2005,Hurricane,14861.35
+3215,Clark,2005,Hurricane,4210.53
+3215,Pulaski,2005,Hurricane,93584.83
+3215,Lee,2005,Hurricane,1985.61
+3215,Franklin,2005,Hurricane,32480.68
+3215,Mississippi,2005,Hurricane,0.0
+3215,Saline,2005,Hurricane,58668.03
+3215,Independence,2005,Hurricane,13978.28
+3215,Sebastian,2005,Hurricane,966002.34
+3215,Craighead,2005,Hurricane,38196.09
+3215,Pulaski,2005,Hurricane,476043.65
+3215,Conway,2005,Hurricane,10537.52
+3215,Crawford,2005,Hurricane,292789.02
+3215,Sebastian,2005,Hurricane,247330.92
+3215,Van Buren,2005,Hurricane,6767.56
+3215,Searcy,2005,Hurricane,6856.02
+3215,Fulton,2005,Hurricane,1471.39
+3215,Calhoun,2005,Hurricane,9153.58
+3215,Cleburne,2005,Hurricane,4751.85
+3215,Miller,2005,Hurricane,78241.3
+3215,Washington,2005,Hurricane,112111.59
+3215,Garland,2005,Hurricane,31199.09
+3215,Miller,2005,Hurricane,1642.46
+3215,Faulkner,2005,Hurricane,19701.8
+3215,Statewide,2005,Hurricane,41184582.06
+3215,Pope,2005,Hurricane,976.86
+3215,Lafayette,2005,Hurricane,2384.65
+3215,Prairie,2005,Hurricane,36799.16
+3215,Little River,2005,Hurricane,4486.79
+3215,Lincoln,2005,Hurricane,1772.64
+3215,Scott,2005,Hurricane,47981.58
+3215,Ouachita,2005,Hurricane,2687.96
+3215,Jackson,2005,Hurricane,4871.3
+3215,Pulaski,2005,Hurricane,35715.0
+3215,Faulkner,2005,Hurricane,187142.89
+4000,Johnson,2011,Severe Storm(s),194136.12
+4000,Johnson,2011,Severe Storm(s),427834.6
+4000,Statewide,2011,Severe Storm(s),9334.57
+4000,Statewide,2011,Severe Storm(s),1295705.21
+4000,Franklin,2011,Severe Storm(s),581072.92
+4000,Franklin,2011,Severe Storm(s),52781.32
+4000,Crawford,2011,Severe Storm(s),6051.76
+4000,Crawford,2011,Severe Storm(s),7265.48
+4000,Statewide,2011,Severe Storm(s),24219.97
+4000,Statewide,2011,Severe Storm(s),14983.6
+4000,Statewide,2011,Severe Storm(s),2939.07
+4000,Johnson,2011,Severe Storm(s),46735.16
+4100,Pulaski,2013,Severe Ice Storm,109339.16
+4100,Garland,2013,Severe Ice Storm,393442.34
+4100,Pulaski,2013,Severe Ice Storm,9818.1
+4100,Garland,2013,Severe Ice Storm,12721.61
+4100,Garland,2013,Severe Ice Storm,4338.68
+4100,Pulaski,2013,Severe Ice Storm,1588012.71
+4100,Pulaski,2013,Severe Ice Storm,6649.34
+4100,Hot Spring,2013,Severe Ice Storm,130245.14
+4100,Hot Spring,2013,Severe Ice Storm,20375.17
+4100,Lonoke,2013,Severe Ice Storm,105062.68
+4100,Hot Spring,2013,Severe Ice Storm,44923.8
+4100,Garland,2013,Severe Ice Storm,3472.58
+4100,Perry,2013,Severe Ice Storm,15403.73
+4100,Grant,2013,Severe Ice Storm,1943.74
+4100,Hot Spring,2013,Severe Ice Storm,5885.33
+4100,Garland,2013,Severe Ice Storm,248090.52
+4100,Lonoke,2013,Severe Ice Storm,52662.71
+4100,Statewide,2013,Severe Ice Storm,1244780.08
+4100,Pulaski,2013,Severe Ice Storm,5564.15
+4100,Pulaski,2013,Severe Ice Storm,335245.03
+4100,Saline,2013,Severe Ice Storm,256858.1
+4100,Pulaski,2013,Severe Ice Storm,135596.16
+4100,Statewide,2013,Severe Ice Storm,14355.49
+4100,Pulaski,2013,Severe Ice Storm,4129.83
+4100,Saline,2013,Severe Ice Storm,52763.81
+4100,Saline,2013,Severe Ice Storm,1885868.03
+4100,Statewide,2013,Severe Ice Storm,79336.11
+4100,Saline,2013,Severe Ice Storm,4071.73
+4100,Statewide,2013,Severe Ice Storm,120953.76
+4100,Pulaski,2013,Severe Ice Storm,246642.57
+4100,Pulaski,2013,Severe Ice Storm,768246.18
+4100,Pulaski,2013,Severe Ice Storm,47903.11
+4100,Statewide,2013,Severe Ice Storm,302436.53
+4100,Statewide,2013,Severe Ice Storm,130543.48
+4100,Statewide,2013,Severe Ice Storm,90032.41
+4100,Saline,2013,Severe Ice Storm,70374.2
+4124,Cleburne,2013,Severe Storm(s),1085400.89
+4124,Independence,2013,Severe Storm(s),220606.22
+4124,Polk,2013,Severe Storm(s),65896.47
+4124,Polk,2013,Severe Storm(s),22711.59
+4124,Woodruff,2013,Severe Storm(s),97374.45
+4124,Polk,2013,Severe Storm(s),1412.0
+4124,Poinsett,2013,Severe Storm(s),232184.7
+4124,Searcy,2013,Severe Storm(s),381205.75
+4124,Van Buren,2013,Severe Storm(s),7696.84
+4124,Van Buren,2013,Severe Storm(s),93467.44
+4124,Scott,2013,Severe Storm(s),3347498.37
+4124,Poinsett,2013,Severe Storm(s),166284.89
+4124,Montgomery,2013,Severe Storm(s),289417.62
+4124,Van Buren,2013,Severe Storm(s),13759.12
+4124,Stone,2013,Severe Storm(s),650697.97
+4124,White,2013,Severe Storm(s),41425.85
+4124,Cross,2013,Severe Storm(s),192655.95
+4124,Statewide,2013,Severe Storm(s),92399.54
+4124,Statewide,2013,Severe Storm(s),271071.0
+4124,Woodruff,2013,Severe Storm(s),16689.34
+4124,Statewide,2013,Severe Storm(s),18478.43
+4124,Searcy,2013,Severe Storm(s),20118.4
+4124,Polk,2013,Severe Storm(s),789951.44
+4143,Boone,2013,Severe Storm(s),6975.28
+4143,Marion,2013,Severe Storm(s),782417.81
+4143,Boone,2013,Severe Storm(s),538760.22
+4143,Boone,2013,Severe Storm(s),2526.45
+4143,Carroll,2013,Severe Storm(s),359149.55
+4143,Benton,2013,Severe Storm(s),123256.31
+4143,Statewide,2013,Severe Storm(s),259042.0
+4143,Benton,2013,Severe Storm(s),14273.33
+4143,Carroll,2013,Severe Storm(s),39043.27
+4143,Newton,2013,Severe Storm(s),2230609.35
+4143,Carroll,2013,Severe Storm(s),6218.16
+4143,Benton,2013,Severe Storm(s),2871089.9
+4143,Benton,2013,Severe Storm(s),65224.91
+4143,Benton,2013,Severe Storm(s),56121.39
+4143,Marion,2013,Severe Storm(s),8361.23
+4143,Madison,2013,Severe Storm(s),503524.72
+4143,Benton,2013,Severe Storm(s),287588.38
+4143,Statewide,2013,Severe Storm(s),62159.07
+4143,Benton,2013,Severe Storm(s),17007.2
+4143,Benton,2013,Severe Storm(s),43315.8
+4160,Fulton,2014,Severe Ice Storm,13432.06
+4160,Marion,2014,Severe Ice Storm,2033.13
+4160,Sebastian,2014,Severe Ice Storm,297718.55
+4160,Crawford,2014,Severe Ice Storm,87691.24
+4160,Fulton,2014,Severe Ice Storm,34297.08
+4160,Newton,2014,Severe Ice Storm,12081.29
+4160,Searcy,2014,Severe Ice Storm,3125.14
+4160,Marion,2014,Severe Ice Storm,4690.42
+4160,Fulton,2014,Severe Ice Storm,4009.7
+4160,Fulton,2014,Severe Ice Storm,21527.89
+4160,Crawford,2014,Severe Ice Storm,36095.58
+4160,Statewide,2014,Severe Ice Storm,523353.06
+4160,Statewide,2014,Severe Ice Storm,188360.17
+4160,Franklin,2014,Severe Ice Storm,23279.19
+4160,Sebastian,2014,Severe Ice Storm,182494.51
+4160,Sebastian,2014,Severe Ice Storm,71523.66
+4160,Scott,2014,Severe Ice Storm,143416.21
+4160,Sharp,2014,Severe Ice Storm,35566.51
+4160,Crawford,2014,Severe Ice Storm,48885.49
+4160,Logan,2014,Severe Ice Storm,40872.22
+4160,Polk,2014,Severe Ice Storm,188873.69
+4160,Franklin,2014,Severe Ice Storm,90951.71
+4160,Sebastian,2014,Severe Ice Storm,7397.11
+4160,Statewide,2014,Severe Ice Storm,116983.29
+4160,Fulton,2014,Severe Ice Storm,377451.75
+4160,Polk,2014,Severe Ice Storm,139286.65
+4160,Sebastian,2014,Severe Ice Storm,160354.3
+4160,Fulton,2014,Severe Ice Storm,33261.59
+4160,Marion,2014,Severe Ice Storm,8766.15
+4160,Sebastian,2014,Severe Ice Storm,26312.12
+4160,Logan,2014,Severe Ice Storm,40418.83
+4160,Sebastian,2014,Severe Ice Storm,27051.65
+4160,Sebastian,2014,Severe Ice Storm,15390.3
+4160,Crawford,2014,Severe Ice Storm,3301.61
+4160,Polk,2014,Severe Ice Storm,4718.23
+4160,Statewide,2014,Severe Ice Storm,1146888.57
+4160,Statewide,2014,Severe Ice Storm,107989.76
+4160,Van Buren,2014,Severe Ice Storm,32730.43
+4160,Statewide,2014,Severe Ice Storm,1192559.72
+4160,Van Buren,2014,Severe Ice Storm,82612.5
+4160,Statewide,2014,Severe Ice Storm,9067.02
+4174,Faulkner,2014,Severe Storm(s),235741.12
+4174,Clay,2014,Severe Storm(s),13038.04
+4174,Cleburne,2014,Severe Storm(s),2910.95
+4174,Faulkner,2014,Severe Storm(s),885040.24
+4174,Faulkner,2014,Severe Storm(s),8637.52
+4174,Independence,2014,Severe Storm(s),40617.1
+4174,Independence,2014,Severe Storm(s),212782.97
+4174,Independence,2014,Severe Storm(s),41825.84
+4174,Faulkner,2014,Severe Storm(s),159708.93
+4174,Clay,2014,Severe Storm(s),23501.07
+4174,Independence,2014,Severe Storm(s),9406.02
+4174,Independence,2014,Severe Storm(s),445294.17
+4174,Faulkner,2014,Severe Storm(s),28808.57
+4174,Faulkner,2014,Severe Storm(s),2165344.86
+4174,Cleburne,2014,Severe Storm(s),718765.99
+4174,Fulton,2014,Severe Storm(s),108612.14
+4174,Faulkner,2014,Severe Storm(s),277351.53
+4174,Clay,2014,Severe Storm(s),96929.34
+4174,Randolph,2014,Severe Storm(s),33126.95
+4174,Randolph,2014,Severe Storm(s),76191.56
+4174,Izard,2014,Severe Storm(s),211202.89
+4174,Statewide,2014,Severe Storm(s),175248.74
+4174,Sharp,2014,Severe Storm(s),56425.61
+4174,Statewide,2014,Severe Storm(s),167706.56
+4174,Randolph,2014,Severe Storm(s),476948.64
+4174,Sharp,2014,Severe Storm(s),54532.0
+4174,Lawrence,2014,Severe Storm(s),5722.53
+4174,Randolph,2014,Severe Storm(s),36607.49
+4174,Izard,2014,Severe Storm(s),10900.96
+4174,Izard,2014,Severe Storm(s),13708.77
+4174,Statewide,2014,Severe Storm(s),7717.78
+4174,Sharp,2014,Severe Storm(s),3625.78
+4174,Sharp,2014,Severe Storm(s),28729.74
+4174,Sharp,2014,Severe Storm(s),32709.9
+4174,Statewide,2014,Severe Storm(s),370027.17
+4174,White,2014,Severe Storm(s),58433.87
+4174,Sharp,2014,Severe Storm(s),1613273.17
+4174,Statewide,2014,Severe Storm(s),25599.65
+4174,Izard,2014,Severe Storm(s),3866.76
+4174,Statewide,2014,Severe Storm(s),106723.6
+4174,Jackson,2014,Severe Storm(s),298700.58
+4174,Sharp,2014,Severe Storm(s),5220.94
+4174,Lawrence,2014,Severe Storm(s),143380.35
+4174,Statewide,2014,Severe Storm(s),40030.35
+4226,Clark,2015,Severe Storm(s),107024.45
+4226,Crawford,2015,Severe Storm(s),204047.97
+4226,Miller,2015,Severe Storm(s),107334.48
+4226,Crawford,2015,Severe Storm(s),741087.99
+4226,Crawford,2015,Severe Storm(s),13495.66
+4226,Newton,2015,Severe Storm(s),4460.59
+4226,Montgomery,2015,Severe Storm(s),167538.06
+4226,Scott,2015,Severe Storm(s),601322.12
+4226,Statewide,2015,Severe Storm(s),302160.96
+4226,Yell,2015,Severe Storm(s),47695.18
+4226,Nevada,2015,Severe Storm(s),225312.59
+4226,Hempstead,2015,Severe Storm(s),8643.62
+4226,Yell,2015,Severe Storm(s),51896.74
+4226,Statewide,2015,Severe Storm(s),110755.78
+4226,Polk,2015,Severe Storm(s),223777.89
+4226,Pike,2015,Severe Storm(s),10630.31
+4226,Franklin,2015,Severe Storm(s),24860.03
+4226,Sevier,2015,Severe Storm(s),19535.23
+4226,Johnson,2015,Severe Storm(s),124894.79
+4226,Franklin,2015,Severe Storm(s),20629.08
+4226,Statewide,2015,Severe Storm(s),5438.1
+4226,Statewide,2015,Severe Storm(s),38565.77
+4226,Independence,2015,Severe Storm(s),85914.66
+4226,Madison,2015,Severe Storm(s),1283176.92
+4226,Marion,2015,Severe Storm(s),21493.72
+4226,Crawford,2015,Severe Storm(s),191961.86
+4226,Statewide,2015,Severe Storm(s),392436.0
+4226,Izard,2015,Severe Storm(s),287426.33
+4226,Crawford,2015,Severe Storm(s),17528.43
+4226,Garland,2015,Severe Storm(s),3607.58
+4226,Newton,2015,Severe Storm(s),2566061.19
+4226,Statewide,2015,Severe Storm(s),140821.75
+4226,Howard,2015,Severe Storm(s),207700.59
+4226,Jefferson,2015,Severe Storm(s),82907.21
+4226,Sevier,2015,Severe Storm(s),200702.67
+4226,Howard,2015,Severe Storm(s),193095.45
+4226,Logan,2015,Severe Storm(s),347939.24
+4226,Perry,2015,Severe Storm(s),75049.97
+4226,Statewide,2015,Severe Storm(s),54457.87
+4226,Statewide,2015,Severe Storm(s),102822.31
+4226,Yell,2015,Severe Storm(s),2795.6
+4226,Miller,2015,Severe Storm(s),3937.5
+4226,Searcy,2015,Severe Storm(s),253379.99
+4226,Crawford,2015,Severe Storm(s),12007.32
+4226,Garland,2015,Severe Storm(s),178630.17
+4226,Jefferson,2015,Severe Storm(s),53332.95
+4226,Little River,2015,Severe Storm(s),319427.39
+4226,Howard,2015,Severe Storm(s),2366.99
+4226,Franklin,2015,Severe Storm(s),557539.28
+4226,Lafayette,2015,Severe Storm(s),54621.25
+4226,Miller,2015,Severe Storm(s),156349.29
+4226,Newton,2015,Severe Storm(s),20536.1
+4226,Yell,2015,Severe Storm(s),7116.79
+4226,Garland,2015,Severe Storm(s),71116.91
+4226,Franklin,2015,Severe Storm(s),32687.23
+4226,Jefferson,2015,Severe Storm(s),0.0
+4226,Howard,2015,Severe Storm(s),51447.0
+4226,Searcy,2015,Severe Storm(s),85477.52
+4226,Sevier,2015,Severe Storm(s),32602.5
+4226,Perry,2015,Severe Storm(s),112876.97
+4226,Ouachita,2015,Severe Storm(s),49588.52
+4226,Hempstead,2015,Severe Storm(s),127810.7
+4226,Statewide,2015,Severe Storm(s),519732.85
+4226,Miller,2015,Severe Storm(s),18875.43
+4226,Dallas,2015,Severe Storm(s),28395.84
+4226,Pike,2015,Severe Storm(s),110236.26
+4254,Statewide,2016,Severe Storm(s),240821.7
+4254,Benton,2016,Severe Storm(s),2389.95
+4254,Logan,2016,Severe Storm(s),13304.55
+4254,Statewide,2016,Severe Storm(s),166496.68
+4254,Searcy,2016,Severe Storm(s),27561.41
+4254,Benton,2016,Severe Storm(s),25463.03
+4254,Marion,2016,Severe Storm(s),890707.63
+4254,Drew,2016,Severe Storm(s),42964.28
+4254,Sebastian,2016,Severe Storm(s),257389.21
+4254,Carroll,2016,Severe Storm(s),130484.06
+4254,Benton,2016,Severe Storm(s),203708.85
+4254,Benton,2016,Severe Storm(s),29015.39
+4254,Bradley,2016,Severe Storm(s),63489.05
+4254,Benton,2016,Severe Storm(s),6556.9
+4254,Independence,2016,Severe Storm(s),12211.76
+4254,Mississippi,2016,Severe Storm(s),329456.85
+4254,Washington,2016,Severe Storm(s),1235771.94
+4254,Washington,2016,Severe Storm(s),56639.43
+4254,Clay,2016,Severe Storm(s),11121.83
+4254,Perry,2016,Severe Storm(s),35780.16
+4254,Benton,2016,Severe Storm(s),43034.54
+4254,Ouachita,2016,Severe Storm(s),25977.23
+4254,Stone,2016,Severe Storm(s),131616.0
+4254,Benton,2016,Severe Storm(s),1480804.94
+4254,Benton,2016,Severe Storm(s),33813.28
+4254,Crawford,2016,Severe Storm(s),28333.06
+4254,Woodruff,2016,Severe Storm(s),28481.15
+4254,Boone,2016,Severe Storm(s),379752.18
+4254,Searcy,2016,Severe Storm(s),265001.07
+4254,Washington,2016,Severe Storm(s),16861.16
+4254,Izard,2016,Severe Storm(s),6716.85
+4254,Randolph,2016,Severe Storm(s),29916.38
+4254,Clay,2016,Severe Storm(s),9862.5
+4254,Montgomery,2016,Severe Storm(s),199766.39
+4254,Izard,2016,Severe Storm(s),181019.7
+4254,Crawford,2016,Severe Storm(s),5079.13
+4254,Pike,2016,Severe Storm(s),136525.09
+4254,Greene,2016,Severe Storm(s),254579.17
+4254,Logan,2016,Severe Storm(s),316312.63
+4254,Statewide,2016,Severe Storm(s),383329.0
+4254,White,2016,Severe Storm(s),156608.6
+4254,Calhoun,2016,Severe Storm(s),190445.09
+4254,Benton,2016,Severe Storm(s),57173.37
+4254,Clay,2016,Severe Storm(s),56411.48
+4254,Benton,2016,Severe Storm(s),22326.38
+4254,Stone,2016,Severe Storm(s),242565.79
+4254,Carroll,2016,Severe Storm(s),20297.88
+4254,Scott,2016,Severe Storm(s),249183.24
+4254,Independence,2016,Severe Storm(s),19800.93
+4254,Randolph,2016,Severe Storm(s),193176.0
+4254,Statewide,2016,Severe Storm(s),65609.64
+4254,Statewide,2016,Severe Storm(s),12667.67
+4254,Benton,2016,Severe Storm(s),132567.96
+4254,Lawrence,2016,Severe Storm(s),12673.34
+4254,Lawrence,2016,Severe Storm(s),76135.15
+4254,Greene,2016,Severe Storm(s),22463.44
+4254,Yell,2016,Severe Storm(s),169239.22
+4254,Carroll,2016,Severe Storm(s),14710.17
+4254,Logan,2016,Severe Storm(s),55024.56
+4254,Independence,2016,Severe Storm(s),211844.32
+4254,Crawford,2016,Severe Storm(s),30787.98
+4254,Washington,2016,Severe Storm(s),15698.74
+4254,Carroll,2016,Severe Storm(s),246515.88
+4254,Statewide,2016,Severe Storm(s),10598.16
+4254,Crawford,2016,Severe Storm(s),90533.54
+4254,Benton,2016,Severe Storm(s),33798.83
+4254,Yell,2016,Severe Storm(s),9983.88
+4254,Franklin,2016,Severe Storm(s),4309.19
+4254,Searcy,2016,Severe Storm(s),20329.46
+4254,Madison,2016,Severe Storm(s),574226.66
+4254,Polk,2016,Severe Storm(s),298355.94
+4254,Clay,2016,Severe Storm(s),4837.88
+4254,Little River,2016,Severe Storm(s),60363.72
+4254,Statewide,2016,Severe Storm(s),91030.74
+4254,Benton,2016,Severe Storm(s),19988.7
+4254,Benton,2016,Severe Storm(s),96129.23
+4254,Washington,2016,Severe Storm(s),394975.94
+4254,Crawford,2016,Severe Storm(s),97959.89
+4254,Searcy,2016,Severe Storm(s),4592.63
+4254,Washington,2016,Severe Storm(s),80812.6
+4254,Franklin,2016,Severe Storm(s),181840.32
+4254,Pike,2016,Severe Storm(s),22939.41
+4254,Crawford,2016,Severe Storm(s),7312.5
+4270,Statewide,2016,Severe Storm(s),100892.65
+4270,Columbia,2016,Severe Storm(s),27772.99
+4270,Phillips,2016,Severe Storm(s),50043.15
+4270,Ashley,2016,Severe Storm(s),34946.62
+4270,Calhoun,2016,Severe Storm(s),116033.6
+4270,Columbia,2016,Severe Storm(s),351890.51
+4270,Bradley,2016,Severe Storm(s),114679.6
+4270,Ashley,2016,Severe Storm(s),7445.93
+4270,Ouachita,2016,Severe Storm(s),43950.26
+4270,Chicot,2016,Severe Storm(s),318201.86
+4270,Phillips,2016,Severe Storm(s),31154.8
+4270,Phillips,2016,Severe Storm(s),13242.86
+4270,Ashley,2016,Severe Storm(s),21368.21
+4270,Cleveland,2016,Severe Storm(s),130769.5
+4270,Ashley,2016,Severe Storm(s),172299.86
+4270,Desha,2016,Severe Storm(s),55593.8
+4270,Prairie,2016,Severe Storm(s),99846.69
+4270,Lincoln,2016,Severe Storm(s),78103.45
+4270,Arkansas,2016,Severe Storm(s),214938.43
+4270,Statewide,2016,Severe Storm(s),122686.6
+4270,Desha,2016,Severe Storm(s),58595.02
+4270,Chicot,2016,Severe Storm(s),104431.95
+4270,Statewide,2016,Severe Storm(s),91008.0
+4270,Lincoln,2016,Severe Storm(s),5355.0
+4318,Carroll,2017,Severe Storm(s),8706.45
+4318,Conway,2017,Severe Storm(s),323771.83
+4318,Lawrence,2017,Severe Storm(s),432144.82
+4318,Boone,2017,Severe Storm(s),204107.57
+4318,Benton,2017,Severe Storm(s),11350.16
+4318,Izard,2017,Severe Storm(s),170529.02
+4318,Boone,2017,Severe Storm(s),8425.05
+4318,Boone,2017,Severe Storm(s),74571.45
+4318,Benton,2017,Severe Storm(s),17361.4
+4318,Carroll,2017,Severe Storm(s),69251.7
+4318,Boone,2017,Severe Storm(s),7196.63
+4318,Faulkner,2017,Severe Storm(s),40307.98
+4318,Benton,2017,Severe Storm(s),185329.74
+4318,Benton,2017,Severe Storm(s),12487.5
+4318,Benton,2017,Severe Storm(s),276544.08
+4318,Faulkner,2017,Severe Storm(s),92571.87
+4318,Clay,2017,Severe Storm(s),88456.69
+4318,Cleburne,2017,Severe Storm(s),713359.57
+4318,Faulkner,2017,Severe Storm(s),25413.15
+4318,Craighead,2017,Severe Storm(s),4978.88
+4318,Carroll,2017,Severe Storm(s),831043.14
+4318,Boone,2017,Severe Storm(s),2377.5
+4318,Cleburne,2017,Severe Storm(s),17928.85
+4318,Benton,2017,Severe Storm(s),222952.41
+4318,Benton,2017,Severe Storm(s),30138.83
+4318,Faulkner,2017,Severe Storm(s),151068.21
+4318,Cross,2017,Severe Storm(s),53731.11
+4318,Benton,2017,Severe Storm(s),482543.6
+4318,Craighead,2017,Severe Storm(s),143843.21
+4318,Benton,2017,Severe Storm(s),167902.26
+4318,Cleburne,2017,Severe Storm(s),1050831.13
+4318,Independence,2017,Severe Storm(s),11452.36
+4318,Benton,2017,Severe Storm(s),77779.4
+4318,Craighead,2017,Severe Storm(s),5336.94
+4318,Independence,2017,Severe Storm(s),25099.29
+4318,Carroll,2017,Severe Storm(s),231341.73
+4318,Clay,2017,Severe Storm(s),92058.19
+4318,Benton,2017,Severe Storm(s),104566.18
+4318,Faulkner,2017,Severe Storm(s),100144.49
+4318,Boone,2017,Severe Storm(s),59834.56
+4318,Faulkner,2017,Severe Storm(s),696160.34
+4318,Craighead,2017,Severe Storm(s),19215.99
+4318,Independence,2017,Severe Storm(s),209013.32
+4318,Jackson,2017,Severe Storm(s),217317.33
+4318,Boone,2017,Severe Storm(s),469636.42
+4318,Cross,2017,Severe Storm(s),57301.02
+4318,Washington,2017,Severe Storm(s),29904.56
+4318,Washington,2017,Severe Storm(s),119144.72
+4318,Statewide,2017,Severe Storm(s),51323.77
+4318,White,2017,Severe Storm(s),27003.91
+4318,Statewide,2017,Severe Storm(s),40934.6
+4318,Washington,2017,Severe Storm(s),14032.13
+4318,Marion,2017,Severe Storm(s),97459.62
+4318,Montgomery,2017,Severe Storm(s),214922.42
+4318,Conway,2017,Severe Storm(s),5506.81
+4318,Mississippi,2017,Severe Storm(s),52229.71
+4318,Newton,2017,Severe Storm(s),89280.11
+4318,Washington,2017,Severe Storm(s),415526.6
+4318,Randolph,2017,Severe Storm(s),260100.59
+4318,Randolph,2017,Severe Storm(s),1195579.3
+4318,Ouachita,2017,Severe Storm(s),125601.04
+4318,Saline,2017,Severe Storm(s),155640.56
+4318,Washington,2017,Severe Storm(s),17408.6
+4318,Marion,2017,Severe Storm(s),1380206.71
+4318,Perry,2017,Severe Storm(s),104014.67
+4318,Mississippi,2017,Severe Storm(s),19875.86
+4318,Poinsett,2017,Severe Storm(s),508232.49
+4318,Mississippi,2017,Severe Storm(s),115512.27
+4318,Statewide,2017,Severe Storm(s),157096.51
+4318,Statewide,2017,Severe Storm(s),776964.24
+4318,Newton,2017,Severe Storm(s),29965.44
+4318,Montgomery,2017,Severe Storm(s),42058.1
+4318,Statewide,2017,Severe Storm(s),142381.52
+4318,Statewide,2017,Severe Storm(s),101989.01
+4318,Madison,2017,Severe Storm(s),18979.97
+4318,Washington,2017,Severe Storm(s),519677.46
+4318,Mississippi,2017,Severe Storm(s),54879.0
+4318,Randolph,2017,Severe Storm(s),16811.15
+4318,Newton,2017,Severe Storm(s),4987.5
+4318,Baxter,2017,Severe Storm(s),263784.53
+4318,Benton,2017,Severe Storm(s),620661.03
+4318,Madison,2017,Severe Storm(s),1302464.82
+4318,Randolph,2017,Severe Storm(s),136736.47
+4318,Saline,2017,Severe Storm(s),220923.95
+4318,Statewide,2017,Severe Storm(s),156037.81
+4318,Randolph,2017,Severe Storm(s),12790.9
+4318,Mississippi,2017,Severe Storm(s),80451.79
+4318,Searcy,2017,Severe Storm(s),41331.38
+4318,Statewide,2017,Severe Storm(s),296525.35
+4318,Prairie,2017,Severe Storm(s),125077.24
+4318,Washington,2017,Severe Storm(s),135410.17
+4318,Marion,2017,Severe Storm(s),111874.4
+4318,Statewide,2017,Severe Storm(s),1103758.44
+4318,Statewide,2017,Severe Storm(s),923697.0
+4318,Prairie,2017,Severe Storm(s),32323.6
+4318,Searcy,2017,Severe Storm(s),192042.8
+4318,Washington,2017,Severe Storm(s),108917.89
+4318,Montgomery,2017,Severe Storm(s),33190.22
+4318,Statewide,2017,Severe Storm(s),24133.69
+4318,Randolph,2017,Severe Storm(s),94605.82
+4318,Lawrence,2017,Severe Storm(s),5387.24
+4318,Newton,2017,Severe Storm(s),1523929.99
+4318,Washington,2017,Severe Storm(s),1118804.06
+4318,Washington,2017,Severe Storm(s),8464.99
+4318,Saline,2017,Severe Storm(s),100142.66
+4318,Woodruff,2017,Severe Storm(s),75424.86
+4318,Statewide,2017,Severe Storm(s),152074.84
+4318,Washington,2017,Severe Storm(s),147222.0
+4318,Benton,2017,Severe Storm(s),1970059.24
+4318,Statewide,2017,Severe Storm(s),6726.2
+4318,Benton,2017,Severe Storm(s),128787.59
+4318,Newton,2017,Severe Storm(s),6742.5
+4318,Benton,2017,Severe Storm(s),151980.37
+4318,White,2017,Severe Storm(s),219406.21
+4318,Searcy,2017,Severe Storm(s),2628.29
+4318,Benton,2017,Severe Storm(s),1189060.34
+4318,Woodruff,2017,Severe Storm(s),18000.12
+4441,Perry,2019,Flood,52015.13
+4441,Statewide,2019,Flood,309938.35
+4441,Statewide,2019,Flood,35651.93
+4441,Crawford,2019,Flood,548432.15
+4441,Crawford,2019,Flood,140376.57
+4441,Sebastian,2019,Flood,403147.49
+4441,Jefferson,2019,Flood,1005644.15
+4441,Yell,2019,Flood,274320.8
+4441,Perry,2019,Flood,40220.44
+4441,Crawford,2019,Flood,172726.24
+4441,Faulkner,2019,Flood,228344.07
+4441,Jefferson,2019,Flood,107178.66
+4441,Statewide,2019,Flood,40722.28
+4441,Yell,2019,Flood,658852.68
+4460,Statewide,2019,Flood,306171.39
+4441,Faulkner,2019,Flood,49822.16
+4441,Crawford,2019,Flood,34748.34
+4441,Franklin,2019,Flood,618948.0
+4441,Jefferson,2019,Flood,15125.44
+4441,Crawford,2019,Flood,28252.45
+4441,Sebastian,2019,Flood,10086.29
+4441,Pulaski,2019,Flood,62830.12
+4441,Sebastian,2019,Flood,147879.9
+4441,Franklin,2019,Flood,95863.41
+4441,Faulkner,2019,Flood,140049.15
+4441,Perry,2019,Flood,1414697.41
+4441,Desha,2019,Flood,768931.26
+4441,Logan,2019,Flood,75000.0
+4441,Faulkner,2019,Flood,35014.07
+4441,Sebastian,2019,Flood,43832.28
+4441,Conway,2019,Flood,102040.18
+4441,Pulaski,2019,Flood,8686.44
+4441,Jefferson,2019,Flood,254407.23
+4441,Statewide,2019,Flood,360026.01
+4441,Pulaski,2019,Flood,233422.81
+4441,Crawford,2019,Flood,25692.23
+4441,Perry,2019,Flood,66347.78
+4441,Conway,2019,Flood,431213.81
+4441,Statewide,2019,Flood,83402.56
+4441,Jefferson,2019,Flood,166392.86
+4441,Statewide,2019,Flood,108388.19
+4441,Statewide,2019,Flood,255454.16
+4441,Pulaski,2019,Flood,178827.11
+4441,Pulaski,2019,Flood,2557236.02
+4441,Sebastian,2019,Flood,187793.87
+4441,Pulaski,2019,Flood,81021.62
+4441,Faulkner,2019,Flood,30117.35
+4441,Conway,2019,Flood,4065.87
+4441,Logan,2019,Flood,4341.21
+4441,Searcy,2019,Flood,494449.63
+4441,Sebastian,2019,Flood,285881.94
+4441,Pulaski,2019,Flood,141756.51
+4460,Newton,2019,Flood,60176.86
+4460,Madison,2019,Flood,69900.22
+4441,Pulaski,2019,Flood,1449305.73
+4441,Statewide,2019,Flood,44029.49
+4460,Washington,2019,Flood,198738.18
+4460,Newton,2019,Flood,969568.55
+4460,Madison,2019,Flood,49167.78
+4441,Statewide,2019,Flood,242527.04
+4441,Pulaski,2019,Flood,5085000.0
+4441,Yell,2019,Flood,58933.21
+4441,Statewide,2019,Flood,642239.02
+4441,Crawford,2019,Flood,16798.14
+4460,Washington,2019,Flood,23255.82

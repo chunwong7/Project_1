@@ -1,0 +1,185 @@
+disasterNumber,county,year,incidentType,amountOblig
+1592,Statewide,2005,Flood,238761.37
+1592,Nez Perce,2005,Flood,83382.68
+1592,Nez Perce,2005,Flood,52345.65
+1592,Nez Perce,2005,Flood,1468421.73
+1630,Statewide,2006,Severe Storm(s),106958.15
+1630,Owyhee,2006,Severe Storm(s),923183.1
+1630,Owyhee,2006,Severe Storm(s),27818.25
+1781,Kootenai,2008,Flood,734116.16
+1781,Statewide,2008,Flood,10783.31
+1781,Statewide,2008,Flood,151437.15
+1781,Statewide,2008,Flood,5040.79
+1781,Shoshone,2008,Flood,684132.41
+1781,Kootenai,2008,Flood,69646.68
+1927,Lewis,2010,Severe Storm(s),50578.36
+1927,Idaho,2010,Severe Storm(s),1493326.57
+1927,Lewis,2010,Severe Storm(s),22339.99
+1927,Lewis,2010,Severe Storm(s),36004.64
+1927,Statewide,2010,Severe Storm(s),212109.42
+1927,Payette,2010,Severe Storm(s),4500.38
+1927,Payette,2010,Severe Storm(s),3421.52
+1927,Gem,2010,Severe Storm(s),113847.9
+1927,Idaho,2010,Severe Storm(s),3068.02
+1927,Payette,2010,Severe Storm(s),27834.81
+1927,Valley,2010,Severe Storm(s),35756.23
+1927,Payette,2010,Severe Storm(s),2805.44
+1927,Washington,2010,Severe Storm(s),187566.68
+1927,Statewide,2010,Severe Storm(s),4092.83
+1927,Idaho,2010,Severe Storm(s),3984.06
+1927,Adams,2010,Severe Storm(s),226601.59
+1927,Payette,2010,Severe Storm(s),77097.4
+1927,Idaho,2010,Severe Storm(s),10103.3
+1987,Bonner,2011,Flood,880699.4
+1987,Nez Perce,2011,Flood,110509.49
+1987,Idaho,2011,Flood,70082.94
+1987,Idaho,2011,Flood,53206.7
+1987,Idaho,2011,Flood,17067.17
+1987,Statewide,2011,Flood,133330.91
+1987,Shoshone,2011,Flood,315123.18
+1987,Idaho,2011,Flood,6908.15
+1987,Bonner,2011,Flood,47190.36
+1987,Clearwater,2011,Flood,85973.78
+1987,Bonner,2011,Flood,86160.91
+1987,Nez Perce,2011,Flood,30894.47
+1987,Idaho,2011,Flood,1031010.35
+1987,Nez Perce,2011,Flood,58739.57
+3244,Statewide,2005,Hurricane,204799.08
+4246,Nez Perce,2015,Severe Storm(s),18051.66
+4246,Boundary,2015,Severe Storm(s),522239.89
+4246,Statewide,2015,Severe Storm(s),1454112.03
+4246,Statewide,2015,Severe Storm(s),86198.0
+4246,Kootenai,2015,Severe Storm(s),1875.0
+4246,Statewide,2015,Severe Storm(s),133082.96
+4246,Kootenai,2015,Severe Storm(s),65604.39
+4246,Kootenai,2015,Severe Storm(s),2490.0
+4246,Kootenai,2015,Severe Storm(s),59528.24
+4246,Kootenai,2015,Severe Storm(s),30551.82
+4246,Kootenai,2015,Severe Storm(s),35638.88
+4246,Statewide,2015,Severe Storm(s),34284.93
+4246,Kootenai,2015,Severe Storm(s),6491.13
+4246,Kootenai,2015,Severe Storm(s),8017.04
+4246,Benewah,2015,Severe Storm(s),82749.08
+4252,Statewide,2016,Severe Storm(s),2647825.1
+4252,Benewah,2016,Severe Storm(s),264616.53
+4252,Boundary,2016,Severe Storm(s),252586.97
+4252,Statewide,2016,Severe Storm(s),9662130.32
+4252,Nez Perce,2016,Severe Storm(s),23640.19
+4252,Statewide,2016,Severe Storm(s),377433.0
+4310,Twin Falls,2017,Flood,45465.32
+4310,Minidoka,2017,Flood,11797.91
+4310,Gooding,2017,Flood,81227.92
+4313,Latah,2017,Flood,11142.84
+4310,Cassia,2017,Flood,70400.36
+4313,Kootenai,2017,Flood,386001.28
+4313,Kootenai,2017,Flood,120873.89
+4310,Minidoka,2017,Flood,129593.66
+4310,Cassia,2017,Flood,55105.58
+4313,Latah,2017,Flood,61517.25
+4310,Lincoln,2017,Flood,21513.44
+4310,Jerome,2017,Flood,103863.29
+4310,Cassia,2017,Flood,2102194.57
+4310,Franklin,2017,Flood,348868.01
+4310,Washington,2017,Flood,121128.6
+4313,Idaho,2017,Flood,2454.26
+4310,Bingham,2017,Flood,22885.15
+4313,Latah,2017,Flood,116819.49
+4313,Clearwater,2017,Flood,12566.45
+4313,Shoshone,2017,Flood,258089.85
+4313,Latah,2017,Flood,10677.75
+4310,Cassia,2017,Flood,123616.92
+4310,Gooding,2017,Flood,24267.02
+4313,Benewah,2017,Flood,53869.88
+4310,Twin Falls,2017,Flood,616719.57
+4313,Boundary,2017,Flood,1511841.75
+4310,Minidoka,2017,Flood,242140.67
+4310,Gooding,2017,Flood,220065.67
+4310,Lincoln,2017,Flood,73046.7
+4310,Jefferson,2017,Flood,348306.56
+4313,Latah,2017,Flood,43864.96
+4313,Latah,2017,Flood,15866.62
+4310,Cassia,2017,Flood,251019.17
+4313,Shoshone,2017,Flood,63795.52
+4310,Cassia,2017,Flood,4120.68
+4313,Kootenai,2017,Flood,1092826.87
+4310,Twin Falls,2017,Flood,131630.36
+4310,Washington,2017,Flood,65332.84
+4313,Bonner,2017,Flood,189858.96
+4310,Cassia,2017,Flood,65067.08
+4310,Minidoka,2017,Flood,18904.99
+4313,Valley,2017,Flood,316331.74
+4313,Statewide,2017,Flood,360031.0
+4313,Bonner,2017,Flood,12199.34
+4313,Kootenai,2017,Flood,6707.08
+4310,Washington,2017,Flood,54328.9
+4310,Elmore,2017,Flood,384115.39
+4313,Boundary,2017,Flood,68186.77
+4310,Gooding,2017,Flood,79789.86
+4310,Cassia,2017,Flood,89469.06
+4310,Cassia,2017,Flood,14872.5
+4313,Benewah,2017,Flood,212889.15
+4313,Kootenai,2017,Flood,12198.84
+4310,Cassia,2017,Flood,116279.95
+4313,Idaho,2017,Flood,1349061.35
+4313,Statewide,2017,Flood,23671.7
+4310,Bingham,2017,Flood,315528.83
+4313,Bonner,2017,Flood,390108.23
+4313,Kootenai,2017,Flood,291401.69
+4313,Clearwater,2017,Flood,452287.12
+4313,Kootenai,2017,Flood,9129.78
+4313,Bonner,2017,Flood,33579.43
+4313,Latah,2017,Flood,135753.16
+4310,Minidoka,2017,Flood,543648.22
+4313,Clearwater,2017,Flood,50283.2
+4313,Statewide,2017,Flood,253841.9
+4313,Shoshone,2017,Flood,22364.63
+4310,Jerome,2017,Flood,25525.4
+4310,Statewide,2017,Flood,257004.13
+4310,Cassia,2017,Flood,151441.13
+4310,Elmore,2017,Flood,18426.6
+4310,Jerome,2017,Flood,47483.98
+4310,Gooding,2017,Flood,66531.07
+4310,Twin Falls,2017,Flood,24417.42
+4333,Blaine,2017,Flood,116190.29
+4333,Statewide,2017,Flood,104357.0
+4333,Blaine,2017,Flood,72979.2
+4333,Custer,2017,Flood,54616.55
+4333,Custer,2017,Flood,170764.09
+4333,Custer,2017,Flood,30438.85
+4333,Elmore,2017,Flood,514036.42
+4333,Camas,2017,Flood,317667.69
+4333,Custer,2017,Flood,117187.6
+4333,Custer,2017,Flood,19996.06
+4333,Blaine,2017,Flood,54719.09
+4333,Custer,2017,Flood,310927.96
+4333,Blaine,2017,Flood,174517.32
+4333,Elmore,2017,Flood,10340.88
+4333,Gooding,2017,Flood,22190.48
+4342,Ada,2017,Flood,8630.6
+4342,Ada,2017,Flood,234430.96
+4342,Ada,2017,Flood,120587.25
+4342,Canyon,2017,Flood,34145.91
+4342,Statewide,2017,Flood,16886.53
+4342,Statewide,2017,Flood,86706.81
+4342,Statewide,2017,Flood,3160.43
+4342,Ada,2017,Flood,730940.32
+4342,Statewide,2017,Flood,30192.0
+4342,Ada,2017,Flood,1119198.72
+4342,Ada,2017,Flood,38088.23
+4342,Ada,2017,Flood,243768.23
+4342,Canyon,2017,Flood,37380.0
+4342,Canyon,2017,Flood,75848.69
+4342,Canyon,2017,Flood,10532.0
+4443,Statewide,2019,Flood,172089.13
+4443,Idaho,2019,Flood,5260.97
+4443,Idaho,2019,Flood,8805.0
+4443,Idaho,2019,Flood,16736.62
+4443,Statewide,2019,Flood,5278.04
+4443,Adams,2019,Flood,159374.54
+4443,Latah,2019,Flood,5914.44
+4443,Idaho,2019,Flood,388967.63
+4443,Statewide,2019,Flood,18317.6
+4443,Latah,2019,Flood,96902.35
+4443,Latah,2019,Flood,37375.82
+4443,Latah,2019,Flood,43124.06
+4342,Ada,2017,Flood,77011.82

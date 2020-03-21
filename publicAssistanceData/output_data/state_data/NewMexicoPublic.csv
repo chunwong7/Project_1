@@ -1,0 +1,505 @@
+disasterNumber,county,year,incidentType,amountOblig
+1301,Rio Arriba,1999,Severe Storm(s),8924.25
+1301,Statewide,1999,Severe Storm(s),97404.05
+1301,Sierra,1999,Severe Storm(s),156400.56
+1301,Rio Arriba,1999,Severe Storm(s),160547.59
+1301,Sandoval,1999,Severe Storm(s),2454.0
+1301,Sandoval,1999,Severe Storm(s),35682.0
+1301,Otero,1999,Severe Storm(s),7653.0
+1301,Sandoval,1999,Severe Storm(s),443817.58
+1301,Sierra,1999,Severe Storm(s),3925.69
+1301,Statewide,1999,Severe Storm(s),-3285.36
+1301,Rio Arriba,1999,Severe Storm(s),66877.88
+1301,Sierra,1999,Severe Storm(s),12301.13
+1301,Dona Ana,1999,Severe Storm(s),140969.93
+1301,San Juan,1999,Severe Storm(s),158095.5
+1301,Statewide,1999,Severe Storm(s),5090.03
+1301,San Juan,1999,Severe Storm(s),5590.69
+1301,Mora,1999,Severe Storm(s),6600.0
+1301,Rio Arriba,1999,Severe Storm(s),6157.13
+1301,Luna,1999,Severe Storm(s),267142.0
+1301,Sandoval,1999,Severe Storm(s),230680.21
+1301,Sierra,1999,Severe Storm(s),5550.0
+1301,Rio Arriba,1999,Severe Storm(s),13762.88
+1301,Sandoval,1999,Severe Storm(s),9111.0
+1301,Rio Arriba,1999,Severe Storm(s),7768.13
+1301,Sierra,1999,Severe Storm(s),1043.11
+1301,Rio Arriba,1999,Severe Storm(s),12300.75
+1301,Sandoval,1999,Severe Storm(s),5962.62
+1301,Rio Arriba,1999,Severe Storm(s),8256.0
+1329,Los Alamos,2000,Fire,5405742.8
+1329,Los Alamos,2000,Fire,63943.53
+1329,Statewide,2000,Fire,-13772.21
+1329,Otero,2000,Fire,31347.53
+1329,Los Alamos,2000,Fire,0.0
+1329,Otero,2000,Fire,33529.57
+1514,Bernalillo,2004,Severe Storm(s),6950.63
+1514,San Miguel,2004,Severe Storm(s),12946.25
+1514,Eddy,2004,Severe Storm(s),1533.53
+1514,Mora,2004,Severe Storm(s),42308.3
+1514,San Miguel,2004,Severe Storm(s),10608.75
+1514,Eddy,2004,Severe Storm(s),146624.08
+1514,Bernalillo,2004,Severe Storm(s),3095559.25
+1514,Statewide,2004,Severe Storm(s),-52225.57
+1514,San Miguel,2004,Severe Storm(s),9024.0
+1514,Statewide,2004,Severe Storm(s),44120.06
+1514,Statewide,2004,Severe Storm(s),2499.0
+1514,Eddy,2004,Severe Storm(s),2520.0
+1514,Mora,2004,Severe Storm(s),1233.75
+1514,Eddy,2004,Severe Storm(s),372667.6
+1514,San Miguel,2004,Severe Storm(s),5298.0
+1514,San Miguel,2004,Severe Storm(s),1275.0
+1514,Bernalillo,2004,Severe Storm(s),5505.0
+1514,San Miguel,2004,Severe Storm(s),6873.75
+1514,Eddy,2004,Severe Storm(s),45441.37
+1514,Mora,2004,Severe Storm(s),13992.0
+1514,San Miguel,2004,Severe Storm(s),10111.31
+1514,Mora,2004,Severe Storm(s),0.0
+1514,San Miguel,2004,Severe Storm(s),179235.01
+1514,Mora,2004,Severe Storm(s),0.0
+1514,Bernalillo,2004,Severe Storm(s),4462.5
+1514,Mora,2004,Severe Storm(s),281914.1
+1514,Bernalillo,2004,Severe Storm(s),33740.82
+1514,Mora,2004,Severe Storm(s),5587.07
+1659,Grant,2006,Severe Storm(s),17759.63
+1659,Grant,2006,Severe Storm(s),111898.88
+1659,Harding,2006,Severe Storm(s),80162.22
+1659,Grant,2006,Severe Storm(s),0.0
+1659,Lincoln,2006,Severe Storm(s),10003.5
+1659,Grant,2006,Severe Storm(s),3400.33
+1659,Grant,2006,Severe Storm(s),5472.19
+1659,Grant,2006,Severe Storm(s),37258.09
+1659,Grant,2006,Severe Storm(s),9572.35
+1659,Grant,2006,Severe Storm(s),3870.96
+1659,Grant,2006,Severe Storm(s),462789.6
+1659,Dona Ana,2006,Severe Storm(s),1156.41
+1659,Grant,2006,Severe Storm(s),0.0
+1659,Cibola,2006,Severe Storm(s),3024744.47
+1659,Grant,2006,Severe Storm(s),33834.96
+1659,Dona Ana,2006,Severe Storm(s),50758.9
+1659,Grant,2006,Severe Storm(s),12050.24
+1659,Lincoln,2006,Severe Storm(s),23118.07
+1659,Dona Ana,2006,Severe Storm(s),376813.83
+1659,Cibola,2006,Severe Storm(s),45864.0
+1659,Lincoln,2006,Severe Storm(s),0.0
+1659,Guadalupe,2006,Severe Storm(s),19274.09
+1659,Hidalgo,2006,Severe Storm(s),38847.67
+1659,Grant,2006,Severe Storm(s),5252.91
+1659,Guadalupe,2006,Severe Storm(s),768.75
+1659,Dona Ana,2006,Severe Storm(s),1854261.4
+1659,Dona Ana,2006,Severe Storm(s),5128.95
+1659,Dona Ana,2006,Severe Storm(s),419888.66
+1659,Grant,2006,Severe Storm(s),40736.49
+1659,Grant,2006,Severe Storm(s),31383.38
+1659,Cibola,2006,Severe Storm(s),0.0
+1659,Dona Ana,2006,Severe Storm(s),24010.58
+1659,Dona Ana,2006,Severe Storm(s),464941.61
+1659,Lincoln,2006,Severe Storm(s),32790.0
+1659,Hidalgo,2006,Severe Storm(s),4169.95
+1659,Lincoln,2006,Severe Storm(s),466548.91
+1659,Guadalupe,2006,Severe Storm(s),5647.5
+1659,Grant,2006,Severe Storm(s),22614.72
+1659,Guadalupe,2006,Severe Storm(s),10161.38
+1659,Dona Ana,2006,Severe Storm(s),651218.72
+1659,Cibola,2006,Severe Storm(s),2232758.27
+1659,Valencia,2006,Severe Storm(s),575151.01
+1659,San Miguel,2006,Severe Storm(s),112889.36
+1659,McKinley,2006,Severe Storm(s),268869.77
+1659,Rio Arriba,2006,Severe Storm(s),2133.45
+1659,Otero,2006,Severe Storm(s),703461.9
+1659,Rio Arriba,2006,Severe Storm(s),91597.5
+1659,Luna,2006,Severe Storm(s),11230.91
+1659,Sierra,2006,Severe Storm(s),1672.5
+1659,Luna,2006,Severe Storm(s),388276.49
+1659,Otero,2006,Severe Storm(s),562.5
+1659,Rio Arriba,2006,Severe Storm(s),8281.43
+1659,Sandoval,2006,Severe Storm(s),2147178.47
+1659,Sandoval,2006,Severe Storm(s),11810.63
+1659,Otero,2006,Severe Storm(s),274365.51
+1659,Rio Arriba,2006,Severe Storm(s),2422.5
+1659,Taos,2006,Severe Storm(s),23996.77
+1659,Socorro,2006,Severe Storm(s),50944.5
+1659,Rio Arriba,2006,Severe Storm(s),100136.87
+1659,Statewide,2006,Severe Storm(s),31188.47
+1659,Otero,2006,Severe Storm(s),395741.72
+1659,Sandoval,2006,Severe Storm(s),66061.12
+1659,Rio Arriba,2006,Severe Storm(s),14384.63
+1659,Sandoval,2006,Severe Storm(s),1265956.27
+1659,Sierra,2006,Severe Storm(s),66117.09
+1659,Rio Arriba,2006,Severe Storm(s),136961.09
+1659,Sandoval,2006,Severe Storm(s),1776127.93
+1659,Lincoln,2006,Severe Storm(s),245455.07
+1659,Statewide,2006,Severe Storm(s),47324.58
+1659,Cibola,2006,Severe Storm(s),53833.31
+1659,Otero,2006,Severe Storm(s),589325.19
+1659,Statewide,2006,Severe Storm(s),921042.63
+1659,Sierra,2006,Severe Storm(s),3750.0
+1659,Hidalgo,2006,Severe Storm(s),633939.24
+1659,Sandoval,2006,Severe Storm(s),132066.68
+1659,Sierra,2006,Severe Storm(s),21990.98
+1659,Taos,2006,Severe Storm(s),34931.25
+1659,Socorro,2006,Severe Storm(s),21687.12
+1659,Statewide,2006,Severe Storm(s),220538.26
+1659,Sandoval,2006,Severe Storm(s),801.9
+1659,Torrance,2006,Severe Storm(s),965082.84
+1659,Statewide,2006,Severe Storm(s),341257.6
+1659,Rio Arriba,2006,Severe Storm(s),4287.0
+1659,Sierra,2006,Severe Storm(s),353344.19
+1659,Sandoval,2006,Severe Storm(s),105482.0
+1659,Rio Arriba,2006,Severe Storm(s),28081.13
+1659,Luna,2006,Severe Storm(s),1315279.71
+1659,Sandoval,2006,Severe Storm(s),92928.02
+1659,Rio Arriba,2006,Severe Storm(s),33269.94
+1659,Rio Arriba,2006,Severe Storm(s),79342.13
+1659,Rio Arriba,2006,Severe Storm(s),135440.25
+1659,Sierra,2006,Severe Storm(s),345478.4
+1659,Statewide,2006,Severe Storm(s),5876.51
+1659,Mora,2006,Severe Storm(s),380292.73
+1659,Otero,2006,Severe Storm(s),78324.09
+1659,Statewide,2006,Severe Storm(s),757880.52
+1659,Valencia,2006,Severe Storm(s),413828.61
+1659,Rio Arriba,2006,Severe Storm(s),191267.66
+1659,Statewide,2006,Severe Storm(s),10864.48
+1659,Sandoval,2006,Severe Storm(s),218658.6
+1659,Statewide,2006,Severe Storm(s),11851.45
+1659,Statewide,2006,Severe Storm(s),3351.98
+1659,Statewide,2006,Severe Storm(s),3976.5
+1659,Sierra,2006,Severe Storm(s),14600.63
+1659,San Miguel,2006,Severe Storm(s),11113.5
+1659,Statewide,2006,Severe Storm(s),679598.16
+1659,Otero,2006,Severe Storm(s),22021.43
+1659,Torrance,2006,Severe Storm(s),6921.0
+1659,Rio Arriba,2006,Severe Storm(s),3000.0
+1659,Socorro,2006,Severe Storm(s),10638.83
+1659,Lincoln,2006,Severe Storm(s),37125.12
+1659,Cibola,2006,Severe Storm(s),438303.23
+1659,Otero,2006,Severe Storm(s),501998.66
+1659,Valencia,2006,Severe Storm(s),21109.55
+1659,Sierra,2006,Severe Storm(s),4850.81
+1659,Statewide,2006,Severe Storm(s),884704.44
+1659,Taos,2006,Severe Storm(s),561171.7
+1659,Sierra,2006,Severe Storm(s),12532.3
+1659,Rio Arriba,2006,Severe Storm(s),5017.5
+1659,Statewide,2006,Severe Storm(s),130925.33
+1659,Statewide,2006,Severe Storm(s),0.0
+1659,Statewide,2006,Severe Storm(s),44198.69
+1659,Statewide,2006,Severe Storm(s),0.0
+1659,McKinley,2006,Severe Storm(s),0.0
+1659,Sierra,2006,Severe Storm(s),18506.5
+1659,Valencia,2006,Severe Storm(s),144406.48
+1659,Statewide,2006,Severe Storm(s),39162.85
+1659,Socorro,2006,Severe Storm(s),123494.15
+1783,Otero,2008,Severe Storm(s),480416.98
+1783,Otero,2008,Severe Storm(s),85364.47
+1783,Lincoln,2008,Severe Storm(s),5980.5
+1783,Statewide,2008,Severe Storm(s),7947.75
+1783,Statewide,2008,Severe Storm(s),13278.72
+1783,Lincoln,2008,Severe Storm(s),33954.0
+1783,Lincoln,2008,Severe Storm(s),219012.87
+1783,Lincoln,2008,Severe Storm(s),6175.5
+1783,Statewide,2008,Severe Storm(s),474059.0
+1783,Statewide,2008,Severe Storm(s),172205.74
+1783,Otero,2008,Severe Storm(s),1810198.07
+1783,Statewide,2008,Severe Storm(s),16707.42
+1783,Lincoln,2008,Severe Storm(s),5507.57
+1783,Lincoln,2008,Severe Storm(s),34455604.19
+1783,Otero,2008,Severe Storm(s),6649.95
+1783,Lincoln,2008,Severe Storm(s),10758.0
+1783,Statewide,2008,Severe Storm(s),16031.66
+1783,Lincoln,2008,Severe Storm(s),1139.29
+1783,Otero,2008,Severe Storm(s),4312.5
+1783,Lincoln,2008,Severe Storm(s),137983.31
+1783,Otero,2008,Severe Storm(s),1668.68
+1783,Lincoln,2008,Severe Storm(s),10099.78
+1783,Lincoln,2008,Severe Storm(s),139520.81
+1783,Lincoln,2008,Severe Storm(s),103184.25
+1783,Lincoln,2008,Severe Storm(s),136545.34
+1783,Lincoln,2008,Severe Storm(s),273914.43
+1936,Cibola,2010,Flood,66245.68
+1936,Statewide,2010,Flood,902440.55
+1936,Statewide,2010,Flood,3462.71
+1936,Mora,2010,Flood,5588.7
+1936,San Juan,2010,Flood,2373.43
+1936,Mora,2010,Flood,17216.25
+1936,Statewide,2010,Flood,2109.75
+1936,Socorro,2010,Flood,605573.3
+1936,Statewide,2010,Flood,6527828.76
+1936,San Juan,2010,Flood,1948091.44
+1936,Mora,2010,Flood,11028.53
+1936,Cibola,2010,Flood,41063.71
+1936,Statewide,2010,Flood,306474.0
+1936,Cibola,2010,Flood,39725.63
+1936,McKinley,2010,Flood,1217353.86
+1936,Socorro,2010,Flood,36262.8
+1936,Mora,2010,Flood,8278.5
+1936,Mora,2010,Flood,35712.45
+1936,Socorro,2010,Flood,62616.81
+1936,McKinley,2010,Flood,20385.82
+1962,Lincoln,2011,Severe Storm(s),3275.3
+1962,Otero,2011,Severe Storm(s),1875.0
+1962,Otero,2011,Severe Storm(s),23082.14
+1962,Lincoln,2011,Severe Storm(s),29081.11
+1962,Lincoln,2011,Severe Storm(s),855.57
+1962,Otero,2011,Severe Storm(s),26122.3
+1962,Lincoln,2011,Severe Storm(s),25619.66
+1962,Lincoln,2011,Severe Storm(s),144875.32
+1962,Rio Arriba,2011,Severe Storm(s),35506.83
+1962,Otero,2011,Severe Storm(s),2447.88
+1962,Lincoln,2011,Severe Storm(s),1635.75
+1962,Otero,2011,Severe Storm(s),55193.39
+1962,Lincoln,2011,Severe Storm(s),5910.42
+1962,Otero,2011,Severe Storm(s),7668.06
+1962,Lincoln,2011,Severe Storm(s),26846.2
+1962,Lincoln,2011,Severe Storm(s),343020.57
+1962,Lincoln,2011,Severe Storm(s),47102.82
+1962,Otero,2011,Severe Storm(s),18448.23
+1962,Statewide,2011,Severe Storm(s),872.9
+1962,Rio Arriba,2011,Severe Storm(s),23965.27
+1962,Statewide,2011,Severe Storm(s),37501.24
+1962,Socorro,2011,Severe Storm(s),21248.96
+1962,Taos,2011,Severe Storm(s),68507.93
+1962,Socorro,2011,Severe Storm(s),2223.86
+1962,Socorro,2011,Severe Storm(s),16507.06
+1962,Statewide,2011,Severe Storm(s),312218.65
+1962,Taos,2011,Severe Storm(s),23045.48
+1962,Statewide,2011,Severe Storm(s),38272.14
+1962,Statewide,2011,Severe Storm(s),112604.73
+1962,Statewide,2011,Severe Storm(s),17110.99
+1962,Statewide,2011,Severe Storm(s),12111.61
+1962,Socorro,2011,Severe Storm(s),1417.0
+1962,Statewide,2011,Severe Storm(s),2181.14
+1962,Rio Arriba,2011,Severe Storm(s),19394.06
+1962,Statewide,2011,Severe Storm(s),13029.77
+1962,Statewide,2011,Severe Storm(s),4015.57
+1962,Taos,2011,Severe Storm(s),54725.96
+1962,Statewide,2011,Severe Storm(s),19067.11
+1962,Statewide,2011,Severe Storm(s),64778.7
+1962,Statewide,2011,Severe Storm(s),11184.64
+1962,Socorro,2011,Severe Storm(s),8097.62
+1962,Statewide,2011,Severe Storm(s),5307.77
+1962,Statewide,2011,Severe Storm(s),46253.66
+1962,Taos,2011,Severe Storm(s),14731.15
+1962,Statewide,2011,Severe Storm(s),52896.6
+3154,Statewide,2000,Fire,71678.49
+3154,Lincoln,2000,Fire,15779.74
+3154,Statewide,2000,Fire,353139.16
+3154,San Miguel,2000,Fire,3105.0
+3154,Statewide,2000,Fire,311812.61
+3154,Statewide,2000,Fire,71068.32
+3154,Statewide,2000,Fire,0.0
+3154,Lincoln,2000,Fire,22803.63
+3154,Lincoln,2000,Fire,3376.62
+3154,Statewide,2000,Fire,87876.41
+3154,San Miguel,2000,Fire,2691.75
+3154,Statewide,2000,Fire,915654.75
+3154,Statewide,2000,Fire,702852.68
+3154,Statewide,2000,Fire,1669698.72
+3229,Statewide,2005,Hurricane,-21368.62
+3229,San Juan,2005,Hurricane,5036.13
+3229,Statewide,2005,Hurricane,18820.36
+3229,Bernalillo,2005,Hurricane,877851.37
+3229,Statewide,2005,Hurricane,7763.53
+3229,Statewide,2005,Hurricane,104788.79
+4047,Statewide,2011,Flood,2491520.51
+4047,Cibola,2011,Flood,95319.08
+4047,Statewide,2011,Flood,907891.0
+4047,Statewide,2011,Flood,15819115.63
+4047,Statewide,2011,Flood,194337.1
+4047,Los Alamos,2011,Flood,791427.62
+4047,Cibola,2011,Flood,21524.11
+4079,Statewide,2012,Flood,342808.41
+4079,Lincoln,2012,Flood,772077.13
+4079,Statewide,2012,Flood,64840.94
+4079,Lincoln,2012,Flood,30323.5
+4079,Lincoln,2012,Flood,5989.16
+4079,Lincoln,2012,Flood,33072.15
+4079,Lincoln,2012,Flood,0.0
+4079,Los Alamos,2012,Flood,962946.06
+4079,Lincoln,2012,Flood,1912923.55
+4079,Lincoln,2012,Flood,6780.89
+4079,Statewide,2012,Flood,36527.08
+4079,Lincoln,2012,Flood,5223.42
+4079,Lincoln,2012,Flood,6673.92
+4079,Statewide,2012,Flood,2342693.25
+4079,Otero,2012,Flood,13322480.76
+4079,Statewide,2012,Flood,1677375.0
+4079,Lincoln,2012,Flood,15627.91
+4148,Sandoval,2013,Severe Storm(s),101650.01
+4147,Statewide,2013,Severe Storm(s),72568.6
+4148,Luna,2013,Severe Storm(s),7207.79
+4148,Statewide,2013,Severe Storm(s),358032.02
+4148,Colfax,2013,Severe Storm(s),18809.15
+4148,Sierra,2013,Severe Storm(s),53713.46
+4148,Statewide,2013,Severe Storm(s),91860.82
+4148,Statewide,2013,Severe Storm(s),616192.7
+4148,Statewide,2013,Severe Storm(s),1072758.99
+4148,Bernalillo,2013,Severe Storm(s),442576.57
+4148,Statewide,2013,Severe Storm(s),210392.43
+4148,Bernalillo,2013,Severe Storm(s),80411.62
+4148,Sierra,2013,Severe Storm(s),5065.76
+4148,Statewide,2013,Severe Storm(s),200230.0
+4148,Statewide,2013,Severe Storm(s),105107.19
+4148,Socorro,2013,Severe Storm(s),569133.98
+4148,Statewide,2013,Severe Storm(s),150048.08
+4148,Sandoval,2013,Severe Storm(s),445433.06
+4148,Luna,2013,Severe Storm(s),12818.79
+4148,Sandoval,2013,Severe Storm(s),12903.52
+4148,Bernalillo,2013,Severe Storm(s),1353048.98
+4148,Statewide,2013,Severe Storm(s),14910.4
+4152,Rio Arriba,2013,Flood,8678.98
+4152,Chaves,2013,Flood,36569.77
+4152,McKinley,2013,Flood,911797.51
+4152,DeBaca,2013,Flood,136887.15
+4152,Guadalupe,2013,Flood,898307.7
+4152,Rio Arriba,2013,Flood,49379.75
+4152,Cibola,2013,Flood,78099.69
+4152,Rio Arriba,2013,Flood,15578.81
+4152,DeBaca,2013,Flood,594.47
+4152,Cibola,2013,Flood,5186.71
+4152,Cibola,2013,Flood,14357.81
+4152,Rio Arriba,2013,Flood,10119.53
+4152,Dona Ana,2013,Flood,6861.44
+4152,Guadalupe,2013,Flood,9397.25
+4152,Cibola,2013,Flood,10377.31
+4152,Chaves,2013,Flood,142324.03
+4152,Mora,2013,Flood,123544.7
+4152,Los Alamos,2013,Flood,3344173.83
+4152,Lincoln,2013,Flood,1092.91
+4151,Statewide,2013,Severe Storm(s),4352980.35
+4152,Otero,2013,Flood,712120.36
+4152,Dona Ana,2013,Flood,929188.04
+4152,Catron,2013,Flood,701663.77
+4152,San Juan,2013,Flood,210747.08
+4152,Guadalupe,2013,Flood,128715.92
+4152,Lincoln,2013,Flood,95170.26
+4152,Eddy,2013,Flood,2705.63
+4152,Chaves,2013,Flood,89316.81
+4152,Dona Ana,2013,Flood,6775.94
+4152,Harding,2013,Flood,68336.63
+4152,Rio Arriba,2013,Flood,9734.93
+4152,Eddy,2013,Flood,654306.76
+4152,Dona Ana,2013,Flood,9235.3
+4152,Rio Arriba,2013,Flood,6575.57
+4152,Rio Arriba,2013,Flood,2673.75
+4152,Rio Arriba,2013,Flood,255704.61
+4152,Rio Arriba,2013,Flood,7245.0
+4152,Eddy,2013,Flood,305008.06
+4152,Guadalupe,2013,Flood,111950.2
+4152,Dona Ana,2013,Flood,94003.52
+4152,Statewide,2013,Flood,244201.04
+4152,San Miguel,2013,Flood,51134.06
+4152,San Juan,2013,Flood,1653438.02
+4152,Sandoval,2013,Flood,19094.27
+4152,Statewide,2013,Flood,18270.25
+4152,Statewide,2013,Flood,13887.68
+4152,Statewide,2013,Flood,2181567.32
+4152,Statewide,2013,Flood,1236855.83
+4152,Santa Fe,2013,Flood,11007.26
+4152,Statewide,2013,Flood,696640.75
+4152,Statewide,2013,Flood,20441.56
+4152,San Miguel,2013,Flood,4838.8
+4152,Statewide,2013,Flood,1337073.0
+4152,Sierra,2013,Flood,47185.74
+4152,Statewide,2013,Flood,91858.34
+4152,Santa Fe,2013,Flood,27199.88
+4152,San Miguel,2013,Flood,234202.93
+4152,Sierra,2013,Flood,4648.9
+4152,Santa Fe,2013,Flood,10746.56
+4152,San Miguel,2013,Flood,25467.01
+4152,Santa Fe,2013,Flood,13884.98
+4152,Sandoval,2013,Flood,2541148.11
+4152,Statewide,2013,Flood,149875.19
+4152,Statewide,2013,Flood,65665.34
+4152,Sandoval,2013,Flood,139716.43
+4152,Statewide,2013,Flood,8155601.94
+4152,Sierra,2013,Flood,88750.43
+4152,San Miguel,2013,Flood,200281.01
+4152,Statewide,2013,Flood,41000.03
+4152,Santa Fe,2013,Flood,13518.0
+4152,Torrance,2013,Flood,127391.8
+4152,San Miguel,2013,Flood,0.0
+4152,Taos,2013,Flood,14180.8
+4152,Santa Fe,2013,Flood,750.0
+4152,Statewide,2013,Flood,72532.34
+4152,Sierra,2013,Flood,1960090.71
+4152,Statewide,2013,Flood,30184.64
+4152,Statewide,2013,Flood,1321787.24
+4152,Santa Fe,2013,Flood,9930.0
+4152,Socorro,2013,Flood,19271.25
+4152,Statewide,2013,Flood,1023931.3
+4152,Statewide,2013,Flood,376483.54
+4152,San Miguel,2013,Flood,171756.0
+4152,Sierra,2013,Flood,1915.5
+4152,San Juan,2013,Flood,560516.58
+4152,San Miguel,2013,Flood,43872.19
+4152,Statewide,2013,Flood,922808.4
+4152,San Miguel,2013,Flood,4416.91
+4152,Statewide,2013,Flood,483053.53
+4152,Socorro,2013,Flood,151951.02
+4152,San Miguel,2013,Flood,14746.33
+4152,San Miguel,2013,Flood,1500.0
+4152,San Miguel,2013,Flood,15630.6
+4152,Statewide,2013,Flood,63606.55
+4152,San Miguel,2013,Flood,0.0
+4152,Sierra,2013,Flood,5315.83
+4152,Santa Fe,2013,Flood,268870.51
+4152,Sierra,2013,Flood,39010.81
+4152,Dona Ana,2013,Flood,184945.48
+4152,Torrance,2013,Flood,1180.53
+4152,Statewide,2013,Flood,431403.4
+4152,San Miguel,2013,Flood,330189.05
+4152,Statewide,2013,Flood,47494.48
+4152,Statewide,2013,Flood,74424.23
+4152,Santa Fe,2013,Flood,2592207.21
+4152,Sandoval,2013,Flood,569300.65
+4199,Eddy,2014,Severe Storm(s),175521.53
+4199,Otero,2014,Severe Storm(s),345446.08
+4197,San Miguel,2014,Severe Storm(s),22002.16
+4197,Rio Arriba,2014,Severe Storm(s),43238.7
+4197,Rio Arriba,2014,Severe Storm(s),292401.25
+4197,San Miguel,2014,Severe Storm(s),913393.78
+4197,Rio Arriba,2014,Severe Storm(s),11751.89
+4199,Santa Fe,2014,Severe Storm(s),840526.03
+4197,Guadalupe,2014,Severe Storm(s),79793.29
+4199,Statewide,2014,Severe Storm(s),192717.3
+4197,Statewide,2014,Severe Storm(s),303206.76
+4197,Statewide,2014,Severe Storm(s),351362.25
+4199,Colfax,2014,Severe Storm(s),53631.32
+4197,San Miguel,2014,Severe Storm(s),7650.0
+4199,Otero,2014,Severe Storm(s),441299.68
+4199,Eddy,2014,Severe Storm(s),206417.06
+4197,San Miguel,2014,Severe Storm(s),29625.0
+4199,Sierra,2014,Severe Storm(s),221231.63
+4197,Lincoln,2014,Severe Storm(s),6688.52
+4199,Lea,2014,Severe Storm(s),49279.97
+4197,San Miguel,2014,Severe Storm(s),25510.5
+4199,Lincoln,2014,Severe Storm(s),4668.78
+4197,Rio Arriba,2014,Severe Storm(s),4047.83
+4197,Statewide,2014,Severe Storm(s),1456435.36
+4197,Rio Arriba,2014,Severe Storm(s),8173.35
+4199,Eddy,2014,Severe Storm(s),61141414.91
+4197,Rio Arriba,2014,Severe Storm(s),34979.43
+4197,Guadalupe,2014,Severe Storm(s),17225.51
+4197,Rio Arriba,2014,Severe Storm(s),6311.99
+4199,Lincoln,2014,Severe Storm(s),7537.5
+4197,Statewide,2014,Severe Storm(s),289327.0
+4197,Lincoln,2014,Severe Storm(s),0.0
+4197,Statewide,2014,Severe Storm(s),1487940.62
+4197,San Miguel,2014,Severe Storm(s),2647.5
+4197,Otero,2014,Severe Storm(s),57971.76
+4197,Guadalupe,2014,Severe Storm(s),5436.69
+4197,Guadalupe,2014,Severe Storm(s),580065.32
+4199,Lea,2014,Severe Storm(s),2511551.67
+4199,Sierra,2014,Severe Storm(s),5023.13
+4199,Statewide,2014,Severe Storm(s),469931.34
+4197,Otero,2014,Severe Storm(s),224880.91
+4197,Guadalupe,2014,Severe Storm(s),5441.71
+4199,Sierra,2014,Severe Storm(s),26521.21
+4199,Sierra,2014,Severe Storm(s),23154.42
+4199,Lea,2014,Severe Storm(s),93249.01
+4199,Lincoln,2014,Severe Storm(s),0.0
+4199,Sierra,2014,Severe Storm(s),475677.9
+4199,Statewide,2014,Severe Storm(s),2871546.0
+4199,Statewide,2014,Severe Storm(s),9987.3
+4352,Statewide,2017,Flood,14730868.38
+4079,Rio Arriba,2012,Flood,4184021.98

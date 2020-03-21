@@ -1,0 +1,2544 @@
+disasterNumber,county,year,incidentType,amountOblig
+1302,Fairfield,1999,Hurricane,1776.73
+1302,Statewide,1999,Hurricane,88092.22
+1302,Hartford,1999,Hurricane,6552.2
+1302,Fairfield,1999,Hurricane,13361.1
+1302,Fairfield,1999,Hurricane,9791.25
+1302,Fairfield,1999,Hurricane,399182.91
+1302,Fairfield,1999,Hurricane,84005.48
+1302,Fairfield,1999,Hurricane,236228.67
+1302,Hartford,1999,Hurricane,3956.66
+1302,Fairfield,1999,Hurricane,116524.14
+1302,Hartford,1999,Hurricane,5074.91
+1302,Fairfield,1999,Hurricane,36107.67
+1302,Hartford,1999,Hurricane,8194.11
+1302,Hartford,1999,Hurricane,29372.76
+1302,Hartford,1999,Hurricane,49484.22
+1302,Litchfield,1999,Hurricane,2359.5
+1302,Hartford,1999,Hurricane,1053.99
+1302,Fairfield,1999,Hurricane,23555.25
+1302,Fairfield,1999,Hurricane,35638.41
+1302,Litchfield,1999,Hurricane,10144.1
+1302,Fairfield,1999,Hurricane,0.0
+1302,Hartford,1999,Hurricane,23877.86
+1302,Hartford,1999,Hurricane,4156.22
+1302,Hartford,1999,Hurricane,178937.21
+1302,Hartford,1999,Hurricane,45499.28
+1302,Hartford,1999,Hurricane,5274.71
+1302,Litchfield,1999,Hurricane,9424.28
+1302,Hartford,1999,Hurricane,29689.69
+1302,Fairfield,1999,Hurricane,17473.76
+1302,Statewide,1999,Hurricane,115181.74
+1302,Fairfield,1999,Hurricane,7466.15
+1302,Fairfield,1999,Hurricane,13148.92
+1302,Fairfield,1999,Hurricane,14575.5
+1302,Litchfield,1999,Hurricane,25582.05
+1302,Litchfield,1999,Hurricane,29920.54
+1302,Fairfield,1999,Hurricane,20707.87
+1302,Litchfield,1999,Hurricane,6490.41
+1302,Statewide,1999,Hurricane,60375.0
+1302,Fairfield,1999,Hurricane,18360.12
+1619,Tolland,2005,Severe Storm(s),2506.22
+1619,Windham,2005,Severe Storm(s),101384.99
+1619,Hartford,2005,Severe Storm(s),28998.16
+1619,Tolland,2005,Severe Storm(s),69508.45
+1619,Hartford,2005,Severe Storm(s),8492.37
+1619,New London,2005,Severe Storm(s),10512.58
+1619,Hartford,2005,Severe Storm(s),93897.99
+1619,Hartford,2005,Severe Storm(s),8075.73
+1619,Windham,2005,Severe Storm(s),2633.32
+1619,Litchfield,2005,Severe Storm(s),23563.4
+1619,New London,2005,Severe Storm(s),4261.8
+1619,Statewide,2005,Severe Storm(s),238885.81
+1619,Litchfield,2005,Severe Storm(s),19715.33
+1619,New London,2005,Severe Storm(s),24983.62
+1619,Litchfield,2005,Severe Storm(s),17712.44
+1619,Hartford,2005,Severe Storm(s),37644.94
+1619,Litchfield,2005,Severe Storm(s),2317.36
+1619,New London,2005,Severe Storm(s),15370.09
+1619,Hartford,2005,Severe Storm(s),148421.93
+1619,Hartford,2005,Severe Storm(s),25691.26
+1619,Hartford,2005,Severe Storm(s),23485.07
+1619,Tolland,2005,Severe Storm(s),166286.85
+1619,Tolland,2005,Severe Storm(s),41991.66
+1619,Litchfield,2005,Severe Storm(s),38239.18
+1619,Hartford,2005,Severe Storm(s),152752.15
+1619,Windham,2005,Severe Storm(s),4238.61
+1619,Litchfield,2005,Severe Storm(s),16236.85
+1619,Tolland,2005,Severe Storm(s),34528.42
+1619,Hartford,2005,Severe Storm(s),59285.95
+1619,Windham,2005,Severe Storm(s),43228.31
+1619,Tolland,2005,Severe Storm(s),26252.15
+1619,Litchfield,2005,Severe Storm(s),33157.1
+1619,Hartford,2005,Severe Storm(s),47614.2
+1619,Litchfield,2005,Severe Storm(s),90151.16
+1619,Litchfield,2005,Severe Storm(s),1875.0
+1619,Tolland,2005,Severe Storm(s),6374.85
+1619,Litchfield,2005,Severe Storm(s),4368.98
+1619,Hartford,2005,Severe Storm(s),8435.44
+1619,Litchfield,2005,Severe Storm(s),1991.18
+1619,Statewide,2005,Severe Storm(s),-47674.43
+1619,Hartford,2005,Severe Storm(s),34798.22
+1619,Litchfield,2005,Severe Storm(s),10823.5
+1619,Windham,2005,Severe Storm(s),8042.8
+1619,New London,2005,Severe Storm(s),17084.08
+1619,Litchfield,2005,Severe Storm(s),21661.14
+1619,Hartford,2005,Severe Storm(s),14596.12
+1619,New London,2005,Severe Storm(s),17699.33
+1619,Hartford,2005,Severe Storm(s),25187.7
+1619,Litchfield,2005,Severe Storm(s),56438.32
+1619,Litchfield,2005,Severe Storm(s),7390.81
+1619,Windham,2005,Severe Storm(s),28331.51
+1619,Hartford,2005,Severe Storm(s),211736.51
+1619,Tolland,2005,Severe Storm(s),31057.84
+1619,Tolland,2005,Severe Storm(s),11757.47
+1619,Windham,2005,Severe Storm(s),2893.88
+1619,Hartford,2005,Severe Storm(s),129237.38
+1619,Windham,2005,Severe Storm(s),93393.52
+1619,Hartford,2005,Severe Storm(s),25952.54
+1619,Hartford,2005,Severe Storm(s),96517.96
+1619,Tolland,2005,Severe Storm(s),82691.11
+1619,New London,2005,Severe Storm(s),12075.74
+1619,New London,2005,Severe Storm(s),20355.37
+1619,New London,2005,Severe Storm(s),7271.35
+1619,New London,2005,Severe Storm(s),222318.03
+1619,New London,2005,Severe Storm(s),1657.83
+1619,Windham,2005,Severe Storm(s),4659.22
+1619,Hartford,2005,Severe Storm(s),18036.23
+1619,Statewide,2005,Severe Storm(s),87639.18
+1619,Hartford,2005,Severe Storm(s),51425.7
+1619,New London,2005,Severe Storm(s),81450.64
+1619,Hartford,2005,Severe Storm(s),85137.57
+1619,Litchfield,2005,Severe Storm(s),14264.48
+1619,Tolland,2005,Severe Storm(s),98190.84
+1619,Litchfield,2005,Severe Storm(s),64464.98
+1619,Hartford,2005,Severe Storm(s),6453.16
+1619,Litchfield,2005,Severe Storm(s),22958.66
+1619,Windham,2005,Severe Storm(s),126773.48
+1619,Hartford,2005,Severe Storm(s),12455.77
+1619,Hartford,2005,Severe Storm(s),6696.18
+1619,Hartford,2005,Severe Storm(s),11554.35
+1700,Litchfield,2007,Severe Storm(s),7038.21
+1700,Litchfield,2007,Severe Storm(s),9609.05
+1700,Litchfield,2007,Severe Storm(s),78954.21
+1700,Litchfield,2007,Severe Storm(s),8864.05
+1700,Litchfield,2007,Severe Storm(s),8057.47
+1700,Fairfield,2007,Severe Storm(s),34657.95
+1700,Fairfield,2007,Severe Storm(s),52283.63
+1700,Fairfield,2007,Severe Storm(s),81503.43
+1700,Fairfield,2007,Severe Storm(s),10288.28
+1700,Litchfield,2007,Severe Storm(s),6065.56
+1700,Litchfield,2007,Severe Storm(s),115797.07
+1700,Fairfield,2007,Severe Storm(s),36449.77
+1700,Litchfield,2007,Severe Storm(s),51517.11
+1700,Litchfield,2007,Severe Storm(s),21841.56
+1700,Fairfield,2007,Severe Storm(s),201069.84
+1700,Litchfield,2007,Severe Storm(s),163668.74
+1700,Litchfield,2007,Severe Storm(s),23941.08
+1700,Fairfield,2007,Severe Storm(s),62695.47
+1700,Fairfield,2007,Severe Storm(s),43998.14
+1700,Fairfield,2007,Severe Storm(s),136708.6
+1700,Fairfield,2007,Severe Storm(s),183267.69
+1700,Statewide,2007,Severe Storm(s),94897.45
+1700,Fairfield,2007,Severe Storm(s),62621.14
+1700,Litchfield,2007,Severe Storm(s),941.3
+1700,Litchfield,2007,Severe Storm(s),15367.36
+1700,Fairfield,2007,Severe Storm(s),249518.45
+1700,Litchfield,2007,Severe Storm(s),91904.14
+1700,Litchfield,2007,Severe Storm(s),61043.31
+1700,Litchfield,2007,Severe Storm(s),11235.99
+1700,Litchfield,2007,Severe Storm(s),850.38
+1700,Fairfield,2007,Severe Storm(s),1076.25
+1700,Litchfield,2007,Severe Storm(s),69935.75
+1700,Fairfield,2007,Severe Storm(s),1040572.46
+1700,Litchfield,2007,Severe Storm(s),54482.26
+1700,Fairfield,2007,Severe Storm(s),71673.78
+1700,Litchfield,2007,Severe Storm(s),577284.89
+1700,Fairfield,2007,Severe Storm(s),70988.68
+1700,Fairfield,2007,Severe Storm(s),26700.54
+1700,Fairfield,2007,Severe Storm(s),420294.04
+1700,Statewide,2007,Severe Storm(s),15723.41
+1700,Statewide,2007,Severe Storm(s),-59235.48
+1700,Statewide,2007,Severe Storm(s),4647.12
+1700,Fairfield,2007,Severe Storm(s),204929.58
+1700,Fairfield,2007,Severe Storm(s),28132.82
+1700,Fairfield,2007,Severe Storm(s),33708.76
+1700,Fairfield,2007,Severe Storm(s),69334.38
+1700,Fairfield,2007,Severe Storm(s),40816.24
+1700,Fairfield,2007,Severe Storm(s),20429.54
+1700,Litchfield,2007,Severe Storm(s),6649.38
+1700,Fairfield,2007,Severe Storm(s),789.0
+1700,Fairfield,2007,Severe Storm(s),8684.24
+1904,New London,2010,Severe Storm(s),200052.56
+1904,Middlesex,2010,Severe Storm(s),32658.12
+1904,New London,2010,Severe Storm(s),14871.42
+1904,New London,2010,Severe Storm(s),18382.01
+1904,Middlesex,2010,Severe Storm(s),86383.37
+1904,Middlesex,2010,Severe Storm(s),28136.21
+1904,New London,2010,Severe Storm(s),5528.4
+1904,Fairfield,2010,Severe Storm(s),400460.92
+1904,Fairfield,2010,Severe Storm(s),352686.16
+1904,New London,2010,Severe Storm(s),237947.26
+1904,Fairfield,2010,Severe Storm(s),58589.63
+1904,Middlesex,2010,Severe Storm(s),66078.32
+1904,New London,2010,Severe Storm(s),11933.84
+1904,New London,2010,Severe Storm(s),8048.96
+1904,Fairfield,2010,Severe Storm(s),750.0
+1904,Fairfield,2010,Severe Storm(s),99764.98
+1904,New London,2010,Severe Storm(s),37170.95
+1904,Fairfield,2010,Severe Storm(s),163853.81
+1904,Statewide,2010,Severe Storm(s),11153.26
+1904,Fairfield,2010,Severe Storm(s),42372.6
+1904,New London,2010,Severe Storm(s),6959.33
+1904,Fairfield,2010,Severe Storm(s),18180.51
+1904,New London,2010,Severe Storm(s),219949.77
+1904,Fairfield,2010,Severe Storm(s),565666.82
+1904,New London,2010,Severe Storm(s),92576.98
+1904,New London,2010,Severe Storm(s),46152.2
+1904,New London,2010,Severe Storm(s),6794.2
+1904,Fairfield,2010,Severe Storm(s),16647.29
+1904,Middlesex,2010,Severe Storm(s),20960.99
+1904,Fairfield,2010,Severe Storm(s),5659.51
+1904,Fairfield,2010,Severe Storm(s),14658.63
+1904,New London,2010,Severe Storm(s),1732876.61
+1904,Statewide,2010,Severe Storm(s),10157.25
+1904,Fairfield,2010,Severe Storm(s),6539.08
+1904,Middlesex,2010,Severe Storm(s),33972.68
+1904,Statewide,2010,Severe Storm(s),5635.68
+1904,Middlesex,2010,Severe Storm(s),34966.64
+1904,Statewide,2010,Severe Storm(s),47399.95
+1904,New London,2010,Severe Storm(s),22012.57
+1904,New London,2010,Severe Storm(s),107175.69
+1904,New London,2010,Severe Storm(s),19986.18
+1904,Fairfield,2010,Severe Storm(s),436428.47
+1904,Middlesex,2010,Severe Storm(s),15303.71
+1904,Fairfield,2010,Severe Storm(s),230848.94
+1904,Fairfield,2010,Severe Storm(s),426492.44
+1904,Fairfield,2010,Severe Storm(s),7094.27
+1904,New London,2010,Severe Storm(s),3075.0
+1904,Fairfield,2010,Severe Storm(s),24818.42
+1904,New London,2010,Severe Storm(s),213185.29
+1904,New London,2010,Severe Storm(s),30695.74
+1904,New London,2010,Severe Storm(s),16756.0
+1904,Fairfield,2010,Severe Storm(s),71803.08
+1904,Fairfield,2010,Severe Storm(s),20230.31
+1904,New London,2010,Severe Storm(s),58824.27
+1904,New London,2010,Severe Storm(s),3755.25
+1904,New London,2010,Severe Storm(s),13326.08
+1904,New London,2010,Severe Storm(s),33363.75
+1904,Fairfield,2010,Severe Storm(s),320600.34
+1904,New London,2010,Severe Storm(s),462999.22
+1904,Fairfield,2010,Severe Storm(s),111543.86
+1904,Statewide,2010,Severe Storm(s),346558.97
+1904,Fairfield,2010,Severe Storm(s),8693.34
+1904,New London,2010,Severe Storm(s),9101.99
+1904,New London,2010,Severe Storm(s),237269.42
+1904,New London,2010,Severe Storm(s),36438.14
+1904,New London,2010,Severe Storm(s),9220.25
+1904,Statewide,2010,Severe Storm(s),41917.3
+1904,New London,2010,Severe Storm(s),135299.18
+1904,Statewide,2010,Severe Storm(s),149221.98
+1904,New London,2010,Severe Storm(s),1012232.09
+1958,Fairfield,2011,Snow,58845.56
+1958,Fairfield,2011,Snow,1252.04
+1958,Fairfield,2011,Snow,5723.27
+1958,Fairfield,2011,Snow,825.0
+1958,Fairfield,2011,Snow,51880.73
+1958,Hartford,2011,Snow,120809.11
+1958,Fairfield,2011,Snow,30346.82
+1958,Fairfield,2011,Snow,9810.58
+1958,Fairfield,2011,Snow,149193.51
+1958,Fairfield,2011,Snow,215401.58
+1958,Fairfield,2011,Snow,526.19
+1958,Hartford,2011,Snow,6809.62
+1958,Fairfield,2011,Snow,1282.46
+1958,Fairfield,2011,Snow,21538.5
+1958,Hartford,2011,Snow,45515.09
+1958,Fairfield,2011,Snow,53812.06
+1958,Hartford,2011,Snow,2722.85
+1958,Hartford,2011,Snow,30808.31
+1958,Hartford,2011,Snow,3568.62
+1958,Fairfield,2011,Snow,11095.87
+1958,Fairfield,2011,Snow,88353.83
+1958,Fairfield,2011,Snow,201192.53
+1958,Hartford,2011,Snow,5778.0
+1958,Fairfield,2011,Snow,34097.93
+1958,Fairfield,2011,Snow,56303.33
+1958,Fairfield,2011,Snow,17618.29
+1958,Fairfield,2011,Snow,174514.49
+1958,Fairfield,2011,Snow,61129.91
+1958,Fairfield,2011,Snow,3481.39
+1958,Fairfield,2011,Snow,13880.78
+1958,Fairfield,2011,Snow,102943.5
+1958,Fairfield,2011,Snow,39200.3
+1958,Hartford,2011,Snow,5899.58
+1958,Fairfield,2011,Snow,63140.69
+1958,Fairfield,2011,Snow,100297.73
+1958,Fairfield,2011,Snow,75943.55
+1958,Fairfield,2011,Snow,130449.53
+1958,Fairfield,2011,Snow,121737.81
+1958,Hartford,2011,Snow,47045.0
+1958,Fairfield,2011,Snow,71251.96
+1958,Fairfield,2011,Snow,152908.84
+1958,Fairfield,2011,Snow,1087.5
+1958,Fairfield,2011,Snow,121036.77
+1958,Fairfield,2011,Snow,2803.13
+1958,Hartford,2011,Snow,1468.17
+1958,Fairfield,2011,Snow,27745.41
+1958,Fairfield,2011,Snow,2764.1
+1958,Hartford,2011,Snow,27997.29
+1958,Hartford,2011,Snow,66097.71
+1958,Hartford,2011,Snow,8305.75
+1958,Fairfield,2011,Snow,5835.75
+1958,Fairfield,2011,Snow,67879.65
+1958,Hartford,2011,Snow,5797.5
+1958,Hartford,2011,Snow,64175.21
+1958,New Haven,2011,Snow,3797.6
+1958,New Haven,2011,Snow,1081.77
+1958,Hartford,2011,Snow,86570.24
+1958,Hartford,2011,Snow,2156.7
+1958,New Haven,2011,Snow,3125.2
+1958,Hartford,2011,Snow,2923.7
+1958,Hartford,2011,Snow,29653.03
+1958,Hartford,2011,Snow,30940.11
+1958,Hartford,2011,Snow,1128.75
+1958,Hartford,2011,Snow,1199.43
+1958,Hartford,2011,Snow,14687.92
+1958,New Haven,2011,Snow,43630.26
+1958,New Haven,2011,Snow,33483.0
+1958,New Haven,2011,Snow,23749.5
+1958,Litchfield,2011,Snow,5379.38
+1958,New Haven,2011,Snow,154834.58
+1958,New Haven,2011,Snow,1657.61
+1958,Litchfield,2011,Snow,1901.25
+1958,New Haven,2011,Snow,2305.88
+1958,Litchfield,2011,Snow,1091.25
+1958,Hartford,2011,Snow,205275.12
+1958,Hartford,2011,Snow,5243.51
+1958,Litchfield,2011,Snow,1012.83
+1958,New Haven,2011,Snow,845.72
+1958,Hartford,2011,Snow,113812.79
+1958,Litchfield,2011,Snow,24848.45
+1958,New Haven,2011,Snow,197485.61
+1958,Hartford,2011,Snow,146719.07
+1958,Hartford,2011,Snow,14932.87
+1958,New Haven,2011,Snow,7431.57
+1958,Hartford,2011,Snow,9807.23
+1958,Litchfield,2011,Snow,12792.82
+1958,Hartford,2011,Snow,36654.01
+1958,New Haven,2011,Snow,63153.52
+1958,Litchfield,2011,Snow,14631.5
+1958,Hartford,2011,Snow,5250.6
+1958,Hartford,2011,Snow,56726.45
+1958,Hartford,2011,Snow,3948.65
+1958,New Haven,2011,Snow,2033.81
+1958,New Haven,2011,Snow,27475.53
+1958,New Haven,2011,Snow,15741.59
+1958,New Haven,2011,Snow,9745.55
+1958,New Haven,2011,Snow,90223.07
+1958,Hartford,2011,Snow,1590.0
+1958,Litchfield,2011,Snow,83068.91
+1958,Hartford,2011,Snow,74528.23
+1958,New Haven,2011,Snow,48489.68
+1958,Hartford,2011,Snow,13099.2
+1958,Hartford,2011,Snow,6934.43
+1958,Hartford,2011,Snow,30052.97
+1958,Litchfield,2011,Snow,30616.53
+1958,New Haven,2011,Snow,61961.29
+1958,New Haven,2011,Snow,54515.33
+1958,Litchfield,2011,Snow,5014.35
+1958,Litchfield,2011,Snow,22629.56
+1958,Litchfield,2011,Snow,26863.54
+1958,New Haven,2011,Snow,4991.25
+1958,Hartford,2011,Snow,1200.0
+1958,New Haven,2011,Snow,1425.0
+1958,Hartford,2011,Snow,27552.09
+1958,Hartford,2011,Snow,4042.87
+1958,New Haven,2011,Snow,18501.02
+1958,Hartford,2011,Snow,1226.3
+1958,Hartford,2011,Snow,3166.64
+1958,Hartford,2011,Snow,120905.96
+1958,New Haven,2011,Snow,879.55
+1958,Litchfield,2011,Snow,1167.59
+1958,New Haven,2011,Snow,2039.26
+1958,Litchfield,2011,Snow,12684.95
+1958,Hartford,2011,Snow,3795.0
+1958,New Haven,2011,Snow,63046.85
+1958,New Haven,2011,Snow,164026.81
+1958,Litchfield,2011,Snow,4199.61
+1958,Hartford,2011,Snow,43600.42
+1958,New Haven,2011,Snow,36177.2
+1958,Hartford,2011,Snow,29937.2
+1958,Hartford,2011,Snow,54980.87
+1958,New Haven,2011,Snow,57854.12
+1958,Hartford,2011,Snow,2150.4
+1958,New Haven,2011,Snow,9836.48
+1958,New Haven,2011,Snow,66196.26
+1958,New Haven,2011,Snow,1372.5
+1958,Hartford,2011,Snow,1880.84
+1958,New Haven,2011,Snow,6461.74
+1958,Hartford,2011,Snow,168564.57
+1958,New Haven,2011,Snow,76231.86
+1958,New Haven,2011,Snow,7098.75
+1958,New Haven,2011,Snow,6094.31
+1958,New Haven,2011,Snow,3551.81
+1958,Hartford,2011,Snow,84876.25
+1958,Hartford,2011,Snow,3144.04
+1958,Hartford,2011,Snow,1698.75
+1958,Hartford,2011,Snow,74294.09
+1958,Litchfield,2011,Snow,5381.78
+1958,New Haven,2011,Snow,51610.85
+1958,Hartford,2011,Snow,84990.72
+1958,Litchfield,2011,Snow,36549.58
+1958,New Haven,2011,Snow,7548.45
+1958,New Haven,2011,Snow,69416.56
+1958,Litchfield,2011,Snow,111092.72
+1958,Hartford,2011,Snow,4132.0
+1958,New Haven,2011,Snow,7214.63
+1958,New Haven,2011,Snow,52056.75
+1958,New Haven,2011,Snow,7875.0
+1958,New Haven,2011,Snow,9424.06
+1958,Hartford,2011,Snow,45772.96
+1958,Litchfield,2011,Snow,64163.53
+1958,New Haven,2011,Snow,39391.28
+1958,Hartford,2011,Snow,9119.69
+1958,Hartford,2011,Snow,2874.38
+1958,Hartford,2011,Snow,1842.59
+1958,New Haven,2011,Snow,72435.42
+1958,Litchfield,2011,Snow,8666.0
+1958,Litchfield,2011,Snow,8817.47
+1958,New Haven,2011,Snow,3593.22
+1958,Litchfield,2011,Snow,17840.76
+1958,New Haven,2011,Snow,10248.75
+1958,Litchfield,2011,Snow,18680.99
+1958,Hartford,2011,Snow,5115.0
+1958,New Haven,2011,Snow,40333.22
+1958,Hartford,2011,Snow,37556.24
+1958,New Haven,2011,Snow,7928.91
+1958,Litchfield,2011,Snow,55960.77
+1958,Litchfield,2011,Snow,12572.71
+1958,Litchfield,2011,Snow,17985.44
+1958,New Haven,2011,Snow,4973.2
+1958,Hartford,2011,Snow,159427.97
+1958,New Haven,2011,Snow,121121.91
+1958,New Haven,2011,Snow,4016.25
+1958,Hartford,2011,Snow,4408.74
+1958,Hartford,2011,Snow,49352.8
+1958,Litchfield,2011,Snow,33608.42
+1958,Litchfield,2011,Snow,1264.5
+1958,Litchfield,2011,Snow,1881.46
+1958,Litchfield,2011,Snow,17024.99
+1958,Hartford,2011,Snow,85702.17
+1958,New Haven,2011,Snow,8967.35
+1958,New Haven,2011,Snow,26226.12
+1958,Litchfield,2011,Snow,21279.78
+1958,New Haven,2011,Snow,54807.47
+1958,New Haven,2011,Snow,1451.25
+1958,Litchfield,2011,Snow,22991.48
+1958,Hartford,2011,Snow,1405.76
+1958,Hartford,2011,Snow,5395.5
+1958,New Haven,2011,Snow,120573.47
+1958,Litchfield,2011,Snow,18642.22
+1958,New London,2011,Snow,63079.25
+1958,New London,2011,Snow,45379.1
+1958,Statewide,2011,Snow,108501.32
+1958,Statewide,2011,Snow,2796721.62
+1958,Tolland,2011,Snow,58219.13
+1958,Statewide,2011,Snow,82642.83
+1958,New London,2011,Snow,104844.13
+1958,Statewide,2011,Snow,22719.74
+1958,Tolland,2011,Snow,6755.22
+1958,Statewide,2011,Snow,54791.89
+1958,New London,2011,Snow,32591.14
+1958,New Haven,2011,Snow,88099.79
+1958,Statewide,2011,Snow,88392.33
+1958,Tolland,2011,Snow,21057.56
+1958,Tolland,2011,Snow,1505.17
+1958,Tolland,2011,Snow,9061.36
+1958,Statewide,2011,Snow,129812.69
+1958,New London,2011,Snow,64641.87
+1958,Tolland,2011,Snow,2859.62
+1958,New Haven,2011,Snow,217079.06
+1958,New London,2011,Snow,8478.62
+1958,Statewide,2011,Snow,273741.47
+1958,New Haven,2011,Snow,56556.82
+1958,Statewide,2011,Snow,100916.18
+1958,Tolland,2011,Snow,15196.72
+1958,Tolland,2011,Snow,39712.11
+1958,Tolland,2011,Snow,1200.03
+1958,New London,2011,Snow,38914.08
+1958,New London,2011,Snow,18647.9
+1958,Litchfield,2011,Snow,4672.5
+1958,Tolland,2011,Snow,226357.18
+1958,New Haven,2011,Snow,837.34
+1958,Tolland,2011,Snow,43792.8
+1958,New London,2011,Snow,14076.65
+1958,New Haven,2011,Snow,5726.75
+1958,Statewide,2011,Snow,2983.65
+1958,New London,2011,Snow,11546.33
+1958,New Haven,2011,Snow,7192.17
+1958,New London,2011,Snow,76325.3
+1958,New London,2011,Snow,76376.5
+1958,New London,2011,Snow,12408.3
+1958,New London,2011,Snow,11004.35
+1958,New London,2011,Snow,48324.09
+1958,Statewide,2011,Snow,177898.69
+1958,Tolland,2011,Snow,35956.17
+1958,New London,2011,Snow,1155.83
+1958,New Haven,2011,Snow,3592.49
+1958,New London,2011,Snow,7603.11
+1958,New Haven,2011,Snow,24307.28
+1958,New Haven,2011,Snow,20250.0
+1958,New London,2011,Snow,1005.0
+1958,Tolland,2011,Snow,31221.93
+1958,Statewide,2011,Snow,26199.07
+1958,New London,2011,Snow,51222.59
+1958,New London,2011,Snow,20997.78
+1958,Tolland,2011,Snow,35839.67
+1958,Tolland,2011,Snow,22369.18
+1958,Tolland,2011,Snow,69845.04
+1958,New London,2011,Snow,26372.34
+1958,New London,2011,Snow,54390.59
+1958,New London,2011,Snow,35213.83
+1958,New Haven,2011,Snow,75481.34
+1958,New London,2011,Snow,93835.2
+1958,New London,2011,Snow,929.82
+1958,New London,2011,Snow,16104.82
+1958,Tolland,2011,Snow,80080.4
+1958,New London,2011,Snow,6676.88
+1958,Tolland,2011,Snow,14192.45
+1958,New London,2011,Snow,4831.68
+1958,New London,2011,Snow,12249.74
+1958,Tolland,2011,Snow,2438.11
+1958,New London,2011,Snow,25436.28
+1958,Statewide,2011,Snow,11888.63
+1958,New London,2011,Snow,14041.87
+1958,Tolland,2011,Snow,20803.84
+3176,Hartford,2003,Snow,3605.93
+3176,Fairfield,2003,Snow,41803.11
+3176,Hartford,2003,Snow,116959.71
+3176,Hartford,2003,Snow,28775.82
+3176,Hartford,2003,Snow,16118.71
+3176,Hartford,2003,Snow,3566.75
+3176,Hartford,2003,Snow,6496.93
+3176,Litchfield,2003,Snow,3004.42
+3176,Hartford,2003,Snow,59550.14
+3176,Litchfield,2003,Snow,22418.36
+3176,Litchfield,2003,Snow,6692.05
+3176,Litchfield,2003,Snow,15778.97
+3176,Middlesex,2003,Snow,15225.19
+3176,Hartford,2003,Snow,32328.4
+3176,Hartford,2003,Snow,122821.26
+3176,Middlesex,2003,Snow,23546.24
+3176,Middlesex,2003,Snow,10502.22
+3176,Hartford,2003,Snow,32920.16
+3176,Hartford,2003,Snow,131013.77
+3176,Hartford,2003,Snow,37981.56
+3176,Fairfield,2003,Snow,32318.39
+3176,Hartford,2003,Snow,10632.48
+3176,Hartford,2003,Snow,5781.8
+3176,Litchfield,2003,Snow,6601.43
+3176,Fairfield,2003,Snow,954.1
+3176,Litchfield,2003,Snow,15796.97
+3176,Litchfield,2003,Snow,32095.64
+3176,Fairfield,2003,Snow,51232.97
+3176,Hartford,2003,Snow,40525.79
+3176,Middlesex,2003,Snow,10033.31
+3176,Hartford,2003,Snow,14021.48
+3176,Litchfield,2003,Snow,10073.68
+3176,Litchfield,2003,Snow,10548.72
+3176,Litchfield,2003,Snow,15023.27
+3176,Litchfield,2003,Snow,5885.38
+3176,Litchfield,2003,Snow,58116.29
+3176,Litchfield,2003,Snow,32801.81
+3176,Hartford,2003,Snow,43864.37
+3176,Litchfield,2003,Snow,1062.0
+3176,Fairfield,2003,Snow,34223.71
+3176,Fairfield,2003,Snow,50133.58
+3176,Hartford,2003,Snow,31087.31
+3176,Hartford,2003,Snow,6737.99
+3176,Litchfield,2003,Snow,25606.74
+3176,Middlesex,2003,Snow,17235.17
+3176,Hartford,2003,Snow,16920.35
+3176,Fairfield,2003,Snow,39501.95
+3176,Fairfield,2003,Snow,7866.7
+3176,Fairfield,2003,Snow,72766.96
+3176,Hartford,2003,Snow,94184.29
+3176,Fairfield,2003,Snow,41748.0
+3176,Hartford,2003,Snow,834.22
+3176,Fairfield,2003,Snow,28555.47
+3176,Litchfield,2003,Snow,16982.12
+3176,Middlesex,2003,Snow,20945.78
+3176,Middlesex,2003,Snow,21242.96
+3176,Hartford,2003,Snow,50901.71
+3176,Middlesex,2003,Snow,23700.14
+3176,Hartford,2003,Snow,23737.39
+3176,Fairfield,2003,Snow,57441.54
+3176,Hartford,2003,Snow,5001.35
+3176,Fairfield,2003,Snow,31946.21
+3176,Fairfield,2003,Snow,12392.09
+3176,Hartford,2003,Snow,27272.12
+3176,Hartford,2003,Snow,4788.58
+3176,Hartford,2003,Snow,18840.06
+3176,Middlesex,2003,Snow,24624.13
+3176,Fairfield,2003,Snow,122937.11
+3176,Litchfield,2003,Snow,65420.75
+3176,Fairfield,2003,Snow,30051.16
+3176,Litchfield,2003,Snow,11844.64
+3176,Litchfield,2003,Snow,4480.17
+3176,Fairfield,2003,Snow,11716.91
+3176,Fairfield,2003,Snow,8418.6
+3176,Middlesex,2003,Snow,5694.91
+3176,Fairfield,2003,Snow,116828.04
+3176,Hartford,2003,Snow,38965.58
+3176,Hartford,2003,Snow,59119.66
+3176,Hartford,2003,Snow,1865.84
+3176,Litchfield,2003,Snow,15614.03
+3176,Fairfield,2003,Snow,6025.85
+3176,Hartford,2003,Snow,35606.12
+3176,Litchfield,2003,Snow,9229.14
+3176,Middlesex,2003,Snow,19207.19
+3176,Fairfield,2003,Snow,103278.38
+3176,Litchfield,2003,Snow,6319.64
+3176,Litchfield,2003,Snow,11568.33
+3176,Middlesex,2003,Snow,33657.53
+3176,Litchfield,2003,Snow,5526.44
+3176,Hartford,2003,Snow,102447.26
+3176,Fairfield,2003,Snow,173580.43
+3176,Litchfield,2003,Snow,6413.4
+3176,Fairfield,2003,Snow,63044.13
+3176,Hartford,2003,Snow,59711.23
+3176,Middlesex,2003,Snow,29951.41
+3176,Fairfield,2003,Snow,98365.88
+3176,Fairfield,2003,Snow,84797.05
+3176,Middlesex,2003,Snow,10506.56
+3176,Hartford,2003,Snow,22012.78
+3176,Fairfield,2003,Snow,23318.56
+3176,Hartford,2003,Snow,68884.9
+3176,Middlesex,2003,Snow,71079.41
+3176,Hartford,2003,Snow,46118.27
+3176,New London,2003,Snow,42483.41
+3176,Tolland,2003,Snow,40346.14
+3176,Tolland,2003,Snow,22493.91
+3176,New Haven,2003,Snow,85085.42
+3176,New Haven,2003,Snow,161422.45
+3176,New London,2003,Snow,6815.92
+3176,Litchfield,2003,Snow,3069.67
+3176,Statewide,2003,Snow,9642.71
+3176,New Haven,2003,Snow,28301.34
+3176,Tolland,2003,Snow,38523.85
+3176,New Haven,2003,Snow,49678.8
+3176,New Haven,2003,Snow,26303.26
+3176,Windham,2003,Snow,23831.33
+3176,Middlesex,2003,Snow,8933.15
+3176,New Haven,2003,Snow,26271.98
+3176,New London,2003,Snow,25544.63
+3176,New Haven,2003,Snow,29571.24
+3176,New London,2003,Snow,34216.52
+3176,New Haven,2003,Snow,20198.13
+3176,New Haven,2003,Snow,12162.28
+3176,Windham,2003,Snow,12764.12
+3176,New London,2003,Snow,21617.64
+3176,New Haven,2003,Snow,33113.38
+3176,New London,2003,Snow,22903.64
+3176,New London,2003,Snow,13335.3
+3176,New Haven,2003,Snow,7080.95
+3176,New Haven,2003,Snow,46636.47
+3176,Windham,2003,Snow,4924.54
+3176,New Haven,2003,Snow,47786.01
+3176,Windham,2003,Snow,12715.14
+3176,Tolland,2003,Snow,11551.21
+3176,New Haven,2003,Snow,27719.67
+3176,Tolland,2003,Snow,19072.16
+3176,New Haven,2003,Snow,57059.97
+3176,Statewide,2003,Snow,25948.32
+3176,New Haven,2003,Snow,26948.68
+3176,New Haven,2003,Snow,160194.09
+3176,New London,2003,Snow,13264.98
+3176,New London,2003,Snow,10910.29
+3176,New London,2003,Snow,12629.81
+3176,Windham,2003,Snow,3653.51
+3176,Windham,2003,Snow,4414.58
+3176,New Haven,2003,Snow,15372.32
+3176,New Haven,2003,Snow,8620.34
+3176,Windham,2003,Snow,8942.75
+3176,Tolland,2003,Snow,23886.85
+3176,New Haven,2003,Snow,26484.99
+3176,Tolland,2003,Snow,3083.15
+3176,Tolland,2003,Snow,27010.01
+3176,New Haven,2003,Snow,57400.45
+3176,Windham,2003,Snow,19255.37
+3176,New London,2003,Snow,7201.3
+3176,Statewide,2003,Snow,2325495.27
+3176,Windham,2003,Snow,10140.12
+3176,New London,2003,Snow,24088.84
+3176,Fairfield,2003,Snow,19209.92
+3176,Hartford,2003,Snow,1804.8
+3176,New London,2003,Snow,13474.09
+3176,New Haven,2003,Snow,39256.13
+3176,Windham,2003,Snow,4530.78
+3176,New London,2003,Snow,5794.66
+3176,New Haven,2003,Snow,48168.89
+3176,Windham,2003,Snow,11731.35
+3176,Fairfield,2003,Snow,4551.3
+3176,New London,2003,Snow,22513.47
+3176,New London,2003,Snow,7080.03
+3176,New Haven,2003,Snow,20289.7
+3176,New Haven,2003,Snow,3620.65
+3176,New London,2003,Snow,14611.73
+3176,New Haven,2003,Snow,39287.13
+3176,New Haven,2003,Snow,40093.5
+3176,New London,2003,Snow,6491.14
+3176,Litchfield,2003,Snow,19851.15
+3176,Windham,2003,Snow,22140.53
+3176,New Haven,2003,Snow,58054.62
+3176,Tolland,2003,Snow,12746.86
+3176,Tolland,2003,Snow,93902.99
+3176,Litchfield,2003,Snow,17301.71
+3176,New Haven,2003,Snow,1765.77
+3176,Middlesex,2003,Snow,20689.84
+3176,New London,2003,Snow,4187.45
+3176,Tolland,2003,Snow,6753.59
+3176,New London,2003,Snow,34605.35
+3176,New London,2003,Snow,34874.58
+3176,New Haven,2003,Snow,768.81
+3176,New Haven,2003,Snow,3285.0
+3176,New Haven,2003,Snow,60364.89
+3176,New London,2003,Snow,31323.65
+3176,New Haven,2003,Snow,2241.68
+3176,Statewide,2003,Snow,109235.53
+3176,New London,2003,Snow,4898.72
+3176,Fairfield,2003,Snow,90755.19
+3176,Statewide,2003,Snow,23399.39
+3176,Windham,2003,Snow,11871.23
+3176,New London,2003,Snow,7593.88
+3176,New Haven,2003,Snow,15595.97
+3176,Statewide,2003,Snow,62597.03
+3176,Tolland,2003,Snow,16051.38
+3176,Tolland,2003,Snow,17872.19
+3176,Hartford,2003,Snow,39975.14
+3176,Windham,2003,Snow,13327.7
+3176,New London,2003,Snow,10900.71
+3176,New London,2003,Snow,7342.31
+3176,Tolland,2003,Snow,12150.65
+3176,Windham,2003,Snow,8389.85
+3176,New Haven,2003,Snow,23644.94
+3192,Hartford,2004,Snow,129942.29
+3192,Hartford,2004,Snow,18629.35
+3192,Hartford,2004,Snow,103636.13
+3192,Hartford,2004,Snow,70226.78
+3192,Hartford,2004,Snow,52810.13
+3192,Hartford,2004,Snow,48831.62
+3192,Hartford,2004,Snow,27662.48
+3192,Hartford,2004,Snow,7419.44
+3192,Hartford,2004,Snow,28850.36
+3192,Hartford,2004,Snow,21204.81
+3192,Hartford,2004,Snow,42868.53
+3192,Hartford,2004,Snow,49967.24
+3192,Fairfield,2004,Snow,3985.14
+3192,Litchfield,2004,Snow,9655.61
+3192,Hartford,2004,Snow,28252.64
+3192,Hartford,2004,Snow,84592.86
+3192,Hartford,2004,Snow,58596.19
+3192,Hartford,2004,Snow,1819.45
+3192,Litchfield,2004,Snow,12478.02
+3192,Litchfield,2004,Snow,6705.31
+3192,Hartford,2004,Snow,107283.18
+3192,Litchfield,2004,Snow,28338.98
+3192,Litchfield,2004,Snow,11210.92
+3192,Hartford,2004,Snow,1536.0
+3192,Hartford,2004,Snow,111935.81
+3192,Hartford,2004,Snow,64724.12
+3192,Litchfield,2004,Snow,819.75
+3192,Litchfield,2004,Snow,5649.86
+3192,Litchfield,2004,Snow,21844.37
+3192,Litchfield,2004,Snow,5294.03
+3192,Hartford,2004,Snow,36053.81
+3192,Fairfield,2004,Snow,64973.09
+3192,Hartford,2004,Snow,4722.26
+3192,Hartford,2004,Snow,55421.42
+3192,Hartford,2004,Snow,125334.35
+3192,Hartford,2004,Snow,2090.4
+3192,Hartford,2004,Snow,3998.25
+3192,Hartford,2004,Snow,55361.25
+3192,Litchfield,2004,Snow,14014.87
+3192,Litchfield,2004,Snow,12717.5
+3192,Hartford,2004,Snow,48950.9
+3192,Litchfield,2004,Snow,7174.64
+3192,Hartford,2004,Snow,11953.99
+3192,Hartford,2004,Snow,6791.46
+3192,Litchfield,2004,Snow,9228.02
+3192,New London,2004,Snow,2223.32
+3192,New London,2004,Snow,21476.47
+3192,New London,2004,Snow,34406.03
+3192,Fairfield,2004,Snow,94958.77
+3192,New Haven,2004,Snow,48966.44
+3192,Hartford,2004,Snow,774.86
+3192,Litchfield,2004,Snow,47253.24
+3192,Fairfield,2004,Snow,36974.24
+3192,New Haven,2004,Snow,1188.75
+3192,Fairfield,2004,Snow,6635.09
+3192,Hartford,2004,Snow,41846.64
+3192,Tolland,2004,Snow,14651.8
+3192,Fairfield,2004,Snow,105476.93
+3192,Hartford,2004,Snow,5317.5
+3192,New London,2004,Snow,8861.52
+3192,New London,2004,Snow,8641.52
+3192,New London,2004,Snow,23118.25
+3192,Hartford,2004,Snow,57042.67
+3192,Fairfield,2004,Snow,5877.45
+3192,Fairfield,2004,Snow,66986.54
+3192,New London,2004,Snow,6878.39
+3192,Fairfield,2004,Snow,57895.5
+3192,New Haven,2004,Snow,32100.17
+3192,Tolland,2004,Snow,65971.64
+3192,Litchfield,2004,Snow,18373.94
+3192,New Haven,2004,Snow,65001.03
+3192,Hartford,2004,Snow,17158.98
+3192,Hartford,2004,Snow,99361.35
+3192,Windham,2004,Snow,36727.79
+3192,New Haven,2004,Snow,16594.85
+3192,Windham,2004,Snow,5910.26
+3192,New London,2004,Snow,32961.17
+3192,New London,2004,Snow,38252.2
+3192,New Haven,2004,Snow,9359.41
+3192,Fairfield,2004,Snow,47526.72
+3192,New Haven,2004,Snow,66715.12
+3192,Fairfield,2004,Snow,8918.14
+3192,Fairfield,2004,Snow,26146.91
+3192,New London,2004,Snow,66166.19
+3192,New Haven,2004,Snow,55802.05
+3192,Windham,2004,Snow,17270.02
+3192,Hartford,2004,Snow,21383.12
+3192,New Haven,2004,Snow,63570.89
+3192,New Haven,2004,Snow,75610.22
+3192,Tolland,2004,Snow,55828.78
+3192,Hartford,2004,Snow,16489.56
+3192,Windham,2004,Snow,13984.19
+3192,New Haven,2004,Snow,34161.41
+3192,New London,2004,Snow,7989.25
+3192,Windham,2004,Snow,30248.6
+3192,New Haven,2004,Snow,2089.6
+3192,Fairfield,2004,Snow,66425.8
+3192,New Haven,2004,Snow,33460.38
+3192,Litchfield,2004,Snow,33849.28
+3192,New Haven,2004,Snow,37271.66
+3192,New Haven,2004,Snow,116931.04
+3192,Fairfield,2004,Snow,33335.43
+3192,New Haven,2004,Snow,32411.86
+3192,Windham,2004,Snow,4543.04
+3192,Fairfield,2004,Snow,123945.95
+3192,New Haven,2004,Snow,54654.2
+3192,Hartford,2004,Snow,37036.92
+3192,Tolland,2004,Snow,24665.9
+3192,New London,2004,Snow,2979.59
+3192,Tolland,2004,Snow,29425.58
+3192,Fairfield,2004,Snow,13732.89
+3192,New Haven,2004,Snow,29069.5
+3192,Fairfield,2004,Snow,38273.9
+3192,New London,2004,Snow,8129.63
+3192,Statewide,2004,Snow,-37199.5
+3192,Hartford,2004,Snow,1606.62
+3192,New London,2004,Snow,55426.44
+3192,New Haven,2004,Snow,150689.88
+3192,Litchfield,2004,Snow,18854.65
+3192,New Haven,2004,Snow,31751.73
+3192,New London,2004,Snow,18527.65
+3192,Litchfield,2004,Snow,2871.36
+3192,New Haven,2004,Snow,25069.82
+3192,Fairfield,2004,Snow,37549.68
+3192,Fairfield,2004,Snow,38581.15
+3192,Windham,2004,Snow,9772.26
+3192,Fairfield,2004,Snow,103935.53
+3192,New London,2004,Snow,39002.38
+3192,Litchfield,2004,Snow,11724.3
+3192,Litchfield,2004,Snow,16772.98
+3192,New London,2004,Snow,33472.39
+3192,Tolland,2004,Snow,30107.07
+3192,Fairfield,2004,Snow,131819.06
+3192,New Haven,2004,Snow,28338.58
+3192,Tolland,2004,Snow,20010.57
+3192,Hartford,2004,Snow,4288.91
+3192,New Haven,2004,Snow,53633.75
+3192,Litchfield,2004,Snow,3344.14
+3192,New Haven,2004,Snow,112771.85
+3192,Windham,2004,Snow,17907.19
+3192,New Haven,2004,Snow,34648.5
+3192,New Haven,2004,Snow,3094.5
+3192,Litchfield,2004,Snow,80156.05
+3192,New London,2004,Snow,9983.34
+3192,Tolland,2004,Snow,50331.68
+3192,Hartford,2004,Snow,40597.49
+3192,Tolland,2004,Snow,9956.38
+3192,New Haven,2004,Snow,24841.67
+3192,Windham,2004,Snow,11742.05
+3192,Fairfield,2004,Snow,97138.12
+3192,Litchfield,2004,Snow,15742.37
+3192,Litchfield,2004,Snow,5579.45
+3192,Fairfield,2004,Snow,171980.6
+3192,Windham,2004,Snow,6383.96
+3192,Fairfield,2004,Snow,140830.1
+3192,Tolland,2004,Snow,22876.02
+3192,Windham,2004,Snow,12041.81
+3192,Litchfield,2004,Snow,14712.7
+3192,Litchfield,2004,Snow,9923.42
+3192,Fairfield,2004,Snow,40363.34
+3192,New Haven,2004,Snow,2041.5
+3192,Hartford,2004,Snow,22802.96
+3192,Windham,2004,Snow,5932.97
+3192,New Haven,2004,Snow,15837.92
+3192,Litchfield,2004,Snow,3019.16
+3192,Litchfield,2004,Snow,25512.69
+3192,New London,2004,Snow,45132.06
+3192,Litchfield,2004,Snow,75760.28
+3192,Windham,2004,Snow,19952.84
+3192,Litchfield,2004,Snow,1657.5
+3192,New Haven,2004,Snow,2489.79
+3192,Fairfield,2004,Snow,256708.16
+3192,New London,2004,Snow,3860.84
+3192,New London,2004,Snow,38016.97
+3192,Fairfield,2004,Snow,20890.13
+3192,New Haven,2004,Snow,20957.16
+3192,Fairfield,2004,Snow,13311.14
+3192,New Haven,2004,Snow,44390.28
+3192,New Haven,2004,Snow,10589.07
+3192,Windham,2004,Snow,17474.88
+3192,Windham,2004,Snow,33843.53
+3192,Fairfield,2004,Snow,96998.36
+3192,New London,2004,Snow,3492.69
+3192,Tolland,2004,Snow,15549.99
+3192,New London,2004,Snow,15696.68
+3192,Windham,2004,Snow,4949.72
+3192,New Haven,2004,Snow,34012.67
+3192,New Haven,2004,Snow,67219.52
+3192,New London,2004,Snow,31329.01
+3192,Statewide,2004,Snow,52077.01
+3192,New London,2004,Snow,10414.88
+3192,Statewide,2004,Snow,13365.8
+3192,Statewide,2004,Snow,2004536.96
+3192,New London,2004,Snow,9321.24
+3192,New London,2004,Snow,14682.02
+3192,Tolland,2004,Snow,19898.38
+3192,Statewide,2004,Snow,8085.62
+3192,New London,2004,Snow,9694.63
+3192,New Haven,2004,Snow,67550.98
+3192,Tolland,2004,Snow,25082.63
+3192,Statewide,2004,Snow,93022.58
+3192,Tolland,2004,Snow,2932.67
+3200,Fairfield,2005,Snow,36234.3
+3200,Hartford,2005,Snow,41484.62
+3200,Hartford,2005,Snow,5818.28
+3200,Fairfield,2005,Snow,73840.69
+3200,Fairfield,2005,Snow,98871.17
+3200,Fairfield,2005,Snow,8965.81
+3200,Hartford,2005,Snow,155122.97
+3200,Fairfield,2005,Snow,288055.55
+3200,Hartford,2005,Snow,23744.13
+3200,Hartford,2005,Snow,63073.49
+3200,Hartford,2005,Snow,43048.94
+3200,Hartford,2005,Snow,2135.06
+3200,Fairfield,2005,Snow,70512.93
+3200,Hartford,2005,Snow,4314.98
+3200,Hartford,2005,Snow,123530.55
+3200,Fairfield,2005,Snow,4044.6
+3200,Hartford,2005,Snow,2770.24
+3200,Hartford,2005,Snow,7839.5
+3200,Hartford,2005,Snow,19138.43
+3200,Hartford,2005,Snow,51254.46
+3200,Hartford,2005,Snow,30291.93
+3200,Fairfield,2005,Snow,42288.83
+3200,Fairfield,2005,Snow,33033.2
+3200,Hartford,2005,Snow,58998.8
+3200,Fairfield,2005,Snow,14233.68
+3200,Fairfield,2005,Snow,126134.14
+3200,Hartford,2005,Snow,2113.5
+3200,Hartford,2005,Snow,6030.72
+3200,Fairfield,2005,Snow,76932.64
+3200,Hartford,2005,Snow,3137.36
+3200,Fairfield,2005,Snow,74851.16
+3200,Hartford,2005,Snow,85930.43
+3200,Hartford,2005,Snow,35482.59
+3200,Fairfield,2005,Snow,36349.14
+3200,Fairfield,2005,Snow,19345.81
+3200,Fairfield,2005,Snow,57071.03
+3200,Hartford,2005,Snow,146367.75
+3200,Hartford,2005,Snow,24458.96
+3200,Hartford,2005,Snow,18582.09
+3200,Hartford,2005,Snow,25100.89
+3200,Hartford,2005,Snow,73587.21
+3200,Fairfield,2005,Snow,14474.39
+3200,Hartford,2005,Snow,49717.13
+3200,Fairfield,2005,Snow,25596.38
+3200,Fairfield,2005,Snow,60782.81
+3200,Hartford,2005,Snow,141962.73
+3200,Hartford,2005,Snow,5771.25
+3200,Hartford,2005,Snow,3946.5
+3200,Fairfield,2005,Snow,26852.92
+3200,Hartford,2005,Snow,86736.58
+3200,Hartford,2005,Snow,3698.6
+3200,Fairfield,2005,Snow,7584.78
+3200,Hartford,2005,Snow,44860.61
+3200,Hartford,2005,Snow,16200.3
+3200,Fairfield,2005,Snow,74705.28
+3200,Hartford,2005,Snow,86126.51
+3200,Hartford,2005,Snow,64503.11
+3200,Fairfield,2005,Snow,82142.47
+3200,Fairfield,2005,Snow,164432.09
+3200,Hartford,2005,Snow,48991.0
+3200,Hartford,2005,Snow,4837.24
+3200,Fairfield,2005,Snow,176724.14
+3200,Fairfield,2005,Snow,70151.29
+3200,Fairfield,2005,Snow,146309.68
+3200,Hartford,2005,Snow,5472.38
+3200,Hartford,2005,Snow,104957.33
+3200,Hartford,2005,Snow,120559.13
+3200,Fairfield,2005,Snow,131102.35
+3200,Fairfield,2005,Snow,114257.67
+3200,Hartford,2005,Snow,45094.57
+3200,Hartford,2005,Snow,40893.61
+3200,Hartford,2005,Snow,2122.17
+3200,Statewide,2005,Snow,-97553.89
+3200,Tolland,2005,Snow,8158.14
+3200,Litchfield,2005,Snow,46625.97
+3200,New London,2005,Snow,57706.64
+3200,New Haven,2005,Snow,99233.26
+3200,Litchfield,2005,Snow,53901.65
+3200,Litchfield,2005,Snow,2644.77
+3200,Litchfield,2005,Snow,866.15
+3200,Middlesex,2005,Snow,130304.93
+3200,Statewide,2005,Snow,68763.45
+3200,New Haven,2005,Snow,2272.68
+3200,Litchfield,2005,Snow,17887.13
+3200,Windham,2005,Snow,19911.73
+3200,New Haven,2005,Snow,106901.68
+3200,Tolland,2005,Snow,56704.86
+3200,New London,2005,Snow,15416.19
+3200,Tolland,2005,Snow,17436.48
+3200,Tolland,2005,Snow,22783.32
+3200,Middlesex,2005,Snow,13380.95
+3200,New London,2005,Snow,4659.11
+3200,Litchfield,2005,Snow,19417.79
+3200,Litchfield,2005,Snow,9003.53
+3200,New London,2005,Snow,4824.15
+3200,New London,2005,Snow,81455.37
+3200,Statewide,2005,Snow,93539.81
+3200,Middlesex,2005,Snow,36813.72
+3200,Middlesex,2005,Snow,22441.31
+3200,Hartford,2005,Snow,31592.0
+3200,New London,2005,Snow,9907.68
+3200,Litchfield,2005,Snow,2683.25
+3200,New London,2005,Snow,55996.11
+3200,New London,2005,Snow,51554.36
+3200,Middlesex,2005,Snow,35794.49
+3200,New Haven,2005,Snow,52872.31
+3200,Litchfield,2005,Snow,89750.42
+3200,New Haven,2005,Snow,62946.51
+3200,New Haven,2005,Snow,22360.7
+3200,Middlesex,2005,Snow,11133.82
+3200,Windham,2005,Snow,16472.87
+3200,New Haven,2005,Snow,82638.3
+3200,Tolland,2005,Snow,36645.08
+3200,New London,2005,Snow,2556.75
+3200,New Haven,2005,Snow,49739.5
+3200,New London,2005,Snow,6655.9
+3200,Tolland,2005,Snow,5123.77
+3200,New Haven,2005,Snow,36406.61
+3200,New Haven,2005,Snow,1631.25
+3200,New London,2005,Snow,9140.42
+3200,New London,2005,Snow,11313.73
+3200,New Haven,2005,Snow,86626.55
+3200,Litchfield,2005,Snow,20081.93
+3200,Litchfield,2005,Snow,1660.91
+3200,New Haven,2005,Snow,1413.75
+3200,Statewide,2005,Snow,36681.0
+3200,Litchfield,2005,Snow,12376.69
+3200,New Haven,2005,Snow,13758.68
+3200,New London,2005,Snow,25199.49
+3200,New London,2005,Snow,25040.45
+3200,New Haven,2005,Snow,4230.0
+3200,New Haven,2005,Snow,42168.19
+3200,New Haven,2005,Snow,3672.81
+3200,Litchfield,2005,Snow,4762.27
+3200,Tolland,2005,Snow,19953.92
+3200,New Haven,2005,Snow,26972.02
+3200,Middlesex,2005,Snow,16380.2
+3200,Tolland,2005,Snow,31369.72
+3200,New Haven,2005,Snow,15563.06
+3200,New London,2005,Snow,54271.68
+3200,Tolland,2005,Snow,14067.84
+3200,Statewide,2005,Snow,10781.45
+3200,Middlesex,2005,Snow,42242.03
+3200,Middlesex,2005,Snow,37416.34
+3200,New London,2005,Snow,48246.62
+3200,New Haven,2005,Snow,162392.47
+3200,New London,2005,Snow,14407.27
+3200,New Haven,2005,Snow,68384.35
+3200,Litchfield,2005,Snow,11767.77
+3200,Litchfield,2005,Snow,15769.38
+3200,Tolland,2005,Snow,54375.61
+3200,New Haven,2005,Snow,33319.1
+3200,Middlesex,2005,Snow,30775.82
+3200,Litchfield,2005,Snow,37719.28
+3200,New London,2005,Snow,6310.19
+3200,Tolland,2005,Snow,35042.03
+3200,Middlesex,2005,Snow,20441.27
+3200,New London,2005,Snow,28901.47
+3200,New Haven,2005,Snow,2562.32
+3200,Litchfield,2005,Snow,30632.24
+3200,Statewide,2005,Snow,9923.91
+3200,Middlesex,2005,Snow,2171.25
+3200,New London,2005,Snow,57905.48
+3200,Litchfield,2005,Snow,1961.25
+3200,New Haven,2005,Snow,25463.36
+3200,New London,2005,Snow,27053.9
+3200,Litchfield,2005,Snow,7852.93
+3200,Litchfield,2005,Snow,8080.97
+3200,New Haven,2005,Snow,21543.28
+3200,Statewide,2005,Snow,99496.14
+3200,Tolland,2005,Snow,1031.78
+3200,New Haven,2005,Snow,3575.46
+3200,Hartford,2005,Snow,72539.68
+3200,New Haven,2005,Snow,48852.39
+3200,New Haven,2005,Snow,45300.76
+3200,New Haven,2005,Snow,7058.15
+3200,New London,2005,Snow,49229.84
+3200,New Haven,2005,Snow,59575.19
+3200,Litchfield,2005,Snow,25549.93
+3200,New Haven,2005,Snow,9241.58
+3200,Litchfield,2005,Snow,49459.28
+3200,New Haven,2005,Snow,56860.95
+3200,Middlesex,2005,Snow,13998.14
+3200,New London,2005,Snow,59225.62
+3200,New London,2005,Snow,11558.9
+3200,Tolland,2005,Snow,2772.07
+3200,Litchfield,2005,Snow,31466.63
+3200,New London,2005,Snow,19753.2
+3200,Litchfield,2005,Snow,24411.15
+3200,New Haven,2005,Snow,11320.01
+3200,New Haven,2005,Snow,57497.0
+3200,New Haven,2005,Snow,2791.77
+3200,New Haven,2005,Snow,182216.55
+3200,Windham,2005,Snow,15180.2
+3200,Middlesex,2005,Snow,4225.22
+3200,Litchfield,2005,Snow,69572.04
+3200,Litchfield,2005,Snow,2424.5
+3200,Tolland,2005,Snow,18075.59
+3200,Litchfield,2005,Snow,8370.76
+3200,Middlesex,2005,Snow,36559.68
+3200,Litchfield,2005,Snow,23453.39
+3200,Hartford,2005,Snow,57254.81
+3200,Statewide,2005,Snow,1770.0
+3200,Middlesex,2005,Snow,33324.14
+3200,New London,2005,Snow,17805.74
+3200,New London,2005,Snow,13776.35
+3200,Statewide,2005,Snow,2864924.26
+3200,New London,2005,Snow,15099.72
+3200,Middlesex,2005,Snow,12077.62
+3200,New Haven,2005,Snow,47543.58
+3200,Litchfield,2005,Snow,37253.6
+3200,New Haven,2005,Snow,31004.73
+3200,Middlesex,2005,Snow,34869.4
+3200,Litchfield,2005,Snow,13941.62
+3200,Litchfield,2005,Snow,7251.3
+3200,Litchfield,2005,Snow,14042.57
+3200,Tolland,2005,Snow,33982.51
+3200,Windham,2005,Snow,31678.12
+3200,New Haven,2005,Snow,42949.28
+3200,Windham,2005,Snow,5741.12
+3200,Windham,2005,Snow,20572.04
+3200,Windham,2005,Snow,23248.63
+3200,New Haven,2005,Snow,49383.44
+3200,Windham,2005,Snow,24638.0
+3200,Windham,2005,Snow,15918.11
+3200,Windham,2005,Snow,9104.18
+3200,Windham,2005,Snow,38954.24
+3200,Windham,2005,Snow,24682.88
+3200,Windham,2005,Snow,1777.5
+3200,Windham,2005,Snow,5684.57
+3200,Windham,2005,Snow,44816.49
+3200,Windham,2005,Snow,6661.67
+3200,Tolland,2005,Snow,132251.9
+3200,Windham,2005,Snow,5872.24
+3200,New Haven,2005,Snow,3817.41
+3200,Middlesex,2005,Snow,36030.69
+3200,New Haven,2005,Snow,44366.13
+3200,New Haven,2005,Snow,48808.76
+3246,Statewide,2005,Hurricane,606278.74
+3246,Hartford,2005,Hurricane,5105.0
+3246,Statewide,2005,Hurricane,43825.4
+3246,Statewide,2005,Hurricane,-15710.81
+3266,Hartford,2006,Snow,38972.27
+3266,Hartford,2006,Snow,67523.65
+3266,Hartford,2006,Snow,55744.68
+3266,Hartford,2006,Snow,10651.13
+3266,Hartford,2006,Snow,61710.78
+3266,Fairfield,2006,Snow,8995.08
+3266,New Haven,2006,Snow,56269.06
+3266,New Haven,2006,Snow,30584.89
+3266,Hartford,2006,Snow,81631.96
+3266,Fairfield,2006,Snow,24931.03
+3266,Fairfield,2006,Snow,125554.93
+3266,Hartford,2006,Snow,7259.53
+3266,Fairfield,2006,Snow,86984.94
+3266,Hartford,2006,Snow,50946.71
+3266,Fairfield,2006,Snow,22335.2
+3266,Fairfield,2006,Snow,83896.76
+3266,Hartford,2006,Snow,28428.26
+3266,Hartford,2006,Snow,29346.54
+3266,Fairfield,2006,Snow,54745.37
+3266,Fairfield,2006,Snow,15695.92
+3266,Hartford,2006,Snow,2914.34
+3266,Hartford,2006,Snow,5187.95
+3266,New Haven,2006,Snow,17811.97
+3266,Hartford,2006,Snow,99079.52
+3266,New Haven,2006,Snow,2649.03
+3266,Hartford,2006,Snow,58216.64
+3266,New Haven,2006,Snow,33728.63
+3266,Hartford,2006,Snow,195361.08
+3266,Hartford,2006,Snow,2469.26
+3266,Hartford,2006,Snow,16966.26
+3266,Fairfield,2006,Snow,41092.55
+3266,Fairfield,2006,Snow,78915.54
+3266,New Haven,2006,Snow,851.25
+3266,Fairfield,2006,Snow,7297.95
+3266,Hartford,2006,Snow,3993.75
+3266,New Haven,2006,Snow,16722.56
+3266,Hartford,2006,Snow,93132.66
+3266,Hartford,2006,Snow,30789.23
+3266,Hartford,2006,Snow,23477.3
+3266,New Haven,2006,Snow,63186.72
+3266,Hartford,2006,Snow,160425.67
+3266,Fairfield,2006,Snow,156256.16
+3266,Hartford,2006,Snow,4790.84
+3266,Hartford,2006,Snow,3376.68
+3266,Fairfield,2006,Snow,21175.87
+3266,Hartford,2006,Snow,17863.4
+3266,Hartford,2006,Snow,74262.55
+3266,Fairfield,2006,Snow,50120.36
+3266,Hartford,2006,Snow,55183.44
+3266,Hartford,2006,Snow,51229.95
+3266,New Haven,2006,Snow,3678.65
+3266,New Haven,2006,Snow,44219.52
+3266,New Haven,2006,Snow,33371.57
+3266,Hartford,2006,Snow,161259.79
+3266,Hartford,2006,Snow,50438.7
+3266,Fairfield,2006,Snow,264584.6
+3266,Hartford,2006,Snow,32900.24
+3266,Fairfield,2006,Snow,150880.61
+3266,Fairfield,2006,Snow,213569.83
+3266,Fairfield,2006,Snow,82857.56
+3266,Hartford,2006,Snow,1908.95
+3266,Fairfield,2006,Snow,3701.52
+3266,Fairfield,2006,Snow,56603.25
+3266,Hartford,2006,Snow,56587.35
+3266,New Haven,2006,Snow,45426.3
+3266,Hartford,2006,Snow,15508.22
+3266,New Haven,2006,Snow,3100.59
+3266,Hartford,2006,Snow,3966.0
+3266,Fairfield,2006,Snow,43993.17
+3266,Fairfield,2006,Snow,44521.14
+3266,Hartford,2006,Snow,5635.24
+3266,New Haven,2006,Snow,5366.25
+3266,Fairfield,2006,Snow,76028.99
+3266,Hartford,2006,Snow,17756.17
+3266,Fairfield,2006,Snow,43438.14
+3266,New Haven,2006,Snow,2025.0
+3266,Tolland,2006,Snow,46424.84
+3266,Windham,2006,Snow,43610.56
+3266,New Haven,2006,Snow,71227.31
+3266,Windham,2006,Snow,26359.91
+3266,Statewide,2006,Snow,-83340.07
+3266,New Haven,2006,Snow,11393.15
+3266,New Haven,2006,Snow,3482.8
+3266,New Haven,2006,Snow,111900.78
+3266,Tolland,2006,Snow,19640.51
+3266,Fairfield,2006,Snow,68856.59
+3266,Tolland,2006,Snow,2674.55
+3266,New Haven,2006,Snow,69103.39
+3266,Fairfield,2006,Snow,9866.0
+3266,Statewide,2006,Snow,41856.19
+3266,New Haven,2006,Snow,45944.64
+3266,Windham,2006,Snow,11600.83
+3266,Tolland,2006,Snow,73185.02
+3266,New Haven,2006,Snow,22866.98
+3266,New Haven,2006,Snow,142450.23
+3266,Hartford,2006,Snow,15858.38
+3266,Windham,2006,Snow,10715.3
+3266,Hartford,2006,Snow,4610.63
+3266,New Haven,2006,Snow,3122.51
+3266,New Haven,2006,Snow,36723.44
+3266,Tolland,2006,Snow,25002.45
+3266,New Haven,2006,Snow,41790.55
+3266,New Haven,2006,Snow,24061.23
+3266,Fairfield,2006,Snow,138893.45
+3266,Tolland,2006,Snow,8216.89
+3266,Windham,2006,Snow,3162.86
+3266,Tolland,2006,Snow,85371.54
+3266,Fairfield,2006,Snow,51632.03
+3266,Fairfield,2006,Snow,17445.92
+3266,Hartford,2006,Snow,89782.05
+3266,Windham,2006,Snow,35589.47
+3266,New Haven,2006,Snow,33698.01
+3266,Statewide,2006,Snow,68415.78
+3266,Windham,2006,Snow,44202.65
+3266,New Haven,2006,Snow,10435.84
+3266,Statewide,2006,Snow,4128.84
+3266,Tolland,2006,Snow,15037.7
+3266,Statewide,2006,Snow,111348.31
+3266,New Haven,2006,Snow,30978.71
+3266,Windham,2006,Snow,7711.76
+3266,New Haven,2006,Snow,2533.88
+3266,New Haven,2006,Snow,40812.48
+3266,Windham,2006,Snow,7257.61
+3266,New Haven,2006,Snow,79961.58
+3266,Hartford,2006,Snow,95426.69
+3266,Statewide,2006,Snow,13309.02
+3266,New Haven,2006,Snow,38044.07
+3266,Tolland,2006,Snow,16310.86
+3266,Windham,2006,Snow,12965.24
+3266,Tolland,2006,Snow,32720.4
+3266,New Haven,2006,Snow,10854.8
+3266,New Haven,2006,Snow,52502.91
+3266,Windham,2006,Snow,16225.46
+3266,New Haven,2006,Snow,67784.71
+3266,Hartford,2006,Snow,117159.32
+3266,New Haven,2006,Snow,1593.75
+3266,Hartford,2006,Snow,62757.64
+3266,Fairfield,2006,Snow,114800.48
+3266,Windham,2006,Snow,14470.96
+3266,New Haven,2006,Snow,19490.39
+3266,Windham,2006,Snow,14395.43
+3266,Hartford,2006,Snow,124115.0
+3266,New Haven,2006,Snow,45710.26
+3266,Statewide,2006,Snow,2608042.0
+3266,New Haven,2006,Snow,61799.48
+3266,Statewide,2006,Snow,1923.75
+3266,Tolland,2006,Snow,19687.31
+3266,New Haven,2006,Snow,73082.99
+3266,Tolland,2006,Snow,18123.97
+3266,Windham,2006,Snow,11684.3
+3266,Tolland,2006,Snow,4322.44
+3266,Windham,2006,Snow,30914.45
+3266,Tolland,2006,Snow,28073.59
+3266,New Haven,2006,Snow,206667.75
+3266,Hartford,2006,Snow,2535.0
+3342,Statewide,2011,Severe Storm(s),1950.0
+3342,New London,2011,Severe Storm(s),2778.17
+3342,New London,2011,Severe Storm(s),4911.51
+3342,New London,2011,Severe Storm(s),2162.33
+3342,New London,2011,Severe Storm(s),2088.54
+3342,New London,2011,Severe Storm(s),14367.25
+4023,Hartford,2011,Hurricane,108191.76
+4023,Fairfield,2011,Hurricane,769606.69
+4023,Fairfield,2011,Hurricane,2455570.05
+4023,Hartford,2011,Hurricane,20519.79
+4023,Fairfield,2011,Hurricane,51351.97
+4023,Fairfield,2011,Hurricane,263068.14
+4023,Fairfield,2011,Hurricane,1493111.4
+4023,Fairfield,2011,Hurricane,15153.2
+4023,Fairfield,2011,Hurricane,12345.77
+4023,Hartford,2011,Hurricane,83277.04
+4023,Fairfield,2011,Hurricane,724271.73
+4023,Hartford,2011,Hurricane,30149.33
+4023,Fairfield,2011,Hurricane,50692.4
+4023,Hartford,2011,Hurricane,1590.34
+4023,Hartford,2011,Hurricane,370895.08
+4023,Fairfield,2011,Hurricane,15443.25
+4023,Hartford,2011,Hurricane,12656.55
+4023,Hartford,2011,Hurricane,170438.51
+4023,Hartford,2011,Hurricane,23540.6
+4023,Hartford,2011,Hurricane,65982.4
+4023,Fairfield,2011,Hurricane,177800.32
+4023,Fairfield,2011,Hurricane,595480.96
+4023,Hartford,2011,Hurricane,20878.45
+4023,Fairfield,2011,Hurricane,8194.35
+4023,Fairfield,2011,Hurricane,85629.46
+4023,Fairfield,2011,Hurricane,144284.07
+4023,Hartford,2011,Hurricane,114392.01
+4023,Fairfield,2011,Hurricane,35501.98
+4023,Fairfield,2011,Hurricane,17095.72
+4023,Fairfield,2011,Hurricane,32554.23
+4023,Fairfield,2011,Hurricane,344496.24
+4023,Hartford,2011,Hurricane,9523.93
+4023,Hartford,2011,Hurricane,33555.93
+4023,Fairfield,2011,Hurricane,90634.94
+4023,Hartford,2011,Hurricane,63482.42
+4023,Hartford,2011,Hurricane,5437.25
+4023,Fairfield,2011,Hurricane,282189.18
+4023,Hartford,2011,Hurricane,6206.82
+4023,Fairfield,2011,Hurricane,59324.98
+4023,Hartford,2011,Hurricane,124602.91
+4023,Fairfield,2011,Hurricane,570438.62
+4023,Fairfield,2011,Hurricane,8822.19
+4023,Fairfield,2011,Hurricane,10323.11
+4023,Fairfield,2011,Hurricane,248143.6
+4023,Hartford,2011,Hurricane,17711.39
+4023,Hartford,2011,Hurricane,132738.11
+4023,Fairfield,2011,Hurricane,20432.06
+4023,Fairfield,2011,Hurricane,4799.8
+4023,Fairfield,2011,Hurricane,184014.54
+4023,Fairfield,2011,Hurricane,16874.32
+4023,Hartford,2011,Hurricane,45168.42
+4023,Fairfield,2011,Hurricane,2934.63
+4023,Hartford,2011,Hurricane,19985.83
+4023,Fairfield,2011,Hurricane,8033.48
+4023,Fairfield,2011,Hurricane,49719.71
+4023,Hartford,2011,Hurricane,50202.12
+4023,Hartford,2011,Hurricane,221.94
+4023,Hartford,2011,Hurricane,52037.92
+4023,Hartford,2011,Hurricane,145446.73
+4023,Hartford,2011,Hurricane,497324.96
+4023,Hartford,2011,Hurricane,105706.33
+4023,Hartford,2011,Hurricane,127402.3
+4023,Fairfield,2011,Hurricane,10027.27
+4023,Fairfield,2011,Hurricane,937.5
+4023,Hartford,2011,Hurricane,114839.68
+4023,Hartford,2011,Hurricane,111433.78
+4023,Hartford,2011,Hurricane,4297.5
+4023,Hartford,2011,Hurricane,192802.04
+4023,Hartford,2011,Hurricane,73538.74
+4023,Hartford,2011,Hurricane,25244.51
+4023,Fairfield,2011,Hurricane,14884.81
+4023,Hartford,2011,Hurricane,45381.83
+4023,Hartford,2011,Hurricane,107448.04
+4023,Fairfield,2011,Hurricane,4440.79
+4023,Fairfield,2011,Hurricane,135123.79
+4023,Litchfield,2011,Hurricane,204930.12
+4023,New London,2011,Hurricane,54487.96
+4023,New London,2011,Hurricane,190060.31
+4023,New London,2011,Hurricane,111549.32
+4023,Hartford,2011,Hurricane,29249.07
+4023,New London,2011,Hurricane,78002.78
+4023,New London,2011,Hurricane,54353.14
+4023,Fairfield,2011,Hurricane,9140.4
+4023,New London,2011,Hurricane,13656.71
+4023,New London,2011,Hurricane,13014.29
+4023,Litchfield,2011,Hurricane,1924.56
+4023,New London,2011,Hurricane,16678.12
+4023,New Haven,2011,Hurricane,5483.05
+4023,Middlesex,2011,Hurricane,2437.5
+4023,New London,2011,Hurricane,22972.9
+4023,Litchfield,2011,Hurricane,76300.25
+4023,Litchfield,2011,Hurricane,438874.43
+4023,New London,2011,Hurricane,15411.84
+4023,New Haven,2011,Hurricane,1279.84
+4023,New London,2011,Hurricane,17952.74
+4023,New Haven,2011,Hurricane,87270.09
+4023,New Haven,2011,Hurricane,2350.08
+4023,Fairfield,2011,Hurricane,969746.35
+4023,Fairfield,2011,Hurricane,126320.55
+4023,Litchfield,2011,Hurricane,42355.8
+4023,Litchfield,2011,Hurricane,22374.6
+4023,New London,2011,Hurricane,136969.32
+4023,New London,2011,Hurricane,56676.98
+4023,New Haven,2011,Hurricane,659570.66
+4023,Litchfield,2011,Hurricane,41839.08
+4023,New London,2011,Hurricane,485470.21
+4023,New Haven,2011,Hurricane,129836.05
+4023,Litchfield,2011,Hurricane,69471.86
+4023,Litchfield,2011,Hurricane,261320.42
+4023,Litchfield,2011,Hurricane,94246.77
+4023,New London,2011,Hurricane,1102830.94
+4023,Litchfield,2011,Hurricane,216357.89
+4023,New London,2011,Hurricane,31364.88
+4023,New Haven,2011,Hurricane,187284.59
+4023,New Haven,2011,Hurricane,117874.82
+4023,New London,2011,Hurricane,38609.81
+4023,New Haven,2011,Hurricane,4125.0
+4023,New London,2011,Hurricane,1776.71
+4023,New Haven,2011,Hurricane,389335.69
+4023,New Haven,2011,Hurricane,7181.25
+4023,Litchfield,2011,Hurricane,68568.24
+4023,Middlesex,2011,Hurricane,296216.4
+4023,Fairfield,2011,Hurricane,13611.42
+4023,New Haven,2011,Hurricane,196925.82
+4023,New Haven,2011,Hurricane,15400.21
+4023,New London,2011,Hurricane,286647.23
+4023,Middlesex,2011,Hurricane,26680.76
+4023,Middlesex,2011,Hurricane,24991.63
+4023,Fairfield,2011,Hurricane,500489.88
+4023,New London,2011,Hurricane,456347.4
+4023,Middlesex,2011,Hurricane,25890.24
+4023,Middlesex,2011,Hurricane,57079.55
+4023,New London,2011,Hurricane,3111.0
+4023,Litchfield,2011,Hurricane,82423.17
+4023,New Haven,2011,Hurricane,424501.99
+4023,New Haven,2011,Hurricane,4837.36
+4023,New Haven,2011,Hurricane,43686.35
+4023,New Haven,2011,Hurricane,341702.24
+4023,New Haven,2011,Hurricane,2455.74
+4023,New Haven,2011,Hurricane,101426.6
+4023,Litchfield,2011,Hurricane,85698.61
+4023,Litchfield,2011,Hurricane,87324.09
+4023,New Haven,2011,Hurricane,90968.74
+4023,Middlesex,2011,Hurricane,74953.71
+4023,Litchfield,2011,Hurricane,25008.2
+4023,Litchfield,2011,Hurricane,11349.44
+4023,New Haven,2011,Hurricane,828.75
+4023,Middlesex,2011,Hurricane,87287.83
+4023,New Haven,2011,Hurricane,13633.01
+4023,Litchfield,2011,Hurricane,1542.51
+4023,Middlesex,2011,Hurricane,264433.63
+4023,Fairfield,2011,Hurricane,32633.51
+4023,New Haven,2011,Hurricane,27556.79
+4023,Middlesex,2011,Hurricane,5311.43
+4023,New Haven,2011,Hurricane,694512.47
+4023,New Haven,2011,Hurricane,2126332.27
+4023,New London,2011,Hurricane,69245.57
+4023,Middlesex,2011,Hurricane,17141.49
+4023,New Haven,2011,Hurricane,557162.65
+4023,New Haven,2011,Hurricane,987548.85
+4023,Litchfield,2011,Hurricane,33788.11
+4023,Middlesex,2011,Hurricane,1946.25
+4023,Middlesex,2011,Hurricane,7809.23
+4023,New Haven,2011,Hurricane,644850.98
+4023,New Haven,2011,Hurricane,1291.23
+4023,Middlesex,2011,Hurricane,25326.53
+4023,Hartford,2011,Hurricane,15785.31
+4023,Middlesex,2011,Hurricane,143407.8
+4023,New London,2011,Hurricane,66825.18
+4023,Middlesex,2011,Hurricane,180238.39
+4023,Middlesex,2011,Hurricane,103574.28
+4023,Fairfield,2011,Hurricane,79051.2
+4023,New Haven,2011,Hurricane,64063.96
+4023,Middlesex,2011,Hurricane,431716.05
+4023,New Haven,2011,Hurricane,62180.97
+4023,New Haven,2011,Hurricane,11276.69
+4023,New Haven,2011,Hurricane,682939.52
+4023,New Haven,2011,Hurricane,104571.25
+4023,New Haven,2011,Hurricane,6651.65
+4023,New Haven,2011,Hurricane,25503.81
+4023,New London,2011,Hurricane,56726.75
+4023,New London,2011,Hurricane,3770.5
+4023,New Haven,2011,Hurricane,154937.82
+4023,New Haven,2011,Hurricane,30481.17
+4023,New London,2011,Hurricane,139129.34
+4023,Middlesex,2011,Hurricane,1021876.99
+4023,New London,2011,Hurricane,6072.15
+4023,Middlesex,2011,Hurricane,111881.61
+4023,Middlesex,2011,Hurricane,8646.75
+4023,New Haven,2011,Hurricane,1002035.25
+4023,New Haven,2011,Hurricane,2277.76
+4023,Fairfield,2011,Hurricane,1604.9
+4023,New Haven,2011,Hurricane,272657.05
+4023,New Haven,2011,Hurricane,580758.59
+4023,Litchfield,2011,Hurricane,5771.75
+4023,Litchfield,2011,Hurricane,85674.24
+4023,New Haven,2011,Hurricane,306415.03
+4023,New Haven,2011,Hurricane,43590.03
+4023,New Haven,2011,Hurricane,1841246.48
+4023,New Haven,2011,Hurricane,94583.84
+4023,New Haven,2011,Hurricane,24114.62
+4023,New London,2011,Hurricane,19276.34
+4023,Middlesex,2011,Hurricane,62802.42
+4023,New London,2011,Hurricane,323904.86
+4023,New Haven,2011,Hurricane,2946.0
+4023,Middlesex,2011,Hurricane,45700.08
+4023,Middlesex,2011,Hurricane,73069.98
+4023,Litchfield,2011,Hurricane,8282.74
+4023,Middlesex,2011,Hurricane,10592.25
+4023,New Haven,2011,Hurricane,6538.66
+4023,New Haven,2011,Hurricane,30475.06
+4023,New Haven,2011,Hurricane,128158.57
+4023,Litchfield,2011,Hurricane,17316.57
+4023,Statewide,2011,Hurricane,78719.41
+4023,Tolland,2011,Hurricane,104136.42
+4023,Windham,2011,Hurricane,2329.5
+4023,Tolland,2011,Hurricane,46152.77
+4023,Windham,2011,Hurricane,2147.73
+4023,Statewide,2011,Hurricane,157925.73
+4023,Tolland,2011,Hurricane,11818.24
+4023,New London,2011,Hurricane,26668.54
+4023,Statewide,2011,Hurricane,2081247.11
+4023,Windham,2011,Hurricane,23989.32
+4023,Tolland,2011,Hurricane,1322.34
+4023,Middlesex,2011,Hurricane,5065.54
+4023,New London,2011,Hurricane,1405.56
+4023,Windham,2011,Hurricane,30168.77
+4023,New London,2011,Hurricane,62637.64
+4023,Statewide,2011,Hurricane,256991.93
+4023,Tolland,2011,Hurricane,4305.47
+4023,Litchfield,2011,Hurricane,188474.96
+4023,New London,2011,Hurricane,17001.77
+4023,Windham,2011,Hurricane,123028.79
+4023,Tolland,2011,Hurricane,11875.39
+4023,Tolland,2011,Hurricane,18536.55
+4023,Windham,2011,Hurricane,46290.79
+4023,New London,2011,Hurricane,12139.88
+4023,New London,2011,Hurricane,22693.87
+4023,New Haven,2011,Hurricane,5709.93
+4023,Statewide,2011,Hurricane,40753.93
+4023,Tolland,2011,Hurricane,5056.22
+4023,Statewide,2011,Hurricane,382282.21
+4023,Windham,2011,Hurricane,23265.79
+4023,Windham,2011,Hurricane,19476.77
+4023,Tolland,2011,Hurricane,43842.97
+4023,Tolland,2011,Hurricane,33057.18
+4023,Litchfield,2011,Hurricane,19242.68
+4023,Windham,2011,Hurricane,13013.24
+4023,Windham,2011,Hurricane,103171.37
+4023,Tolland,2011,Hurricane,26666.4
+4023,Statewide,2011,Hurricane,262480.54
+4023,Windham,2011,Hurricane,47302.49
+4023,Tolland,2011,Hurricane,15148.04
+4023,Statewide,2011,Hurricane,47189.44
+4023,Litchfield,2011,Hurricane,8589.74
+4023,New Haven,2011,Hurricane,1599.0
+4023,New London,2011,Hurricane,16328.1
+4023,Windham,2011,Hurricane,3256.9
+4023,Statewide,2011,Hurricane,32718.4
+4023,Windham,2011,Hurricane,15470.39
+4023,New London,2011,Hurricane,185852.52
+4023,Fairfield,2011,Hurricane,8654.88
+4023,Statewide,2011,Hurricane,120711.44
+4023,Tolland,2011,Hurricane,16436.03
+4023,Litchfield,2011,Hurricane,47013.79
+4023,Windham,2011,Hurricane,88071.87
+4023,Statewide,2011,Hurricane,368565.06
+4023,Middlesex,2011,Hurricane,7996.78
+4023,New London,2011,Hurricane,313337.18
+4023,Statewide,2011,Hurricane,43330.84
+4023,Statewide,2011,Hurricane,232512.1
+4023,Tolland,2011,Hurricane,69652.09
+4023,Statewide,2011,Hurricane,5243.62
+4023,Litchfield,2011,Hurricane,33293.77
+4023,Tolland,2011,Hurricane,3535.37
+4023,Windham,2011,Hurricane,24723.79
+4023,Tolland,2011,Hurricane,106559.29
+4023,Windham,2011,Hurricane,10828.13
+4023,Windham,2011,Hurricane,4612.15
+4023,Statewide,2011,Hurricane,20426.06
+4023,Tolland,2011,Hurricane,74987.49
+4023,Windham,2011,Hurricane,34636.82
+4023,Windham,2011,Hurricane,6705.83
+4023,Middlesex,2011,Hurricane,29164.55
+4023,Middlesex,2011,Hurricane,33109.29
+4046,Fairfield,2011,Severe Storm(s),33626.67
+4046,Fairfield,2011,Severe Storm(s),1650.0
+4046,Fairfield,2011,Severe Storm(s),11400.15
+4046,Fairfield,2011,Severe Storm(s),300668.81
+4046,Hartford,2011,Severe Storm(s),207325.57
+4046,Hartford,2011,Severe Storm(s),289801.82
+4046,Fairfield,2011,Severe Storm(s),2538.63
+4046,Fairfield,2011,Severe Storm(s),98750.94
+4046,Fairfield,2011,Severe Storm(s),14545.21
+4046,Fairfield,2011,Severe Storm(s),1084388.75
+4046,Hartford,2011,Severe Storm(s),38261.74
+4046,Fairfield,2011,Severe Storm(s),435346.99
+4046,Fairfield,2011,Severe Storm(s),228630.44
+4046,Fairfield,2011,Severe Storm(s),717991.59
+4046,Fairfield,2011,Severe Storm(s),3312.65
+4046,Hartford,2011,Severe Storm(s),35351.28
+4046,Fairfield,2011,Severe Storm(s),38061.22
+4046,Fairfield,2011,Severe Storm(s),6636.63
+4046,Fairfield,2011,Severe Storm(s),3472.32
+4046,Fairfield,2011,Severe Storm(s),6574.83
+4046,Fairfield,2011,Severe Storm(s),380555.24
+4046,Fairfield,2011,Severe Storm(s),66702.19
+4046,Hartford,2011,Severe Storm(s),1839269.09
+4046,Fairfield,2011,Severe Storm(s),94506.33
+4046,Fairfield,2011,Severe Storm(s),17531.09
+4046,Fairfield,2011,Severe Storm(s),69003.25
+4046,Fairfield,2011,Severe Storm(s),2905690.55
+4046,Fairfield,2011,Severe Storm(s),115578.7
+4046,Hartford,2011,Severe Storm(s),18866.14
+4046,Hartford,2011,Severe Storm(s),2217226.03
+4046,Fairfield,2011,Severe Storm(s),4568.0
+4046,Hartford,2011,Severe Storm(s),1573.92
+4046,Hartford,2011,Severe Storm(s),2895819.05
+4046,Hartford,2011,Severe Storm(s),18467.43
+4046,Fairfield,2011,Severe Storm(s),4600.38
+4046,Hartford,2011,Severe Storm(s),289862.0
+4046,Fairfield,2011,Severe Storm(s),15416.21
+4046,Fairfield,2011,Severe Storm(s),52341.76
+4046,Hartford,2011,Severe Storm(s),651620.37
+4046,Fairfield,2011,Severe Storm(s),440413.74
+4046,Fairfield,2011,Severe Storm(s),233203.37
+4046,Hartford,2011,Severe Storm(s),1572.83
+4046,Hartford,2011,Severe Storm(s),8232.9
+4046,Hartford,2011,Severe Storm(s),10380.92
+4046,Fairfield,2011,Severe Storm(s),122326.25
+4046,Fairfield,2011,Severe Storm(s),290661.17
+4046,Fairfield,2011,Severe Storm(s),337961.87
+4046,New Haven,2011,Severe Storm(s),1065.0
+4046,Hartford,2011,Severe Storm(s),15417.64
+4046,Hartford,2011,Severe Storm(s),106305.31
+4046,Middlesex,2011,Severe Storm(s),2051.84
+4046,Hartford,2011,Severe Storm(s),1359256.24
+4046,Hartford,2011,Severe Storm(s),371550.13
+4046,New Haven,2011,Severe Storm(s),3379.5
+4046,Hartford,2011,Severe Storm(s),9367.37
+4046,Hartford,2011,Severe Storm(s),13794.98
+4046,Hartford,2011,Severe Storm(s),1455716.3
+4046,Litchfield,2011,Severe Storm(s),270311.05
+4046,Litchfield,2011,Severe Storm(s),332811.23
+4046,Middlesex,2011,Severe Storm(s),16601.39
+4046,Litchfield,2011,Severe Storm(s),25611.76
+4046,New Haven,2011,Severe Storm(s),11131.56
+4046,Litchfield,2011,Severe Storm(s),19508.55
+4046,Hartford,2011,Severe Storm(s),13845.89
+4046,New Haven,2011,Severe Storm(s),1706.25
+4046,Litchfield,2011,Severe Storm(s),34455.21
+4046,Middlesex,2011,Severe Storm(s),129981.97
+4046,Litchfield,2011,Severe Storm(s),102608.11
+4046,Hartford,2011,Severe Storm(s),66608.4
+4046,New Haven,2011,Severe Storm(s),212768.48
+4046,New Haven,2011,Severe Storm(s),5830.62
+4046,Hartford,2011,Severe Storm(s),1218.75
+4046,Hartford,2011,Severe Storm(s),552821.15
+4046,Hartford,2011,Severe Storm(s),15064.14
+4046,New Haven,2011,Severe Storm(s),66649.28
+4046,Hartford,2011,Severe Storm(s),1722598.57
+4046,Hartford,2011,Severe Storm(s),1909421.41
+4046,Litchfield,2011,Severe Storm(s),70657.06
+4046,Hartford,2011,Severe Storm(s),110224.57
+4046,Hartford,2011,Severe Storm(s),63044.96
+4046,New Haven,2011,Severe Storm(s),1357.77
+4046,Hartford,2011,Severe Storm(s),73430.26
+4046,Litchfield,2011,Severe Storm(s),20494.48
+4046,Middlesex,2011,Severe Storm(s),254949.13
+4046,Litchfield,2011,Severe Storm(s),3489.86
+4046,Hartford,2011,Severe Storm(s),1218622.05
+4046,Hartford,2011,Severe Storm(s),826034.13
+4046,Hartford,2011,Severe Storm(s),1444483.2
+4046,Hartford,2011,Severe Storm(s),19254.51
+4046,Litchfield,2011,Severe Storm(s),5773.36
+4046,Middlesex,2011,Severe Storm(s),66215.97
+4046,Middlesex,2011,Severe Storm(s),45423.21
+4046,Middlesex,2011,Severe Storm(s),465054.58
+4046,Hartford,2011,Severe Storm(s),2788067.51
+4046,Hartford,2011,Severe Storm(s),517996.91
+4046,New Haven,2011,Severe Storm(s),383737.99
+4046,Hartford,2011,Severe Storm(s),556030.2
+4046,Litchfield,2011,Severe Storm(s),22587.09
+4046,Hartford,2011,Severe Storm(s),212028.25
+4046,Middlesex,2011,Severe Storm(s),169125.18
+4046,Litchfield,2011,Severe Storm(s),26314.6
+4046,Hartford,2011,Severe Storm(s),785017.55
+4046,Hartford,2011,Severe Storm(s),1203.06
+4046,Hartford,2011,Severe Storm(s),8035775.28
+4046,Litchfield,2011,Severe Storm(s),35011.34
+4046,Hartford,2011,Severe Storm(s),995731.67
+4046,New Haven,2011,Severe Storm(s),166364.11
+4046,Hartford,2011,Severe Storm(s),5285.49
+4046,Hartford,2011,Severe Storm(s),46101.58
+4046,New Haven,2011,Severe Storm(s),3892.5
+4046,Middlesex,2011,Severe Storm(s),19021.62
+4046,Hartford,2011,Severe Storm(s),8467.5
+4046,Hartford,2011,Severe Storm(s),3306.94
+4046,New Haven,2011,Severe Storm(s),10198.47
+4046,Litchfield,2011,Severe Storm(s),136303.47
+4046,Litchfield,2011,Severe Storm(s),23880.54
+4046,New Haven,2011,Severe Storm(s),17855.48
+4046,Hartford,2011,Severe Storm(s),5659408.5
+4046,Middlesex,2011,Severe Storm(s),201752.59
+4046,Hartford,2011,Severe Storm(s),58761.94
+4046,Middlesex,2011,Severe Storm(s),34968.75
+4046,Middlesex,2011,Severe Storm(s),10806.19
+4046,Hartford,2011,Severe Storm(s),15482.59
+4046,Hartford,2011,Severe Storm(s),2025.0
+4046,Litchfield,2011,Severe Storm(s),132926.38
+4046,Litchfield,2011,Severe Storm(s),15207.45
+4046,Middlesex,2011,Severe Storm(s),77761.48
+4046,Litchfield,2011,Severe Storm(s),36989.43
+4046,Litchfield,2011,Severe Storm(s),3890.93
+4046,Litchfield,2011,Severe Storm(s),2801.25
+4046,Hartford,2011,Severe Storm(s),58821.62
+4046,Litchfield,2011,Severe Storm(s),14137.17
+4046,Hartford,2011,Severe Storm(s),8322.57
+4046,Litchfield,2011,Severe Storm(s),37112.44
+4046,Hartford,2011,Severe Storm(s),49646.93
+4046,Middlesex,2011,Severe Storm(s),8310.75
+4046,Litchfield,2011,Severe Storm(s),34272.76
+4046,Middlesex,2011,Severe Storm(s),7929.29
+4046,Litchfield,2011,Severe Storm(s),67963.72
+4046,Hartford,2011,Severe Storm(s),10182.74
+4046,Litchfield,2011,Severe Storm(s),1312.5
+4046,Hartford,2011,Severe Storm(s),3761922.16
+4046,New Haven,2011,Severe Storm(s),131345.18
+4046,New Haven,2011,Severe Storm(s),74012.47
+4046,New Haven,2011,Severe Storm(s),73699.42
+4046,Litchfield,2011,Severe Storm(s),14839.28
+4046,New Haven,2011,Severe Storm(s),261764.97
+4046,Middlesex,2011,Severe Storm(s),54638.87
+4046,Hartford,2011,Severe Storm(s),12329.65
+4046,New Haven,2011,Severe Storm(s),71549.81
+4046,Hartford,2011,Severe Storm(s),4124366.01
+4046,Hartford,2011,Severe Storm(s),10833.75
+4046,Litchfield,2011,Severe Storm(s),8447.27
+4046,Litchfield,2011,Severe Storm(s),95402.5
+4046,New Haven,2011,Severe Storm(s),30333.4
+4046,Middlesex,2011,Severe Storm(s),28234.31
+4046,Hartford,2011,Severe Storm(s),416491.85
+4046,New Haven,2011,Severe Storm(s),99143.91
+4046,Litchfield,2011,Severe Storm(s),4838.85
+4046,Hartford,2011,Severe Storm(s),6641.58
+4046,Hartford,2011,Severe Storm(s),56043.6
+4046,Hartford,2011,Severe Storm(s),1297.35
+4046,Litchfield,2011,Severe Storm(s),31967.81
+4046,Middlesex,2011,Severe Storm(s),218159.31
+4046,Hartford,2011,Severe Storm(s),30375.2
+4046,Hartford,2011,Severe Storm(s),12378.97
+4046,Hartford,2011,Severe Storm(s),22930.42
+4046,Middlesex,2011,Severe Storm(s),7350.93
+4046,Hartford,2011,Severe Storm(s),4278075.9
+4046,Litchfield,2011,Severe Storm(s),836500.71
+4046,Hartford,2011,Severe Storm(s),800246.48
+4046,New Haven,2011,Severe Storm(s),9836.64
+4046,New Haven,2011,Severe Storm(s),84315.38
+4046,Hartford,2011,Severe Storm(s),48183.68
+4046,Middlesex,2011,Severe Storm(s),17148.52
+4046,Litchfield,2011,Severe Storm(s),122302.31
+4046,New Haven,2011,Severe Storm(s),814533.55
+4046,Hartford,2011,Severe Storm(s),7150.94
+4046,New Haven,2011,Severe Storm(s),4974.0
+4046,New Haven,2011,Severe Storm(s),1596.2
+4046,Hartford,2011,Severe Storm(s),14375.18
+4046,Hartford,2011,Severe Storm(s),73097.43
+4046,New Haven,2011,Severe Storm(s),3570.11
+4046,New Haven,2011,Severe Storm(s),17448.15
+4046,Tolland,2011,Severe Storm(s),2422.26
+4046,Windham,2011,Severe Storm(s),5316.84
+4046,Statewide,2011,Severe Storm(s),18459.35
+4046,New Haven,2011,Severe Storm(s),30073.54
+4046,Tolland,2011,Severe Storm(s),66100.96
+4046,Statewide,2011,Severe Storm(s),142879.97
+4046,New Haven,2011,Severe Storm(s),4325.95
+4046,New Haven,2011,Severe Storm(s),106898.35
+4046,Tolland,2011,Severe Storm(s),9154.24
+4046,Statewide,2011,Severe Storm(s),63320.78
+4046,Statewide,2011,Severe Storm(s),60978.35
+4046,Tolland,2011,Severe Storm(s),38471.18
+4046,Tolland,2011,Severe Storm(s),8496.59
+4046,Tolland,2011,Severe Storm(s),17605.69
+4046,Windham,2011,Severe Storm(s),54822.11
+4046,Tolland,2011,Severe Storm(s),36411.43
+4046,Tolland,2011,Severe Storm(s),3611.6
+4046,Windham,2011,Severe Storm(s),12554.06
+4046,Statewide,2011,Severe Storm(s),12790.62
+4046,New Haven,2011,Severe Storm(s),534516.72
+4046,Tolland,2011,Severe Storm(s),465018.81
+4046,Tolland,2011,Severe Storm(s),2872482.01
+4046,Statewide,2011,Severe Storm(s),75678.33
+4046,Statewide,2011,Severe Storm(s),11453717.85
+4046,Statewide,2011,Severe Storm(s),48724.48
+4046,New Haven,2011,Severe Storm(s),172834.65
+4046,Tolland,2011,Severe Storm(s),1370.5
+4046,Statewide,2011,Severe Storm(s),150039.73
+4046,New Haven,2011,Severe Storm(s),362410.31
+4046,New Haven,2011,Severe Storm(s),366938.07
+4046,Statewide,2011,Severe Storm(s),525978.59
+4046,Statewide,2011,Severe Storm(s),108159.94
+4046,Tolland,2011,Severe Storm(s),961357.52
+4046,Statewide,2011,Severe Storm(s),428386.94
+4046,Tolland,2011,Severe Storm(s),608863.76
+4046,Tolland,2011,Severe Storm(s),86739.27
+4046,New Haven,2011,Severe Storm(s),114069.17
+4046,Statewide,2011,Severe Storm(s),43960.43
+4046,Statewide,2011,Severe Storm(s),1605.68
+4046,Statewide,2011,Severe Storm(s),15318.0
+4046,Tolland,2011,Severe Storm(s),97633.56
+4046,New Haven,2011,Severe Storm(s),50031.71
+4046,Tolland,2011,Severe Storm(s),141633.12
+4046,New Haven,2011,Severe Storm(s),628787.51
+4046,Windham,2011,Severe Storm(s),43723.23
+4046,Tolland,2011,Severe Storm(s),7940.4
+4046,Statewide,2011,Severe Storm(s),468740.49
+4046,Windham,2011,Severe Storm(s),4912.5
+4046,Windham,2011,Severe Storm(s),1266.63
+4046,Tolland,2011,Severe Storm(s),4233.0
+4087,Fairfield,2012,Hurricane,1138576.9
+4087,Fairfield,2012,Hurricane,734775.2
+4087,Fairfield,2012,Hurricane,1530998.99
+4087,Fairfield,2012,Hurricane,426462.84
+4087,Fairfield,2012,Hurricane,7867.87
+4087,Fairfield,2012,Hurricane,3332908.96
+4087,Fairfield,2012,Hurricane,6297.35
+4087,Fairfield,2012,Hurricane,102943.42
+4087,Fairfield,2012,Hurricane,5368.03
+4087,Fairfield,2012,Hurricane,6580.1
+4087,Fairfield,2012,Hurricane,12303.33
+4087,Fairfield,2012,Hurricane,69091.16
+4087,Fairfield,2012,Hurricane,93607.66
+4087,Fairfield,2012,Hurricane,68152.35
+4087,Fairfield,2012,Hurricane,71404.28
+4087,Fairfield,2012,Hurricane,1875.0
+4087,Fairfield,2012,Hurricane,79562.05
+4087,Fairfield,2012,Hurricane,221264.1
+4087,Fairfield,2012,Hurricane,125726.32
+4087,Fairfield,2012,Hurricane,340182.34
+4087,Fairfield,2012,Hurricane,152889.68
+4087,Fairfield,2012,Hurricane,2678660.9
+4087,Fairfield,2012,Hurricane,4140347.33
+4087,Fairfield,2012,Hurricane,6488.8
+4087,Fairfield,2012,Hurricane,15424.58
+4087,Fairfield,2012,Hurricane,673090.21
+4087,Fairfield,2012,Hurricane,35776.0
+4087,Fairfield,2012,Hurricane,8920.27
+4087,Fairfield,2012,Hurricane,161840.16
+4087,Fairfield,2012,Hurricane,443925.69
+4087,Fairfield,2012,Hurricane,1111.47
+4087,Fairfield,2012,Hurricane,9697.75
+4087,Fairfield,2012,Hurricane,302461.4
+4087,Fairfield,2012,Hurricane,26910.97
+4087,Fairfield,2012,Hurricane,9559.76
+4087,Fairfield,2012,Hurricane,1522877.46
+4087,Fairfield,2012,Hurricane,187.5
+4087,Fairfield,2012,Hurricane,759.65
+4087,Fairfield,2012,Hurricane,12033.98
+4087,Fairfield,2012,Hurricane,75754.91
+4087,Fairfield,2012,Hurricane,596060.24
+4087,Fairfield,2012,Hurricane,8182.54
+4087,Fairfield,2012,Hurricane,4238246.53
+4087,Fairfield,2012,Hurricane,53465.95
+4087,Fairfield,2012,Hurricane,128116.37
+4087,Fairfield,2012,Hurricane,4009053.52
+4087,Fairfield,2012,Hurricane,45364.91
+4087,Hartford,2012,Hurricane,6667.4
+4087,Fairfield,2012,Hurricane,9810.0
+4087,Fairfield,2012,Hurricane,68725.78
+4087,Fairfield,2012,Hurricane,856766.92
+4087,Fairfield,2012,Hurricane,65442.92
+4087,Statewide,2012,Hurricane,618679.19
+4087,New London,2012,Hurricane,7706.25
+4087,Litchfield,2012,Hurricane,25907.98
+4087,Litchfield,2012,Hurricane,31631.72
+4087,New Haven,2012,Hurricane,137661.08
+4087,New Haven,2012,Hurricane,33825.62
+4087,Litchfield,2012,Hurricane,40897.69
+4087,New London,2012,Hurricane,24218.83
+4087,New London,2012,Hurricane,31691.25
+4087,New London,2012,Hurricane,10810.16
+4087,New London,2012,Hurricane,17381.36
+4087,Statewide,2012,Hurricane,33369.69
+4087,New Haven,2012,Hurricane,117224.57
+4087,New Haven,2012,Hurricane,1560956.2
+4087,New Haven,2012,Hurricane,5384.84
+4087,Statewide,2012,Hurricane,11553.5
+4087,Litchfield,2012,Hurricane,79973.68
+4087,New Haven,2012,Hurricane,253996.64
+4087,New Haven,2012,Hurricane,603276.48
+4087,Litchfield,2012,Hurricane,107196.11
+4087,Litchfield,2012,Hurricane,39801.39
+4087,New London,2012,Hurricane,92078.94
+4087,New Haven,2012,Hurricane,128243.06
+4087,New London,2012,Hurricane,272863.37
+4087,Statewide,2012,Hurricane,8255.21
+4087,New London,2012,Hurricane,10022.95
+4087,Middlesex,2012,Hurricane,63408.42
+4087,New Haven,2012,Hurricane,123524.49
+4087,Hartford,2012,Hurricane,2562.0
+4087,New Haven,2012,Hurricane,34879.42
+4087,New Haven,2012,Hurricane,347838.08
+4087,Statewide,2012,Hurricane,13470.84
+4087,New Haven,2012,Hurricane,125736.36
+4087,Litchfield,2012,Hurricane,47135.68
+4087,New Haven,2012,Hurricane,7674.19
+4087,New Haven,2012,Hurricane,2153119.6
+4087,New London,2012,Hurricane,909.44
+4087,New London,2012,Hurricane,30671.64
+4087,Litchfield,2012,Hurricane,14948.4
+4087,New London,2012,Hurricane,33452.18
+4087,New London,2012,Hurricane,49343.65
+4087,Statewide,2012,Hurricane,335619.83
+4087,Statewide,2012,Hurricane,1639.58
+4087,New London,2012,Hurricane,927069.3
+4087,Middlesex,2012,Hurricane,43009.2
+4087,New Haven,2012,Hurricane,104998.25
+4087,New London,2012,Hurricane,178994.84
+4087,New Haven,2012,Hurricane,524610.6
+4087,New Haven,2012,Hurricane,4542.71
+4087,New Haven,2012,Hurricane,4980.86
+4087,New Haven,2012,Hurricane,314700.05
+4087,New London,2012,Hurricane,3734.06
+4087,Litchfield,2012,Hurricane,14883.49
+4087,New Haven,2012,Hurricane,6643.32
+4087,New London,2012,Hurricane,84137.81
+4087,Middlesex,2012,Hurricane,37688.88
+4087,Statewide,2012,Hurricane,9237.64
+4087,Middlesex,2012,Hurricane,59974.15
+4087,New Haven,2012,Hurricane,53628.73
+4087,New Haven,2012,Hurricane,15582.38
+4087,New Haven,2012,Hurricane,141238.42
+4087,New Haven,2012,Hurricane,456374.32
+4087,New Haven,2012,Hurricane,421217.68
+4087,New London,2012,Hurricane,20086.39
+4087,Statewide,2012,Hurricane,9184.75
+4087,New Haven,2012,Hurricane,178496.55
+4087,New Haven,2012,Hurricane,14450.29
+4087,New London,2012,Hurricane,48685.44
+4087,New Haven,2012,Hurricane,1410.38
+4087,New London,2012,Hurricane,48987.57
+4087,New Haven,2012,Hurricane,1150.16
+4087,New Haven,2012,Hurricane,1602842.69
+4087,Middlesex,2012,Hurricane,54430.96
+4087,New Haven,2012,Hurricane,114419.18
+4087,New Haven,2012,Hurricane,4985.19
+4087,Middlesex,2012,Hurricane,68586.24
+4087,New London,2012,Hurricane,6410.2
+4087,New London,2012,Hurricane,15295.83
+4087,Middlesex,2012,Hurricane,89335.82
+4087,Statewide,2012,Hurricane,3446018.25
+4087,Statewide,2012,Hurricane,300.0
+4087,Statewide,2012,Hurricane,2666490.37
+4087,New London,2012,Hurricane,194353.07
+4087,New London,2012,Hurricane,69029.13
+4087,New London,2012,Hurricane,16973.18
+4087,New Haven,2012,Hurricane,186138.09
+4087,Middlesex,2012,Hurricane,75072.4
+4087,Middlesex,2012,Hurricane,6239.51
+4087,New Haven,2012,Hurricane,588515.05
+4087,Middlesex,2012,Hurricane,202703.47
+4087,New Haven,2012,Hurricane,5282.66
+4087,New London,2012,Hurricane,7630.18
+4087,Middlesex,2012,Hurricane,187956.23
+4087,New London,2012,Hurricane,384209.5
+4087,New Haven,2012,Hurricane,118687.14
+4087,Statewide,2012,Hurricane,590757.63
+4087,New Haven,2012,Hurricane,3759.73
+4087,New Haven,2012,Hurricane,64563.07
+4087,Middlesex,2012,Hurricane,20307.59
+4087,New Haven,2012,Hurricane,25233.56
+4087,Litchfield,2012,Hurricane,8948.76
+4087,New London,2012,Hurricane,690376.59
+4087,New Haven,2012,Hurricane,17463.58
+4087,New London,2012,Hurricane,1879.64
+4087,Statewide,2012,Hurricane,12202.58
+4087,Litchfield,2012,Hurricane,24708.26
+4087,New London,2012,Hurricane,8819.75
+4087,Litchfield,2012,Hurricane,13339.39
+4087,Middlesex,2012,Hurricane,19289.76
+4087,Middlesex,2012,Hurricane,74697.49
+4087,Litchfield,2012,Hurricane,13956.54
+4087,New London,2012,Hurricane,44792.59
+4087,Middlesex,2012,Hurricane,10152.19
+4087,New London,2012,Hurricane,121903.71
+4087,New London,2012,Hurricane,224262.77
+4087,New London,2012,Hurricane,782378.5
+4087,New London,2012,Hurricane,2414.64
+4087,New London,2012,Hurricane,4946.44
+4087,Middlesex,2012,Hurricane,1407243.91
+4087,New London,2012,Hurricane,7246.13
+4087,Litchfield,2012,Hurricane,42671.03
+4087,New London,2012,Hurricane,272108.91
+4087,New Haven,2012,Hurricane,105490.03
+4087,Tolland,2012,Hurricane,30272.81
+4087,New Haven,2012,Hurricane,109477.35
+4087,Statewide,2012,Hurricane,291430.52
+4087,Windham,2012,Hurricane,14895.66
+4087,New Haven,2012,Hurricane,139223.7
+4087,Tolland,2012,Hurricane,9002.15
+4087,Tolland,2012,Hurricane,22505.06
+4087,New London,2012,Hurricane,16900.64
+4087,Tolland,2012,Hurricane,34699.08
+4087,Tolland,2012,Hurricane,55692.96
+4087,Tolland,2012,Hurricane,36253.94
+4087,Middlesex,2012,Hurricane,64992.46
+4087,New London,2012,Hurricane,548622.61
+4087,New London,2012,Hurricane,485471.56
+4087,New London,2012,Hurricane,44960.18
+4087,Middlesex,2012,Hurricane,13629.42
+4087,Tolland,2012,Hurricane,15521.66
+4087,Windham,2012,Hurricane,39323.77
+4087,Middlesex,2012,Hurricane,24372.89
+4087,Tolland,2012,Hurricane,39051.98
+4087,Tolland,2012,Hurricane,8666.49
+4087,Windham,2012,Hurricane,32505.79
+4087,Middlesex,2012,Hurricane,5639.3
+4087,New Haven,2012,Hurricane,122383.27
+4087,Litchfield,2012,Hurricane,16872.53
+4087,Statewide,2012,Hurricane,2963.31
+4087,Windham,2012,Hurricane,33814.29
+4087,Windham,2012,Hurricane,19427.37
+4087,Middlesex,2012,Hurricane,7430.96
+4087,Statewide,2012,Hurricane,22744.49
+4087,Tolland,2012,Hurricane,113008.19
+4087,Middlesex,2012,Hurricane,1675482.56
+4087,Statewide,2012,Hurricane,91711.48
+4087,Middlesex,2012,Hurricane,6455.92
+4087,Windham,2012,Hurricane,14422.08
+4087,New Haven,2012,Hurricane,1245822.75
+4087,Tolland,2012,Hurricane,15514.94
+4087,Tolland,2012,Hurricane,3266.52
+4087,Windham,2012,Hurricane,17660.76
+4087,Tolland,2012,Hurricane,43201.31
+4087,Statewide,2012,Hurricane,15782.89
+4106,Fairfield,2013,Severe Storm(s),200994.72
+4106,Fairfield,2013,Severe Storm(s),322982.22
+4106,Fairfield,2013,Severe Storm(s),303358.41
+4106,Fairfield,2013,Severe Storm(s),17535.83
+4106,Fairfield,2013,Severe Storm(s),2212.5
+4106,Fairfield,2013,Severe Storm(s),12148.37
+4106,Fairfield,2013,Severe Storm(s),5245.5
+4106,Fairfield,2013,Severe Storm(s),408992.7
+4106,Fairfield,2013,Severe Storm(s),107416.52
+4106,Fairfield,2013,Severe Storm(s),63767.97
+4106,Fairfield,2013,Severe Storm(s),5250.0
+4106,Fairfield,2013,Severe Storm(s),70458.37
+4106,Fairfield,2013,Severe Storm(s),202295.56
+4106,Fairfield,2013,Severe Storm(s),15211.77
+4106,Fairfield,2013,Severe Storm(s),27034.88
+4106,Fairfield,2013,Severe Storm(s),33331.13
+4106,Fairfield,2013,Severe Storm(s),4871.9
+4106,Fairfield,2013,Severe Storm(s),51023.71
+4106,Fairfield,2013,Severe Storm(s),5763.48
+4106,Fairfield,2013,Severe Storm(s),43985.21
+4106,Fairfield,2013,Severe Storm(s),5415.0
+4106,Fairfield,2013,Severe Storm(s),11610.0
+4106,Fairfield,2013,Severe Storm(s),243046.82
+4106,Fairfield,2013,Severe Storm(s),35799.51
+4106,Fairfield,2013,Severe Storm(s),89356.82
+4106,Fairfield,2013,Severe Storm(s),12038.57
+4106,Fairfield,2013,Severe Storm(s),87367.58
+4106,Fairfield,2013,Severe Storm(s),49294.04
+4106,Fairfield,2013,Severe Storm(s),204312.02
+4106,Fairfield,2013,Severe Storm(s),71122.0
+4106,Fairfield,2013,Severe Storm(s),18997.32
+4106,Fairfield,2013,Severe Storm(s),228469.67
+4106,Fairfield,2013,Severe Storm(s),11136.27
+4106,Fairfield,2013,Severe Storm(s),53704.67
+4106,Fairfield,2013,Severe Storm(s),7960.09
+4106,Fairfield,2013,Severe Storm(s),6089.39
+4106,Hartford,2013,Severe Storm(s),1365.0
+4106,Middlesex,2013,Severe Storm(s),71919.14
+4106,Litchfield,2013,Severe Storm(s),44616.8
+4106,Hartford,2013,Severe Storm(s),159604.59
+4106,Hartford,2013,Severe Storm(s),47459.24
+4106,Middlesex,2013,Severe Storm(s),130173.53
+4106,Middlesex,2013,Severe Storm(s),15339.49
+4106,Hartford,2013,Severe Storm(s),263045.35
+4106,Litchfield,2013,Severe Storm(s),19840.71
+4106,Litchfield,2013,Severe Storm(s),19097.45
+4106,Litchfield,2013,Severe Storm(s),135126.81
+4106,Litchfield,2013,Severe Storm(s),28787.31
+4106,Middlesex,2013,Severe Storm(s),89095.3
+4106,Hartford,2013,Severe Storm(s),21042.99
+4106,Hartford,2013,Severe Storm(s),22398.98
+4106,Middlesex,2013,Severe Storm(s),5825.2
+4106,Middlesex,2013,Severe Storm(s),43699.2
+4106,Hartford,2013,Severe Storm(s),30461.35
+4106,Hartford,2013,Severe Storm(s),38505.5
+4106,Hartford,2013,Severe Storm(s),215891.33
+4106,Middlesex,2013,Severe Storm(s),124977.09
+4106,New Haven,2013,Severe Storm(s),223076.34
+4106,Hartford,2013,Severe Storm(s),82650.98
+4106,Hartford,2013,Severe Storm(s),65573.33
+4106,Fairfield,2013,Severe Storm(s),4076.7
+4106,Litchfield,2013,Severe Storm(s),14310.17
+4106,Hartford,2013,Severe Storm(s),89304.5
+4106,Middlesex,2013,Severe Storm(s),37692.62
+4106,Middlesex,2013,Severe Storm(s),25817.9
+4106,Middlesex,2013,Severe Storm(s),49581.47
+4106,Hartford,2013,Severe Storm(s),2377.85
+4106,Litchfield,2013,Severe Storm(s),38127.73
+4106,Fairfield,2013,Severe Storm(s),37967.54
+4106,Middlesex,2013,Severe Storm(s),33628.71
+4106,Hartford,2013,Severe Storm(s),142656.14
+4106,Hartford,2013,Severe Storm(s),101476.8
+4106,New Haven,2013,Severe Storm(s),5577.76
+4106,Middlesex,2013,Severe Storm(s),26513.86
+4106,Hartford,2013,Severe Storm(s),4593.76
+4106,Hartford,2013,Severe Storm(s),8775.0
+4106,Middlesex,2013,Severe Storm(s),115625.2
+4106,Hartford,2013,Severe Storm(s),39608.97
+4106,Litchfield,2013,Severe Storm(s),26907.25
+4106,Middlesex,2013,Severe Storm(s),83881.27
+4106,Fairfield,2013,Severe Storm(s),94774.98
+4106,Hartford,2013,Severe Storm(s),1479071.75
+4106,Hartford,2013,Severe Storm(s),287038.28
+4106,Hartford,2013,Severe Storm(s),7188.75
+4106,Middlesex,2013,Severe Storm(s),44477.98
+4106,Hartford,2013,Severe Storm(s),198790.06
+4106,Litchfield,2013,Severe Storm(s),19756.48
+4106,Hartford,2013,Severe Storm(s),73760.86
+4106,New Haven,2013,Severe Storm(s),48531.8
+4106,Hartford,2013,Severe Storm(s),43421.81
+4106,Hartford,2013,Severe Storm(s),6578.57
+4106,Hartford,2013,Severe Storm(s),100060.47
+4106,Hartford,2013,Severe Storm(s),8741.99
+4106,New Haven,2013,Severe Storm(s),95430.98
+4106,Hartford,2013,Severe Storm(s),2260.5
+4106,New Haven,2013,Severe Storm(s),73502.55
+4106,Hartford,2013,Severe Storm(s),41612.25
+4106,Hartford,2013,Severe Storm(s),13318.75
+4106,Hartford,2013,Severe Storm(s),4122.75
+4106,Hartford,2013,Severe Storm(s),10357.5
+4106,Hartford,2013,Severe Storm(s),7926.0
+4106,Hartford,2013,Severe Storm(s),4936.73
+4106,Litchfield,2013,Severe Storm(s),197408.79
+4106,Litchfield,2013,Severe Storm(s),14690.03
+4106,Hartford,2013,Severe Storm(s),95408.32
+4106,Middlesex,2013,Severe Storm(s),6300.0
+4106,New Haven,2013,Severe Storm(s),4879.83
+4106,Hartford,2013,Severe Storm(s),49619.41
+4106,Middlesex,2013,Severe Storm(s),60661.32
+4106,Hartford,2013,Severe Storm(s),11127.25
+4106,Hartford,2013,Severe Storm(s),144678.06
+4106,Hartford,2013,Severe Storm(s),4238.26
+4106,New Haven,2013,Severe Storm(s),22636.05
+4106,Middlesex,2013,Severe Storm(s),9533.69
+4106,Hartford,2013,Severe Storm(s),35275.64
+4106,Litchfield,2013,Severe Storm(s),102910.91
+4106,Middlesex,2013,Severe Storm(s),13813.13
+4106,Hartford,2013,Severe Storm(s),155619.79
+4106,New Haven,2013,Severe Storm(s),4794.45
+4106,Hartford,2013,Severe Storm(s),58814.72
+4106,Hartford,2013,Severe Storm(s),7398.21
+4106,Litchfield,2013,Severe Storm(s),10844.09
+4106,Hartford,2013,Severe Storm(s),4073.54
+4106,Litchfield,2013,Severe Storm(s),10468.7
+4106,New Haven,2013,Severe Storm(s),75181.36
+4106,Fairfield,2013,Severe Storm(s),275537.46
+4106,Litchfield,2013,Severe Storm(s),57367.89
+4106,New Haven,2013,Severe Storm(s),189919.17
+4106,Hartford,2013,Severe Storm(s),7041.0
+4106,Hartford,2013,Severe Storm(s),13760.94
+4106,Litchfield,2013,Severe Storm(s),13622.45
+4106,Hartford,2013,Severe Storm(s),27161.25
+4106,Middlesex,2013,Severe Storm(s),276006.42
+4106,Hartford,2013,Severe Storm(s),206528.25
+4106,Hartford,2013,Severe Storm(s),1916.5
+4106,New Haven,2013,Severe Storm(s),11211.69
+4106,Hartford,2013,Severe Storm(s),225810.54
+4106,Hartford,2013,Severe Storm(s),181420.78
+4106,New Haven,2013,Severe Storm(s),248127.32
+4106,Litchfield,2013,Severe Storm(s),19990.35
+4106,Hartford,2013,Severe Storm(s),13564.67
+4106,Hartford,2013,Severe Storm(s),188276.1
+4106,Fairfield,2013,Severe Storm(s),205500.1
+4106,Hartford,2013,Severe Storm(s),127790.87
+4106,Middlesex,2013,Severe Storm(s),3048.63
+4106,Litchfield,2013,Severe Storm(s),44355.37
+4106,Hartford,2013,Severe Storm(s),3978.0
+4106,Fairfield,2013,Severe Storm(s),126848.8
+4106,Litchfield,2013,Severe Storm(s),17412.47
+4106,Hartford,2013,Severe Storm(s),94139.91
+4106,Litchfield,2013,Severe Storm(s),9950.81
+4106,Hartford,2013,Severe Storm(s),384522.58
+4106,Litchfield,2013,Severe Storm(s),19463.61
+4106,Hartford,2013,Severe Storm(s),2703.0
+4106,New Haven,2013,Severe Storm(s),6633.75
+4106,New Haven,2013,Severe Storm(s),191476.89
+4106,Hartford,2013,Severe Storm(s),8051.25
+4106,Middlesex,2013,Severe Storm(s),4097.4
+4106,Middlesex,2013,Severe Storm(s),73918.2
+4106,Hartford,2013,Severe Storm(s),6645.0
+4106,Litchfield,2013,Severe Storm(s),16706.98
+4106,Hartford,2013,Severe Storm(s),19506.49
+4106,Hartford,2013,Severe Storm(s),10777.31
+4106,Hartford,2013,Severe Storm(s),117883.45
+4106,New Haven,2013,Severe Storm(s),3435.95
+4106,Hartford,2013,Severe Storm(s),22164.34
+4106,Fairfield,2013,Severe Storm(s),65615.15
+4106,Hartford,2013,Severe Storm(s),15164.69
+4106,Hartford,2013,Severe Storm(s),5086.94
+4106,Hartford,2013,Severe Storm(s),187077.08
+4106,Hartford,2013,Severe Storm(s),207936.59
+4106,New Haven,2013,Severe Storm(s),26009.23
+4106,New London,2013,Severe Storm(s),14065.7
+4106,Windham,2013,Severe Storm(s),48618.97
+4106,Tolland,2013,Severe Storm(s),36018.9
+4106,Windham,2013,Severe Storm(s),34987.31
+4106,Tolland,2013,Severe Storm(s),35710.19
+4106,New Haven,2013,Severe Storm(s),216715.49
+4106,New Haven,2013,Severe Storm(s),946576.72
+4106,Tolland,2013,Severe Storm(s),52304.17
+4106,New Haven,2013,Severe Storm(s),22008.76
+4106,New Haven,2013,Severe Storm(s),184505.85
+4106,New London,2013,Severe Storm(s),7125.0
+4106,New Haven,2013,Severe Storm(s),279641.42
+4106,New London,2013,Severe Storm(s),87719.04
+4106,New London,2013,Severe Storm(s),73943.33
+4106,New London,2013,Severe Storm(s),15359.56
+4106,Windham,2013,Severe Storm(s),50961.29
+4106,Windham,2013,Severe Storm(s),16413.54
+4106,Tolland,2013,Severe Storm(s),21835.5
+4106,Windham,2013,Severe Storm(s),9289.63
+4106,Statewide,2013,Severe Storm(s),48038.4
+4106,New London,2013,Severe Storm(s),56656.58
+4106,Statewide,2013,Severe Storm(s),79365.99
+4106,Tolland,2013,Severe Storm(s),130499.0
+4106,New London,2013,Severe Storm(s),29919.39
+4106,Statewide,2013,Severe Storm(s),83323.84
+4106,Windham,2013,Severe Storm(s),21822.69
+4106,New Haven,2013,Severe Storm(s),98623.4
+4106,New Haven,2013,Severe Storm(s),13887.77
+4106,Statewide,2013,Severe Storm(s),5435035.47
+4106,Tolland,2013,Severe Storm(s),92386.58
+4106,New London,2013,Severe Storm(s),34535.92
+4106,Tolland,2013,Severe Storm(s),6002.72
+4106,New Haven,2013,Severe Storm(s),85520.02
+4106,Litchfield,2013,Severe Storm(s),37345.99
+4106,New Haven,2013,Severe Storm(s),37845.49
+4106,New Haven,2013,Severe Storm(s),12676.88
+4106,New Haven,2013,Severe Storm(s),698256.15
+4106,New London,2013,Severe Storm(s),32729.75
+4106,New London,2013,Severe Storm(s),14752.05
+4106,New London,2013,Severe Storm(s),251589.84
+4106,New London,2013,Severe Storm(s),15236.06
+4106,New London,2013,Severe Storm(s),49300.46
+4106,Litchfield,2013,Severe Storm(s),26756.63
+4106,Tolland,2013,Severe Storm(s),23554.6
+4106,New Haven,2013,Severe Storm(s),2610.0
+4106,New London,2013,Severe Storm(s),151498.86
+4106,New Haven,2013,Severe Storm(s),46618.27
+4106,Tolland,2013,Severe Storm(s),54299.67
+4106,Windham,2013,Severe Storm(s),27435.77
+4106,New Haven,2013,Severe Storm(s),25368.75
+4106,Tolland,2013,Severe Storm(s),74316.05
+4106,New Haven,2013,Severe Storm(s),243132.52
+4106,New London,2013,Severe Storm(s),84909.56
+4106,Tolland,2013,Severe Storm(s),37362.49
+4106,Windham,2013,Severe Storm(s),41225.47
+4106,New London,2013,Severe Storm(s),88027.3
+4106,Statewide,2013,Severe Storm(s),43855.49
+4106,New Haven,2013,Severe Storm(s),35320.39
+4106,New London,2013,Severe Storm(s),7575.67
+4106,Statewide,2013,Severe Storm(s),156556.96
+4106,New Haven,2013,Severe Storm(s),29036.54
+4106,Tolland,2013,Severe Storm(s),21464.9
+4106,Statewide,2013,Severe Storm(s),43037.09
+4106,New Haven,2013,Severe Storm(s),216458.63
+4106,Statewide,2013,Severe Storm(s),1159.27
+4106,Windham,2013,Severe Storm(s),8213.26
+4106,Windham,2013,Severe Storm(s),44363.57
+4106,Statewide,2013,Severe Storm(s),122693.21
+4106,New Haven,2013,Severe Storm(s),38264.59
+4106,Windham,2013,Severe Storm(s),32420.28
+4106,New London,2013,Severe Storm(s),1229.06
+4106,New Haven,2013,Severe Storm(s),12702.19
+4106,Statewide,2013,Severe Storm(s),581344.37
+4106,Tolland,2013,Severe Storm(s),115284.8
+4106,New Haven,2013,Severe Storm(s),64341.86
+4106,New London,2013,Severe Storm(s),7019.58
+4106,New Haven,2013,Severe Storm(s),229595.08
+4106,Statewide,2013,Severe Storm(s),220454.68
+4106,Tolland,2013,Severe Storm(s),7499.27
+4106,Windham,2013,Severe Storm(s),18816.12
+4106,New London,2013,Severe Storm(s),13455.02
+4106,New London,2013,Severe Storm(s),19642.4
+4106,New London,2013,Severe Storm(s),23412.45
+4106,Windham,2013,Severe Storm(s),11643.11
+4106,New Haven,2013,Severe Storm(s),17696.87
+4106,New Haven,2013,Severe Storm(s),158710.34
+4106,Litchfield,2013,Severe Storm(s),40580.91
+4106,Windham,2013,Severe Storm(s),55958.05
+4106,New London,2013,Severe Storm(s),118392.4
+4106,New Haven,2013,Severe Storm(s),9695.95
+4106,New Haven,2013,Severe Storm(s),173454.61
+4106,New Haven,2013,Severe Storm(s),10847.56
+4106,Statewide,2013,Severe Storm(s),18259.22
+4106,New Haven,2013,Severe Storm(s),483128.67
+4106,New London,2013,Severe Storm(s),91136.32
+4106,New Haven,2013,Severe Storm(s),451733.78
+4106,New Haven,2013,Severe Storm(s),31461.3
+4106,Litchfield,2013,Severe Storm(s),87112.2
+4106,Litchfield,2013,Severe Storm(s),37550.45
+4106,New Haven,2013,Severe Storm(s),133568.38
+4106,Statewide,2013,Severe Storm(s),29566.88
+4106,New Haven,2013,Severe Storm(s),35347.38
+4106,New London,2013,Severe Storm(s),103493.39
+4106,New Haven,2013,Severe Storm(s),204340.15
+4106,Windham,2013,Severe Storm(s),11067.66
+4106,Windham,2013,Severe Storm(s),16225.28
+4106,New Haven,2013,Severe Storm(s),108482.52
+4106,Tolland,2013,Severe Storm(s),50321.48
+4106,New Haven,2013,Severe Storm(s),139701.78
+4106,Statewide,2013,Severe Storm(s),33321.78
+4106,Statewide,2013,Severe Storm(s),1143.75
+4106,New Haven,2013,Severe Storm(s),17524.83
+4106,New London,2013,Severe Storm(s),5653.59
+4106,New Haven,2013,Severe Storm(s),110331.46
+4106,New London,2013,Severe Storm(s),21791.29
+4106,New London,2013,Severe Storm(s),110016.94
+4106,New Haven,2013,Severe Storm(s),155904.15
+4106,New London,2013,Severe Storm(s),6395.43
+4106,New Haven,2013,Severe Storm(s),81890.08
+4106,New Haven,2013,Severe Storm(s),7703.25
+4106,Statewide,2013,Severe Storm(s),90664.82
+4106,Windham,2013,Severe Storm(s),54303.14
+4106,New London,2013,Severe Storm(s),54660.9
+4106,New Haven,2013,Severe Storm(s),56560.94
+4106,New Haven,2013,Severe Storm(s),2161.94
+4106,Statewide,2013,Severe Storm(s),15569.61
+4106,New Haven,2013,Severe Storm(s),50049.82
+4106,New Haven,2013,Severe Storm(s),218948.23
+4106,New Haven,2013,Severe Storm(s),411413.2
+4106,New London,2013,Severe Storm(s),92354.66
+4106,New London,2013,Severe Storm(s),120171.23
+4106,New Haven,2013,Severe Storm(s),121527.09
+4106,New Haven,2013,Severe Storm(s),22772.89
+4106,Statewide,2013,Severe Storm(s),190637.33
+4106,New Haven,2013,Severe Storm(s),15255.0
+4106,Windham,2013,Severe Storm(s),1980.0
+4106,New Haven,2013,Severe Storm(s),57870.5
+4106,Windham,2013,Severe Storm(s),6658.76
+4106,Statewide,2013,Severe Storm(s),187459.58
+4106,New London,2013,Severe Storm(s),6861.08
+4213,Statewide,2015,Severe Storm(s),96222.67
+4213,Tolland,2015,Severe Storm(s),66353.03
+4213,Tolland,2015,Severe Storm(s),57955.13
+4213,Windham,2015,Severe Storm(s),51821.73
+4213,New Haven,2015,Severe Storm(s),49956.13
+4213,New London,2015,Severe Storm(s),37027.39
+4213,Windham,2015,Severe Storm(s),13502.28
+4213,New Haven,2015,Severe Storm(s),6127.84
+4213,Windham,2015,Severe Storm(s),39502.84
+4213,New London,2015,Severe Storm(s),273363.56
+4213,Tolland,2015,Severe Storm(s),16268.23
+4213,New Haven,2015,Severe Storm(s),367394.54
+4213,New Haven,2015,Severe Storm(s),223549.38
+4213,Tolland,2015,Severe Storm(s),5205.36
+4213,Tolland,2015,Severe Storm(s),98812.33
+4213,New Haven,2015,Severe Storm(s),12981.87
+4213,New Haven,2015,Severe Storm(s),36322.5
+4213,Windham,2015,Severe Storm(s),64908.37
+4213,Middlesex,2015,Severe Storm(s),2456.25
+4213,New Haven,2015,Severe Storm(s),24858.77
+4213,Windham,2015,Severe Storm(s),13795.85
+4213,New Haven,2015,Severe Storm(s),32415.69
+4213,New Haven,2015,Severe Storm(s),48781.01
+4213,Statewide,2015,Severe Storm(s),9446.25
+4213,Windham,2015,Severe Storm(s),5693.28
+4213,New London,2015,Severe Storm(s),23715.07
+4213,Tolland,2015,Severe Storm(s),91056.8
+4213,Statewide,2015,Severe Storm(s),69398.57
+4213,New London,2015,Severe Storm(s),22715.68
+4213,New London,2015,Severe Storm(s),34458.27
+4213,New London,2015,Severe Storm(s),2578.5
+4213,New Haven,2015,Severe Storm(s),46172.23
+4213,New London,2015,Severe Storm(s),8902.35
+4213,Windham,2015,Severe Storm(s),159872.85
+4213,Statewide,2015,Severe Storm(s),28024.22
+4213,New Haven,2015,Severe Storm(s),69190.68
+4213,New Haven,2015,Severe Storm(s),20401.67
+4213,Tolland,2015,Severe Storm(s),76848.06
+4213,Windham,2015,Severe Storm(s),36744.47
+4213,New Haven,2015,Severe Storm(s),37276.07
+4213,Statewide,2015,Severe Storm(s),524631.88
+4213,Windham,2015,Severe Storm(s),2542.5
+4213,New London,2015,Severe Storm(s),101097.83
+4213,New London,2015,Severe Storm(s),115589.8
+4213,New London,2015,Severe Storm(s),2872.5
+4213,New Haven,2015,Severe Storm(s),12477.65
+4213,New Haven,2015,Severe Storm(s),12393.75
+4213,New London,2015,Severe Storm(s),81128.36
+4213,New London,2015,Severe Storm(s),58093.09
+4213,Statewide,2015,Severe Storm(s),33339.92
+4213,New London,2015,Severe Storm(s),24273.79
+4213,New London,2015,Severe Storm(s),165351.35
+4213,New London,2015,Severe Storm(s),5105.83
+4213,New Haven,2015,Severe Storm(s),246118.35
+4213,Windham,2015,Severe Storm(s),24292.62
+4213,Tolland,2015,Severe Storm(s),7667.03
+4213,New Haven,2015,Severe Storm(s),76616.14
+4213,Windham,2015,Severe Storm(s),8450.18
+4213,Windham,2015,Severe Storm(s),14195.86
+4213,New Haven,2015,Severe Storm(s),4562.85
+4213,New London,2015,Severe Storm(s),5468.7
+4213,Tolland,2015,Severe Storm(s),22821.0
+4213,New London,2015,Severe Storm(s),11175.85
+4213,New Haven,2015,Severe Storm(s),90125.51
+4213,New Haven,2015,Severe Storm(s),25996.52
+4213,New Haven,2015,Severe Storm(s),34748.25
+4213,Tolland,2015,Severe Storm(s),36205.01
+4213,New Haven,2015,Severe Storm(s),58467.55
+4213,New London,2015,Severe Storm(s),22790.47
+4213,Windham,2015,Severe Storm(s),26373.83
+4213,New Haven,2015,Severe Storm(s),34397.93
+4213,New Haven,2015,Severe Storm(s),114768.22
+4213,Windham,2015,Severe Storm(s),65945.84
+4213,Windham,2015,Severe Storm(s),9010.65
+4213,Windham,2015,Severe Storm(s),10916.67
+4213,Windham,2015,Severe Storm(s),45417.03
+4213,Tolland,2015,Severe Storm(s),72630.67
+4213,New London,2015,Severe Storm(s),56109.43
+4213,New Haven,2015,Severe Storm(s),99931.12
+4213,New Haven,2015,Severe Storm(s),4487.03
+4213,Tolland,2015,Severe Storm(s),20515.83
+4213,New Haven,2015,Severe Storm(s),115086.17
+4213,Windham,2015,Severe Storm(s),7546.08
+4213,New Haven,2015,Severe Storm(s),39074.41
+4213,New Haven,2015,Severe Storm(s),139479.17
+4213,New Haven,2015,Severe Storm(s),6636.38
+4213,New London,2015,Severe Storm(s),59245.77
+4213,New Haven,2015,Severe Storm(s),18734.73
+4213,Tolland,2015,Severe Storm(s),51075.23
+4213,Tolland,2015,Severe Storm(s),20775.71
+4213,New Haven,2015,Severe Storm(s),57069.17
+4213,Windham,2015,Severe Storm(s),16301.1
+4213,New London,2015,Severe Storm(s),45184.5
+4213,New London,2015,Severe Storm(s),83279.93
+4213,New London,2015,Severe Storm(s),20071.55
+4213,Tolland,2015,Severe Storm(s),466219.58
+4213,Statewide,2015,Severe Storm(s),50290.33
+4213,Windham,2015,Severe Storm(s),343.11
+4213,New Haven,2015,Severe Storm(s),8889.34
+4213,New Haven,2015,Severe Storm(s),61049.24
+4213,New Haven,2015,Severe Storm(s),72791.57
+4213,New Haven,2015,Severe Storm(s),6433.01
+4213,New London,2015,Severe Storm(s),7692.75
+4213,New Haven,2015,Severe Storm(s),150427.53
+4213,Windham,2015,Severe Storm(s),86716.74
+4213,Windham,2015,Severe Storm(s),23295.47
+4213,New Haven,2015,Severe Storm(s),67402.32
+4213,Tolland,2015,Severe Storm(s),13651.94
+4213,New London,2015,Severe Storm(s),63289.85
+4213,New Haven,2015,Severe Storm(s),103957.09
+4213,New London,2015,Severe Storm(s),22764.38
+4213,New London,2015,Severe Storm(s),44452.58
+4213,New London,2015,Severe Storm(s),10788.75
+4213,New London,2015,Severe Storm(s),112282.98
+4213,New Haven,2015,Severe Storm(s),108271.38
+4213,Statewide,2015,Severe Storm(s),1972050.75
+4213,New Haven,2015,Severe Storm(s),123881.37
+4213,New London,2015,Severe Storm(s),125471.8
+4213,New Haven,2015,Severe Storm(s),89359.6
+4213,New Haven,2015,Severe Storm(s),150842.45
+4213,New London,2015,Severe Storm(s),69026.25
+4213,New London,2015,Severe Storm(s),141372.86
+4385,New Haven,2018,Tornado,96707.9
+4385,Fairfield,2018,Tornado,36385.89
+4385,New Haven,2018,Tornado,413818.24
+4385,New Haven,2018,Tornado,59470.72
+4385,New Haven,2018,Tornado,26052.11
+4385,Fairfield,2018,Tornado,102067.78
+4385,New Haven,2018,Tornado,658883.77
+4385,Fairfield,2018,Tornado,17715.0
+4385,Fairfield,2018,Tornado,2131052.05
+4385,New Haven,2018,Tornado,1139047.22
+4385,Fairfield,2018,Tornado,541792.67
+4385,Fairfield,2018,Tornado,47148.7
+4385,Fairfield,2018,Tornado,48598.75
+4385,New Haven,2018,Tornado,19392.02
+4385,Fairfield,2018,Tornado,1463659.72
+4385,New Haven,2018,Tornado,630016.24
+4385,Fairfield,2018,Tornado,67821.7
+4385,New Haven,2018,Tornado,198160.35
+4385,New Haven,2018,Tornado,2609828.61
+4385,New Haven,2018,Tornado,33343.8
+4385,Fairfield,2018,Tornado,2182337.71
+4385,Fairfield,2018,Tornado,18476.5
+4385,New Haven,2018,Tornado,226401.76
+4385,Statewide,2018,Tornado,404223.76
+4385,Statewide,2018,Tornado,472849.41
+4385,Statewide,2018,Tornado,1503279.53
+4385,New Haven,2018,Tornado,1363150.22
+4385,New Haven,2018,Tornado,17524.69
+4385,New Haven,2018,Tornado,42510.67
+4385,New Haven,2018,Tornado,22923.35
+4410,Middlesex,2018,Severe Storm(s),3750.0
+4410,Middlesex,2018,Severe Storm(s),33900.7
+4410,Statewide,2018,Severe Storm(s),375280.19
+4410,New London,2018,Severe Storm(s),4126.18
+4410,Middlesex,2018,Severe Storm(s),98241.32
+4410,Middlesex,2018,Severe Storm(s),35313.34
+4410,New London,2018,Severe Storm(s),23388.63
+4410,New London,2018,Severe Storm(s),45043.58
+4410,New London,2018,Severe Storm(s),41792.13
+4410,Middlesex,2018,Severe Storm(s),18475.54
+4410,New London,2018,Severe Storm(s),299633.12
+4410,Statewide,2018,Severe Storm(s),28882.61
+4385,New Haven,2018,Tornado,108158.99
+4385,New Haven,2018,Tornado,14040.81
+4385,Litchfield,2018,Tornado,10333.86

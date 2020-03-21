@@ -1,0 +1,2764 @@
+disasterNumber,county,year,incidentType,amountOblig
+1305,Grafton,1999,Hurricane,4864.06
+1305,Grafton,1999,Hurricane,3626.34
+1305,Cheshire,1999,Hurricane,5885.02
+1305,Cheshire,1999,Hurricane,22235.11
+1305,Grafton,1999,Hurricane,11405.75
+1305,Cheshire,1999,Hurricane,9188.25
+1305,Belknap,1999,Hurricane,4860.26
+1305,Grafton,1999,Hurricane,12759.32
+1305,Cheshire,1999,Hurricane,15619.41
+1305,Cheshire,1999,Hurricane,1734.97
+1305,Cheshire,1999,Hurricane,18484.93
+1305,Grafton,1999,Hurricane,2107.18
+1305,Cheshire,1999,Hurricane,3787.5
+1305,Grafton,1999,Hurricane,798.75
+1305,Grafton,1999,Hurricane,48472.67
+1305,Cheshire,1999,Hurricane,18437.28
+1305,Grafton,1999,Hurricane,2976.77
+1305,Statewide,1999,Hurricane,45744.71
+1305,Statewide,1999,Hurricane,4497.75
+1305,Grafton,1999,Hurricane,303817.56
+1305,Grafton,1999,Hurricane,21296.09
+1489,Cheshire,2003,Severe Storm(s),583649.53
+1489,Cheshire,2003,Severe Storm(s),825.41
+1489,Statewide,2003,Severe Storm(s),-18109.68
+1489,Cheshire,2003,Severe Storm(s),1220.13
+1489,Sullivan,2003,Severe Storm(s),6766.26
+1489,Cheshire,2003,Severe Storm(s),40831.32
+1489,Cheshire,2003,Severe Storm(s),5838.58
+1489,Cheshire,2003,Severe Storm(s),39499.92
+1489,Sullivan,2003,Severe Storm(s),1416.0
+1489,Statewide,2003,Severe Storm(s),8817.75
+1489,Sullivan,2003,Severe Storm(s),4909.97
+1489,Cheshire,2003,Severe Storm(s),2232.04
+1489,Cheshire,2003,Severe Storm(s),9177.65
+1489,Cheshire,2003,Severe Storm(s),819.56
+1489,Cheshire,2003,Severe Storm(s),115413.81
+1489,Sullivan,2003,Severe Storm(s),2984.1
+1489,Cheshire,2003,Severe Storm(s),45508.29
+1489,Cheshire,2003,Severe Storm(s),0.0
+1489,Statewide,2003,Severe Storm(s),5512.5
+1489,Sullivan,2003,Severe Storm(s),55234.99
+1489,Sullivan,2003,Severe Storm(s),8704.8
+1489,Sullivan,2003,Severe Storm(s),1967.95
+1610,Belknap,2005,Severe Storm(s),30611.57
+1610,Belknap,2005,Severe Storm(s),4246.28
+1610,Belknap,2005,Severe Storm(s),102517.94
+1610,Belknap,2005,Severe Storm(s),77404.86
+1610,Belknap,2005,Severe Storm(s),55236.24
+1610,Statewide,2005,Severe Storm(s),26869.67
+1610,Hillsborough,2005,Severe Storm(s),40246.69
+1610,Merrimack,2005,Severe Storm(s),9411.69
+1610,Merrimack,2005,Severe Storm(s),27934.8
+1610,Merrimack,2005,Severe Storm(s),27550.14
+1610,Sullivan,2005,Severe Storm(s),396849.86
+1610,Cheshire,2005,Severe Storm(s),377848.76
+1610,Cheshire,2005,Severe Storm(s),75848.74
+1610,Hillsborough,2005,Severe Storm(s),5529.75
+1610,Hillsborough,2005,Severe Storm(s),248020.32
+1610,Merrimack,2005,Severe Storm(s),19248.16
+1610,Sullivan,2005,Severe Storm(s),207409.48
+1610,Cheshire,2005,Severe Storm(s),19915.04
+1610,Sullivan,2005,Severe Storm(s),26842.22
+1610,Merrimack,2005,Severe Storm(s),26127.95
+1610,Sullivan,2005,Severe Storm(s),276899.51
+1610,Statewide,2005,Severe Storm(s),10871.27
+1610,Hillsborough,2005,Severe Storm(s),188005.75
+1610,Belknap,2005,Severe Storm(s),175849.73
+1610,Cheshire,2005,Severe Storm(s),750.0
+1610,Hillsborough,2005,Severe Storm(s),11781.75
+1610,Merrimack,2005,Severe Storm(s),36253.71
+1610,Hillsborough,2005,Severe Storm(s),7416.0
+1610,Merrimack,2005,Severe Storm(s),11170.82
+1610,Sullivan,2005,Severe Storm(s),17628.21
+1610,Statewide,2005,Severe Storm(s),176327.68
+1610,Cheshire,2005,Severe Storm(s),4905.75
+1610,Belknap,2005,Severe Storm(s),37002.14
+1610,Hillsborough,2005,Severe Storm(s),1230.0
+1610,Merrimack,2005,Severe Storm(s),71507.0
+1610,Cheshire,2005,Severe Storm(s),92375.9
+1610,Cheshire,2005,Severe Storm(s),46721.39
+1610,Statewide,2005,Severe Storm(s),165917.79
+1610,Sullivan,2005,Severe Storm(s),26911.12
+1610,Merrimack,2005,Severe Storm(s),23200.42
+1610,Merrimack,2005,Severe Storm(s),61631.95
+1610,Merrimack,2005,Severe Storm(s),22625.9
+1610,Hillsborough,2005,Severe Storm(s),2300.25
+1610,Hillsborough,2005,Severe Storm(s),357552.61
+1610,Belknap,2005,Severe Storm(s),46958.9
+1610,Merrimack,2005,Severe Storm(s),2921.37
+1610,Hillsborough,2005,Severe Storm(s),4088.02
+1610,Cheshire,2005,Severe Storm(s),40888.9
+1610,Statewide,2005,Severe Storm(s),4346840.15
+1610,Cheshire,2005,Severe Storm(s),20478.95
+1610,Merrimack,2005,Severe Storm(s),75356.93
+1610,Merrimack,2005,Severe Storm(s),19143.3
+1610,Cheshire,2005,Severe Storm(s),460252.76
+1610,Belknap,2005,Severe Storm(s),35139.78
+1610,Cheshire,2005,Severe Storm(s),482438.03
+1610,Sullivan,2005,Severe Storm(s),85673.03
+1610,Merrimack,2005,Severe Storm(s),90600.53
+1610,Cheshire,2005,Severe Storm(s),6147.29
+1610,Cheshire,2005,Severe Storm(s),8118.62
+1610,Statewide,2005,Severe Storm(s),240515.39
+1610,Hillsborough,2005,Severe Storm(s),93033.0
+1610,Merrimack,2005,Severe Storm(s),5144.88
+1610,Cheshire,2005,Severe Storm(s),40485.86
+1610,Sullivan,2005,Severe Storm(s),8052.99
+1610,Belknap,2005,Severe Storm(s),32528.91
+1610,Cheshire,2005,Severe Storm(s),8538.7
+1610,Merrimack,2005,Severe Storm(s),8456.99
+1610,Hillsborough,2005,Severe Storm(s),5800.51
+1610,Hillsborough,2005,Severe Storm(s),6058.88
+1610,Sullivan,2005,Severe Storm(s),73541.66
+1610,Belknap,2005,Severe Storm(s),8375.79
+1610,Sullivan,2005,Severe Storm(s),439294.32
+1610,Statewide,2005,Severe Storm(s),22013.6
+1610,Statewide,2005,Severe Storm(s),166817.59
+1610,Cheshire,2005,Severe Storm(s),8443.5
+1610,Cheshire,2005,Severe Storm(s),557504.65
+1610,Cheshire,2005,Severe Storm(s),104269.66
+1610,Merrimack,2005,Severe Storm(s),13304.29
+1610,Cheshire,2005,Severe Storm(s),169477.45
+1610,Merrimack,2005,Severe Storm(s),364832.08
+1610,Merrimack,2005,Severe Storm(s),5272.15
+1610,Sullivan,2005,Severe Storm(s),35231.25
+1610,Cheshire,2005,Severe Storm(s),4545.86
+1610,Cheshire,2005,Severe Storm(s),123364.8
+1610,Merrimack,2005,Severe Storm(s),1684.91
+1610,Hillsborough,2005,Severe Storm(s),2406.0
+1643,Grafton,2006,Severe Storm(s),7390.4
+1643,Merrimack,2006,Severe Storm(s),14490.0
+1643,Carroll,2006,Severe Storm(s),9929.31
+1643,Rockingham,2006,Severe Storm(s),75684.16
+1643,Merrimack,2006,Severe Storm(s),693421.87
+1643,Statewide,2006,Severe Storm(s),-66052.17
+1643,Merrimack,2006,Severe Storm(s),55284.75
+1643,Hillsborough,2006,Severe Storm(s),64548.13
+1643,Merrimack,2006,Severe Storm(s),33977.87
+1643,Merrimack,2006,Severe Storm(s),16925.63
+1643,Hillsborough,2006,Severe Storm(s),44283.79
+1643,Rockingham,2006,Severe Storm(s),75600.69
+1643,Grafton,2006,Severe Storm(s),2661.75
+1643,Grafton,2006,Severe Storm(s),107431.08
+1643,Belknap,2006,Severe Storm(s),105236.92
+1643,Belknap,2006,Severe Storm(s),60456.19
+1643,Rockingham,2006,Severe Storm(s),22108.15
+1643,Rockingham,2006,Severe Storm(s),37873.99
+1643,Rockingham,2006,Severe Storm(s),365171.15
+1643,Hillsborough,2006,Severe Storm(s),897111.4
+1643,Belknap,2006,Severe Storm(s),92990.88
+1643,Merrimack,2006,Severe Storm(s),29722.65
+1643,Grafton,2006,Severe Storm(s),47017.13
+1643,Carroll,2006,Severe Storm(s),28715.22
+1643,Strafford,2006,Severe Storm(s),308822.39
+1643,Statewide,2006,Severe Storm(s),4153.68
+1643,Rockingham,2006,Severe Storm(s),14363.4
+1643,Strafford,2006,Severe Storm(s),66783.52
+1643,Carroll,2006,Severe Storm(s),29635.52
+1643,Merrimack,2006,Severe Storm(s),33727.18
+1643,Hillsborough,2006,Severe Storm(s),25236.07
+1643,Hillsborough,2006,Severe Storm(s),13697.02
+1643,Rockingham,2006,Severe Storm(s),16154.95
+1643,Rockingham,2006,Severe Storm(s),54076.76
+1643,Merrimack,2006,Severe Storm(s),10916.31
+1643,Merrimack,2006,Severe Storm(s),10761.28
+1643,Rockingham,2006,Severe Storm(s),16546.72
+1643,Merrimack,2006,Severe Storm(s),33740.78
+1643,Merrimack,2006,Severe Storm(s),51427.79
+1643,Merrimack,2006,Severe Storm(s),15505.81
+1643,Hillsborough,2006,Severe Storm(s),146601.89
+1643,Hillsborough,2006,Severe Storm(s),18967.86
+1643,Grafton,2006,Severe Storm(s),44659.62
+1643,Grafton,2006,Severe Storm(s),17054.81
+1643,Merrimack,2006,Severe Storm(s),26913.51
+1643,Rockingham,2006,Severe Storm(s),25286.42
+1643,Rockingham,2006,Severe Storm(s),14570.12
+1643,Rockingham,2006,Severe Storm(s),10310.74
+1643,Merrimack,2006,Severe Storm(s),165912.4
+1643,Strafford,2006,Severe Storm(s),12665.57
+1643,Strafford,2006,Severe Storm(s),251742.57
+1643,Rockingham,2006,Severe Storm(s),7602.99
+1643,Carroll,2006,Severe Storm(s),9336.92
+1643,Rockingham,2006,Severe Storm(s),343348.55
+1643,Merrimack,2006,Severe Storm(s),76473.09
+1643,Grafton,2006,Severe Storm(s),1897.5
+1643,Rockingham,2006,Severe Storm(s),19346.57
+1643,Belknap,2006,Severe Storm(s),4491.9
+1643,Hillsborough,2006,Severe Storm(s),25353.63
+1643,Belknap,2006,Severe Storm(s),8588.74
+1643,Merrimack,2006,Severe Storm(s),68283.08
+1643,Hillsborough,2006,Severe Storm(s),45568.32
+1643,Merrimack,2006,Severe Storm(s),16201.05
+1643,Rockingham,2006,Severe Storm(s),3156.77
+1643,Grafton,2006,Severe Storm(s),13006.7
+1643,Rockingham,2006,Severe Storm(s),2778.62
+1643,Rockingham,2006,Severe Storm(s),54899.6
+1643,Hillsborough,2006,Severe Storm(s),41547.65
+1643,Belknap,2006,Severe Storm(s),20202.04
+1643,Rockingham,2006,Severe Storm(s),15396.05
+1643,Strafford,2006,Severe Storm(s),50352.45
+1643,Belknap,2006,Severe Storm(s),12710.04
+1643,Strafford,2006,Severe Storm(s),619342.38
+1643,Statewide,2006,Severe Storm(s),997489.98
+1643,Grafton,2006,Severe Storm(s),12991.28
+1643,Hillsborough,2006,Severe Storm(s),85220.28
+1643,Merrimack,2006,Severe Storm(s),213391.46
+1643,Rockingham,2006,Severe Storm(s),19076.26
+1643,Merrimack,2006,Severe Storm(s),29195.59
+1643,Merrimack,2006,Severe Storm(s),162009.51
+1643,Strafford,2006,Severe Storm(s),10447.27
+1643,Merrimack,2006,Severe Storm(s),286311.62
+1643,Hillsborough,2006,Severe Storm(s),70537.95
+1643,Strafford,2006,Severe Storm(s),13844.99
+1643,Carroll,2006,Severe Storm(s),34759.81
+1643,Merrimack,2006,Severe Storm(s),36378.37
+1643,Belknap,2006,Severe Storm(s),35700.2
+1643,Merrimack,2006,Severe Storm(s),79866.15
+1643,Hillsborough,2006,Severe Storm(s),199098.18
+1643,Grafton,2006,Severe Storm(s),16897.37
+1643,Hillsborough,2006,Severe Storm(s),2361.29
+1643,Rockingham,2006,Severe Storm(s),14612.45
+1643,Hillsborough,2006,Severe Storm(s),5080.15
+1643,Hillsborough,2006,Severe Storm(s),125130.56
+1643,Statewide,2006,Severe Storm(s),143444.78
+1643,Rockingham,2006,Severe Storm(s),30633.04
+1643,Carroll,2006,Severe Storm(s),17136.43
+1643,Merrimack,2006,Severe Storm(s),13132.53
+1643,Rockingham,2006,Severe Storm(s),34218.5
+1643,Strafford,2006,Severe Storm(s),1825.97
+1643,Hillsborough,2006,Severe Storm(s),24308.34
+1643,Merrimack,2006,Severe Storm(s),34253.25
+1643,Rockingham,2006,Severe Storm(s),47204.9
+1643,Rockingham,2006,Severe Storm(s),171126.04
+1643,Rockingham,2006,Severe Storm(s),38127.48
+1643,Merrimack,2006,Severe Storm(s),405442.5
+1643,Rockingham,2006,Severe Storm(s),11482.51
+1643,Rockingham,2006,Severe Storm(s),4091.55
+1643,Rockingham,2006,Severe Storm(s),8734.84
+1643,Rockingham,2006,Severe Storm(s),264307.77
+1643,Rockingham,2006,Severe Storm(s),750.0
+1643,Rockingham,2006,Severe Storm(s),221102.08
+1643,Rockingham,2006,Severe Storm(s),43863.79
+1643,Hillsborough,2006,Severe Storm(s),1061848.39
+1643,Strafford,2006,Severe Storm(s),547953.51
+1643,Hillsborough,2006,Severe Storm(s),65266.18
+1643,Statewide,2006,Severe Storm(s),17804.54
+1643,Merrimack,2006,Severe Storm(s),938.55
+1643,Merrimack,2006,Severe Storm(s),9433.01
+1643,Rockingham,2006,Severe Storm(s),54129.73
+1643,Statewide,2006,Severe Storm(s),38693.67
+1643,Strafford,2006,Severe Storm(s),750.0
+1643,Rockingham,2006,Severe Storm(s),509102.73
+1643,Hillsborough,2006,Severe Storm(s),72005.4
+1643,Merrimack,2006,Severe Storm(s),64296.58
+1643,Rockingham,2006,Severe Storm(s),14416.89
+1643,Hillsborough,2006,Severe Storm(s),673465.25
+1643,Belknap,2006,Severe Storm(s),33153.19
+1643,Merrimack,2006,Severe Storm(s),6975.0
+1643,Statewide,2006,Severe Storm(s),228933.14
+1643,Strafford,2006,Severe Storm(s),88987.39
+1643,Hillsborough,2006,Severe Storm(s),114803.87
+1643,Merrimack,2006,Severe Storm(s),254293.15
+1643,Statewide,2006,Severe Storm(s),85145.97
+1643,Strafford,2006,Severe Storm(s),22613.74
+1643,Strafford,2006,Severe Storm(s),35780.98
+1643,Strafford,2006,Severe Storm(s),6925.37
+1643,Rockingham,2006,Severe Storm(s),15811.35
+1643,Strafford,2006,Severe Storm(s),151941.01
+1695,Cheshire,2007,Severe Storm(s),4279.97
+1695,Grafton,2007,Severe Storm(s),19506.14
+1695,Carroll,2007,Severe Storm(s),321085.19
+1695,Coos,2007,Severe Storm(s),7000.9
+1695,Carroll,2007,Severe Storm(s),125758.63
+1695,Belknap,2007,Severe Storm(s),668074.18
+1695,Carroll,2007,Severe Storm(s),583558.0
+1695,Carroll,2007,Severe Storm(s),629984.12
+1695,Cheshire,2007,Severe Storm(s),244937.09
+1695,Coos,2007,Severe Storm(s),750.0
+1695,Cheshire,2007,Severe Storm(s),10635.96
+1695,Coos,2007,Severe Storm(s),35606.57
+1695,Carroll,2007,Severe Storm(s),40812.98
+1695,Coos,2007,Severe Storm(s),6230.44
+1695,Grafton,2007,Severe Storm(s),26630.49
+1695,Coos,2007,Severe Storm(s),4589.69
+1695,Carroll,2007,Severe Storm(s),19733.24
+1695,Belknap,2007,Severe Storm(s),654768.75
+1695,Grafton,2007,Severe Storm(s),25459.57
+1695,Carroll,2007,Severe Storm(s),255131.09
+1695,Carroll,2007,Severe Storm(s),163524.83
+1695,Coos,2007,Severe Storm(s),4077.69
+1695,Belknap,2007,Severe Storm(s),3089.1
+1695,Carroll,2007,Severe Storm(s),39094.5
+1695,Cheshire,2007,Severe Storm(s),16076.6
+1695,Grafton,2007,Severe Storm(s),22639.34
+1695,Grafton,2007,Severe Storm(s),47465.52
+1695,Coos,2007,Severe Storm(s),9179.0
+1695,Carroll,2007,Severe Storm(s),97953.79
+1695,Belknap,2007,Severe Storm(s),6854.71
+1695,Cheshire,2007,Severe Storm(s),59480.99
+1695,Belknap,2007,Severe Storm(s),64257.19
+1695,Coos,2007,Severe Storm(s),24638.33
+1695,Cheshire,2007,Severe Storm(s),6154.35
+1695,Carroll,2007,Severe Storm(s),10817.27
+1695,Cheshire,2007,Severe Storm(s),92691.82
+1695,Belknap,2007,Severe Storm(s),70716.19
+1695,Grafton,2007,Severe Storm(s),7390.7
+1695,Belknap,2007,Severe Storm(s),15595.01
+1695,Grafton,2007,Severe Storm(s),9196.14
+1695,Coos,2007,Severe Storm(s),22112.21
+1695,Carroll,2007,Severe Storm(s),59538.66
+1695,Coos,2007,Severe Storm(s),17187.42
+1695,Carroll,2007,Severe Storm(s),51700.69
+1695,Cheshire,2007,Severe Storm(s),105957.64
+1695,Grafton,2007,Severe Storm(s),19889.37
+1695,Carroll,2007,Severe Storm(s),58701.92
+1695,Grafton,2007,Severe Storm(s),590808.84
+1695,Belknap,2007,Severe Storm(s),50384.11
+1695,Coos,2007,Severe Storm(s),10967.99
+1695,Belknap,2007,Severe Storm(s),105602.04
+1695,Carroll,2007,Severe Storm(s),34462.59
+1695,Coos,2007,Severe Storm(s),24421.32
+1695,Coos,2007,Severe Storm(s),50292.4
+1695,Carroll,2007,Severe Storm(s),68017.44
+1695,Carroll,2007,Severe Storm(s),233094.82
+1695,Carroll,2007,Severe Storm(s),192704.1
+1695,Cheshire,2007,Severe Storm(s),362882.05
+1695,Grafton,2007,Severe Storm(s),149211.94
+1695,Belknap,2007,Severe Storm(s),34252.54
+1695,Belknap,2007,Severe Storm(s),34485.66
+1695,Rockingham,2007,Severe Storm(s),5017.88
+1695,Grafton,2007,Severe Storm(s),1292080.09
+1695,Rockingham,2007,Severe Storm(s),20968.07
+1695,Hillsborough,2007,Severe Storm(s),117179.1
+1695,Merrimack,2007,Severe Storm(s),51324.05
+1695,Hillsborough,2007,Severe Storm(s),45837.72
+1695,Merrimack,2007,Severe Storm(s),154905.21
+1695,Strafford,2007,Severe Storm(s),6234.73
+1695,Merrimack,2007,Severe Storm(s),196784.1
+1695,Hillsborough,2007,Severe Storm(s),14876.1
+1695,Merrimack,2007,Severe Storm(s),28343.92
+1695,Hillsborough,2007,Severe Storm(s),58913.31
+1695,Hillsborough,2007,Severe Storm(s),7897.4
+1695,Hillsborough,2007,Severe Storm(s),100068.9
+1695,Hillsborough,2007,Severe Storm(s),52287.47
+1695,Grafton,2007,Severe Storm(s),29392.79
+1695,Hillsborough,2007,Severe Storm(s),81717.68
+1695,Merrimack,2007,Severe Storm(s),26022.64
+1695,Statewide,2007,Severe Storm(s),92874.0
+1695,Merrimack,2007,Severe Storm(s),38447.59
+1695,Grafton,2007,Severe Storm(s),3676.5
+1695,Statewide,2007,Severe Storm(s),7400.25
+1695,Grafton,2007,Severe Storm(s),1366.5
+1695,Hillsborough,2007,Severe Storm(s),102746.91
+1695,Merrimack,2007,Severe Storm(s),95808.81
+1695,Grafton,2007,Severe Storm(s),7249.66
+1695,Grafton,2007,Severe Storm(s),5642.25
+1695,Hillsborough,2007,Severe Storm(s),62472.14
+1695,Rockingham,2007,Severe Storm(s),15349.63
+1695,Grafton,2007,Severe Storm(s),46488.81
+1695,Merrimack,2007,Severe Storm(s),18578.74
+1695,Strafford,2007,Severe Storm(s),431605.36
+1695,Grafton,2007,Severe Storm(s),2910.13
+1695,Strafford,2007,Severe Storm(s),183842.17
+1695,Hillsborough,2007,Severe Storm(s),12150.0
+1695,Hillsborough,2007,Severe Storm(s),150393.92
+1695,Merrimack,2007,Severe Storm(s),119384.19
+1695,Merrimack,2007,Severe Storm(s),944.14
+1695,Hillsborough,2007,Severe Storm(s),42783.25
+1695,Sullivan,2007,Severe Storm(s),57542.8
+1695,Hillsborough,2007,Severe Storm(s),11302.53
+1695,Strafford,2007,Severe Storm(s),130608.42
+1695,Rockingham,2007,Severe Storm(s),94853.43
+1695,Merrimack,2007,Severe Storm(s),13890.0
+1695,Grafton,2007,Severe Storm(s),60904.08
+1695,Strafford,2007,Severe Storm(s),2403.66
+1695,Strafford,2007,Severe Storm(s),333580.05
+1695,Hillsborough,2007,Severe Storm(s),498400.14
+1695,Rockingham,2007,Severe Storm(s),79475.98
+1695,Rockingham,2007,Severe Storm(s),10145.25
+1695,Coos,2007,Severe Storm(s),21084.89
+1695,Hillsborough,2007,Severe Storm(s),66024.89
+1695,Hillsborough,2007,Severe Storm(s),69078.39
+1695,Statewide,2007,Severe Storm(s),538801.63
+1695,Sullivan,2007,Severe Storm(s),52669.23
+1695,Merrimack,2007,Severe Storm(s),859339.97
+1695,Strafford,2007,Severe Storm(s),15650.36
+1695,Strafford,2007,Severe Storm(s),99434.28
+1695,Grafton,2007,Severe Storm(s),40519.6
+1695,Rockingham,2007,Severe Storm(s),39750.0
+1695,Hillsborough,2007,Severe Storm(s),53565.74
+1695,Strafford,2007,Severe Storm(s),192204.33
+1695,Statewide,2007,Severe Storm(s),137209.16
+1695,Hillsborough,2007,Severe Storm(s),254575.29
+1695,Rockingham,2007,Severe Storm(s),452534.75
+1695,Hillsborough,2007,Severe Storm(s),558146.74
+1695,Rockingham,2007,Severe Storm(s),15385.45
+1695,Hillsborough,2007,Severe Storm(s),167604.16
+1695,Statewide,2007,Severe Storm(s),9273.75
+1695,Merrimack,2007,Severe Storm(s),111378.39
+1695,Hillsborough,2007,Severe Storm(s),48878.28
+1695,Sullivan,2007,Severe Storm(s),151668.01
+1695,Hillsborough,2007,Severe Storm(s),17981.3
+1695,Merrimack,2007,Severe Storm(s),19474.35
+1695,Strafford,2007,Severe Storm(s),10731.75
+1695,Grafton,2007,Severe Storm(s),3893.01
+1695,Hillsborough,2007,Severe Storm(s),43471.63
+1695,Rockingham,2007,Severe Storm(s),8856.54
+1695,Grafton,2007,Severe Storm(s),40725.16
+1695,Merrimack,2007,Severe Storm(s),79122.2
+1695,Merrimack,2007,Severe Storm(s),134896.05
+1695,Sullivan,2007,Severe Storm(s),11332.09
+1695,Rockingham,2007,Severe Storm(s),4279.24
+1695,Hillsborough,2007,Severe Storm(s),37500.0
+1695,Strafford,2007,Severe Storm(s),320101.6
+1695,Statewide,2007,Severe Storm(s),1105826.55
+1695,Grafton,2007,Severe Storm(s),1209.75
+1695,Hillsborough,2007,Severe Storm(s),122718.45
+1695,Rockingham,2007,Severe Storm(s),10763.54
+1695,Rockingham,2007,Severe Storm(s),34745.9
+1695,Rockingham,2007,Severe Storm(s),58959.69
+1695,Rockingham,2007,Severe Storm(s),6570.41
+1695,Strafford,2007,Severe Storm(s),177645.98
+1695,Hillsborough,2007,Severe Storm(s),122080.3
+1695,Hillsborough,2007,Severe Storm(s),128235.11
+1695,Grafton,2007,Severe Storm(s),43034.79
+1695,Rockingham,2007,Severe Storm(s),79493.61
+1695,Rockingham,2007,Severe Storm(s),2996.78
+1695,Grafton,2007,Severe Storm(s),38976.75
+1695,Grafton,2007,Severe Storm(s),32276.65
+1695,Hillsborough,2007,Severe Storm(s),112927.37
+1695,Rockingham,2007,Severe Storm(s),20890.98
+1695,Merrimack,2007,Severe Storm(s),129061.17
+1695,Rockingham,2007,Severe Storm(s),147872.38
+1695,Hillsborough,2007,Severe Storm(s),230277.09
+1695,Hillsborough,2007,Severe Storm(s),293727.75
+1695,Grafton,2007,Severe Storm(s),15551.19
+1695,Rockingham,2007,Severe Storm(s),5240.25
+1695,Merrimack,2007,Severe Storm(s),33967.93
+1695,Rockingham,2007,Severe Storm(s),10047.1
+1695,Hillsborough,2007,Severe Storm(s),88888.47
+1695,Grafton,2007,Severe Storm(s),80770.34
+1695,Rockingham,2007,Severe Storm(s),106187.6
+1695,Strafford,2007,Severe Storm(s),84464.66
+1695,Merrimack,2007,Severe Storm(s),80857.94
+1695,Merrimack,2007,Severe Storm(s),20031.12
+1695,Rockingham,2007,Severe Storm(s),28661.0
+1695,Strafford,2007,Severe Storm(s),56029.23
+1695,Rockingham,2007,Severe Storm(s),7762.39
+1695,Grafton,2007,Severe Storm(s),4550.68
+1695,Rockingham,2007,Severe Storm(s),59196.62
+1695,Grafton,2007,Severe Storm(s),11977.98
+1695,Grafton,2007,Severe Storm(s),12723.0
+1695,Rockingham,2007,Severe Storm(s),135650.91
+1695,Rockingham,2007,Severe Storm(s),735873.63
+1695,Sullivan,2007,Severe Storm(s),113124.75
+1695,Statewide,2007,Severe Storm(s),-93929.64
+1695,Merrimack,2007,Severe Storm(s),28267.29
+1695,Rockingham,2007,Severe Storm(s),2402.7
+1695,Merrimack,2007,Severe Storm(s),62415.61
+1695,Sullivan,2007,Severe Storm(s),209856.08
+1695,Sullivan,2007,Severe Storm(s),51448.18
+1695,Sullivan,2007,Severe Storm(s),46884.23
+1695,Merrimack,2007,Severe Storm(s),48139.44
+1695,Sullivan,2007,Severe Storm(s),68203.61
+1695,Merrimack,2007,Severe Storm(s),131514.33
+1695,Merrimack,2007,Severe Storm(s),82007.25
+1695,Strafford,2007,Severe Storm(s),19932.78
+1695,Rockingham,2007,Severe Storm(s),296328.9
+1695,Grafton,2007,Severe Storm(s),20612.25
+1695,Sullivan,2007,Severe Storm(s),61077.59
+1695,Rockingham,2007,Severe Storm(s),83158.46
+1695,Rockingham,2007,Severe Storm(s),49231.41
+1695,Hillsborough,2007,Severe Storm(s),14548.91
+1695,Sullivan,2007,Severe Storm(s),127866.96
+1782,Merrimack,2008,Severe Storm(s),470859.25
+1782,Rockingham,2008,Severe Storm(s),69376.53
+1782,Belknap,2008,Severe Storm(s),123687.98
+1782,Strafford,2008,Severe Storm(s),23777.66
+1782,Statewide,2008,Severe Storm(s),9238.86
+1782,Merrimack,2008,Severe Storm(s),13804.72
+1782,Merrimack,2008,Severe Storm(s),16316.85
+1782,Carroll,2008,Severe Storm(s),14310.19
+1782,Statewide,2008,Severe Storm(s),8815.1
+1782,Rockingham,2008,Severe Storm(s),4188.75
+1782,Carroll,2008,Severe Storm(s),54922.27
+1782,Statewide,2008,Severe Storm(s),40414.81
+1782,Statewide,2008,Severe Storm(s),77318.43
+1782,Strafford,2008,Severe Storm(s),32604.12
+1782,Merrimack,2008,Severe Storm(s),7935.51
+1782,Merrimack,2008,Severe Storm(s),1492.72
+1782,Carroll,2008,Severe Storm(s),77072.25
+1782,Statewide,2008,Severe Storm(s),3750.0
+1782,Rockingham,2008,Severe Storm(s),6108.02
+1782,Belknap,2008,Severe Storm(s),3092.25
+1782,Belknap,2008,Severe Storm(s),129224.81
+1782,Carroll,2008,Severe Storm(s),81002.54
+1787,Grafton,2008,Severe Storm(s),28562.71
+1787,Belknap,2008,Severe Storm(s),11547.68
+1787,Statewide,2008,Severe Storm(s),19058.7
+1787,Grafton,2008,Severe Storm(s),48436.01
+1787,Coos,2008,Severe Storm(s),21864.44
+1787,Grafton,2008,Severe Storm(s),8611.41
+1787,Coos,2008,Severe Storm(s),42231.85
+1787,Belknap,2008,Severe Storm(s),192667.12
+1787,Grafton,2008,Severe Storm(s),14220.29
+1787,Grafton,2008,Severe Storm(s),16064.95
+1787,Belknap,2008,Severe Storm(s),27261.88
+1787,Coos,2008,Severe Storm(s),14676.0
+1787,Coos,2008,Severe Storm(s),55483.52
+1787,Carroll,2008,Severe Storm(s),29390.33
+1787,Grafton,2008,Severe Storm(s),8720.51
+1787,Belknap,2008,Severe Storm(s),435574.63
+1787,Belknap,2008,Severe Storm(s),19422.35
+1787,Grafton,2008,Severe Storm(s),23530.83
+1787,Grafton,2008,Severe Storm(s),31284.41
+1787,Statewide,2008,Severe Storm(s),37579.61
+1787,Grafton,2008,Severe Storm(s),10825.28
+1787,Grafton,2008,Severe Storm(s),38406.79
+1787,Statewide,2008,Severe Storm(s),23247.31
+1787,Statewide,2008,Severe Storm(s),67711.44
+1787,Coos,2008,Severe Storm(s),9239.06
+1787,Grafton,2008,Severe Storm(s),16248.38
+1787,Grafton,2008,Severe Storm(s),10878.15
+1787,Grafton,2008,Severe Storm(s),76781.36
+1787,Carroll,2008,Severe Storm(s),12722.56
+1787,Carroll,2008,Severe Storm(s),55320.83
+1787,Coos,2008,Severe Storm(s),33105.94
+1787,Grafton,2008,Severe Storm(s),13719.35
+1787,Coos,2008,Severe Storm(s),57558.94
+1787,Grafton,2008,Severe Storm(s),39126.8
+1787,Grafton,2008,Severe Storm(s),39586.74
+1787,Coos,2008,Severe Storm(s),4121.84
+1787,Belknap,2008,Severe Storm(s),574788.02
+1787,Grafton,2008,Severe Storm(s),53078.96
+1787,Grafton,2008,Severe Storm(s),15892.17
+1787,Grafton,2008,Severe Storm(s),20827.46
+1787,Grafton,2008,Severe Storm(s),3010.97
+1787,Statewide,2008,Severe Storm(s),1408841.01
+1787,Grafton,2008,Severe Storm(s),1868.86
+1799,Merrimack,2008,Severe Storm(s),14873.37
+1799,Merrimack,2008,Severe Storm(s),10442.88
+1799,Statewide,2008,Severe Storm(s),3098.02
+1799,Hillsborough,2008,Severe Storm(s),10375.58
+1799,Merrimack,2008,Severe Storm(s),4568.38
+1799,Hillsborough,2008,Severe Storm(s),2445.04
+1799,Hillsborough,2008,Severe Storm(s),513475.89
+1799,Hillsborough,2008,Severe Storm(s),35435.73
+1799,Hillsborough,2008,Severe Storm(s),74908.31
+1799,Merrimack,2008,Severe Storm(s),7697.96
+1799,Statewide,2008,Severe Storm(s),3320.54
+1799,Merrimack,2008,Severe Storm(s),98939.26
+1799,Statewide,2008,Severe Storm(s),44267.8
+1812,Cheshire,2009,Severe Ice Storm,60655.81
+1812,Hillsborough,2009,Severe Ice Storm,122187.38
+1812,Hillsborough,2009,Severe Ice Storm,44510.59
+1812,Hillsborough,2009,Severe Ice Storm,339528.95
+1812,Cheshire,2009,Severe Ice Storm,5717.46
+1812,Grafton,2009,Severe Ice Storm,11052.5
+1812,Carroll,2009,Severe Ice Storm,5570.68
+1812,Hillsborough,2009,Severe Ice Storm,4203.75
+1812,Belknap,2009,Severe Ice Storm,23656.66
+1812,Cheshire,2009,Severe Ice Storm,29983.88
+1812,Merrimack,2009,Severe Ice Storm,23505.61
+1812,Cheshire,2009,Severe Ice Storm,28864.96
+1812,Belknap,2009,Severe Ice Storm,27604.24
+1812,Hillsborough,2009,Severe Ice Storm,7108.31
+1812,Hillsborough,2009,Severe Ice Storm,93476.38
+1812,Hillsborough,2009,Severe Ice Storm,49710.64
+1812,Hillsborough,2009,Severe Ice Storm,115087.73
+1812,Hillsborough,2009,Severe Ice Storm,8861.25
+1812,Cheshire,2009,Severe Ice Storm,6020.13
+1812,Belknap,2009,Severe Ice Storm,17985.63
+1812,Hillsborough,2009,Severe Ice Storm,18832.13
+1812,Hillsborough,2009,Severe Ice Storm,54644.88
+1812,Hillsborough,2009,Severe Ice Storm,12207.61
+1812,Hillsborough,2009,Severe Ice Storm,5143.65
+1812,Hillsborough,2009,Severe Ice Storm,42454.66
+1812,Hillsborough,2009,Severe Ice Storm,16830.0
+1812,Hillsborough,2009,Severe Ice Storm,92228.06
+1812,Cheshire,2009,Severe Ice Storm,20830.11
+1812,Hillsborough,2009,Severe Ice Storm,63108.27
+1812,Hillsborough,2009,Severe Ice Storm,56900.51
+1812,Cheshire,2009,Severe Ice Storm,63053.42
+1812,Hillsborough,2009,Severe Ice Storm,59762.67
+1812,Grafton,2009,Severe Ice Storm,44599.96
+1812,Hillsborough,2009,Severe Ice Storm,74093.95
+1812,Hillsborough,2009,Severe Ice Storm,116232.66
+1812,Hillsborough,2009,Severe Ice Storm,31275.59
+1812,Cheshire,2009,Severe Ice Storm,33651.76
+1812,Hillsborough,2009,Severe Ice Storm,70836.81
+1812,Hillsborough,2009,Severe Ice Storm,229704.05
+1812,Hillsborough,2009,Severe Ice Storm,12076.82
+1812,Hillsborough,2009,Severe Ice Storm,5029.43
+1812,Hillsborough,2009,Severe Ice Storm,47831.17
+1812,Cheshire,2009,Severe Ice Storm,5095.4
+1812,Hillsborough,2009,Severe Ice Storm,8439.75
+1812,Cheshire,2009,Severe Ice Storm,39959.36
+1812,Grafton,2009,Severe Ice Storm,10816.51
+1812,Hillsborough,2009,Severe Ice Storm,96366.22
+1812,Hillsborough,2009,Severe Ice Storm,30322.36
+1812,Cheshire,2009,Severe Ice Storm,109696.02
+1812,Hillsborough,2009,Severe Ice Storm,7659.71
+1812,Hillsborough,2009,Severe Ice Storm,224746.23
+1812,Cheshire,2009,Severe Ice Storm,43796.48
+1812,Cheshire,2009,Severe Ice Storm,420942.8
+1812,Cheshire,2009,Severe Ice Storm,38622.21
+1812,Hillsborough,2009,Severe Ice Storm,116242.33
+1812,Hillsborough,2009,Severe Ice Storm,10713.56
+1812,Hillsborough,2009,Severe Ice Storm,8201.15
+1812,Cheshire,2009,Severe Ice Storm,31216.42
+1812,Hillsborough,2009,Severe Ice Storm,31699.75
+1812,Cheshire,2009,Severe Ice Storm,11610.0
+1812,Grafton,2009,Severe Ice Storm,770.04
+1812,Hillsborough,2009,Severe Ice Storm,118014.89
+1812,Coos,2009,Severe Ice Storm,11674.89
+1812,Cheshire,2009,Severe Ice Storm,191508.84
+1812,Cheshire,2009,Severe Ice Storm,90919.23
+1812,Hillsborough,2009,Severe Ice Storm,127517.92
+1812,Belknap,2009,Severe Ice Storm,42828.73
+1812,Grafton,2009,Severe Ice Storm,7250.06
+1812,Hillsborough,2009,Severe Ice Storm,61026.35
+1812,Hillsborough,2009,Severe Ice Storm,98799.63
+1812,Hillsborough,2009,Severe Ice Storm,119714.48
+1812,Grafton,2009,Severe Ice Storm,21577.03
+1812,Grafton,2009,Severe Ice Storm,750.0
+1812,Hillsborough,2009,Severe Ice Storm,880.47
+1812,Belknap,2009,Severe Ice Storm,3346.5
+1812,Hillsborough,2009,Severe Ice Storm,81663.26
+1812,Cheshire,2009,Severe Ice Storm,8264.02
+1812,Hillsborough,2009,Severe Ice Storm,6916.76
+1812,Hillsborough,2009,Severe Ice Storm,22130.37
+1812,Belknap,2009,Severe Ice Storm,37584.89
+1812,Coos,2009,Severe Ice Storm,21526.45
+1812,Belknap,2009,Severe Ice Storm,3863.5
+1812,Hillsborough,2009,Severe Ice Storm,73342.71
+1812,Cheshire,2009,Severe Ice Storm,27016.4
+1812,Hillsborough,2009,Severe Ice Storm,42203.02
+1812,Strafford,2009,Severe Ice Storm,57575.86
+1812,Rockingham,2009,Severe Ice Storm,46419.66
+1812,Rockingham,2009,Severe Ice Storm,96547.2
+1812,Merrimack,2009,Severe Ice Storm,29510.81
+1812,Sullivan,2009,Severe Ice Storm,19050.44
+1812,Rockingham,2009,Severe Ice Storm,27925.73
+1812,Rockingham,2009,Severe Ice Storm,12367.83
+1812,Merrimack,2009,Severe Ice Storm,11187.56
+1812,Merrimack,2009,Severe Ice Storm,15443.26
+1812,Strafford,2009,Severe Ice Storm,11611.55
+1812,Rockingham,2009,Severe Ice Storm,105952.01
+1812,Rockingham,2009,Severe Ice Storm,47976.11
+1812,Sullivan,2009,Severe Ice Storm,170705.28
+1812,Rockingham,2009,Severe Ice Storm,37549.85
+1812,Sullivan,2009,Severe Ice Storm,38139.87
+1812,Merrimack,2009,Severe Ice Storm,16437.82
+1812,Rockingham,2009,Severe Ice Storm,6282.17
+1812,Merrimack,2009,Severe Ice Storm,29989.79
+1812,Sullivan,2009,Severe Ice Storm,21968.18
+1812,Rockingham,2009,Severe Ice Storm,6705.38
+1812,Merrimack,2009,Severe Ice Storm,1595137.97
+1812,Sullivan,2009,Severe Ice Storm,86016.0
+1812,Rockingham,2009,Severe Ice Storm,60139.95
+1812,Rockingham,2009,Severe Ice Storm,157016.97
+1812,Strafford,2009,Severe Ice Storm,10117.69
+1812,Merrimack,2009,Severe Ice Storm,50705.8
+1812,Statewide,2009,Severe Ice Storm,6057.88
+1812,Rockingham,2009,Severe Ice Storm,2295.0
+1812,Rockingham,2009,Severe Ice Storm,903.84
+1812,Merrimack,2009,Severe Ice Storm,27985.56
+1812,Rockingham,2009,Severe Ice Storm,76747.49
+1812,Strafford,2009,Severe Ice Storm,75538.29
+1812,Statewide,2009,Severe Ice Storm,3348.17
+1812,Statewide,2009,Severe Ice Storm,121652.37
+1812,Strafford,2009,Severe Ice Storm,21551.25
+1812,Rockingham,2009,Severe Ice Storm,48000.54
+1812,Strafford,2009,Severe Ice Storm,43791.95
+1812,Merrimack,2009,Severe Ice Storm,2312.63
+1812,Rockingham,2009,Severe Ice Storm,62123.67
+1812,Merrimack,2009,Severe Ice Storm,19307.99
+1812,Sullivan,2009,Severe Ice Storm,15432.53
+1812,Rockingham,2009,Severe Ice Storm,14738.55
+1812,Merrimack,2009,Severe Ice Storm,32095.87
+1812,Rockingham,2009,Severe Ice Storm,60585.77
+1812,Strafford,2009,Severe Ice Storm,67273.96
+1812,Rockingham,2009,Severe Ice Storm,27850.59
+1812,Merrimack,2009,Severe Ice Storm,62780.47
+1812,Rockingham,2009,Severe Ice Storm,18378.05
+1812,Sullivan,2009,Severe Ice Storm,18294.63
+1812,Rockingham,2009,Severe Ice Storm,143655.66
+1812,Rockingham,2009,Severe Ice Storm,255795.74
+1812,Merrimack,2009,Severe Ice Storm,13874.72
+1812,Rockingham,2009,Severe Ice Storm,2553.79
+1812,Rockingham,2009,Severe Ice Storm,7758.16
+1812,Rockingham,2009,Severe Ice Storm,111824.62
+1812,Merrimack,2009,Severe Ice Storm,23380.7
+1812,Rockingham,2009,Severe Ice Storm,76310.24
+1812,Statewide,2009,Severe Ice Storm,135267.73
+1812,Rockingham,2009,Severe Ice Storm,61275.98
+1812,Strafford,2009,Severe Ice Storm,9291.44
+1812,Merrimack,2009,Severe Ice Storm,79317.96
+1812,Strafford,2009,Severe Ice Storm,5983.89
+1812,Rockingham,2009,Severe Ice Storm,26501.33
+1812,Merrimack,2009,Severe Ice Storm,8717.93
+1812,Rockingham,2009,Severe Ice Storm,72710.21
+1812,Rockingham,2009,Severe Ice Storm,51696.93
+1812,Merrimack,2009,Severe Ice Storm,50564.49
+1812,Sullivan,2009,Severe Ice Storm,27026.09
+1812,Statewide,2009,Severe Ice Storm,31494.19
+1812,Merrimack,2009,Severe Ice Storm,39618.31
+1812,Rockingham,2009,Severe Ice Storm,60823.87
+1812,Rockingham,2009,Severe Ice Storm,130708.09
+1812,Merrimack,2009,Severe Ice Storm,87433.55
+1812,Rockingham,2009,Severe Ice Storm,27887.8
+1812,Strafford,2009,Severe Ice Storm,76648.56
+1812,Rockingham,2009,Severe Ice Storm,133897.11
+1812,Rockingham,2009,Severe Ice Storm,9161.18
+1812,Rockingham,2009,Severe Ice Storm,37206.69
+1812,Sullivan,2009,Severe Ice Storm,18180.74
+1812,Merrimack,2009,Severe Ice Storm,15086.19
+1812,Merrimack,2009,Severe Ice Storm,30113.72
+1812,Rockingham,2009,Severe Ice Storm,114169.41
+1812,Rockingham,2009,Severe Ice Storm,2062.06
+1812,Rockingham,2009,Severe Ice Storm,5679.68
+1812,Strafford,2009,Severe Ice Storm,67703.23
+1812,Merrimack,2009,Severe Ice Storm,25915.28
+1812,Rockingham,2009,Severe Ice Storm,98272.29
+1812,Rockingham,2009,Severe Ice Storm,105730.34
+1812,Rockingham,2009,Severe Ice Storm,503777.73
+1812,Strafford,2009,Severe Ice Storm,303504.31
+1812,Statewide,2009,Severe Ice Storm,38208.35
+1812,Rockingham,2009,Severe Ice Storm,338792.11
+1812,Cheshire,2009,Severe Ice Storm,6879.14
+1812,Strafford,2009,Severe Ice Storm,63444.75
+1812,Strafford,2009,Severe Ice Storm,21664.5
+1812,Merrimack,2009,Severe Ice Storm,30177.47
+1812,Rockingham,2009,Severe Ice Storm,47829.52
+1812,Merrimack,2009,Severe Ice Storm,36896.81
+1812,Rockingham,2009,Severe Ice Storm,60782.38
+1812,Strafford,2009,Severe Ice Storm,43552.75
+1812,Merrimack,2009,Severe Ice Storm,19523.53
+1812,Statewide,2009,Severe Ice Storm,310680.53
+1812,Strafford,2009,Severe Ice Storm,45174.27
+1812,Statewide,2009,Severe Ice Storm,2166445.38
+1812,Rockingham,2009,Severe Ice Storm,158481.29
+1812,Sullivan,2009,Severe Ice Storm,13483.82
+1812,Rockingham,2009,Severe Ice Storm,32041.06
+1812,Merrimack,2009,Severe Ice Storm,5878.21
+1812,Sullivan,2009,Severe Ice Storm,50123.19
+1812,Strafford,2009,Severe Ice Storm,15753.27
+1812,Merrimack,2009,Severe Ice Storm,27590.54
+1812,Rockingham,2009,Severe Ice Storm,15293.35
+1892,Merrimack,2010,Severe Storm(s),59662.42
+1892,Hillsborough,2010,Severe Storm(s),2902.96
+1892,Hillsborough,2010,Severe Storm(s),51678.9
+1892,Hillsborough,2010,Severe Storm(s),12157.84
+1892,Grafton,2010,Severe Storm(s),22689.32
+1892,Hillsborough,2010,Severe Storm(s),1877.82
+1892,Grafton,2010,Severe Storm(s),4619.38
+1892,Grafton,2010,Severe Storm(s),3858.75
+1892,Hillsborough,2010,Severe Storm(s),11655.73
+1892,Grafton,2010,Severe Storm(s),7464.86
+1892,Grafton,2010,Severe Storm(s),21016.31
+1892,Hillsborough,2010,Severe Storm(s),9954.04
+1892,Hillsborough,2010,Severe Storm(s),127123.38
+1892,Hillsborough,2010,Severe Storm(s),33689.29
+1892,Grafton,2010,Severe Storm(s),1391.57
+1892,Grafton,2010,Severe Storm(s),9080.15
+1892,Grafton,2010,Severe Storm(s),9821.4
+1892,Grafton,2010,Severe Storm(s),1855242.2
+1892,Hillsborough,2010,Severe Storm(s),17563.42
+1892,Grafton,2010,Severe Storm(s),1216.25
+1892,Hillsborough,2010,Severe Storm(s),274272.95
+1892,Grafton,2010,Severe Storm(s),24246.28
+1892,Hillsborough,2010,Severe Storm(s),72796.85
+1892,Hillsborough,2010,Severe Storm(s),34192.07
+1892,Grafton,2010,Severe Storm(s),7844.96
+1892,Grafton,2010,Severe Storm(s),9502.54
+1892,Hillsborough,2010,Severe Storm(s),40213.48
+1892,Hillsborough,2010,Severe Storm(s),48424.41
+1892,Hillsborough,2010,Severe Storm(s),5221.88
+1892,Hillsborough,2010,Severe Storm(s),23422.97
+1892,Grafton,2010,Severe Storm(s),2718.27
+1892,Hillsborough,2010,Severe Storm(s),121040.37
+1892,Merrimack,2010,Severe Storm(s),28926.95
+1892,Merrimack,2010,Severe Storm(s),37202.79
+1892,Grafton,2010,Severe Storm(s),1576.35
+1892,Hillsborough,2010,Severe Storm(s),1436.69
+1892,Strafford,2010,Severe Storm(s),90012.26
+1892,Rockingham,2010,Severe Storm(s),36676.88
+1892,Sullivan,2010,Severe Storm(s),5666.81
+1892,Merrimack,2010,Severe Storm(s),7753.13
+1892,Rockingham,2010,Severe Storm(s),7753.5
+1892,Strafford,2010,Severe Storm(s),6687.73
+1892,Merrimack,2010,Severe Storm(s),7854.26
+1892,Rockingham,2010,Severe Storm(s),147156.49
+1892,Sullivan,2010,Severe Storm(s),15471.1
+1892,Merrimack,2010,Severe Storm(s),79063.74
+1892,Merrimack,2010,Severe Storm(s),853.73
+1892,Rockingham,2010,Severe Storm(s),24343.19
+1892,Rockingham,2010,Severe Storm(s),69967.46
+1892,Statewide,2010,Severe Storm(s),39935.42
+1892,Rockingham,2010,Severe Storm(s),26645.28
+1892,Rockingham,2010,Severe Storm(s),32833.75
+1892,Rockingham,2010,Severe Storm(s),94467.96
+1892,Statewide,2010,Severe Storm(s),761653.32
+1892,Strafford,2010,Severe Storm(s),174005.74
+1892,Rockingham,2010,Severe Storm(s),19265.11
+1892,Rockingham,2010,Severe Storm(s),31348.91
+1892,Merrimack,2010,Severe Storm(s),17034.19
+1892,Rockingham,2010,Severe Storm(s),52830.96
+1892,Sullivan,2010,Severe Storm(s),5008.52
+1892,Rockingham,2010,Severe Storm(s),18523.12
+1892,Rockingham,2010,Severe Storm(s),25716.87
+1892,Merrimack,2010,Severe Storm(s),10431.07
+1892,Merrimack,2010,Severe Storm(s),14709.53
+1892,Statewide,2010,Severe Storm(s),109493.04
+1892,Merrimack,2010,Severe Storm(s),13949.95
+1892,Strafford,2010,Severe Storm(s),39573.94
+1892,Statewide,2010,Severe Storm(s),11916.05
+1892,Strafford,2010,Severe Storm(s),5150.18
+1892,Rockingham,2010,Severe Storm(s),17926.06
+1892,Merrimack,2010,Severe Storm(s),2260.59
+1892,Strafford,2010,Severe Storm(s),78944.11
+1892,Sullivan,2010,Severe Storm(s),26324.34
+1892,Rockingham,2010,Severe Storm(s),145054.9
+1892,Merrimack,2010,Severe Storm(s),2325.38
+1892,Statewide,2010,Severe Storm(s),13093.19
+1892,Rockingham,2010,Severe Storm(s),55138.8
+1892,Strafford,2010,Severe Storm(s),21400.56
+1892,Strafford,2010,Severe Storm(s),8184.0
+1892,Rockingham,2010,Severe Storm(s),46903.22
+1892,Rockingham,2010,Severe Storm(s),166538.2
+1892,Merrimack,2010,Severe Storm(s),28550.08
+1892,Merrimack,2010,Severe Storm(s),33912.34
+1892,Rockingham,2010,Severe Storm(s),11888.57
+1892,Rockingham,2010,Severe Storm(s),37194.48
+1892,Rockingham,2010,Severe Storm(s),13579.43
+1892,Rockingham,2010,Severe Storm(s),22697.49
+1892,Strafford,2010,Severe Storm(s),27002.25
+1892,Rockingham,2010,Severe Storm(s),12564.09
+1892,Rockingham,2010,Severe Storm(s),60958.0
+1892,Rockingham,2010,Severe Storm(s),1020.0
+1892,Sullivan,2010,Severe Storm(s),3242.88
+1892,Rockingham,2010,Severe Storm(s),16624.44
+1892,Rockingham,2010,Severe Storm(s),2625.0
+1892,Merrimack,2010,Severe Storm(s),6826.28
+1892,Merrimack,2010,Severe Storm(s),6298.2
+1892,Rockingham,2010,Severe Storm(s),80033.08
+1892,Rockingham,2010,Severe Storm(s),12532.95
+1892,Statewide,2010,Severe Storm(s),4134.66
+1892,Sullivan,2010,Severe Storm(s),6683.53
+1892,Rockingham,2010,Severe Storm(s),3897.32
+1892,Rockingham,2010,Severe Storm(s),13866.17
+1892,Hillsborough,2010,Severe Storm(s),24639.82
+1892,Statewide,2010,Severe Storm(s),117279.19
+1892,Rockingham,2010,Severe Storm(s),18360.49
+1892,Rockingham,2010,Severe Storm(s),17233.31
+1892,Merrimack,2010,Severe Storm(s),11849.36
+1892,Rockingham,2010,Severe Storm(s),38072.66
+1892,Merrimack,2010,Severe Storm(s),7500.0
+1892,Merrimack,2010,Severe Storm(s),3593.65
+1892,Merrimack,2010,Severe Storm(s),776.71
+1892,Rockingham,2010,Severe Storm(s),11512.5
+1892,Rockingham,2010,Severe Storm(s),67147.26
+1892,Statewide,2010,Severe Storm(s),53045.07
+1892,Rockingham,2010,Severe Storm(s),34757.5
+1892,Rockingham,2010,Severe Storm(s),68802.43
+1892,Strafford,2010,Severe Storm(s),41173.02
+1892,Merrimack,2010,Severe Storm(s),88698.78
+1892,Strafford,2010,Severe Storm(s),12878.31
+1892,Rockingham,2010,Severe Storm(s),11421.23
+1892,Rockingham,2010,Severe Storm(s),25227.18
+1892,Rockingham,2010,Severe Storm(s),78740.43
+1892,Strafford,2010,Severe Storm(s),29272.53
+1892,Rockingham,2010,Severe Storm(s),16078.71
+1892,Rockingham,2010,Severe Storm(s),10642.38
+1892,Merrimack,2010,Severe Storm(s),14263.46
+1892,Statewide,2010,Severe Storm(s),8300.83
+1892,Sullivan,2010,Severe Storm(s),5787.75
+1892,Strafford,2010,Severe Storm(s),6815.0
+1892,Strafford,2010,Severe Storm(s),7104.68
+1892,Sullivan,2010,Severe Storm(s),18435.4
+1913,Rockingham,2010,Severe Storm(s),46112.25
+1913,Hillsborough,2010,Severe Storm(s),15010.56
+1913,Rockingham,2010,Severe Storm(s),30402.05
+1913,Rockingham,2010,Severe Storm(s),6580.01
+1913,Rockingham,2010,Severe Storm(s),11061.18
+1913,Hillsborough,2010,Severe Storm(s),72141.56
+1913,Rockingham,2010,Severe Storm(s),750.0
+1913,Hillsborough,2010,Severe Storm(s),7051.0
+1913,Rockingham,2010,Severe Storm(s),20150.77
+1913,Hillsborough,2010,Severe Storm(s),4223.93
+1913,Hillsborough,2010,Severe Storm(s),5940.12
+1913,Statewide,2010,Severe Storm(s),30825.0
+1913,Rockingham,2010,Severe Storm(s),24853.39
+1913,Hillsborough,2010,Severe Storm(s),16645.34
+1913,Hillsborough,2010,Severe Storm(s),2876.64
+1913,Rockingham,2010,Severe Storm(s),14754.27
+1913,Rockingham,2010,Severe Storm(s),61765.2
+1913,Rockingham,2010,Severe Storm(s),3535.02
+1913,Statewide,2010,Severe Storm(s),1885.73
+1913,Rockingham,2010,Severe Storm(s),24913.89
+1913,Rockingham,2010,Severe Storm(s),41456.71
+1913,Statewide,2010,Severe Storm(s),22209.87
+1913,Rockingham,2010,Severe Storm(s),16401.66
+1913,Hillsborough,2010,Severe Storm(s),28071.38
+1913,Hillsborough,2010,Severe Storm(s),1296962.21
+1913,Rockingham,2010,Severe Storm(s),17440.29
+1913,Rockingham,2010,Severe Storm(s),28857.88
+1913,Rockingham,2010,Severe Storm(s),59636.77
+1913,Rockingham,2010,Severe Storm(s),13683.93
+1913,Rockingham,2010,Severe Storm(s),14668.07
+1913,Hillsborough,2010,Severe Storm(s),12832.53
+1913,Hillsborough,2010,Severe Storm(s),31840.17
+1913,Rockingham,2010,Severe Storm(s),17154.21
+1913,Rockingham,2010,Severe Storm(s),7471.3
+1913,Hillsborough,2010,Severe Storm(s),123494.89
+1913,Rockingham,2010,Severe Storm(s),155195.02
+1913,Statewide,2010,Severe Storm(s),29821.53
+1913,Rockingham,2010,Severe Storm(s),42278.07
+1913,Rockingham,2010,Severe Storm(s),11186.97
+1913,Hillsborough,2010,Severe Storm(s),117228.61
+3101,NaN,1993,Snow,1766.06
+3101,NaN,1993,Snow,2486.4
+3101,NaN,1993,Snow,1573.67
+3101,NaN,1993,Snow,4224.5
+3101,NaN,1993,Snow,2216.22
+3101,NaN,1993,Snow,1572.35
+3101,NaN,1993,Snow,1421.6
+3101,NaN,1993,Snow,3110.16
+3101,NaN,1993,Snow,1328.57
+3101,NaN,1993,Snow,337.5
+3101,NaN,1993,Snow,681.96
+3101,NaN,1993,Snow,854.93
+3101,NaN,1993,Snow,3558.36
+3101,NaN,1993,Snow,533.19
+3101,NaN,1993,Snow,980.25
+3101,NaN,1993,Snow,2377.93
+3101,NaN,1993,Snow,895.9
+3101,NaN,1993,Snow,1095.2
+3101,NaN,1993,Snow,4235.57
+3101,NaN,1993,Snow,2046.38
+3101,NaN,1993,Snow,11354.08
+3101,NaN,1993,Snow,2267.73
+3101,NaN,1993,Snow,2764.48
+3101,NaN,1993,Snow,869.24
+3101,NaN,1993,Snow,7598.91
+3101,NaN,1993,Snow,4535.79
+3101,NaN,1993,Snow,1145.36
+3101,NaN,1993,Snow,2816.08
+3101,NaN,1993,Snow,2133.03
+3101,NaN,1993,Snow,1449.52
+3101,NaN,1993,Snow,4596.42
+3101,NaN,1993,Snow,1320.26
+3101,NaN,1993,Snow,798.26
+3101,NaN,1993,Snow,1992.41
+3101,NaN,1993,Snow,5610.0
+3101,NaN,1993,Snow,4581.55
+3101,NaN,1993,Snow,1118.23
+3101,NaN,1993,Snow,612.13
+3101,NaN,1993,Snow,528.34
+3101,NaN,1993,Snow,2193.22
+3101,NaN,1993,Snow,434.57
+3101,NaN,1993,Snow,1670.32
+3101,NaN,1993,Snow,4336.45
+3101,NaN,1993,Snow,3257.81
+3101,NaN,1993,Snow,1439.64
+3101,NaN,1993,Snow,3403.31
+3101,NaN,1993,Snow,2572.75
+3101,NaN,1993,Snow,12436.22
+3101,NaN,1993,Snow,0.0
+3101,NaN,1993,Snow,8787.2
+3101,NaN,1993,Snow,2325.57
+3101,NaN,1993,Snow,3783.22
+3101,NaN,1993,Snow,1189.8
+3101,NaN,1993,Snow,2402.96
+3101,NaN,1993,Snow,3293.32
+3101,NaN,1993,Snow,2129.51
+3101,NaN,1993,Snow,3295.58
+3101,NaN,1993,Snow,1515.11
+3101,NaN,1993,Snow,2859.11
+3101,NaN,1993,Snow,5312.66
+3101,NaN,1993,Snow,546.48
+3101,NaN,1993,Snow,3500.74
+3101,NaN,1993,Snow,1753.94
+3101,NaN,1993,Snow,1080.38
+3101,NaN,1993,Snow,942.96
+3101,NaN,1993,Snow,950.84
+3101,NaN,1993,Snow,2676.14
+3101,NaN,1993,Snow,8100.56
+3101,NaN,1993,Snow,2185.76
+3101,NaN,1993,Snow,1055.16
+3101,NaN,1993,Snow,34410.74
+3101,NaN,1993,Snow,10380.81
+3101,NaN,1993,Snow,946.77
+3101,NaN,1993,Snow,8816.34
+3101,NaN,1993,Snow,2729.07
+3101,NaN,1993,Snow,3483.41
+3101,NaN,1993,Snow,3560.25
+3101,NaN,1993,Snow,490.37
+3101,NaN,1993,Snow,887.27
+3101,NaN,1993,Snow,2736.08
+3101,NaN,1993,Snow,6613.95
+3101,NaN,1993,Snow,2236.07
+3101,NaN,1993,Snow,674.92
+3101,NaN,1993,Snow,609.8
+3101,NaN,1993,Snow,2903.3
+3101,NaN,1993,Snow,2684.34
+3101,NaN,1993,Snow,6633.12
+3101,NaN,1993,Snow,2380.82
+3101,NaN,1993,Snow,1837.11
+3101,NaN,1993,Snow,1736.66
+3101,NaN,1993,Snow,3854.71
+3101,NaN,1993,Snow,3727.25
+3101,NaN,1993,Snow,2457.36
+3101,NaN,1993,Snow,2679.75
+3101,NaN,1993,Snow,1747.91
+3101,NaN,1993,Snow,940.96
+3101,NaN,1993,Snow,791.18
+3101,NaN,1993,Snow,2295.29
+3101,NaN,1993,Snow,3188.97
+3101,NaN,1993,Snow,3909.3
+3101,NaN,1993,Snow,1782.44
+3101,NaN,1993,Snow,4229.1
+3101,NaN,1993,Snow,1410.76
+3101,NaN,1993,Snow,3675.31
+3101,NaN,1993,Snow,2722.77
+3101,NaN,1993,Snow,994.64
+3101,NaN,1993,Snow,880.5
+3101,NaN,1993,Snow,1211.14
+3101,NaN,1993,Snow,2183.63
+3101,NaN,1993,Snow,18715.36
+3101,NaN,1993,Snow,1679.94
+3101,NaN,1993,Snow,1922.62
+3101,NaN,1993,Snow,2933.65
+3101,NaN,1993,Snow,2539.7
+3101,NaN,1993,Snow,1754.03
+3101,NaN,1993,Snow,981.47
+3101,NaN,1993,Snow,7986.86
+3101,NaN,1993,Snow,2052.86
+3101,NaN,1993,Snow,1597.79
+3101,NaN,1993,Snow,1281.32
+3101,NaN,1993,Snow,1575.71
+3101,NaN,1993,Snow,1712.53
+3101,NaN,1993,Snow,1338.94
+3101,NaN,1993,Snow,1409.68
+3101,NaN,1993,Snow,3923.54
+3101,NaN,1993,Snow,6625.78
+3101,NaN,1993,Snow,755.06
+3101,NaN,1993,Snow,592.68
+3101,NaN,1993,Snow,249.4
+3101,NaN,1993,Snow,1666.14
+3101,NaN,1993,Snow,923.11
+3101,NaN,1993,Snow,406.84
+3101,NaN,1993,Snow,1191.91
+3101,NaN,1993,Snow,4128.66
+3101,NaN,1993,Snow,2464.73
+3101,NaN,1993,Snow,4027.13
+3101,NaN,1993,Snow,1905.98
+3101,NaN,1993,Snow,1363.33
+3101,NaN,1993,Snow,3414.65
+3101,NaN,1993,Snow,1679.81
+3101,NaN,1993,Snow,1342.6
+3101,NaN,1993,Snow,2155.91
+3101,NaN,1993,Snow,3267.87
+3101,NaN,1993,Snow,3448.4
+3101,NaN,1993,Snow,106115.25
+3101,NaN,1993,Snow,4986.3
+3101,NaN,1993,Snow,3677.42
+3101,NaN,1993,Snow,324.0
+3101,NaN,1993,Snow,577.46
+3101,NaN,1993,Snow,2728.19
+3101,NaN,1993,Snow,1864.31
+3101,NaN,1993,Snow,703.19
+3101,NaN,1993,Snow,2780.44
+3101,NaN,1993,Snow,1254.11
+3101,NaN,1993,Snow,3580.45
+3101,NaN,1993,Snow,1407.71
+3101,NaN,1993,Snow,2604.79
+3101,NaN,1993,Snow,2774.33
+3101,NaN,1993,Snow,5257.72
+3101,NaN,1993,Snow,1643.76
+3101,NaN,1993,Snow,1160.9
+3101,NaN,1993,Snow,2380.77
+3101,NaN,1993,Snow,3564.77
+3101,NaN,1993,Snow,901.1
+3101,NaN,1993,Snow,570.32
+3101,NaN,1993,Snow,241.29
+3101,NaN,1993,Snow,2695.91
+3101,NaN,1993,Snow,4405.62
+3101,NaN,1993,Snow,475.98
+3101,NaN,1993,Snow,1996.07
+3101,NaN,1993,Snow,2070.15
+3101,NaN,1993,Snow,1239.89
+3101,NaN,1993,Snow,899.57
+3101,NaN,1993,Snow,1053.71
+3101,NaN,1993,Snow,1229.25
+3101,NaN,1993,Snow,686.63
+3101,NaN,1993,Snow,2532.15
+3101,NaN,1993,Snow,2873.69
+3101,NaN,1993,Snow,246.44
+3101,NaN,1993,Snow,3140.8
+3101,NaN,1993,Snow,2528.76
+3101,NaN,1993,Snow,1893.97
+3101,NaN,1993,Snow,421.72
+3101,NaN,1993,Snow,2169.26
+3166,Cheshire,2001,Snow,7489.39
+3166,Cheshire,2001,Snow,8490.0
+3166,Cheshire,2001,Snow,6631.5
+3166,Cheshire,2001,Snow,753.52
+3166,Cheshire,2001,Snow,0.0
+3166,Merrimack,2001,Snow,5820.0
+3166,Merrimack,2001,Snow,6925.5
+3166,Hillsborough,2001,Snow,112194.01
+3166,Grafton,2001,Snow,4214.51
+3166,Merrimack,2001,Snow,56196.83
+3166,Hillsborough,2001,Snow,31386.75
+3166,Grafton,2001,Snow,4673.22
+3166,Hillsborough,2001,Snow,111830.25
+3166,Hillsborough,2001,Snow,3942.3
+3166,Merrimack,2001,Snow,4268.88
+3166,Hillsborough,2001,Snow,30039.75
+3166,Merrimack,2001,Snow,3270.0
+3166,Coos,2001,Snow,0.0
+3166,Grafton,2001,Snow,5275.7
+3166,Coos,2001,Snow,0.0
+3166,Cheshire,2001,Snow,23238.25
+3166,Merrimack,2001,Snow,18924.34
+3166,Merrimack,2001,Snow,9480.06
+3166,Merrimack,2001,Snow,6534.0
+3166,Merrimack,2001,Snow,8933.25
+3166,Merrimack,2001,Snow,5125.5
+3166,Merrimack,2001,Snow,8053.25
+3166,Coos,2001,Snow,0.0
+3166,Grafton,2001,Snow,3660.31
+3166,Coos,2001,Snow,0.0
+3166,Hillsborough,2001,Snow,41982.38
+3166,Merrimack,2001,Snow,4624.5
+3166,Rockingham,2001,Snow,28940.44
+3166,Merrimack,2001,Snow,903.75
+3166,Merrimack,2001,Snow,12831.0
+3166,Hillsborough,2001,Snow,7232.5
+3166,Grafton,2001,Snow,3692.09
+3166,Cheshire,2001,Snow,4526.25
+3166,Merrimack,2001,Snow,12739.5
+3166,Cheshire,2001,Snow,10361.25
+3166,Grafton,2001,Snow,7570.49
+3166,Rockingham,2001,Snow,10751.93
+3166,Hillsborough,2001,Snow,15557.25
+3166,Hillsborough,2001,Snow,11906.25
+3166,Rockingham,2001,Snow,8764.5
+3166,Hillsborough,2001,Snow,11211.95
+3166,Cheshire,2001,Snow,3485.78
+3166,Coos,2001,Snow,2734.55
+3166,Rockingham,2001,Snow,15909.83
+3166,Coos,2001,Snow,3282.38
+3166,Merrimack,2001,Snow,8271.0
+3166,Coos,2001,Snow,1051.5
+3166,Hillsborough,2001,Snow,4300.5
+3166,Hillsborough,2001,Snow,13450.76
+3166,Rockingham,2001,Snow,47664.41
+3166,Rockingham,2001,Snow,1945.92
+3166,Hillsborough,2001,Snow,2274.75
+3166,Hillsborough,2001,Snow,12677.25
+3166,Hillsborough,2001,Snow,0.0
+3166,Hillsborough,2001,Snow,11385.89
+3166,Grafton,2001,Snow,5762.46
+3166,Merrimack,2001,Snow,7122.46
+3166,Merrimack,2001,Snow,4068.75
+3166,Grafton,2001,Snow,4662.38
+3166,Rockingham,2001,Snow,21273.23
+3166,Rockingham,2001,Snow,27453.0
+3166,Coos,2001,Snow,0.0
+3166,Rockingham,2001,Snow,20197.24
+3166,Grafton,2001,Snow,3190.35
+3166,Coos,2001,Snow,3056.14
+3166,Grafton,2001,Snow,6430.08
+3166,Grafton,2001,Snow,0.0
+3166,Hillsborough,2001,Snow,12924.75
+3166,Grafton,2001,Snow,1649.9
+3166,Grafton,2001,Snow,26659.4
+3166,Merrimack,2001,Snow,13068.75
+3166,Coos,2001,Snow,15402.39
+3166,Coos,2001,Snow,2129.51
+3166,Cheshire,2001,Snow,0.0
+3166,Hillsborough,2001,Snow,8223.0
+3166,Merrimack,2001,Snow,4039.5
+3166,Hillsborough,2001,Snow,91475.25
+3166,Cheshire,2001,Snow,11823.75
+3166,Grafton,2001,Snow,6833.39
+3166,Coos,2001,Snow,1840.66
+3166,Cheshire,2001,Snow,4580.25
+3166,Coos,2001,Snow,3629.89
+3166,Grafton,2001,Snow,5418.5
+3166,Grafton,2001,Snow,1615.65
+3166,Merrimack,2001,Snow,5654.25
+3166,Hillsborough,2001,Snow,7125.62
+3166,Rockingham,2001,Snow,12993.0
+3166,Grafton,2001,Snow,2074.11
+3166,Merrimack,2001,Snow,11060.25
+3166,Grafton,2001,Snow,2108.73
+3166,Cheshire,2001,Snow,8137.5
+3166,Merrimack,2001,Snow,7587.0
+3166,Coos,2001,Snow,5969.3
+3166,Cheshire,2001,Snow,910.5
+3166,Hillsborough,2001,Snow,2845.5
+3166,Cheshire,2001,Snow,6546.0
+3166,Hillsborough,2001,Snow,3147.75
+3166,Hillsborough,2001,Snow,19320.71
+3166,Coos,2001,Snow,1250.18
+3166,Rockingham,2001,Snow,11926.52
+3166,Grafton,2001,Snow,757.5
+3166,Merrimack,2001,Snow,3999.04
+3166,Hillsborough,2001,Snow,11377.44
+3166,Hillsborough,2001,Snow,37564.5
+3166,Rockingham,2001,Snow,4149.82
+3166,Grafton,2001,Snow,12925.14
+3166,Grafton,2001,Snow,0.0
+3166,Grafton,2001,Snow,1275.75
+3166,Merrimack,2001,Snow,2585.25
+3166,Merrimack,2001,Snow,2953.5
+3166,Rockingham,2001,Snow,24848.18
+3166,Coos,2001,Snow,6239.62
+3166,Grafton,2001,Snow,3307.55
+3166,Cheshire,2001,Snow,4130.63
+3166,Hillsborough,2001,Snow,9246.0
+3166,Rockingham,2001,Snow,10399.5
+3166,Hillsborough,2001,Snow,6126.2
+3166,Hillsborough,2001,Snow,6097.5
+3166,Grafton,2001,Snow,3089.1
+3166,Rockingham,2001,Snow,18493.5
+3166,Merrimack,2001,Snow,20957.25
+3166,Rockingham,2001,Snow,23878.5
+3166,Cheshire,2001,Snow,0.0
+3166,Hillsborough,2001,Snow,7024.89
+3166,Cheshire,2001,Snow,3276.74
+3166,Merrimack,2001,Snow,4763.25
+3166,Hillsborough,2001,Snow,1260.0
+3166,Cheshire,2001,Snow,7131.75
+3166,Rockingham,2001,Snow,62257.46
+3166,Cheshire,2001,Snow,2444.51
+3166,Grafton,2001,Snow,6466.67
+3166,Coos,2001,Snow,17162.51
+3166,Cheshire,2001,Snow,7308.22
+3166,Grafton,2001,Snow,2929.54
+3166,Merrimack,2001,Snow,10674.0
+3166,Grafton,2001,Snow,8965.95
+3166,Cheshire,2001,Snow,4075.55
+3166,Hillsborough,2001,Snow,774.38
+3166,Hillsborough,2001,Snow,21696.0
+3166,Rockingham,2001,Snow,5397.92
+3166,Strafford,2001,Snow,57786.0
+3166,Rockingham,2001,Snow,1772.78
+3166,Strafford,2001,Snow,24404.25
+3166,Strafford,2001,Snow,3218.34
+3166,Rockingham,2001,Snow,7235.25
+3166,Grafton,2001,Snow,2956.48
+3166,Grafton,2001,Snow,2134.4
+3166,Rockingham,2001,Snow,13105.5
+3166,Rockingham,2001,Snow,3572.44
+3166,Statewide,2001,Snow,759486.77
+3166,Rockingham,2001,Snow,1608.72
+3166,Strafford,2001,Snow,16469.21
+3166,Rockingham,2001,Snow,4980.11
+3166,Statewide,2001,Snow,3253.66
+3166,Rockingham,2001,Snow,9668.14
+3166,Rockingham,2001,Snow,18964.1
+3166,Rockingham,2001,Snow,24023.72
+3166,Strafford,2001,Snow,883.5
+3166,Strafford,2001,Snow,1095.45
+3166,Grafton,2001,Snow,3317.08
+3166,Grafton,2001,Snow,17086.39
+3166,Strafford,2001,Snow,6925.02
+3166,Rockingham,2001,Snow,8073.75
+3166,Rockingham,2001,Snow,12192.75
+3166,Rockingham,2001,Snow,64646.36
+3166,Strafford,2001,Snow,12984.75
+3166,Rockingham,2001,Snow,11121.0
+3166,Rockingham,2001,Snow,16044.53
+3166,Statewide,2001,Snow,25725.55
+3166,Rockingham,2001,Snow,23616.2
+3166,Strafford,2001,Snow,47171.87
+3166,Strafford,2001,Snow,10085.11
+3166,Rockingham,2001,Snow,7030.5
+3166,Strafford,2001,Snow,23437.01
+3166,Strafford,2001,Snow,930.0
+3166,Hillsborough,2001,Snow,7837.5
+3166,Hillsborough,2001,Snow,16770.75
+3166,Rockingham,2001,Snow,17143.23
+3166,Rockingham,2001,Snow,14238.79
+3166,Strafford,2001,Snow,10059.0
+3166,Strafford,2001,Snow,0.0
+3166,Grafton,2001,Snow,2905.34
+3166,Grafton,2001,Snow,6448.07
+3166,Grafton,2001,Snow,1087.5
+3166,Rockingham,2001,Snow,5390.44
+3166,Rockingham,2001,Snow,14911.89
+3166,Rockingham,2001,Snow,31284.0
+3166,Rockingham,2001,Snow,0.0
+3166,Hillsborough,2001,Snow,11710.5
+3166,Rockingham,2001,Snow,0.0
+3166,Rockingham,2001,Snow,10172.88
+3166,Strafford,2001,Snow,10312.5
+3166,Rockingham,2001,Snow,136794.82
+3166,Grafton,2001,Snow,5236.91
+3166,Rockingham,2001,Snow,37452.7
+3166,Rockingham,2001,Snow,11411.25
+3166,Hillsborough,2001,Snow,42828.75
+3166,Rockingham,2001,Snow,7312.07
+3166,Rockingham,2001,Snow,0.0
+3177,Hillsborough,2003,Snow,21554.6
+3177,Hillsborough,2003,Snow,1961.48
+3177,Hillsborough,2003,Snow,3613.7
+3177,Cheshire,2003,Snow,1340.25
+3177,Hillsborough,2003,Snow,81817.88
+3177,Cheshire,2003,Snow,14315.63
+3177,Merrimack,2003,Snow,3474.61
+3177,Hillsborough,2003,Snow,5609.39
+3177,Hillsborough,2003,Snow,24573.62
+3177,Cheshire,2003,Snow,2113.07
+3177,Merrimack,2003,Snow,16292.17
+3177,Cheshire,2003,Snow,5425.09
+3177,Hillsborough,2003,Snow,7477.04
+3177,Hillsborough,2003,Snow,4247.1
+3177,Hillsborough,2003,Snow,14536.58
+3177,Merrimack,2003,Snow,4555.88
+3177,Cheshire,2003,Snow,2702.89
+3177,Hillsborough,2003,Snow,6766.31
+3177,Hillsborough,2003,Snow,9460.22
+3177,Merrimack,2003,Snow,2275.72
+3177,Cheshire,2003,Snow,5237.01
+3177,Hillsborough,2003,Snow,5715.16
+3177,Cheshire,2003,Snow,3357.44
+3177,Hillsborough,2003,Snow,16198.58
+3177,Hillsborough,2003,Snow,17234.95
+3177,Hillsborough,2003,Snow,12836.35
+3177,Hillsborough,2003,Snow,17185.19
+3177,Cheshire,2003,Snow,901.88
+3177,Hillsborough,2003,Snow,6492.83
+3177,Hillsborough,2003,Snow,6918.67
+3177,Hillsborough,2003,Snow,13363.04
+3177,Cheshire,2003,Snow,17125.18
+3177,Cheshire,2003,Snow,5783.71
+3177,Merrimack,2003,Snow,5006.2
+3177,Hillsborough,2003,Snow,6666.74
+3177,Cheshire,2003,Snow,9529.74
+3177,Merrimack,2003,Snow,55846.15
+3177,Hillsborough,2003,Snow,94649.9
+3177,Cheshire,2003,Snow,2805.68
+3177,Hillsborough,2003,Snow,9460.42
+3177,Hillsborough,2003,Snow,2435.25
+3177,Hillsborough,2003,Snow,28282.55
+3177,Merrimack,2003,Snow,10935.08
+3177,Hillsborough,2003,Snow,4571.25
+3177,Hillsborough,2003,Snow,10593.75
+3177,Hillsborough,2003,Snow,31319.31
+3177,Cheshire,2003,Snow,7460.45
+3177,Hillsborough,2003,Snow,5188.38
+3177,Hillsborough,2003,Snow,13257.41
+3177,Hillsborough,2003,Snow,103683.25
+3177,Merrimack,2003,Snow,5066.69
+3177,Cheshire,2003,Snow,4084.2
+3177,Cheshire,2003,Snow,3454.62
+3177,Hillsborough,2003,Snow,42220.68
+3177,Cheshire,2003,Snow,2762.86
+3177,Merrimack,2003,Snow,4289.07
+3177,Strafford,2003,Snow,7211.84
+3177,Rockingham,2003,Snow,3562.5
+3177,Merrimack,2003,Snow,4667.66
+3177,Statewide,2003,Snow,375168.29
+3177,Rockingham,2003,Snow,20566.62
+3177,Rockingham,2003,Snow,17178.8
+3177,Rockingham,2003,Snow,1696.88
+3177,Merrimack,2003,Snow,8814.2
+3177,Merrimack,2003,Snow,3802.78
+3177,Strafford,2003,Snow,4616.3
+3177,Rockingham,2003,Snow,3371.8
+3177,Rockingham,2003,Snow,45865.52
+3177,Rockingham,2003,Snow,29018.71
+3177,Strafford,2003,Snow,3905.24
+3177,Rockingham,2003,Snow,17906.22
+3177,Merrimack,2003,Snow,5974.47
+3177,Statewide,2003,Snow,95176.65
+3177,Rockingham,2003,Snow,9625.31
+3177,Merrimack,2003,Snow,4922.99
+3177,Rockingham,2003,Snow,3626.63
+3177,Rockingham,2003,Snow,6407.97
+3177,Rockingham,2003,Snow,10631.88
+3177,Rockingham,2003,Snow,11890.57
+3177,Rockingham,2003,Snow,1310.48
+3177,Rockingham,2003,Snow,9170.03
+3177,Strafford,2003,Snow,15753.2
+3177,Merrimack,2003,Snow,10043.4
+3177,Merrimack,2003,Snow,12271.78
+3177,Rockingham,2003,Snow,5018.92
+3177,Rockingham,2003,Snow,14669.63
+3177,Merrimack,2003,Snow,2985.41
+3177,Rockingham,2003,Snow,15342.14
+3177,Rockingham,2003,Snow,2468.65
+3177,Strafford,2003,Snow,7383.35
+3177,Strafford,2003,Snow,10017.09
+3177,Rockingham,2003,Snow,1425.0
+3177,Rockingham,2003,Snow,19378.43
+3177,Strafford,2003,Snow,7776.47
+3177,Merrimack,2003,Snow,7832.67
+3177,Rockingham,2003,Snow,2889.7
+3177,Rockingham,2003,Snow,9907.07
+3177,Rockingham,2003,Snow,10793.77
+3177,Rockingham,2003,Snow,24162.98
+3177,Rockingham,2003,Snow,6837.35
+3177,Strafford,2003,Snow,2546.84
+3177,Statewide,2003,Snow,9667.91
+3177,Rockingham,2003,Snow,11050.92
+3177,Cheshire,2003,Snow,5912.78
+3177,Merrimack,2003,Snow,14645.41
+3177,Merrimack,2003,Snow,4550.93
+3177,Statewide,2003,Snow,16266.57
+3177,Rockingham,2003,Snow,9380.75
+3177,Rockingham,2003,Snow,5020.35
+3177,Rockingham,2003,Snow,6605.84
+3177,Rockingham,2003,Snow,11923.08
+3177,Merrimack,2003,Snow,7287.01
+3177,Rockingham,2003,Snow,6813.83
+3177,Rockingham,2003,Snow,13319.0
+3177,Merrimack,2003,Snow,2300.63
+3177,Rockingham,2003,Snow,42554.14
+3177,Strafford,2003,Snow,32585.32
+3177,Rockingham,2003,Snow,70484.36
+3177,Strafford,2003,Snow,50123.75
+3177,Strafford,2003,Snow,13285.64
+3177,Statewide,2003,Snow,31307.3
+3177,Strafford,2003,Snow,12855.1
+3177,Rockingham,2003,Snow,8230.29
+3177,Rockingham,2003,Snow,9932.03
+3177,Merrimack,2003,Snow,11732.39
+3177,Rockingham,2003,Snow,25197.26
+3177,Cheshire,2003,Snow,7186.29
+3177,Rockingham,2003,Snow,12839.21
+3193,Belknap,2004,Snow,14934.95
+3193,Coos,2004,Snow,3002.56
+3193,Coos,2004,Snow,7762.4
+3193,Cheshire,2004,Snow,4296.39
+3193,Coos,2004,Snow,2258.48
+3193,Cheshire,2004,Snow,10066.4
+3193,Carroll,2004,Snow,12582.98
+3193,Carroll,2004,Snow,11026.17
+3193,Grafton,2004,Snow,5646.53
+3193,Carroll,2004,Snow,24430.87
+3193,Cheshire,2004,Snow,26882.41
+3193,Cheshire,2004,Snow,2377.07
+3193,Coos,2004,Snow,3438.85
+3193,Coos,2004,Snow,6069.59
+3193,Belknap,2004,Snow,12906.48
+3193,Cheshire,2004,Snow,3213.98
+3193,Carroll,2004,Snow,2817.25
+3193,Grafton,2004,Snow,4623.78
+3193,Cheshire,2004,Snow,5040.46
+3193,Coos,2004,Snow,22198.71
+3193,Cheshire,2004,Snow,4009.8
+3193,Cheshire,2004,Snow,7866.95
+3193,Cheshire,2004,Snow,1544.15
+3193,Cheshire,2004,Snow,8950.14
+3193,Coos,2004,Snow,1028.55
+3193,Belknap,2004,Snow,20620.03
+3193,Cheshire,2004,Snow,7393.64
+3193,Belknap,2004,Snow,5848.42
+3193,Coos,2004,Snow,8124.24
+3193,Coos,2004,Snow,7082.35
+3193,Coos,2004,Snow,19093.14
+3193,Cheshire,2004,Snow,12765.8
+3193,Belknap,2004,Snow,17355.14
+3193,Grafton,2004,Snow,4886.74
+3193,Belknap,2004,Snow,33340.25
+3193,Cheshire,2004,Snow,11888.6
+3193,Belknap,2004,Snow,12486.83
+3193,Belknap,2004,Snow,26881.1
+3193,Cheshire,2004,Snow,2789.09
+3193,Cheshire,2004,Snow,1314.38
+3193,Cheshire,2004,Snow,11115.56
+3193,Coos,2004,Snow,4709.35
+3193,Grafton,2004,Snow,3184.84
+3193,Merrimack,2004,Snow,7174.5
+3193,Grafton,2004,Snow,2952.51
+3193,Grafton,2004,Snow,9863.36
+3193,Merrimack,2004,Snow,8446.74
+3193,Hillsborough,2004,Snow,26533.19
+3193,Hillsborough,2004,Snow,137153.11
+3193,Merrimack,2004,Snow,15085.77
+3193,Hillsborough,2004,Snow,32059.5
+3193,Hillsborough,2004,Snow,12643.55
+3193,Merrimack,2004,Snow,13775.71
+3193,Grafton,2004,Snow,3123.14
+3193,Cheshire,2004,Snow,11291.74
+3193,Grafton,2004,Snow,9326.38
+3193,Merrimack,2004,Snow,10532.7
+3193,Hillsborough,2004,Snow,7631.16
+3193,Hillsborough,2004,Snow,9694.7
+3193,Merrimack,2004,Snow,11931.42
+3193,Grafton,2004,Snow,1506.09
+3193,Merrimack,2004,Snow,25006.27
+3193,Hillsborough,2004,Snow,11025.0
+3193,Hillsborough,2004,Snow,40591.13
+3193,Merrimack,2004,Snow,13521.0
+3193,Hillsborough,2004,Snow,8892.03
+3193,Sullivan,2004,Snow,8079.59
+3193,Merrimack,2004,Snow,5195.9
+3193,Merrimack,2004,Snow,8613.11
+3193,Sullivan,2004,Snow,15476.51
+3193,Coos,2004,Snow,6261.75
+3193,Hillsborough,2004,Snow,5590.14
+3193,Merrimack,2004,Snow,13064.76
+3193,Sullivan,2004,Snow,3337.01
+3193,Hillsborough,2004,Snow,5649.32
+3193,Merrimack,2004,Snow,3214.77
+3193,Hillsborough,2004,Snow,7061.57
+3193,Statewide,2004,Snow,881914.74
+3193,Hillsborough,2004,Snow,30416.58
+3193,Grafton,2004,Snow,2302.1
+3193,Hillsborough,2004,Snow,8515.94
+3193,Hillsborough,2004,Snow,5629.45
+3193,Sullivan,2004,Snow,7545.2
+3193,Sullivan,2004,Snow,4012.38
+3193,Grafton,2004,Snow,21924.84
+3193,Merrimack,2004,Snow,5216.3
+3193,Hillsborough,2004,Snow,27872.52
+3193,Statewide,2004,Snow,-30310.49
+3193,Sullivan,2004,Snow,3260.84
+3193,Merrimack,2004,Snow,8689.43
+3193,Merrimack,2004,Snow,23192.16
+3193,Hillsborough,2004,Snow,49770.43
+3193,Merrimack,2004,Snow,9408.61
+3193,Grafton,2004,Snow,21475.9
+3193,Merrimack,2004,Snow,8742.37
+3193,Hillsborough,2004,Snow,26216.8
+3193,Merrimack,2004,Snow,3996.59
+3193,Sullivan,2004,Snow,5110.31
+3193,Cheshire,2004,Snow,2428.07
+3193,Grafton,2004,Snow,9976.82
+3193,Merrimack,2004,Snow,8608.31
+3193,Hillsborough,2004,Snow,45330.94
+3193,Hillsborough,2004,Snow,7119.04
+3193,Sullivan,2004,Snow,14948.72
+3193,Grafton,2004,Snow,10774.21
+3193,Hillsborough,2004,Snow,98533.93
+3193,Merrimack,2004,Snow,72051.02
+3193,Merrimack,2004,Snow,5022.33
+3193,Sullivan,2004,Snow,10841.91
+3193,Hillsborough,2004,Snow,1292.63
+3193,Grafton,2004,Snow,3015.94
+3193,Hillsborough,2004,Snow,13640.31
+3193,Hillsborough,2004,Snow,11904.72
+3193,Hillsborough,2004,Snow,9029.03
+3193,Merrimack,2004,Snow,8750.09
+3193,Grafton,2004,Snow,7386.22
+3193,Merrimack,2004,Snow,16832.16
+3193,Statewide,2004,Snow,7910.62
+3193,Merrimack,2004,Snow,3517.5
+3193,Grafton,2004,Snow,5966.18
+3193,Hillsborough,2004,Snow,16663.28
+3193,Hillsborough,2004,Snow,15679.17
+3193,Hillsborough,2004,Snow,1710.0
+3193,Sullivan,2004,Snow,8368.75
+3193,Hillsborough,2004,Snow,16304.45
+3193,Grafton,2004,Snow,8298.03
+3193,Coos,2004,Snow,3930.8
+3193,Merrimack,2004,Snow,4940.66
+3207,Merrimack,2005,Snow,870.0
+3207,Rockingham,2005,Snow,7608.21
+3207,Cheshire,2005,Snow,2015.19
+3207,Hillsborough,2005,Snow,1758.75
+3207,Grafton,2005,Snow,4200.2
+3207,Merrimack,2005,Snow,2069.97
+3207,Rockingham,2005,Snow,14133.98
+3207,Merrimack,2005,Snow,8176.02
+3207,Cheshire,2005,Snow,2770.92
+3207,Carroll,2005,Snow,5483.53
+3207,Merrimack,2005,Snow,7350.3
+3207,Rockingham,2005,Snow,1170.0
+3207,Hillsborough,2005,Snow,26724.88
+3207,Belknap,2005,Snow,15438.82
+3207,Hillsborough,2005,Snow,21294.23
+3207,Hillsborough,2005,Snow,6807.09
+3207,Cheshire,2005,Snow,8206.49
+3207,Cheshire,2005,Snow,2080.43
+3207,Grafton,2005,Snow,24908.0
+3207,Carroll,2005,Snow,8845.53
+3207,Carroll,2005,Snow,14535.08
+3207,Merrimack,2005,Snow,2110.5
+3207,Grafton,2005,Snow,4146.25
+3207,Merrimack,2005,Snow,31257.81
+3207,Belknap,2005,Snow,15038.34
+3207,Merrimack,2005,Snow,13563.27
+3207,Rockingham,2005,Snow,8700.12
+3207,Carroll,2005,Snow,5928.56
+3207,Merrimack,2005,Snow,6964.19
+3207,Hillsborough,2005,Snow,14371.44
+3207,Grafton,2005,Snow,2528.21
+3207,Grafton,2005,Snow,7214.88
+3207,Merrimack,2005,Snow,18578.49
+3207,Hillsborough,2005,Snow,10023.15
+3207,Rockingham,2005,Snow,15872.48
+3207,Cheshire,2005,Snow,4627.15
+3207,Merrimack,2005,Snow,4264.18
+3207,Rockingham,2005,Snow,13584.74
+3207,Merrimack,2005,Snow,9135.59
+3207,Hillsborough,2005,Snow,38278.46
+3207,Hillsborough,2005,Snow,24479.02
+3207,Grafton,2005,Snow,4632.71
+3207,Grafton,2005,Snow,6007.3
+3207,Merrimack,2005,Snow,10508.09
+3207,Hillsborough,2005,Snow,124445.09
+3207,Merrimack,2005,Snow,8339.11
+3207,Hillsborough,2005,Snow,21607.27
+3207,Merrimack,2005,Snow,5466.2
+3207,Carroll,2005,Snow,893.65
+3207,Hillsborough,2005,Snow,761.25
+3207,Merrimack,2005,Snow,10285.16
+3207,Grafton,2005,Snow,2638.9
+3207,Belknap,2005,Snow,5274.04
+3207,Grafton,2005,Snow,4437.6
+3207,Grafton,2005,Snow,1384.5
+3207,Cheshire,2005,Snow,14374.07
+3207,Grafton,2005,Snow,2078.03
+3207,Grafton,2005,Snow,2963.87
+3207,Rockingham,2005,Snow,11808.18
+3207,Belknap,2005,Snow,8046.68
+3207,Grafton,2005,Snow,1801.91
+3207,Grafton,2005,Snow,2420.12
+3207,Rockingham,2005,Snow,11107.31
+3207,Belknap,2005,Snow,29895.0
+3207,Hillsborough,2005,Snow,8642.6
+3207,Hillsborough,2005,Snow,6751.41
+3207,Grafton,2005,Snow,19999.9
+3207,Hillsborough,2005,Snow,133888.74
+3207,Hillsborough,2005,Snow,43877.17
+3207,Belknap,2005,Snow,21019.45
+3207,Rockingham,2005,Snow,1029.55
+3207,Merrimack,2005,Snow,7154.53
+3207,Merrimack,2005,Snow,12818.48
+3207,Hillsborough,2005,Snow,6219.26
+3207,Cheshire,2005,Snow,2959.4
+3207,Cheshire,2005,Snow,8105.64
+3207,Hillsborough,2005,Snow,12607.31
+3207,Cheshire,2005,Snow,4091.45
+3207,Merrimack,2005,Snow,80509.85
+3207,Merrimack,2005,Snow,5078.81
+3207,Merrimack,2005,Snow,7358.25
+3207,Grafton,2005,Snow,5785.61
+3207,Hillsborough,2005,Snow,105227.78
+3207,Rockingham,2005,Snow,64441.99
+3207,Carroll,2005,Snow,6866.65
+3207,Hillsborough,2005,Snow,1689.0
+3207,Grafton,2005,Snow,12621.22
+3207,Hillsborough,2005,Snow,8839.88
+3207,Grafton,2005,Snow,4046.54
+3207,Merrimack,2005,Snow,4889.13
+3207,Cheshire,2005,Snow,10758.43
+3207,Hillsborough,2005,Snow,3197.46
+3207,Cheshire,2005,Snow,7851.35
+3207,Rockingham,2005,Snow,21393.2
+3207,Hillsborough,2005,Snow,13010.93
+3207,Rockingham,2005,Snow,7764.94
+3207,Cheshire,2005,Snow,27840.6
+3207,Rockingham,2005,Snow,9393.76
+3207,Cheshire,2005,Snow,3725.21
+3207,Merrimack,2005,Snow,3637.97
+3207,Merrimack,2005,Snow,3547.88
+3207,Belknap,2005,Snow,10326.64
+3207,Cheshire,2005,Snow,6870.39
+3207,Hillsborough,2005,Snow,2089.88
+3207,Hillsborough,2005,Snow,23858.45
+3207,Cheshire,2005,Snow,7127.51
+3207,Hillsborough,2005,Snow,54076.46
+3207,Grafton,2005,Snow,8343.5
+3207,Grafton,2005,Snow,2515.19
+3207,Grafton,2005,Snow,1347.94
+3207,Carroll,2005,Snow,7502.24
+3207,Belknap,2005,Snow,13945.85
+3207,Hillsborough,2005,Snow,14493.65
+3207,Hillsborough,2005,Snow,33433.48
+3207,Merrimack,2005,Snow,12359.02
+3207,Grafton,2005,Snow,1946.06
+3207,Merrimack,2005,Snow,6317.0
+3207,Hillsborough,2005,Snow,12788.4
+3207,Merrimack,2005,Snow,2569.5
+3207,Grafton,2005,Snow,1511.25
+3207,Hillsborough,2005,Snow,11866.95
+3207,Hillsborough,2005,Snow,1914.68
+3207,Cheshire,2005,Snow,13937.58
+3207,Hillsborough,2005,Snow,7225.75
+3207,Rockingham,2005,Snow,17690.27
+3207,Merrimack,2005,Snow,4071.65
+3208,Carroll,2005,Snow,14556.45
+3208,Cheshire,2005,Snow,12524.92
+3208,Carroll,2005,Snow,17411.25
+3207,Rockingham,2005,Snow,877.5
+3208,Cheshire,2005,Snow,3167.68
+3207,Strafford,2005,Snow,11152.47
+3208,Cheshire,2005,Snow,15490.86
+3207,Merrimack,2005,Snow,10187.87
+3208,Grafton,2005,Snow,9890.6
+3208,Grafton,2005,Snow,12351.11
+3208,Carroll,2005,Snow,13508.23
+3208,Grafton,2005,Snow,8649.84
+3208,Grafton,2005,Snow,4816.54
+3208,Grafton,2005,Snow,5357.56
+3207,Strafford,2005,Snow,10410.06
+3207,Statewide,2005,Snow,-46623.17
+3207,Statewide,2005,Snow,1061297.27
+3208,Cheshire,2005,Snow,12816.56
+3207,Sullivan,2005,Snow,12727.73
+3207,Rockingham,2005,Snow,7456.44
+3208,Carroll,2005,Snow,1538.65
+3208,Cheshire,2005,Snow,3326.74
+3208,Coos,2005,Snow,3392.22
+3207,Rockingham,2005,Snow,4776.94
+3208,Sullivan,2005,Snow,6758.12
+3208,Grafton,2005,Snow,2718.0
+3208,Grafton,2005,Snow,2631.71
+3208,Carroll,2005,Snow,6943.62
+3207,Strafford,2005,Snow,9525.71
+3208,Grafton,2005,Snow,12399.41
+3207,Rockingham,2005,Snow,7369.31
+3208,Cheshire,2005,Snow,2088.05
+3208,Grafton,2005,Snow,7306.3
+3208,Coos,2005,Snow,4966.95
+3207,Rockingham,2005,Snow,7984.58
+3207,Rockingham,2005,Snow,2962.5
+3207,Rockingham,2005,Snow,20621.72
+3208,Coos,2005,Snow,32195.25
+3208,Grafton,2005,Snow,2049.02
+3207,Rockingham,2005,Snow,12911.45
+3207,Rockingham,2005,Snow,30437.57
+3208,Cheshire,2005,Snow,8383.4
+3208,Sullivan,2005,Snow,1923.36
+3208,Grafton,2005,Snow,3916.92
+3207,Rockingham,2005,Snow,6450.98
+3208,Coos,2005,Snow,11575.04
+3208,Grafton,2005,Snow,6367.0
+3207,Sullivan,2005,Snow,6464.99
+3207,Sullivan,2005,Snow,4939.34
+3208,Grafton,2005,Snow,4163.0
+3207,Sullivan,2005,Snow,7217.18
+3208,Sullivan,2005,Snow,11113.13
+3208,Cheshire,2005,Snow,4590.68
+3207,Sullivan,2005,Snow,3335.32
+3207,Sullivan,2005,Snow,8545.52
+3208,Cheshire,2005,Snow,6433.56
+3207,Rockingham,2005,Snow,1490.63
+3207,Rockingham,2005,Snow,24414.98
+3208,Grafton,2005,Snow,10052.77
+3207,Rockingham,2005,Snow,9955.65
+3208,Cheshire,2005,Snow,2976.58
+3207,Statewide,2005,Snow,9628.91
+3208,Cheshire,2005,Snow,7706.42
+3208,Carroll,2005,Snow,13017.45
+3208,Statewide,2005,Snow,-21997.31
+3208,Coos,2005,Snow,4087.06
+3208,Grafton,2005,Snow,7918.87
+3207,Strafford,2005,Snow,3204.93
+3207,Rockingham,2005,Snow,8926.35
+3207,Rockingham,2005,Snow,3114.0
+3208,Cheshire,2005,Snow,10500.31
+3208,Sullivan,2005,Snow,7228.11
+3207,Sullivan,2005,Snow,2834.46
+3207,Strafford,2005,Snow,8938.52
+3208,Grafton,2005,Snow,4713.36
+3208,Statewide,2005,Snow,497312.29
+3207,Rockingham,2005,Snow,16551.62
+3207,Strafford,2005,Snow,20085.56
+3208,Coos,2005,Snow,1866.62
+3208,Grafton,2005,Snow,3066.75
+3207,Rockingham,2005,Snow,6396.79
+3208,Coos,2005,Snow,5325.5
+3208,Carroll,2005,Snow,19593.65
+3207,Strafford,2005,Snow,46051.89
+3208,Coos,2005,Snow,5190.82
+3207,Rockingham,2005,Snow,35249.33
+3208,Sullivan,2005,Snow,4594.88
+3208,Grafton,2005,Snow,14205.05
+3208,Coos,2005,Snow,32386.99
+3208,Grafton,2005,Snow,5272.37
+3207,Rockingham,2005,Snow,68345.21
+3207,Hillsborough,2005,Snow,10120.67
+3208,Grafton,2005,Snow,24493.01
+3207,Rockingham,2005,Snow,18801.75
+3208,Cheshire,2005,Snow,5092.97
+3208,Grafton,2005,Snow,2740.14
+3208,Cheshire,2005,Snow,1792.17
+3208,Grafton,2005,Snow,37259.33
+3207,Strafford,2005,Snow,15367.04
+3207,Strafford,2005,Snow,18951.0
+3208,Sullivan,2005,Snow,12061.58
+3207,Strafford,2005,Snow,53070.44
+3208,Grafton,2005,Snow,2493.38
+3208,Grafton,2005,Snow,6170.44
+3208,Coos,2005,Snow,1941.6
+3207,Rockingham,2005,Snow,21675.14
+3207,Rockingham,2005,Snow,110172.8
+3208,Sullivan,2005,Snow,15515.55
+3208,Sullivan,2005,Snow,4961.8
+3208,Coos,2005,Snow,7568.78
+3207,Rockingham,2005,Snow,2780.77
+3208,Cheshire,2005,Snow,2002.81
+3207,Rockingham,2005,Snow,10211.58
+3208,Cheshire,2005,Snow,4415.75
+3211,Cheshire,2005,Snow,6078.51
+3211,Hillsborough,2005,Snow,39091.65
+3211,Cheshire,2005,Snow,12627.55
+3211,Hillsborough,2005,Snow,17897.15
+3211,Carroll,2005,Snow,12219.95
+3211,Hillsborough,2005,Snow,92011.37
+3211,Hillsborough,2005,Snow,19811.78
+3211,Carroll,2005,Snow,11510.18
+3211,Cheshire,2005,Snow,2544.23
+3211,Carroll,2005,Snow,11125.55
+3211,Cheshire,2005,Snow,11446.6
+3211,Carroll,2005,Snow,2859.23
+3211,Rockingham,2005,Snow,22861.04
+3211,Cheshire,2005,Snow,12038.21
+3211,Cheshire,2005,Snow,4513.56
+3211,Hillsborough,2005,Snow,20099.08
+3211,Cheshire,2005,Snow,5111.04
+3211,Rockingham,2005,Snow,12604.37
+3211,Cheshire,2005,Snow,2676.65
+3211,Cheshire,2005,Snow,3182.61
+3211,Rockingham,2005,Snow,4058.25
+3211,Hillsborough,2005,Snow,8159.36
+3211,Rockingham,2005,Snow,2718.75
+3211,Hillsborough,2005,Snow,35488.76
+3211,Rockingham,2005,Snow,3723.88
+3211,Rockingham,2005,Snow,4894.39
+3211,Hillsborough,2005,Snow,11860.51
+3211,Cheshire,2005,Snow,19526.36
+3211,Hillsborough,2005,Snow,12050.19
+3211,Rockingham,2005,Snow,23939.99
+3211,Rockingham,2005,Snow,6691.74
+3211,Rockingham,2005,Snow,64691.92
+3211,Hillsborough,2005,Snow,25198.65
+3211,Rockingham,2005,Snow,12998.48
+3211,Hillsborough,2005,Snow,4900.1
+3211,Hillsborough,2005,Snow,25270.52
+3211,Hillsborough,2005,Snow,104966.39
+3211,Rockingham,2005,Snow,6713.81
+3211,Rockingham,2005,Snow,5236.82
+3211,Carroll,2005,Snow,4252.11
+3211,Carroll,2005,Snow,11281.68
+3211,Rockingham,2005,Snow,54583.83
+3211,Hillsborough,2005,Snow,11603.46
+3211,Hillsborough,2005,Snow,38434.7
+3211,Hillsborough,2005,Snow,13887.95
+3211,Rockingham,2005,Snow,4878.0
+3211,Carroll,2005,Snow,13843.85
+3211,Cheshire,2005,Snow,4850.09
+3211,Rockingham,2005,Snow,10688.72
+3211,Rockingham,2005,Snow,12781.37
+3211,Cheshire,2005,Snow,8653.31
+3211,Rockingham,2005,Snow,7848.05
+3211,Cheshire,2005,Snow,11549.54
+3211,Hillsborough,2005,Snow,6060.66
+3211,Hillsborough,2005,Snow,25769.17
+3211,Hillsborough,2005,Snow,1268.44
+3211,Rockingham,2005,Snow,9407.54
+3211,Rockingham,2005,Snow,1518.75
+3211,Rockingham,2005,Snow,22467.87
+3211,Carroll,2005,Snow,2680.08
+3211,Rockingham,2005,Snow,8598.17
+3211,Hillsborough,2005,Snow,7800.11
+3211,Hillsborough,2005,Snow,22279.71
+3211,Hillsborough,2005,Snow,11456.27
+3211,Hillsborough,2005,Snow,4261.99
+3211,Hillsborough,2005,Snow,108333.83
+3211,Rockingham,2005,Snow,9939.21
+3211,Hillsborough,2005,Snow,825.0
+3211,Hillsborough,2005,Snow,4090.82
+3211,Cheshire,2005,Snow,7204.54
+3211,Rockingham,2005,Snow,46742.51
+3211,Sullivan,2005,Snow,6144.95
+3211,Statewide,2005,Snow,-31803.8
+3211,Sullivan,2005,Snow,11086.95
+3211,Statewide,2005,Snow,602177.51
+3211,Statewide,2005,Snow,68615.27
+3211,Sullivan,2005,Snow,18292.55
+3211,Sullivan,2005,Snow,2826.07
+3211,Sullivan,2005,Snow,6429.22
+3211,Rockingham,2005,Snow,5880.77
+3211,Sullivan,2005,Snow,6398.58
+3211,Sullivan,2005,Snow,6914.51
+3211,Rockingham,2005,Snow,22537.22
+3211,Sullivan,2005,Snow,3204.88
+3211,Rockingham,2005,Snow,17366.09
+3211,Rockingham,2005,Snow,15036.95
+3258,Statewide,2005,Hurricane,9319.83
+3333,Hillsborough,2011,Hurricane,10426.91
+3333,Rockingham,2011,Hurricane,2721.47
+3333,Cheshire,2011,Hurricane,1548.38
+3333,Hillsborough,2011,Hurricane,16456.58
+3333,Rockingham,2011,Hurricane,1222.5
+3333,Statewide,2011,Hurricane,28835.87
+3333,Rockingham,2011,Hurricane,7084.82
+3333,Statewide,2011,Hurricane,1886.18
+3333,Statewide,2011,Hurricane,11126.5
+3333,Hillsborough,2011,Hurricane,1723.07
+3333,Cheshire,2011,Hurricane,2159.84
+3333,Rockingham,2011,Hurricane,4719.29
+3333,Hillsborough,2011,Hurricane,12244.85
+3333,Rockingham,2011,Hurricane,11920.25
+3333,Rockingham,2011,Hurricane,9216.75
+3333,Hillsborough,2011,Hurricane,4483.87
+3333,Rockingham,2011,Hurricane,5381.96
+3333,Hillsborough,2011,Hurricane,2963.7
+3333,Rockingham,2011,Hurricane,17314.33
+3333,Rockingham,2011,Hurricane,3468.72
+3333,Rockingham,2011,Hurricane,13498.46
+3333,Cheshire,2011,Hurricane,2220.87
+3333,Rockingham,2011,Hurricane,2219.12
+3333,Hillsborough,2011,Hurricane,6385.16
+3333,Hillsborough,2011,Hurricane,6384.57
+3333,Rockingham,2011,Hurricane,1982.3
+3333,Rockingham,2011,Hurricane,784.03
+3333,Statewide,2011,Hurricane,72595.62
+3333,Rockingham,2011,Hurricane,16159.64
+3333,Cheshire,2011,Hurricane,5176.25
+3333,Rockingham,2011,Hurricane,12334.61
+3333,Rockingham,2011,Hurricane,5634.06
+3333,Rockingham,2011,Hurricane,4440.93
+3333,Hillsborough,2011,Hurricane,24485.0
+3333,Hillsborough,2011,Hurricane,2085.71
+3333,Hillsborough,2011,Hurricane,16069.4
+3333,Hillsborough,2011,Hurricane,5283.91
+3333,Statewide,2011,Hurricane,107168.61
+3333,Statewide,2011,Hurricane,12968.57
+3333,Rockingham,2011,Hurricane,6101.45
+3333,Hillsborough,2011,Hurricane,3900.71
+3333,Hillsborough,2011,Hurricane,4621.56
+3333,Statewide,2011,Hurricane,11478.42
+3333,Rockingham,2011,Hurricane,11569.57
+3333,Hillsborough,2011,Hurricane,8019.48
+3333,Hillsborough,2011,Hurricane,0.0
+3360,Statewide,2012,Hurricane,1574.11
+3360,Cheshire,2012,Hurricane,1278.48
+3360,Hillsborough,2012,Hurricane,13692.7
+3360,Hillsborough,2012,Hurricane,6144.9
+3360,Merrimack,2012,Hurricane,2804.31
+3360,Strafford,2012,Hurricane,32992.0
+3360,Rockingham,2012,Hurricane,21756.37
+3360,Sullivan,2012,Hurricane,3618.51
+3360,Hillsborough,2012,Hurricane,7257.91
+3360,Coos,2012,Hurricane,997.69
+3360,Belknap,2012,Hurricane,3150.17
+3360,Merrimack,2012,Hurricane,26319.5
+3360,Hillsborough,2012,Hurricane,2091.79
+3360,Hillsborough,2012,Hurricane,9074.21
+3360,Rockingham,2012,Hurricane,5077.52
+3360,Rockingham,2012,Hurricane,20068.52
+3360,Sullivan,2012,Hurricane,3524.94
+3360,Rockingham,2012,Hurricane,2735.69
+3333,Hillsborough,2011,Hurricane,1399.82
+3360,Strafford,2012,Hurricane,6492.15
+3360,Strafford,2012,Hurricane,16042.06
+3360,Rockingham,2012,Hurricane,25524.92
+3360,Belknap,2012,Hurricane,6128.6
+3360,Strafford,2012,Hurricane,9993.84
+3360,Rockingham,2012,Hurricane,4677.11
+3360,Cheshire,2012,Hurricane,15591.53
+3360,Hillsborough,2012,Hurricane,8450.63
+3360,Merrimack,2012,Hurricane,6529.04
+3360,Merrimack,2012,Hurricane,1589.75
+3360,Rockingham,2012,Hurricane,10363.61
+3360,Merrimack,2012,Hurricane,4908.85
+3360,Rockingham,2012,Hurricane,3352.4
+3360,Statewide,2012,Hurricane,21121.94
+3360,Rockingham,2012,Hurricane,7508.59
+3360,Rockingham,2012,Hurricane,33500.76
+3360,Strafford,2012,Hurricane,8427.94
+3360,Merrimack,2012,Hurricane,2580.76
+3360,Statewide,2012,Hurricane,639.93
+3360,Hillsborough,2012,Hurricane,1896.17
+3360,Rockingham,2012,Hurricane,4959.2
+3360,Rockingham,2012,Hurricane,15146.24
+3360,Rockingham,2012,Hurricane,2877.98
+3333,Rockingham,2011,Hurricane,1510.16
+3360,Hillsborough,2012,Hurricane,9770.39
+3360,Hillsborough,2012,Hurricane,7129.7
+3360,Merrimack,2012,Hurricane,2358.95
+3360,Sullivan,2012,Hurricane,3797.22
+3360,Merrimack,2012,Hurricane,3129.76
+3360,Hillsborough,2012,Hurricane,8718.87
+3360,Rockingham,2012,Hurricane,4782.1
+3360,Rockingham,2012,Hurricane,30164.66
+3360,Hillsborough,2012,Hurricane,67698.02
+3360,Rockingham,2012,Hurricane,10425.39
+3360,Rockingham,2012,Hurricane,2804.75
+3333,Hillsborough,2011,Hurricane,2167.07
+3360,Statewide,2012,Hurricane,3345.65
+3360,Strafford,2012,Hurricane,4926.57
+3360,Rockingham,2012,Hurricane,6512.18
+3360,Merrimack,2012,Hurricane,3828.58
+3333,Rockingham,2011,Hurricane,14557.48
+3360,Strafford,2012,Hurricane,20595.08
+3360,Hillsborough,2012,Hurricane,20459.17
+3360,Rockingham,2012,Hurricane,8234.51
+3360,Rockingham,2012,Hurricane,10625.01
+3360,Rockingham,2012,Hurricane,1270.61
+3360,Coos,2012,Hurricane,2820.84
+3333,Rockingham,2011,Hurricane,10509.94
+3360,Rockingham,2012,Hurricane,2314.7
+3360,Hillsborough,2012,Hurricane,3929.17
+3360,Hillsborough,2012,Hurricane,12398.29
+3360,Rockingham,2012,Hurricane,9797.03
+4006,Grafton,2011,Flood,88319.53
+4006,Coos,2011,Flood,13771.49
+4006,Coos,2011,Flood,750.0
+4006,Coos,2011,Flood,1345.88
+4006,Coos,2011,Flood,5557.45
+4006,Coos,2011,Flood,27897.72
+4006,Statewide,2011,Flood,771932.91
+4006,Coos,2011,Flood,23556.25
+4006,Statewide,2011,Flood,3784.37
+4006,Coos,2011,Flood,134757.32
+4006,Coos,2011,Flood,1074.59
+4006,Coos,2011,Flood,14150.03
+4006,Grafton,2011,Flood,2843.66
+4006,Grafton,2011,Flood,23744.0
+4006,Grafton,2011,Flood,10500.0
+4006,Statewide,2011,Flood,31461.12
+4006,Coos,2011,Flood,48282.93
+4006,Coos,2011,Flood,878.02
+4006,Coos,2011,Flood,14228.69
+4026,Merrimack,2011,Hurricane,2226.14
+4026,Coos,2011,Hurricane,36759.28
+4026,Coos,2011,Hurricane,23541.38
+4026,Coos,2011,Hurricane,2427.83
+4026,Belknap,2011,Hurricane,42527.75
+4026,Grafton,2011,Hurricane,765812.68
+4026,Merrimack,2011,Hurricane,5362.76
+4026,Merrimack,2011,Hurricane,2927.23
+4026,Belknap,2011,Hurricane,9847.78
+4026,Grafton,2011,Hurricane,167759.9
+4026,Carroll,2011,Hurricane,1016.25
+4026,Coos,2011,Hurricane,205739.58
+4026,Merrimack,2011,Hurricane,3865.72
+4026,Grafton,2011,Hurricane,2628.75
+4026,Belknap,2011,Hurricane,77346.78
+4026,Carroll,2011,Hurricane,4411.49
+4026,Belknap,2011,Hurricane,10506.52
+4026,Belknap,2011,Hurricane,7120.26
+4026,Grafton,2011,Hurricane,49430.91
+4026,Grafton,2011,Hurricane,41933.77
+4026,Merrimack,2011,Hurricane,8937.36
+4026,Grafton,2011,Hurricane,59936.94
+4026,Carroll,2011,Hurricane,59533.39
+4026,Merrimack,2011,Hurricane,19540.32
+4026,Carroll,2011,Hurricane,224829.22
+4026,Carroll,2011,Hurricane,8973.35
+4026,Carroll,2011,Hurricane,72089.89
+4026,Carroll,2011,Hurricane,47036.96
+4026,Grafton,2011,Hurricane,7047.9
+4026,Grafton,2011,Hurricane,8753.22
+4026,Grafton,2011,Hurricane,8475.07
+4026,Carroll,2011,Hurricane,24867.23
+4026,Grafton,2011,Hurricane,810.35
+4026,Carroll,2011,Hurricane,20808.62
+4026,Coos,2011,Hurricane,143842.93
+4026,Grafton,2011,Hurricane,6916120.31
+4026,Grafton,2011,Hurricane,43015.93
+4026,Merrimack,2011,Hurricane,12594.68
+4026,Grafton,2011,Hurricane,320405.87
+4026,Coos,2011,Hurricane,9392.78
+4026,Merrimack,2011,Hurricane,24444.0
+4026,Carroll,2011,Hurricane,1534903.85
+4026,Carroll,2011,Hurricane,24815.24
+4026,Grafton,2011,Hurricane,86068.3
+4026,Carroll,2011,Hurricane,993.0
+4026,Grafton,2011,Hurricane,73220.21
+4026,Carroll,2011,Hurricane,14850.0
+4026,Grafton,2011,Hurricane,13519.72
+4026,Belknap,2011,Hurricane,13130.61
+4026,Grafton,2011,Hurricane,61820.75
+4026,Coos,2011,Hurricane,575826.44
+4026,Merrimack,2011,Hurricane,153503.6
+4026,Grafton,2011,Hurricane,53962.34
+4026,Merrimack,2011,Hurricane,7576.9
+4026,Carroll,2011,Hurricane,2884.16
+4026,Grafton,2011,Hurricane,1171.67
+4026,Coos,2011,Hurricane,5096.69
+4026,Grafton,2011,Hurricane,1562.18
+4026,Grafton,2011,Hurricane,7119.9
+4026,Grafton,2011,Hurricane,25940.82
+4026,Grafton,2011,Hurricane,232655.6
+4026,Grafton,2011,Hurricane,1783.21
+4026,Grafton,2011,Hurricane,265307.27
+4026,Grafton,2011,Hurricane,1613.15
+4026,Grafton,2011,Hurricane,433093.63
+4026,Carroll,2011,Hurricane,33125.95
+4026,Grafton,2011,Hurricane,13253.45
+4026,Grafton,2011,Hurricane,16213.39
+4026,Merrimack,2011,Hurricane,3438.8
+4026,Merrimack,2011,Hurricane,102503.93
+4026,Carroll,2011,Hurricane,16583.35
+4026,Grafton,2011,Hurricane,125899.69
+4026,Grafton,2011,Hurricane,1035206.03
+4026,Grafton,2011,Hurricane,80788.92
+4026,Merrimack,2011,Hurricane,4010.85
+4026,Grafton,2011,Hurricane,6813.58
+4026,Grafton,2011,Hurricane,66214.04
+4026,Carroll,2011,Hurricane,6298.76
+4026,Carroll,2011,Hurricane,9652.13
+4026,Carroll,2011,Hurricane,1276.13
+4026,Belknap,2011,Hurricane,18951.84
+4026,Grafton,2011,Hurricane,3327.49
+4026,Grafton,2011,Hurricane,999.75
+4026,Strafford,2011,Hurricane,11962.54
+4026,Statewide,2011,Hurricane,422171.0
+4026,Strafford,2011,Hurricane,868.16
+4026,Statewide,2011,Hurricane,10710.93
+4026,Statewide,2011,Hurricane,190371.35
+4026,Sullivan,2011,Hurricane,111828.6
+4026,Carroll,2011,Hurricane,9898.88
+4026,Strafford,2011,Hurricane,4868.04
+4026,Sullivan,2011,Hurricane,5371.06
+4026,Merrimack,2011,Hurricane,9695.01
+4026,Statewide,2011,Hurricane,13022.78
+4026,Strafford,2011,Hurricane,40434.45
+4026,Statewide,2011,Hurricane,1632431.55
+4026,Strafford,2011,Hurricane,8397.7
+4026,Sullivan,2011,Hurricane,39241.52
+4026,Sullivan,2011,Hurricane,83072.03
+4026,Sullivan,2011,Hurricane,5163.66
+4026,Grafton,2011,Hurricane,13309.84
+4026,Strafford,2011,Hurricane,28116.69
+4026,Merrimack,2011,Hurricane,2351.17
+4026,Statewide,2011,Hurricane,4624.32
+4026,Statewide,2011,Hurricane,8629.36
+4026,Grafton,2011,Hurricane,59281.01
+4026,Carroll,2011,Hurricane,5539.17
+4026,Sullivan,2011,Hurricane,193684.11
+4026,Strafford,2011,Hurricane,3984.31
+4026,Sullivan,2011,Hurricane,52612.73
+4026,Sullivan,2011,Hurricane,12808.97
+4026,Statewide,2011,Hurricane,13986.45
+4026,Sullivan,2011,Hurricane,27281.23
+4026,Strafford,2011,Hurricane,9257.57
+4026,Sullivan,2011,Hurricane,2940.0
+4026,Sullivan,2011,Hurricane,10957.8
+4026,Sullivan,2011,Hurricane,40776.78
+4026,Merrimack,2011,Hurricane,5958.91
+4026,Strafford,2011,Hurricane,60067.58
+4026,Merrimack,2011,Hurricane,11247.98
+4026,Merrimack,2011,Hurricane,12762.09
+4026,Statewide,2011,Hurricane,93051.14
+4026,Merrimack,2011,Hurricane,44729.51
+4026,Merrimack,2011,Hurricane,3525.99
+4026,Strafford,2011,Hurricane,61195.74
+4026,Sullivan,2011,Hurricane,16167.79
+4026,Strafford,2011,Hurricane,26508.81
+4026,Merrimack,2011,Hurricane,8317.32
+4026,Merrimack,2011,Hurricane,3028.84
+4026,Merrimack,2011,Hurricane,61882.09
+4049,Grafton,2011,Severe Storm(s),210156.26
+4049,Rockingham,2011,Severe Storm(s),14117.25
+4049,Hillsborough,2011,Severe Storm(s),8749.5
+4049,Hillsborough,2011,Severe Storm(s),1484.93
+4049,Rockingham,2011,Severe Storm(s),10071.8
+4049,Rockingham,2011,Severe Storm(s),862.5
+4049,Hillsborough,2011,Severe Storm(s),5663.72
+4049,Rockingham,2011,Severe Storm(s),5551.5
+4049,Hillsborough,2011,Severe Storm(s),160480.22
+4049,Hillsborough,2011,Severe Storm(s),210026.49
+4049,Rockingham,2011,Severe Storm(s),30108.59
+4049,Hillsborough,2011,Severe Storm(s),36462.37
+4049,Rockingham,2011,Severe Storm(s),116106.89
+4049,Rockingham,2011,Severe Storm(s),3679.24
+4049,Hillsborough,2011,Severe Storm(s),24369.48
+4049,Rockingham,2011,Severe Storm(s),35653.85
+4049,Hillsborough,2011,Severe Storm(s),3857.9
+4049,Hillsborough,2011,Severe Storm(s),30890.02
+4049,Statewide,2011,Severe Storm(s),3601.62
+4049,Hillsborough,2011,Severe Storm(s),73102.36
+4049,Rockingham,2011,Severe Storm(s),121312.5
+4049,Hillsborough,2011,Severe Storm(s),59158.86
+4049,Hillsborough,2011,Severe Storm(s),10786.94
+4049,Rockingham,2011,Severe Storm(s),31150.12
+4049,Rockingham,2011,Severe Storm(s),4136.98
+4049,Hillsborough,2011,Severe Storm(s),7212.75
+4049,Rockingham,2011,Severe Storm(s),29684.66
+4049,Hillsborough,2011,Severe Storm(s),5149.31
+4049,Rockingham,2011,Severe Storm(s),9979.91
+4049,Hillsborough,2011,Severe Storm(s),10209.85
+4049,Rockingham,2011,Severe Storm(s),12675.61
+4049,Hillsborough,2011,Severe Storm(s),4876.67
+4049,Hillsborough,2011,Severe Storm(s),61193.14
+4049,Rockingham,2011,Severe Storm(s),22031.32
+4049,Hillsborough,2011,Severe Storm(s),13105.69
+4049,Hillsborough,2011,Severe Storm(s),102112.88
+4049,Statewide,2011,Severe Storm(s),226261.55
+4049,Hillsborough,2011,Severe Storm(s),321133.98
+4049,Hillsborough,2011,Severe Storm(s),10755.47
+4049,Rockingham,2011,Severe Storm(s),9042.75
+4049,Hillsborough,2011,Severe Storm(s),13075.34
+4049,Rockingham,2011,Severe Storm(s),48291.7
+4049,Statewide,2011,Severe Storm(s),28363.52
+4049,Rockingham,2011,Severe Storm(s),35294.78
+4049,Hillsborough,2011,Severe Storm(s),8897.36
+4049,Rockingham,2011,Severe Storm(s),1464.49
+4049,Hillsborough,2011,Severe Storm(s),647127.11
+4049,Hillsborough,2011,Severe Storm(s),6783.79
+4049,Hillsborough,2011,Severe Storm(s),20126.12
+4049,Hillsborough,2011,Severe Storm(s),1224.0
+4049,Rockingham,2011,Severe Storm(s),83323.27
+4049,Rockingham,2011,Severe Storm(s),45661.66
+4049,Hillsborough,2011,Severe Storm(s),20629.18
+4049,Statewide,2011,Severe Storm(s),2750.03
+4049,Hillsborough,2011,Severe Storm(s),68374.34
+4049,Hillsborough,2011,Severe Storm(s),6665.15
+4049,Hillsborough,2011,Severe Storm(s),121343.83
+4049,Hillsborough,2011,Severe Storm(s),104803.05
+4049,Rockingham,2011,Severe Storm(s),9846.3
+4049,Hillsborough,2011,Severe Storm(s),6533.19
+4065,Cheshire,2012,Severe Storm(s),723103.13
+4065,Cheshire,2012,Severe Storm(s),860909.21
+4065,Cheshire,2012,Severe Storm(s),28034.43
+4065,Statewide,2012,Severe Storm(s),722707.37
+4065,Cheshire,2012,Severe Storm(s),349421.72
+4065,Statewide,2012,Severe Storm(s),11797.73
+4065,Cheshire,2012,Severe Storm(s),246857.32
+4065,Cheshire,2012,Severe Storm(s),49278.53
+4065,Cheshire,2012,Severe Storm(s),9761.51
+4065,Cheshire,2012,Severe Storm(s),3825.83
+4065,Cheshire,2012,Severe Storm(s),33495.58
+4095,Sullivan,2012,Hurricane,4208.65
+4095,Coos,2012,Hurricane,10627.15
+4095,Rockingham,2012,Hurricane,11967.3
+4095,Statewide,2012,Hurricane,225929.39
+4095,Grafton,2012,Hurricane,2698.7
+4095,Belknap,2012,Hurricane,5124.54
+4095,Statewide,2012,Hurricane,149655.82
+4095,Statewide,2012,Hurricane,1110.75
+4095,Rockingham,2012,Hurricane,9397.01
+4095,Rockingham,2012,Hurricane,6144.68
+4095,Rockingham,2012,Hurricane,2367.28
+4095,Coos,2012,Hurricane,28332.42
+4095,Belknap,2012,Hurricane,10631.6
+4095,Rockingham,2012,Hurricane,6931.64
+4095,Rockingham,2012,Hurricane,2365.58
+4095,Grafton,2012,Hurricane,1423378.0
+4095,Rockingham,2012,Hurricane,9163.5
+4095,Rockingham,2012,Hurricane,8411.33
+4095,Sullivan,2012,Hurricane,5018.23
+4095,Rockingham,2012,Hurricane,5227.92
+4095,Coos,2012,Hurricane,6589.14
+4095,Rockingham,2012,Hurricane,4219.66
+4095,Grafton,2012,Hurricane,4633.44
+4095,Rockingham,2012,Hurricane,15098.96
+4095,Statewide,2012,Hurricane,48739.19
+4095,Rockingham,2012,Hurricane,2267.31
+4095,Carroll,2012,Hurricane,10011.44
+4095,Coos,2012,Hurricane,816.75
+4095,Rockingham,2012,Hurricane,4494.38
+4095,Grafton,2012,Hurricane,4452.74
+4095,Rockingham,2012,Hurricane,4819.31
+4095,Grafton,2012,Hurricane,12420.36
+4095,Grafton,2012,Hurricane,3527.9
+4095,Rockingham,2012,Hurricane,7831.69
+4095,Statewide,2012,Hurricane,42517.6
+4095,Carroll,2012,Hurricane,4006.54
+4095,Rockingham,2012,Hurricane,750.0
+4095,Rockingham,2012,Hurricane,7718.02
+4105,Hillsborough,2013,Severe Storm(s),210549.65
+4105,Cheshire,2013,Severe Storm(s),6580.37
+4105,Hillsborough,2013,Severe Storm(s),6487.22
+4105,Cheshire,2013,Severe Storm(s),5528.51
+4105,Cheshire,2013,Severe Storm(s),5163.38
+4105,Cheshire,2013,Severe Storm(s),12841.92
+4105,Belknap,2013,Severe Storm(s),1729.72
+4105,Hillsborough,2013,Severe Storm(s),11573.81
+4105,Carroll,2013,Severe Storm(s),35281.55
+4105,Carroll,2013,Severe Storm(s),22267.14
+4105,Hillsborough,2013,Severe Storm(s),10069.27
+4105,Carroll,2013,Severe Storm(s),11436.31
+4105,Hillsborough,2013,Severe Storm(s),20865.16
+4105,Belknap,2013,Severe Storm(s),17977.53
+4105,Cheshire,2013,Severe Storm(s),2996.15
+4105,Belknap,2013,Severe Storm(s),18398.65
+4105,Belknap,2013,Severe Storm(s),3100.82
+4105,Belknap,2013,Severe Storm(s),18222.36
+4105,Carroll,2013,Severe Storm(s),15421.83
+4105,Carroll,2013,Severe Storm(s),5808.46
+4105,Hillsborough,2013,Severe Storm(s),15747.2
+4105,Cheshire,2013,Severe Storm(s),6924.06
+4105,Hillsborough,2013,Severe Storm(s),325007.93
+4105,Cheshire,2013,Severe Storm(s),24157.07
+4105,Hillsborough,2013,Severe Storm(s),24383.5
+4105,Cheshire,2013,Severe Storm(s),13776.98
+4105,Hillsborough,2013,Severe Storm(s),30848.85
+4105,Hillsborough,2013,Severe Storm(s),89458.77
+4105,Merrimack,2013,Severe Storm(s),12767.94
+4105,Hillsborough,2013,Severe Storm(s),24555.08
+4105,Hillsborough,2013,Severe Storm(s),57689.19
+4105,Belknap,2013,Severe Storm(s),45134.33
+4105,Hillsborough,2013,Severe Storm(s),47094.58
+4105,Carroll,2013,Severe Storm(s),11349.1
+4105,Hillsborough,2013,Severe Storm(s),10222.32
+4105,Hillsborough,2013,Severe Storm(s),22353.73
+4105,Hillsborough,2013,Severe Storm(s),13074.87
+4105,Hillsborough,2013,Severe Storm(s),14738.29
+4105,Belknap,2013,Severe Storm(s),18770.8
+4105,Belknap,2013,Severe Storm(s),26202.38
+4105,Hillsborough,2013,Severe Storm(s),1915.87
+4105,Hillsborough,2013,Severe Storm(s),7671.09
+4105,Hillsborough,2013,Severe Storm(s),11561.02
+4105,Hillsborough,2013,Severe Storm(s),72897.93
+4105,Cheshire,2013,Severe Storm(s),14185.7
+4105,Carroll,2013,Severe Storm(s),14143.1
+4105,Hillsborough,2013,Severe Storm(s),14406.22
+4105,Belknap,2013,Severe Storm(s),57054.67
+4105,Hillsborough,2013,Severe Storm(s),17252.46
+4105,Cheshire,2013,Severe Storm(s),8510.47
+4105,Cheshire,2013,Severe Storm(s),22128.64
+4105,Hillsborough,2013,Severe Storm(s),12625.04
+4105,Hillsborough,2013,Severe Storm(s),15940.66
+4105,Carroll,2013,Severe Storm(s),5928.15
+4105,Rockingham,2013,Severe Storm(s),17889.04
+4105,Sullivan,2013,Severe Storm(s),6140.6
+4105,Rockingham,2013,Severe Storm(s),5228.48
+4105,Sullivan,2013,Severe Storm(s),14753.12
+4105,Strafford,2013,Severe Storm(s),20952.42
+4105,Merrimack,2013,Severe Storm(s),16091.78
+4105,Carroll,2013,Severe Storm(s),1522.21
+4105,Strafford,2013,Severe Storm(s),3191.67
+4105,Rockingham,2013,Severe Storm(s),18957.56
+4105,Strafford,2013,Severe Storm(s),22371.9
+4105,Rockingham,2013,Severe Storm(s),23467.03
+4105,Merrimack,2013,Severe Storm(s),54625.59
+4105,Rockingham,2013,Severe Storm(s),106145.75
+4105,Merrimack,2013,Severe Storm(s),14160.35
+4105,Rockingham,2013,Severe Storm(s),14459.87
+4105,Rockingham,2013,Severe Storm(s),23068.37
+4105,Rockingham,2013,Severe Storm(s),65658.67
+4105,Rockingham,2013,Severe Storm(s),55808.16
+4105,Merrimack,2013,Severe Storm(s),33139.88
+4105,Rockingham,2013,Severe Storm(s),285791.6
+4105,Rockingham,2013,Severe Storm(s),18108.83
+4105,Rockingham,2013,Severe Storm(s),29305.38
+4105,Rockingham,2013,Severe Storm(s),22550.27
+4105,Strafford,2013,Severe Storm(s),44278.54
+4105,Rockingham,2013,Severe Storm(s),16646.64
+4105,Merrimack,2013,Severe Storm(s),15858.46
+4105,Hillsborough,2013,Severe Storm(s),27539.92
+4105,Rockingham,2013,Severe Storm(s),41343.74
+4105,Belknap,2013,Severe Storm(s),7786.14
+4105,Merrimack,2013,Severe Storm(s),13526.93
+4105,Sullivan,2013,Severe Storm(s),5747.36
+4105,Merrimack,2013,Severe Storm(s),12508.8
+4105,Merrimack,2013,Severe Storm(s),7127.25
+4105,Rockingham,2013,Severe Storm(s),27624.65
+4105,Strafford,2013,Severe Storm(s),3365.69
+4105,Rockingham,2013,Severe Storm(s),119931.2
+4105,Merrimack,2013,Severe Storm(s),32853.99
+4105,Sullivan,2013,Severe Storm(s),20441.09
+4105,Cheshire,2013,Severe Storm(s),27674.06
+4105,Rockingham,2013,Severe Storm(s),34530.79
+4105,Rockingham,2013,Severe Storm(s),41745.51
+4105,Strafford,2013,Severe Storm(s),2897.44
+4105,Statewide,2013,Severe Storm(s),130756.69
+4105,Rockingham,2013,Severe Storm(s),11415.0
+4105,Merrimack,2013,Severe Storm(s),8212.33
+4105,Rockingham,2013,Severe Storm(s),48857.13
+4105,Statewide,2013,Severe Storm(s),49773.19
+4105,Rockingham,2013,Severe Storm(s),1391.72
+4105,Merrimack,2013,Severe Storm(s),30590.66
+4105,Rockingham,2013,Severe Storm(s),21908.29
+4105,Sullivan,2013,Severe Storm(s),1895.62
+4105,Rockingham,2013,Severe Storm(s),34228.36
+4105,Hillsborough,2013,Severe Storm(s),10796.28
+4105,Rockingham,2013,Severe Storm(s),37412.42
+4105,Hillsborough,2013,Severe Storm(s),36608.2
+4105,Merrimack,2013,Severe Storm(s),9547.55
+4105,Sullivan,2013,Severe Storm(s),10883.32
+4105,Merrimack,2013,Severe Storm(s),1770.0
+4105,Sullivan,2013,Severe Storm(s),5269.07
+4105,Statewide,2013,Severe Storm(s),2298.35
+4105,Rockingham,2013,Severe Storm(s),9697.94
+4105,Merrimack,2013,Severe Storm(s),14663.2
+4105,Hillsborough,2013,Severe Storm(s),181043.66
+4105,Strafford,2013,Severe Storm(s),12681.3
+4105,Hillsborough,2013,Severe Storm(s),8008.32
+4105,Sullivan,2013,Severe Storm(s),3071.87
+4105,Rockingham,2013,Severe Storm(s),2718.75
+4105,Merrimack,2013,Severe Storm(s),9476.04
+4105,Strafford,2013,Severe Storm(s),8053.46
+4105,Merrimack,2013,Severe Storm(s),8896.85
+4105,Strafford,2013,Severe Storm(s),24102.03
+4105,Rockingham,2013,Severe Storm(s),9379.51
+4105,Cheshire,2013,Severe Storm(s),5598.75
+4105,Rockingham,2013,Severe Storm(s),20384.57
+4105,Strafford,2013,Severe Storm(s),21122.77
+4105,Strafford,2013,Severe Storm(s),84247.6
+4105,Rockingham,2013,Severe Storm(s),27366.8
+4105,Merrimack,2013,Severe Storm(s),36420.85
+4105,Rockingham,2013,Severe Storm(s),15788.81
+4105,Rockingham,2013,Severe Storm(s),110708.94
+4105,Sullivan,2013,Severe Storm(s),3862.5
+4105,Merrimack,2013,Severe Storm(s),10373.48
+4105,Rockingham,2013,Severe Storm(s),28419.92
+4105,Cheshire,2013,Severe Storm(s),43519.71
+4105,Rockingham,2013,Severe Storm(s),38519.69
+4105,Rockingham,2013,Severe Storm(s),20248.94
+4105,Strafford,2013,Severe Storm(s),83890.73
+4105,Merrimack,2013,Severe Storm(s),13599.7
+4105,Merrimack,2013,Severe Storm(s),40658.53
+4105,Merrimack,2013,Severe Storm(s),15654.35
+4105,Sullivan,2013,Severe Storm(s),10482.87
+4105,Strafford,2013,Severe Storm(s),4202.9
+4105,Sullivan,2013,Severe Storm(s),23473.45
+4105,Hillsborough,2013,Severe Storm(s),60578.1
+4105,Merrimack,2013,Severe Storm(s),9219.19
+4105,Strafford,2013,Severe Storm(s),32648.96
+4105,Merrimack,2013,Severe Storm(s),6082.71
+4105,Rockingham,2013,Severe Storm(s),33154.49
+4105,Statewide,2013,Severe Storm(s),46508.67
+4105,Rockingham,2013,Severe Storm(s),14656.66
+4105,Rockingham,2013,Severe Storm(s),24633.22
+4105,Merrimack,2013,Severe Storm(s),127176.53
+4105,Rockingham,2013,Severe Storm(s),39740.09
+4105,Strafford,2013,Severe Storm(s),11660.1
+4105,Merrimack,2013,Severe Storm(s),6600.83
+4105,Merrimack,2013,Severe Storm(s),12201.35
+4105,Statewide,2013,Severe Storm(s),1378785.84
+4105,Rockingham,2013,Severe Storm(s),16277.25
+4139,Cheshire,2013,Severe Storm(s),69423.98
+4139,Cheshire,2013,Severe Storm(s),27751.64
+4139,Statewide,2013,Severe Storm(s),41521.7
+4139,Sullivan,2013,Severe Storm(s),108177.07
+4139,Cheshire,2013,Severe Storm(s),465643.33
+4139,Grafton,2013,Severe Storm(s),22059.42
+4139,Sullivan,2013,Severe Storm(s),31546.75
+4139,Sullivan,2013,Severe Storm(s),307296.04
+4139,Cheshire,2013,Severe Storm(s),7934.58
+4139,Cheshire,2013,Severe Storm(s),87611.68
+4139,Grafton,2013,Severe Storm(s),127604.99
+4139,Grafton,2013,Severe Storm(s),41201.66
+4139,Cheshire,2013,Severe Storm(s),271463.68
+4139,Cheshire,2013,Severe Storm(s),22925.77
+4139,Grafton,2013,Severe Storm(s),3839336.24
+4139,Grafton,2013,Severe Storm(s),16103.4
+4139,Sullivan,2013,Severe Storm(s),54474.47
+4139,Sullivan,2013,Severe Storm(s),60604.96
+4139,Sullivan,2013,Severe Storm(s),103697.73
+4139,Statewide,2013,Severe Storm(s),191695.79
+4209,Strafford,2015,Severe Storm(s),13005.32
+4209,Rockingham,2015,Severe Storm(s),15835.02
+4209,Rockingham,2015,Severe Storm(s),19977.13
+4209,Rockingham,2015,Severe Storm(s),21704.11
+4209,Statewide,2015,Severe Storm(s),121299.83
+4209,Hillsborough,2015,Severe Storm(s),66949.83
+4209,Rockingham,2015,Severe Storm(s),16345.03
+4209,Hillsborough,2015,Severe Storm(s),7720.52
+4209,Rockingham,2015,Severe Storm(s),5601.38
+4209,Hillsborough,2015,Severe Storm(s),78347.07
+4209,Strafford,2015,Severe Storm(s),4593.14
+4209,Hillsborough,2015,Severe Storm(s),7393.67
+4209,Hillsborough,2015,Severe Storm(s),16986.09
+4209,Hillsborough,2015,Severe Storm(s),7302.29
+4209,Hillsborough,2015,Severe Storm(s),79151.9
+4209,Rockingham,2015,Severe Storm(s),33201.09
+4209,Rockingham,2015,Severe Storm(s),100152.95
+4209,Rockingham,2015,Severe Storm(s),94409.69
+4209,Strafford,2015,Severe Storm(s),42043.21
+4209,Rockingham,2015,Severe Storm(s),38716.47
+4209,Strafford,2015,Severe Storm(s),2898.92
+4209,Hillsborough,2015,Severe Storm(s),10392.32
+4209,Statewide,2015,Severe Storm(s),5850.0
+4209,Hillsborough,2015,Severe Storm(s),17718.75
+4209,Rockingham,2015,Severe Storm(s),41644.56
+4209,Rockingham,2015,Severe Storm(s),17880.29
+4209,Hillsborough,2015,Severe Storm(s),1500.0
+4209,Hillsborough,2015,Severe Storm(s),28101.97
+4209,Hillsborough,2015,Severe Storm(s),10789.13
+4209,Hillsborough,2015,Severe Storm(s),33577.16
+4209,Hillsborough,2015,Severe Storm(s),10900.33
+4209,Strafford,2015,Severe Storm(s),7824.54
+4209,Hillsborough,2015,Severe Storm(s),13253.33
+4209,Hillsborough,2015,Severe Storm(s),32579.54
+4209,Rockingham,2015,Severe Storm(s),54966.08
+4209,Hillsborough,2015,Severe Storm(s),241142.09
+4209,Strafford,2015,Severe Storm(s),53022.85
+4209,Strafford,2015,Severe Storm(s),15185.27
+4209,Rockingham,2015,Severe Storm(s),22195.78
+4209,Rockingham,2015,Severe Storm(s),149448.35
+4209,Rockingham,2015,Severe Storm(s),12661.86
+4209,Hillsborough,2015,Severe Storm(s),19961.99
+4209,Rockingham,2015,Severe Storm(s),22433.91
+4209,Strafford,2015,Severe Storm(s),5413.43
+4209,Hillsborough,2015,Severe Storm(s),7605.48
+4209,Rockingham,2015,Severe Storm(s),31854.86
+4209,Hillsborough,2015,Severe Storm(s),26937.53
+4209,Hillsborough,2015,Severe Storm(s),4886.76
+4209,Statewide,2015,Severe Storm(s),149970.89
+4209,Rockingham,2015,Severe Storm(s),47547.18
+4209,Hillsborough,2015,Severe Storm(s),45547.34
+4209,Rockingham,2015,Severe Storm(s),28494.65
+4209,Strafford,2015,Severe Storm(s),140666.33
+4209,Strafford,2015,Severe Storm(s),6740.54
+4209,Strafford,2015,Severe Storm(s),24103.64
+4209,Rockingham,2015,Severe Storm(s),135571.78
+4209,Rockingham,2015,Severe Storm(s),105415.55
+4209,Hillsborough,2015,Severe Storm(s),21495.56
+4209,Rockingham,2015,Severe Storm(s),5251.34
+4209,Hillsborough,2015,Severe Storm(s),4875.0
+4209,Rockingham,2015,Severe Storm(s),18135.62
+4209,Hillsborough,2015,Severe Storm(s),9196.97
+4209,Hillsborough,2015,Severe Storm(s),8588.61
+4209,Strafford,2015,Severe Storm(s),9485.62
+4209,Rockingham,2015,Severe Storm(s),6949.5
+4209,Rockingham,2015,Severe Storm(s),31575.35
+4209,Rockingham,2015,Severe Storm(s),40076.25
+4209,Hillsborough,2015,Severe Storm(s),9628.18
+4209,Strafford,2015,Severe Storm(s),11396.25
+4209,Hillsborough,2015,Severe Storm(s),23140.57
+4209,Hillsborough,2015,Severe Storm(s),32246.47
+4209,Hillsborough,2015,Severe Storm(s),27687.05
+4209,Rockingham,2015,Severe Storm(s),23236.1
+4209,Hillsborough,2015,Severe Storm(s),19399.73
+4209,Hillsborough,2015,Severe Storm(s),21557.69
+4209,Hillsborough,2015,Severe Storm(s),12533.36
+4209,Hillsborough,2015,Severe Storm(s),13519.45
+4209,Rockingham,2015,Severe Storm(s),13933.76
+4209,Rockingham,2015,Severe Storm(s),17059.05
+4209,Strafford,2015,Severe Storm(s),12552.19
+4209,Rockingham,2015,Severe Storm(s),13728.38
+4209,Rockingham,2015,Severe Storm(s),12380.68
+4209,Strafford,2015,Severe Storm(s),94037.49
+4209,Rockingham,2015,Severe Storm(s),8963.8
+4209,Rockingham,2015,Severe Storm(s),26527.58
+4209,Hillsborough,2015,Severe Storm(s),10757.51
+4209,Rockingham,2015,Severe Storm(s),54569.03
+4209,Rockingham,2015,Severe Storm(s),19611.38
+4209,Strafford,2015,Severe Storm(s),15421.19
+4209,Rockingham,2015,Severe Storm(s),20842.17
+4209,Hillsborough,2015,Severe Storm(s),2587.5
+4209,Hillsborough,2015,Severe Storm(s),8371.44
+4209,Strafford,2015,Severe Storm(s),19557.62
+4209,Strafford,2015,Severe Storm(s),3209.84
+4209,Statewide,2015,Severe Storm(s),79168.48
+4209,Strafford,2015,Severe Storm(s),29632.18
+4209,Rockingham,2015,Severe Storm(s),14396.33
+4209,Hillsborough,2015,Severe Storm(s),70402.53
+4209,Strafford,2015,Severe Storm(s),3280.78
+4209,Rockingham,2015,Severe Storm(s),5905.3
+4209,Rockingham,2015,Severe Storm(s),18096.31
+4209,Rockingham,2015,Severe Storm(s),12820.85
+4209,Rockingham,2015,Severe Storm(s),98137.37
+4209,Rockingham,2015,Severe Storm(s),18750.0
+4209,Rockingham,2015,Severe Storm(s),42841.82
+4209,Hillsborough,2015,Severe Storm(s),14310.0
+4209,Rockingham,2015,Severe Storm(s),25973.38
+4209,Hillsborough,2015,Severe Storm(s),19754.98
+4209,Rockingham,2015,Severe Storm(s),17431.44
+4209,Rockingham,2015,Severe Storm(s),43461.89
+4209,Hillsborough,2015,Severe Storm(s),134128.5
+4209,Rockingham,2015,Severe Storm(s),19613.76
+4209,Hillsborough,2015,Severe Storm(s),46821.54
+4209,Statewide,2015,Severe Storm(s),5144.03
+4209,Statewide,2015,Severe Storm(s),636094.51
+4209,Hillsborough,2015,Severe Storm(s),12475.12
+4209,Rockingham,2015,Severe Storm(s),11850.0
+4209,Rockingham,2015,Severe Storm(s),53825.05
+4209,Rockingham,2015,Severe Storm(s),35343.53
+4209,Rockingham,2015,Severe Storm(s),29030.29
+4209,Rockingham,2015,Severe Storm(s),13104.72
+4209,Rockingham,2015,Severe Storm(s),78702.55
+4209,Hillsborough,2015,Severe Storm(s),4492.37
+4209,Rockingham,2015,Severe Storm(s),135586.31
+4209,Rockingham,2015,Severe Storm(s),70366.99
+4209,Rockingham,2015,Severe Storm(s),30016.1
+4209,Rockingham,2015,Severe Storm(s),4942.02
+4316,Statewide,2017,Severe Storm(s),70661.0
+4316,Belknap,2017,Severe Storm(s),3658.82
+4316,Carroll,2017,Severe Storm(s),5489.51
+4316,Grafton,2017,Severe Storm(s),1454120.36
+4316,Carroll,2017,Severe Storm(s),11634.37
+4316,Carroll,2017,Severe Storm(s),80604.61
+4316,Belknap,2017,Severe Storm(s),20026.31
+4316,Statewide,2017,Severe Storm(s),72018.33
+4316,Belknap,2017,Severe Storm(s),11766.14
+4329,Grafton,2017,Severe Storm(s),16450.3
+4329,Grafton,2017,Severe Storm(s),21765.95
+4329,Grafton,2017,Severe Storm(s),245873.65
+4329,Grafton,2017,Severe Storm(s),35036.46
+4329,Grafton,2017,Severe Storm(s),707383.14
+4329,Grafton,2017,Severe Storm(s),4854.08
+4329,Grafton,2017,Severe Storm(s),6378.05
+4329,Grafton,2017,Severe Storm(s),10400.47
+4329,Grafton,2017,Severe Storm(s),64023.41
+4329,Grafton,2017,Severe Storm(s),107102.59
+4329,Grafton,2017,Severe Storm(s),15080.95
+4329,Statewide,2017,Severe Storm(s),6286.94
+4329,Grafton,2017,Severe Storm(s),41868.18
+4329,Coos,2017,Severe Storm(s),4437.92
+4329,Statewide,2017,Severe Storm(s),422879.76
+4329,Grafton,2017,Severe Storm(s),3660.75
+4329,Grafton,2017,Severe Storm(s),5775.33
+4329,Grafton,2017,Severe Storm(s),97951.39
+4329,Grafton,2017,Severe Storm(s),236925.2
+4329,Grafton,2017,Severe Storm(s),48017.11
+4329,Coos,2017,Severe Storm(s),24238.37
+4329,Grafton,2017,Severe Storm(s),344125.26
+4329,Grafton,2017,Severe Storm(s),261490.14
+4329,Grafton,2017,Severe Storm(s),37937.81
+4329,Grafton,2017,Severe Storm(s),36165.28
+4329,Grafton,2017,Severe Storm(s),15244.6
+4329,Grafton,2017,Severe Storm(s),4140.57
+4329,Grafton,2017,Severe Storm(s),308834.6
+4329,Grafton,2017,Severe Storm(s),150689.19
+4329,Grafton,2017,Severe Storm(s),240475.08
+4329,Coos,2017,Severe Storm(s),73004.42
+4329,Grafton,2017,Severe Storm(s),55789.37
+4329,Grafton,2017,Severe Storm(s),102837.1
+4329,Grafton,2017,Severe Storm(s),31243.58
+4329,Statewide,2017,Severe Storm(s),1875952.82
+4329,Grafton,2017,Severe Storm(s),2733.75
+4329,Statewide,2017,Severe Storm(s),7381.85
+4329,Grafton,2017,Severe Storm(s),96742.31
+4355,Carroll,2018,Severe Storm(s),85927.2
+4355,Grafton,2018,Severe Storm(s),66315.97
+4355,Coos,2018,Severe Storm(s),25039.5
+4355,Grafton,2018,Severe Storm(s),304410.1
+4355,Belknap,2018,Severe Storm(s),35997.73
+4355,Grafton,2018,Severe Storm(s),6674.73
+4355,Grafton,2018,Severe Storm(s),3737.58
+4355,Coos,2018,Severe Storm(s),54333.22
+4355,Statewide,2018,Severe Storm(s),28283.71
+4355,Coos,2018,Severe Storm(s),8311.53
+4355,Sullivan,2018,Severe Storm(s),58645.3
+4355,Merrimack,2018,Severe Storm(s),10514.66
+4355,Grafton,2018,Severe Storm(s),452605.7
+4355,Statewide,2018,Severe Storm(s),8726.0
+4355,Merrimack,2018,Severe Storm(s),19276.86
+4355,Belknap,2018,Severe Storm(s),65159.11
+4355,Carroll,2018,Severe Storm(s),14936.41
+4355,Grafton,2018,Severe Storm(s),24081.86
+4355,Grafton,2018,Severe Storm(s),212224.7
+4355,Carroll,2018,Severe Storm(s),65742.37
+4355,Coos,2018,Severe Storm(s),729080.74
+4355,Statewide,2018,Severe Storm(s),20745.73
+4355,Statewide,2018,Severe Storm(s),53062.48
+4355,Belknap,2018,Severe Storm(s),8999.64
+4355,Grafton,2018,Severe Storm(s),12319.28
+4355,Sullivan,2018,Severe Storm(s),21849.08
+4355,Grafton,2018,Severe Storm(s),8231.67
+4355,Coos,2018,Severe Storm(s),425303.27
+4355,Statewide,2018,Severe Storm(s),4532.29
+4355,Carroll,2018,Severe Storm(s),17455.54
+4355,Grafton,2018,Severe Storm(s),12082.04
+4355,Coos,2018,Severe Storm(s),7994.34
+4355,Sullivan,2018,Severe Storm(s),14065.63
+4355,Merrimack,2018,Severe Storm(s),15216.28
+4355,Grafton,2018,Severe Storm(s),2499.0
+4355,Grafton,2018,Severe Storm(s),8350.54
+4355,Merrimack,2018,Severe Storm(s),5110.88
+4355,Merrimack,2018,Severe Storm(s),22502.9
+4355,Grafton,2018,Severe Storm(s),8773.92
+4355,Grafton,2018,Severe Storm(s),3115.2
+4355,Carroll,2018,Severe Storm(s),14244.63
+4355,Coos,2018,Severe Storm(s),9684.68
+4355,Sullivan,2018,Severe Storm(s),20176.2
+4355,Grafton,2018,Severe Storm(s),68861.18
+4355,Grafton,2018,Severe Storm(s),75933.89
+4355,Coos,2018,Severe Storm(s),20203.76
+4355,Merrimack,2018,Severe Storm(s),7310.95
+4355,Statewide,2018,Severe Storm(s),11459.72
+4355,Merrimack,2018,Severe Storm(s),6112.41
+4355,Belknap,2018,Severe Storm(s),39376.01
+4355,Grafton,2018,Severe Storm(s),23167.64
+4355,Statewide,2018,Severe Storm(s),117030.11
+4355,Grafton,2018,Severe Storm(s),62059.64
+4355,Merrimack,2018,Severe Storm(s),11888.21
+4355,Merrimack,2018,Severe Storm(s),197246.03
+4355,Grafton,2018,Severe Storm(s),123926.36
+4355,Statewide,2018,Severe Storm(s),16487.97
+4355,Grafton,2018,Severe Storm(s),5778.35
+4355,Grafton,2018,Severe Storm(s),38565.41
+4355,Coos,2018,Severe Storm(s),6464.94
+4355,Statewide,2018,Severe Storm(s),786931.72
+4355,Grafton,2018,Severe Storm(s),76443.46
+4355,Carroll,2018,Severe Storm(s),11311.47
+4355,Belknap,2018,Severe Storm(s),40419.69
+4355,Merrimack,2018,Severe Storm(s),11985.32
+4355,Carroll,2018,Severe Storm(s),85800.46
+4355,Merrimack,2018,Severe Storm(s),14624.11
+4355,Grafton,2018,Severe Storm(s),127590.06
+4355,Belknap,2018,Severe Storm(s),63431.09
+4355,Grafton,2018,Severe Storm(s),3267241.91
+4355,Sullivan,2018,Severe Storm(s),6344.96
+4355,Coos,2018,Severe Storm(s),11145.8
+4355,Carroll,2018,Severe Storm(s),3391.34
+4355,Statewide,2018,Severe Storm(s),704097.5
+4355,Grafton,2018,Severe Storm(s),22307.96
+4355,Statewide,2018,Severe Storm(s),426975.51
+4371,Rockingham,2018,Snow,187782.37
+4371,Rockingham,2018,Snow,47171.62
+4371,Strafford,2018,Snow,26575.72
+4370,Rockingham,2018,Coastal Storm,43951.51
+4371,Hillsborough,2018,Snow,193145.56
+4371,Rockingham,2018,Snow,7010.77
+4371,Rockingham,2018,Snow,28015.83
+4371,Carroll,2018,Snow,33740.54
+4371,Strafford,2018,Snow,38503.68
+4370,Statewide,2018,Coastal Storm,48277.16
+4371,Strafford,2018,Snow,25356.03
+4371,Carroll,2018,Snow,43340.53
+4371,Rockingham,2018,Snow,6019.62
+4371,Rockingham,2018,Snow,32316.4
+4371,Rockingham,2018,Snow,16645.25
+4371,Strafford,2018,Snow,85073.26
+4371,Rockingham,2018,Snow,34862.94
+4371,Strafford,2018,Snow,26143.56
+4371,Rockingham,2018,Snow,68771.15
+4371,Rockingham,2018,Snow,13677.08
+4371,Rockingham,2018,Snow,62508.99
+4370,Rockingham,2018,Coastal Storm,13280.0
+4370,Rockingham,2018,Coastal Storm,65850.27
+4371,Rockingham,2018,Snow,13278.73
+4371,Strafford,2018,Snow,18122.83
+4371,Rockingham,2018,Snow,80004.73
+4371,Strafford,2018,Snow,21375.4
+4371,Rockingham,2018,Snow,33867.25
+4371,Rockingham,2018,Snow,27313.54
+4371,Rockingham,2018,Snow,37399.26
+4371,Strafford,2018,Snow,5005.65
+4371,Rockingham,2018,Snow,7346.87
+4371,Rockingham,2018,Snow,42300.41
+4371,Strafford,2018,Snow,10134.62
+4371,Rockingham,2018,Snow,16585.91
+4370,Rockingham,2018,Coastal Storm,6575.78
+4370,Rockingham,2018,Coastal Storm,37881.85
+4371,Rockingham,2018,Snow,21313.99
+4370,Statewide,2018,Coastal Storm,148230.93
+4371,Rockingham,2018,Snow,12195.14
+4371,Rockingham,2018,Snow,30616.28
+4371,Carroll,2018,Snow,25968.58
+4371,Statewide,2018,Snow,237145.72
+4371,Rockingham,2018,Snow,10437.73
+4371,Strafford,2018,Snow,30963.95
+4371,Strafford,2018,Snow,69808.32
+4371,Rockingham,2018,Snow,17007.85
+4370,Rockingham,2018,Coastal Storm,130294.54
+4371,Rockingham,2018,Snow,3297.08
+4371,Strafford,2018,Snow,7100.95
+4371,Rockingham,2018,Snow,43608.73
+4371,Rockingham,2018,Snow,16975.1
+4370,Rockingham,2018,Coastal Storm,47639.07
+4371,Rockingham,2018,Snow,39275.69
+4371,Rockingham,2018,Snow,64657.71
+4371,Rockingham,2018,Snow,112424.74
+4371,Statewide,2018,Snow,619218.19
+4371,Rockingham,2018,Snow,38487.26
+4371,Rockingham,2018,Snow,9123.27
+4371,Rockingham,2018,Snow,23880.01
+4457,Statewide,2019,Severe Storm(s),138229.35
+4370,Statewide,2018,Coastal Storm,80454.98
+4457,Grafton,2019,Severe Storm(s),68825.06
+4457,Grafton,2019,Severe Storm(s),5538.0
+4355,Grafton,2018,Severe Storm(s),16178.68
