@@ -1,259 +1,259 @@
-disasterNumber,county,declarationDate,incidentType,amountOblig
-1347,Maricopa,2000-10-27T00:00:00.000Z,Severe Storm(s),285702.85
-1347,Santa Cruz,2000-10-27T00:00:00.000Z,Severe Storm(s),336061.73
-1347,La Paz,2000-10-27T00:00:00.000Z,Severe Storm(s),0.0
-1347,Maricopa,2000-10-27T00:00:00.000Z,Severe Storm(s),556822.77
-1347,Statewide,2000-10-27T00:00:00.000Z,Severe Storm(s),524353.94
-1347,La Paz,2000-10-27T00:00:00.000Z,Severe Storm(s),1372877.83
-1347,Pinal,2000-10-27T00:00:00.000Z,Severe Storm(s),124337.88
-1347,Cochise,2000-10-27T00:00:00.000Z,Severe Storm(s),182562.25
-1347,Maricopa,2000-10-27T00:00:00.000Z,Severe Storm(s),38026.22
-1347,La Paz,2000-10-27T00:00:00.000Z,Severe Storm(s),908.03
-1347,Statewide,2000-10-27T00:00:00.000Z,Severe Storm(s),9553.33
-1347,Maricopa,2000-10-27T00:00:00.000Z,Severe Storm(s),206684.06
-1347,Maricopa,2000-10-27T00:00:00.000Z,Severe Storm(s),0.0
-1347,Cochise,2000-10-27T00:00:00.000Z,Severe Storm(s),51839.67
-1347,La Paz,2000-10-27T00:00:00.000Z,Severe Storm(s),1106.69
-1347,La Paz,2000-10-27T00:00:00.000Z,Severe Storm(s),15492.27
-1347,Statewide,2000-10-27T00:00:00.000Z,Severe Storm(s),0.0
-1347,Maricopa,2000-10-27T00:00:00.000Z,Severe Storm(s),304802.61
-1347,La Paz,2000-10-27T00:00:00.000Z,Severe Storm(s),0.0
-1347,La Paz,2000-10-27T00:00:00.000Z,Severe Storm(s),0.0
-1347,Statewide,2000-10-27T00:00:00.000Z,Severe Storm(s),0.0
-1347,La Paz,2000-10-27T00:00:00.000Z,Severe Storm(s),758.22
-1347,Statewide,2000-10-27T00:00:00.000Z,Severe Storm(s),450207.79
-1347,Statewide,2000-10-27T00:00:00.000Z,Severe Storm(s),175201.07
-1347,Pinal,2000-10-27T00:00:00.000Z,Severe Storm(s),779930.36
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,157866.62
-1422,Apache,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,5231.02
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,187.5
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Apache,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Apache,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Apache,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Apache,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Apache,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,21841.66
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,144461.4
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,668162.82
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Apache,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Navajo,2002-06-25T00:00:00.000Z,Fire,5552.57
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,0.0
-1422,Statewide,2002-06-25T00:00:00.000Z,Fire,190170.27
-1477,Statewide,2003-07-14T00:00:00.000Z,Fire,59271.45
-1477,Pima,2003-07-14T00:00:00.000Z,Fire,2667409.35
-1477,Pima,2003-07-14T00:00:00.000Z,Fire,553433.43
-1477,Pima,2003-07-14T00:00:00.000Z,Fire,0.0
-1477,Statewide,2003-07-14T00:00:00.000Z,Fire,309238.75
-1477,Pima,2003-07-14T00:00:00.000Z,Fire,1533135.13
-1477,Statewide,2003-07-14T00:00:00.000Z,Fire,72835.98
-1581,Coconino,2005-02-17T00:00:00.000Z,Severe Storm(s),106978.96
-1581,Coconino,2005-02-17T00:00:00.000Z,Severe Storm(s),363535.67
-1581,Gila,2005-02-17T00:00:00.000Z,Severe Storm(s),96986.57
-1581,Yavapai,2005-02-17T00:00:00.000Z,Severe Storm(s),37285.7
-1581,Yavapai,2005-02-17T00:00:00.000Z,Severe Storm(s),1996.31
-1581,Coconino,2005-02-17T00:00:00.000Z,Severe Storm(s),206093.24
-1581,Coconino,2005-02-17T00:00:00.000Z,Severe Storm(s),1038905.76
-1581,Coconino,2005-02-17T00:00:00.000Z,Severe Storm(s),562.5
-1581,Yavapai,2005-02-17T00:00:00.000Z,Severe Storm(s),8484.32
-1581,Statewide,2005-02-17T00:00:00.000Z,Severe Storm(s),193278.44
-1581,Yavapai,2005-02-17T00:00:00.000Z,Severe Storm(s),36418.28
-1581,Statewide,2005-02-17T00:00:00.000Z,Severe Storm(s),164041.94
-1581,Mohave,2005-02-17T00:00:00.000Z,Severe Storm(s),354164.97
-1581,Statewide,2005-02-17T00:00:00.000Z,Severe Storm(s),19201.94
-1581,Navajo,2005-02-17T00:00:00.000Z,Severe Storm(s),55875.0
-1581,Statewide,2005-02-17T00:00:00.000Z,Severe Storm(s),181138.59
-1581,Statewide,2005-02-17T00:00:00.000Z,Severe Storm(s),377487.39
-1581,Mohave,2005-02-17T00:00:00.000Z,Severe Storm(s),9768.13
-1581,Statewide,2005-02-17T00:00:00.000Z,Severe Storm(s),85644.83
-1581,Coconino,2005-02-17T00:00:00.000Z,Severe Storm(s),14506.2
-1581,Coconino,2005-02-17T00:00:00.000Z,Severe Storm(s),69682.62
-1581,Yavapai,2005-02-17T00:00:00.000Z,Severe Storm(s),17198.02
-1581,Yavapai,2005-02-17T00:00:00.000Z,Severe Storm(s),13108.5
-1581,Navajo,2005-02-17T00:00:00.000Z,Severe Storm(s),153686.83
-1581,Yavapai,2005-02-17T00:00:00.000Z,Severe Storm(s),274530.95
-1581,Mohave,2005-02-17T00:00:00.000Z,Severe Storm(s),218903.84
-1581,Statewide,2005-02-17T00:00:00.000Z,Severe Storm(s),245289.35
-1581,Statewide,2005-02-17T00:00:00.000Z,Severe Storm(s),8077.07
-1581,Yavapai,2005-02-17T00:00:00.000Z,Severe Storm(s),1310565.98
-1581,Yavapai,2005-02-17T00:00:00.000Z,Severe Storm(s),19515.43
-1581,Navajo,2005-02-17T00:00:00.000Z,Severe Storm(s),231651.84
-1581,Mohave,2005-02-17T00:00:00.000Z,Severe Storm(s),35320.13
-1586,Yavapai,2005-04-14T00:00:00.000Z,Severe Storm(s),4730.63
-1586,Statewide,2005-04-14T00:00:00.000Z,Severe Storm(s),151591.3
-1586,Mohave,2005-04-14T00:00:00.000Z,Severe Storm(s),588396.55
-1586,Greenlee,2005-04-14T00:00:00.000Z,Severe Storm(s),0.0
-1586,Graham,2005-04-14T00:00:00.000Z,Severe Storm(s),30550.56
-1586,Graham,2005-04-14T00:00:00.000Z,Severe Storm(s),226418.08
-1586,Greenlee,2005-04-14T00:00:00.000Z,Severe Storm(s),387067.04
-1586,Mohave,2005-04-14T00:00:00.000Z,Severe Storm(s),12702.66
-1586,Mohave,2005-04-14T00:00:00.000Z,Severe Storm(s),19593.38
-1586,Yavapai,2005-04-14T00:00:00.000Z,Severe Storm(s),147607.16
-1586,Yavapai,2005-04-14T00:00:00.000Z,Severe Storm(s),3004.61
-1586,Graham,2005-04-14T00:00:00.000Z,Severe Storm(s),1825760.57
-1586,Gila,2005-04-14T00:00:00.000Z,Severe Storm(s),263940.42
-1586,Greenlee,2005-04-14T00:00:00.000Z,Severe Storm(s),17824.42
-1586,Gila,2005-04-14T00:00:00.000Z,Severe Storm(s),230089.31
-1586,Graham,2005-04-14T00:00:00.000Z,Severe Storm(s),6871.06
-1586,Statewide,2005-04-14T00:00:00.000Z,Severe Storm(s),25847.72
-1586,Greenlee,2005-04-14T00:00:00.000Z,Severe Storm(s),556392.24
-1586,Statewide,2005-04-14T00:00:00.000Z,Severe Storm(s),824853.99
-1586,Mohave,2005-04-14T00:00:00.000Z,Severe Storm(s),50576.17
-1586,Coconino,2005-04-14T00:00:00.000Z,Severe Storm(s),1106330.01
-1586,Greenlee,2005-04-14T00:00:00.000Z,Severe Storm(s),4320.26
-1586,Pinal,2005-04-14T00:00:00.000Z,Severe Storm(s),468978.95
-1586,Mohave,2005-04-14T00:00:00.000Z,Severe Storm(s),0.0
-1586,Greenlee,2005-04-14T00:00:00.000Z,Severe Storm(s),0.0
-1586,Yavapai,2005-04-14T00:00:00.000Z,Severe Storm(s),2434676.68
-1660,Statewide,2006-09-07T00:00:00.000Z,Severe Storm(s),32730.75
-1660,Statewide,2006-09-07T00:00:00.000Z,Severe Storm(s),150469.55
-1660,Pinal,2006-09-07T00:00:00.000Z,Severe Storm(s),0.0
-1660,Statewide,2006-09-07T00:00:00.000Z,Severe Storm(s),6060.6
-1660,Pinal,2006-09-07T00:00:00.000Z,Severe Storm(s),69696.96
-1660,Pinal,2006-09-07T00:00:00.000Z,Severe Storm(s),7468.93
-1660,Gila,2006-09-07T00:00:00.000Z,Severe Storm(s),415174.67
-1660,Pinal,2006-09-07T00:00:00.000Z,Severe Storm(s),1317128.77
-1660,Pima,2006-09-07T00:00:00.000Z,Severe Storm(s),1093299.54
-1660,Graham,2006-09-07T00:00:00.000Z,Severe Storm(s),7846.88
-1660,Pima,2006-09-07T00:00:00.000Z,Severe Storm(s),219920.64
-1660,Greenlee,2006-09-07T00:00:00.000Z,Severe Storm(s),59169.47
-1660,Pima,2006-09-07T00:00:00.000Z,Severe Storm(s),87696.95
-1660,Pima,2006-09-07T00:00:00.000Z,Severe Storm(s),38868.0
-1660,Statewide,2006-09-07T00:00:00.000Z,Severe Storm(s),597384.17
-1660,Pinal,2006-09-07T00:00:00.000Z,Severe Storm(s),37687.93
-1660,Pima,2006-09-07T00:00:00.000Z,Severe Storm(s),52653.92
-1660,Pima,2006-09-07T00:00:00.000Z,Severe Storm(s),188392.19
-1660,Pima,2006-09-07T00:00:00.000Z,Severe Storm(s),4742325.6
-1660,Pinal,2006-09-07T00:00:00.000Z,Severe Storm(s),3158.57
-1660,Pinal,2006-09-07T00:00:00.000Z,Severe Storm(s),8115.38
-1660,Graham,2006-09-07T00:00:00.000Z,Severe Storm(s),150680.15
-1660,Pima,2006-09-07T00:00:00.000Z,Severe Storm(s),23307.73
-1660,Greenlee,2006-09-07T00:00:00.000Z,Severe Storm(s),8073.96
-1660,Graham,2006-09-07T00:00:00.000Z,Severe Storm(s),216623.53
-1660,Pima,2006-09-07T00:00:00.000Z,Severe Storm(s),1084090.88
-1660,Graham,2006-09-07T00:00:00.000Z,Severe Storm(s),95607.96
-1660,Pinal,2006-09-07T00:00:00.000Z,Severe Storm(s),14717.15
-1888,La Paz,2010-03-18T00:00:00.000Z,Severe Storm(s),33653.65
-1888,Gila,2010-03-18T00:00:00.000Z,Severe Storm(s),79554.39
-1888,Yavapai,2010-03-18T00:00:00.000Z,Severe Storm(s),32689.75
-1888,Gila,2010-03-18T00:00:00.000Z,Severe Storm(s),3209.4
-1888,Yavapai,2010-03-18T00:00:00.000Z,Severe Storm(s),1070.99
-1888,Apache,2010-03-18T00:00:00.000Z,Severe Storm(s),1047.7
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),1316668.08
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),51548.61
-1888,Apache,2010-03-18T00:00:00.000Z,Severe Storm(s),5206.54
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),708873.16
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),59041.79
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),232817.34
-1888,Coconino,2010-03-18T00:00:00.000Z,Severe Storm(s),3750.0
-1888,Apache,2010-03-18T00:00:00.000Z,Severe Storm(s),3082.74
-1888,La Paz,2010-03-18T00:00:00.000Z,Severe Storm(s),209372.8
-1888,Coconino,2010-03-18T00:00:00.000Z,Severe Storm(s),750.0
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),550947.83
-1888,Apache,2010-03-18T00:00:00.000Z,Severe Storm(s),72294.17
-1888,Navajo,2010-03-18T00:00:00.000Z,Severe Storm(s),487918.24
-1888,Yavapai,2010-03-18T00:00:00.000Z,Severe Storm(s),3021.5
-1888,Mohave,2010-03-18T00:00:00.000Z,Severe Storm(s),88618.5
-1888,Apache,2010-03-18T00:00:00.000Z,Severe Storm(s),110337.61
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),389036.07
-1888,Coconino,2010-03-18T00:00:00.000Z,Severe Storm(s),2199.41
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),506122.39
-1888,Apache,2010-03-18T00:00:00.000Z,Severe Storm(s),3004.19
-1888,Mohave,2010-03-18T00:00:00.000Z,Severe Storm(s),134278.52
-1888,La Paz,2010-03-18T00:00:00.000Z,Severe Storm(s),4688.52
-1888,Yavapai,2010-03-18T00:00:00.000Z,Severe Storm(s),15800.95
-1888,Greenlee,2010-03-18T00:00:00.000Z,Severe Storm(s),41415.45
-1888,Yavapai,2010-03-18T00:00:00.000Z,Severe Storm(s),15608.41
-1888,Mohave,2010-03-18T00:00:00.000Z,Severe Storm(s),59707.73
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),566825.0
-1888,La Paz,2010-03-18T00:00:00.000Z,Severe Storm(s),4728.75
-1888,Coconino,2010-03-18T00:00:00.000Z,Severe Storm(s),272469.2
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),151665.88
-1888,Yavapai,2010-03-18T00:00:00.000Z,Severe Storm(s),63122.97
-1888,Coconino,2010-03-18T00:00:00.000Z,Severe Storm(s),750.0
-1888,Coconino,2010-03-18T00:00:00.000Z,Severe Storm(s),25950.57
-1888,Apache,2010-03-18T00:00:00.000Z,Severe Storm(s),5246.62
-1888,Apache,2010-03-18T00:00:00.000Z,Severe Storm(s),26071.96
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),287059.31
-1888,Statewide,2010-03-18T00:00:00.000Z,Severe Storm(s),30723.15
-1888,Navajo,2010-03-18T00:00:00.000Z,Severe Storm(s),117091.52
-1888,Gila,2010-03-18T00:00:00.000Z,Severe Storm(s),117945.32
-1940,Coconino,2010-10-04T00:00:00.000Z,Severe Storm(s),3632790.95
-1940,Coconino,2010-10-04T00:00:00.000Z,Severe Storm(s),23792.07
-1940,Coconino,2010-10-04T00:00:00.000Z,Severe Storm(s),2407357.95
-1940,Statewide,2010-10-04T00:00:00.000Z,Severe Storm(s),206773.82
-1940,Statewide,2010-10-04T00:00:00.000Z,Severe Storm(s),180695.48
-1940,Coconino,2010-10-04T00:00:00.000Z,Severe Storm(s),18264.5
-1950,Statewide,2010-12-21T00:00:00.000Z,Severe Storm(s),574530.98
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,58368.78
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,196319.51
-3241,Maricopa,2005-09-12T00:00:00.000Z,Hurricane,4594.39
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,425346.38
-3241,Maricopa,2005-09-12T00:00:00.000Z,Hurricane,258743.38
-3241,Pima,2005-09-12T00:00:00.000Z,Hurricane,769730.69
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,261389.32
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,437250.29
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,1480.86
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,1517.76
-3241,Maricopa,2005-09-12T00:00:00.000Z,Hurricane,8206.01
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,634908.39
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,1258588.97
-3241,Pima,2005-09-12T00:00:00.000Z,Hurricane,48673.67
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,34163.12
-3241,Maricopa,2005-09-12T00:00:00.000Z,Hurricane,1272.38
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,3474.29
-3241,Maricopa,2005-09-12T00:00:00.000Z,Hurricane,17084.45
-3241,Maricopa,2005-09-12T00:00:00.000Z,Hurricane,16640.65
-3241,Maricopa,2005-09-12T00:00:00.000Z,Hurricane,17545.77
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,331323.66
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,304807.53
-3241,Statewide,2005-09-12T00:00:00.000Z,Hurricane,450766.02
-4104,Statewide,2013-03-05T00:00:00.000Z,Freezing,218259.48
-4104,Statewide,2013-03-05T00:00:00.000Z,Freezing,1384339.56
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,7500.0
-4203,La Paz,2014-11-05T00:00:00.000Z,Flood,806094.49
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,195770.29
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,422993.15
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,78114.56
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,269493.57
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,86497.64
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,13953.04
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,714698.42
-4203,La Paz,2014-11-05T00:00:00.000Z,Flood,2533.46
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,7634.72
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,997294.78
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,289495.99
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,143232.28
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,171848.62
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,239854.09
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,184064.03
-4203,La Paz,2014-11-05T00:00:00.000Z,Flood,12469.27
-4203,Statewide,2014-11-05T00:00:00.000Z,Flood,376198.36
-4203,Statewide,2014-11-05T00:00:00.000Z,Flood,628571.25
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,33957.68
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,18750.0
-4203,Maricopa,2014-11-05T00:00:00.000Z,Flood,301732.36
-4389,Statewide,2018-08-31T00:00:00.000Z,Flood,515561.24
-4409,Statewide,2018-11-30T00:00:00.000Z,Severe Storm(s),647235.22
-4409,Statewide,2018-11-30T00:00:00.000Z,Severe Storm(s),327548.87
+disasterNumber,county,year,incidentType,amountOblig
+1347,Maricopa,2000,Severe Storm(s),285702.85
+1347,Santa Cruz,2000,Severe Storm(s),336061.73
+1347,La Paz,2000,Severe Storm(s),0.0
+1347,Maricopa,2000,Severe Storm(s),556822.77
+1347,Statewide,2000,Severe Storm(s),524353.94
+1347,La Paz,2000,Severe Storm(s),1372877.83
+1347,Pinal,2000,Severe Storm(s),124337.88
+1347,Cochise,2000,Severe Storm(s),182562.25
+1347,Maricopa,2000,Severe Storm(s),38026.22
+1347,La Paz,2000,Severe Storm(s),908.03
+1347,Statewide,2000,Severe Storm(s),9553.33
+1347,Maricopa,2000,Severe Storm(s),206684.06
+1347,Maricopa,2000,Severe Storm(s),0.0
+1347,Cochise,2000,Severe Storm(s),51839.67
+1347,La Paz,2000,Severe Storm(s),1106.69
+1347,La Paz,2000,Severe Storm(s),15492.27
+1347,Statewide,2000,Severe Storm(s),0.0
+1347,Maricopa,2000,Severe Storm(s),304802.61
+1347,La Paz,2000,Severe Storm(s),0.0
+1347,La Paz,2000,Severe Storm(s),0.0
+1347,Statewide,2000,Severe Storm(s),0.0
+1347,La Paz,2000,Severe Storm(s),758.22
+1347,Statewide,2000,Severe Storm(s),450207.79
+1347,Statewide,2000,Severe Storm(s),175201.07
+1347,Pinal,2000,Severe Storm(s),779930.36
+1422,Navajo,2002,Fire,0.0
+1422,Navajo,2002,Fire,0.0
+1422,Statewide,2002,Fire,157866.62
+1422,Apache,2002,Fire,0.0
+1422,Navajo,2002,Fire,0.0
+1422,Navajo,2002,Fire,0.0
+1422,Statewide,2002,Fire,0.0
+1422,Navajo,2002,Fire,0.0
+1422,Navajo,2002,Fire,0.0
+1422,Navajo,2002,Fire,5231.02
+1422,Navajo,2002,Fire,0.0
+1422,Navajo,2002,Fire,0.0
+1422,Navajo,2002,Fire,187.5
+1422,Navajo,2002,Fire,0.0
+1422,Apache,2002,Fire,0.0
+1422,Apache,2002,Fire,0.0
+1422,Statewide,2002,Fire,0.0
+1422,Navajo,2002,Fire,0.0
+1422,Apache,2002,Fire,0.0
+1422,Navajo,2002,Fire,0.0
+1422,Apache,2002,Fire,0.0
+1422,Apache,2002,Fire,0.0
+1422,Statewide,2002,Fire,0.0
+1422,Statewide,2002,Fire,0.0
+1422,Statewide,2002,Fire,0.0
+1422,Navajo,2002,Fire,21841.66
+1422,Navajo,2002,Fire,0.0
+1422,Statewide,2002,Fire,144461.4
+1422,Statewide,2002,Fire,0.0
+1422,Navajo,2002,Fire,668162.82
+1422,Navajo,2002,Fire,0.0
+1422,Navajo,2002,Fire,0.0
+1422,Statewide,2002,Fire,0.0
+1422,Apache,2002,Fire,0.0
+1422,Navajo,2002,Fire,5552.57
+1422,Statewide,2002,Fire,0.0
+1422,Statewide,2002,Fire,190170.27
+1477,Statewide,2003,Fire,59271.45
+1477,Pima,2003,Fire,2667409.35
+1477,Pima,2003,Fire,553433.43
+1477,Pima,2003,Fire,0.0
+1477,Statewide,2003,Fire,309238.75
+1477,Pima,2003,Fire,1533135.13
+1477,Statewide,2003,Fire,72835.98
+1581,Coconino,2005,Severe Storm(s),106978.96
+1581,Coconino,2005,Severe Storm(s),363535.67
+1581,Gila,2005,Severe Storm(s),96986.57
+1581,Yavapai,2005,Severe Storm(s),37285.7
+1581,Yavapai,2005,Severe Storm(s),1996.31
+1581,Coconino,2005,Severe Storm(s),206093.24
+1581,Coconino,2005,Severe Storm(s),1038905.76
+1581,Coconino,2005,Severe Storm(s),562.5
+1581,Yavapai,2005,Severe Storm(s),8484.32
+1581,Statewide,2005,Severe Storm(s),193278.44
+1581,Yavapai,2005,Severe Storm(s),36418.28
+1581,Statewide,2005,Severe Storm(s),164041.94
+1581,Mohave,2005,Severe Storm(s),354164.97
+1581,Statewide,2005,Severe Storm(s),19201.94
+1581,Navajo,2005,Severe Storm(s),55875.0
+1581,Statewide,2005,Severe Storm(s),181138.59
+1581,Statewide,2005,Severe Storm(s),377487.39
+1581,Mohave,2005,Severe Storm(s),9768.13
+1581,Statewide,2005,Severe Storm(s),85644.83
+1581,Coconino,2005,Severe Storm(s),14506.2
+1581,Coconino,2005,Severe Storm(s),69682.62
+1581,Yavapai,2005,Severe Storm(s),17198.02
+1581,Yavapai,2005,Severe Storm(s),13108.5
+1581,Navajo,2005,Severe Storm(s),153686.83
+1581,Yavapai,2005,Severe Storm(s),274530.95
+1581,Mohave,2005,Severe Storm(s),218903.84
+1581,Statewide,2005,Severe Storm(s),245289.35
+1581,Statewide,2005,Severe Storm(s),8077.07
+1581,Yavapai,2005,Severe Storm(s),1310565.98
+1581,Yavapai,2005,Severe Storm(s),19515.43
+1581,Navajo,2005,Severe Storm(s),231651.84
+1581,Mohave,2005,Severe Storm(s),35320.13
+1586,Yavapai,2005,Severe Storm(s),4730.63
+1586,Statewide,2005,Severe Storm(s),151591.3
+1586,Mohave,2005,Severe Storm(s),588396.55
+1586,Greenlee,2005,Severe Storm(s),0.0
+1586,Graham,2005,Severe Storm(s),30550.56
+1586,Graham,2005,Severe Storm(s),226418.08
+1586,Greenlee,2005,Severe Storm(s),387067.04
+1586,Mohave,2005,Severe Storm(s),12702.66
+1586,Mohave,2005,Severe Storm(s),19593.38
+1586,Yavapai,2005,Severe Storm(s),147607.16
+1586,Yavapai,2005,Severe Storm(s),3004.61
+1586,Graham,2005,Severe Storm(s),1825760.57
+1586,Gila,2005,Severe Storm(s),263940.42
+1586,Greenlee,2005,Severe Storm(s),17824.42
+1586,Gila,2005,Severe Storm(s),230089.31
+1586,Graham,2005,Severe Storm(s),6871.06
+1586,Statewide,2005,Severe Storm(s),25847.72
+1586,Greenlee,2005,Severe Storm(s),556392.24
+1586,Statewide,2005,Severe Storm(s),824853.99
+1586,Mohave,2005,Severe Storm(s),50576.17
+1586,Coconino,2005,Severe Storm(s),1106330.01
+1586,Greenlee,2005,Severe Storm(s),4320.26
+1586,Pinal,2005,Severe Storm(s),468978.95
+1586,Mohave,2005,Severe Storm(s),0.0
+1586,Greenlee,2005,Severe Storm(s),0.0
+1586,Yavapai,2005,Severe Storm(s),2434676.68
+1660,Statewide,2006,Severe Storm(s),32730.75
+1660,Statewide,2006,Severe Storm(s),150469.55
+1660,Pinal,2006,Severe Storm(s),0.0
+1660,Statewide,2006,Severe Storm(s),6060.6
+1660,Pinal,2006,Severe Storm(s),69696.96
+1660,Pinal,2006,Severe Storm(s),7468.93
+1660,Gila,2006,Severe Storm(s),415174.67
+1660,Pinal,2006,Severe Storm(s),1317128.77
+1660,Pima,2006,Severe Storm(s),1093299.54
+1660,Graham,2006,Severe Storm(s),7846.88
+1660,Pima,2006,Severe Storm(s),219920.64
+1660,Greenlee,2006,Severe Storm(s),59169.47
+1660,Pima,2006,Severe Storm(s),87696.95
+1660,Pima,2006,Severe Storm(s),38868.0
+1660,Statewide,2006,Severe Storm(s),597384.17
+1660,Pinal,2006,Severe Storm(s),37687.93
+1660,Pima,2006,Severe Storm(s),52653.92
+1660,Pima,2006,Severe Storm(s),188392.19
+1660,Pima,2006,Severe Storm(s),4742325.6
+1660,Pinal,2006,Severe Storm(s),3158.57
+1660,Pinal,2006,Severe Storm(s),8115.38
+1660,Graham,2006,Severe Storm(s),150680.15
+1660,Pima,2006,Severe Storm(s),23307.73
+1660,Greenlee,2006,Severe Storm(s),8073.96
+1660,Graham,2006,Severe Storm(s),216623.53
+1660,Pima,2006,Severe Storm(s),1084090.88
+1660,Graham,2006,Severe Storm(s),95607.96
+1660,Pinal,2006,Severe Storm(s),14717.15
+1888,La Paz,2010,Severe Storm(s),33653.65
+1888,Gila,2010,Severe Storm(s),79554.39
+1888,Yavapai,2010,Severe Storm(s),32689.75
+1888,Gila,2010,Severe Storm(s),3209.4
+1888,Yavapai,2010,Severe Storm(s),1070.99
+1888,Apache,2010,Severe Storm(s),1047.7
+1888,Statewide,2010,Severe Storm(s),1316668.08
+1888,Statewide,2010,Severe Storm(s),51548.61
+1888,Apache,2010,Severe Storm(s),5206.54
+1888,Statewide,2010,Severe Storm(s),708873.16
+1888,Statewide,2010,Severe Storm(s),59041.79
+1888,Statewide,2010,Severe Storm(s),232817.34
+1888,Coconino,2010,Severe Storm(s),3750.0
+1888,Apache,2010,Severe Storm(s),3082.74
+1888,La Paz,2010,Severe Storm(s),209372.8
+1888,Coconino,2010,Severe Storm(s),750.0
+1888,Statewide,2010,Severe Storm(s),550947.83
+1888,Apache,2010,Severe Storm(s),72294.17
+1888,Navajo,2010,Severe Storm(s),487918.24
+1888,Yavapai,2010,Severe Storm(s),3021.5
+1888,Mohave,2010,Severe Storm(s),88618.5
+1888,Apache,2010,Severe Storm(s),110337.61
+1888,Statewide,2010,Severe Storm(s),389036.07
+1888,Coconino,2010,Severe Storm(s),2199.41
+1888,Statewide,2010,Severe Storm(s),506122.39
+1888,Apache,2010,Severe Storm(s),3004.19
+1888,Mohave,2010,Severe Storm(s),134278.52
+1888,La Paz,2010,Severe Storm(s),4688.52
+1888,Yavapai,2010,Severe Storm(s),15800.95
+1888,Greenlee,2010,Severe Storm(s),41415.45
+1888,Yavapai,2010,Severe Storm(s),15608.41
+1888,Mohave,2010,Severe Storm(s),59707.73
+1888,Statewide,2010,Severe Storm(s),566825.0
+1888,La Paz,2010,Severe Storm(s),4728.75
+1888,Coconino,2010,Severe Storm(s),272469.2
+1888,Statewide,2010,Severe Storm(s),151665.88
+1888,Yavapai,2010,Severe Storm(s),63122.97
+1888,Coconino,2010,Severe Storm(s),750.0
+1888,Coconino,2010,Severe Storm(s),25950.57
+1888,Apache,2010,Severe Storm(s),5246.62
+1888,Apache,2010,Severe Storm(s),26071.96
+1888,Statewide,2010,Severe Storm(s),287059.31
+1888,Statewide,2010,Severe Storm(s),30723.15
+1888,Navajo,2010,Severe Storm(s),117091.52
+1888,Gila,2010,Severe Storm(s),117945.32
+1940,Coconino,2010,Severe Storm(s),3632790.95
+1940,Coconino,2010,Severe Storm(s),23792.07
+1940,Coconino,2010,Severe Storm(s),2407357.95
+1940,Statewide,2010,Severe Storm(s),206773.82
+1940,Statewide,2010,Severe Storm(s),180695.48
+1940,Coconino,2010,Severe Storm(s),18264.5
+1950,Statewide,2010,Severe Storm(s),574530.98
+3241,Statewide,2005,Hurricane,58368.78
+3241,Statewide,2005,Hurricane,196319.51
+3241,Maricopa,2005,Hurricane,4594.39
+3241,Statewide,2005,Hurricane,425346.38
+3241,Maricopa,2005,Hurricane,258743.38
+3241,Pima,2005,Hurricane,769730.69
+3241,Statewide,2005,Hurricane,261389.32
+3241,Statewide,2005,Hurricane,437250.29
+3241,Statewide,2005,Hurricane,1480.86
+3241,Statewide,2005,Hurricane,1517.76
+3241,Maricopa,2005,Hurricane,8206.01
+3241,Statewide,2005,Hurricane,634908.39
+3241,Statewide,2005,Hurricane,1258588.97
+3241,Pima,2005,Hurricane,48673.67
+3241,Statewide,2005,Hurricane,34163.12
+3241,Maricopa,2005,Hurricane,1272.38
+3241,Statewide,2005,Hurricane,3474.29
+3241,Maricopa,2005,Hurricane,17084.45
+3241,Maricopa,2005,Hurricane,16640.65
+3241,Maricopa,2005,Hurricane,17545.77
+3241,Statewide,2005,Hurricane,331323.66
+3241,Statewide,2005,Hurricane,304807.53
+3241,Statewide,2005,Hurricane,450766.02
+4104,Statewide,2013,Freezing,218259.48
+4104,Statewide,2013,Freezing,1384339.56
+4203,Maricopa,2014,Flood,7500.0
+4203,La Paz,2014,Flood,806094.49
+4203,Maricopa,2014,Flood,195770.29
+4203,Maricopa,2014,Flood,422993.15
+4203,Maricopa,2014,Flood,78114.56
+4203,Maricopa,2014,Flood,269493.57
+4203,Maricopa,2014,Flood,86497.64
+4203,Maricopa,2014,Flood,13953.04
+4203,Maricopa,2014,Flood,714698.42
+4203,La Paz,2014,Flood,2533.46
+4203,Maricopa,2014,Flood,7634.72
+4203,Maricopa,2014,Flood,997294.78
+4203,Maricopa,2014,Flood,289495.99
+4203,Maricopa,2014,Flood,143232.28
+4203,Maricopa,2014,Flood,171848.62
+4203,Maricopa,2014,Flood,239854.09
+4203,Maricopa,2014,Flood,184064.03
+4203,La Paz,2014,Flood,12469.27
+4203,Statewide,2014,Flood,376198.36
+4203,Statewide,2014,Flood,628571.25
+4203,Maricopa,2014,Flood,33957.68
+4203,Maricopa,2014,Flood,18750.0
+4203,Maricopa,2014,Flood,301732.36
+4389,Statewide,2018,Flood,515561.24
+4409,Statewide,2018,Severe Storm(s),647235.22
+4409,Statewide,2018,Severe Storm(s),327548.87

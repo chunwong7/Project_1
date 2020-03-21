@@ -1,95 +1,95 @@
-disasterNumber,county,declarationDate,incidentType,amountOblig
-1268,Niobrara,1999-02-17T00:00:00.000Z,Severe Ice Storm,471180.09
-1268,Niobrara,1999-02-17T00:00:00.000Z,Severe Ice Storm,150548.25
-1268,Niobrara,1999-02-17T00:00:00.000Z,Severe Ice Storm,4621.5
-1268,Niobrara,1999-02-17T00:00:00.000Z,Severe Ice Storm,26656.91
-1268,Niobrara,1999-02-17T00:00:00.000Z,Severe Ice Storm,1008.35
-1268,Statewide,1999-02-17T00:00:00.000Z,Severe Ice Storm,29009.56
-1268,Niobrara,1999-02-17T00:00:00.000Z,Severe Ice Storm,3739.51
-1351,Statewide,2000-12-13T00:00:00.000Z,Severe Storm(s),22287.83
-1351,Statewide,2000-12-13T00:00:00.000Z,Severe Storm(s),-7998.84
-1351,Statewide,2000-12-13T00:00:00.000Z,Severe Storm(s),51166.88
-1351,Crook,2000-12-13T00:00:00.000Z,Severe Storm(s),2318.25
-1351,Statewide,2000-12-13T00:00:00.000Z,Severe Storm(s),561842.25
-1351,Statewide,2000-12-13T00:00:00.000Z,Severe Storm(s),17124.75
-1351,Statewide,2000-12-13T00:00:00.000Z,Severe Storm(s),1608.8
-1923,Fremont,2010-07-14T00:00:00.000Z,Flood,204542.05
-1923,Fremont,2010-07-14T00:00:00.000Z,Flood,345721.58
-1923,Statewide,2010-07-14T00:00:00.000Z,Flood,22048.4
-1923,Fremont,2010-07-14T00:00:00.000Z,Flood,61007.73
-1923,Platte,2010-07-14T00:00:00.000Z,Flood,80424.42
-1923,Statewide,2010-07-14T00:00:00.000Z,Flood,106731.74
-1923,Fremont,2010-07-14T00:00:00.000Z,Flood,50828.71
-1923,Fremont,2010-07-14T00:00:00.000Z,Flood,917885.61
-1923,Statewide,2010-07-14T00:00:00.000Z,Flood,1153307.15
-1923,Fremont,2010-07-14T00:00:00.000Z,Flood,61525.65
-4007,Crook,2011-07-22T00:00:00.000Z,Severe Storm(s),860641.89
-4007,Albany,2011-07-22T00:00:00.000Z,Severe Storm(s),10431.67
-4007,Big Horn,2011-07-22T00:00:00.000Z,Severe Storm(s),412429.18
-4007,Weston,2011-07-22T00:00:00.000Z,Severe Storm(s),162656.76
-4007,Uinta,2011-07-22T00:00:00.000Z,Severe Storm(s),46155.0
-4007,Fremont,2011-07-22T00:00:00.000Z,Severe Storm(s),102208.06
-4007,Goshen,2011-07-22T00:00:00.000Z,Severe Storm(s),49824.63
-4007,Carbon,2011-07-22T00:00:00.000Z,Severe Storm(s),24877.25
-4007,Lincoln,2011-07-22T00:00:00.000Z,Severe Storm(s),144670.81
-4007,Statewide,2011-07-22T00:00:00.000Z,Severe Storm(s),167170.93
-4007,Lincoln,2011-07-22T00:00:00.000Z,Severe Storm(s),3843.75
-4007,Statewide,2011-07-22T00:00:00.000Z,Severe Storm(s),0.0
-4007,Lincoln,2011-07-22T00:00:00.000Z,Severe Storm(s),3918.02
-4007,Uinta,2011-07-22T00:00:00.000Z,Severe Storm(s),170182.6
-4007,Goshen,2011-07-22T00:00:00.000Z,Severe Storm(s),146390.52
-4007,Carbon,2011-07-22T00:00:00.000Z,Severe Storm(s),192638.67
-4007,Lincoln,2011-07-22T00:00:00.000Z,Severe Storm(s),783.75
-4007,Goshen,2011-07-22T00:00:00.000Z,Severe Storm(s),2997.31
-4007,Carbon,2011-07-22T00:00:00.000Z,Severe Storm(s),59657.21
-4007,Crook,2011-07-22T00:00:00.000Z,Severe Storm(s),1312.5
-4007,Sheridan,2011-07-22T00:00:00.000Z,Severe Storm(s),17917.2
-4007,Fremont,2011-07-22T00:00:00.000Z,Severe Storm(s),2644.03
-4007,Johnson,2011-07-22T00:00:00.000Z,Severe Storm(s),57776.92
-4007,Statewide,2011-07-22T00:00:00.000Z,Severe Storm(s),47215.94
-4007,Weston,2011-07-22T00:00:00.000Z,Severe Storm(s),144027.41
-4007,Lincoln,2011-07-22T00:00:00.000Z,Severe Storm(s),45789.17
-4007,Crook,2011-07-22T00:00:00.000Z,Severe Storm(s),4245.0
-4007,Carbon,2011-07-22T00:00:00.000Z,Severe Storm(s),195607.95
-4007,Teton,2011-07-22T00:00:00.000Z,Severe Storm(s),45287.82
-4007,Washakie,2011-07-22T00:00:00.000Z,Severe Storm(s),23887.13
-4007,Albany,2011-07-22T00:00:00.000Z,Severe Storm(s),65132.88
-4007,Sublette,2011-07-22T00:00:00.000Z,Severe Storm(s),4026.85
-4007,Sublette,2011-07-22T00:00:00.000Z,Severe Storm(s),37500.97
-4007,Lincoln,2011-07-22T00:00:00.000Z,Severe Storm(s),28468.86
-4007,Sheridan,2011-07-22T00:00:00.000Z,Severe Storm(s),386915.47
-4007,Statewide,2011-07-22T00:00:00.000Z,Severe Storm(s),1761.48
-4007,Statewide,2011-07-22T00:00:00.000Z,Severe Storm(s),634729.72
-4007,Statewide,2011-07-22T00:00:00.000Z,Severe Storm(s),946417.18
-4007,Sheridan,2011-07-22T00:00:00.000Z,Severe Storm(s),17545.1
-4007,Statewide,2011-07-22T00:00:00.000Z,Severe Storm(s),298891.43
-4227,Platte,2015-07-07T00:00:00.000Z,Flood,379112.61
-4227,Johnson,2015-07-07T00:00:00.000Z,Flood,4809.38
-4227,Niobrara,2015-07-07T00:00:00.000Z,Flood,33952.55
-4227,Statewide,2015-07-07T00:00:00.000Z,Flood,0.0
-4227,Niobrara,2015-07-07T00:00:00.000Z,Flood,101917.47
-4227,Niobrara,2015-07-07T00:00:00.000Z,Flood,182152.82
-4227,Albany,2015-07-07T00:00:00.000Z,Flood,738527.0
-4227,Niobrara,2015-07-07T00:00:00.000Z,Flood,19342.74
-4227,Johnson,2015-07-07T00:00:00.000Z,Flood,268567.81
-4227,Niobrara,2015-07-07T00:00:00.000Z,Flood,252743.68
-4227,Niobrara,2015-07-07T00:00:00.000Z,Flood,7487.21
-4227,Niobrara,2015-07-07T00:00:00.000Z,Flood,217443.0
-4227,Statewide,2015-07-07T00:00:00.000Z,Flood,244883.34
-4227,Johnson,2015-07-07T00:00:00.000Z,Flood,47250.12
-4306,Teton,2017-03-21T00:00:00.000Z,Severe Storm(s),21465.94
-4306,Teton,2017-03-21T00:00:00.000Z,Severe Storm(s),48963.39
-4306,Statewide,2017-03-21T00:00:00.000Z,Severe Storm(s),2216793.09
-4306,Teton,2017-03-21T00:00:00.000Z,Severe Storm(s),10087.82
-4306,Teton,2017-03-21T00:00:00.000Z,Severe Storm(s),88776.65
-4306,Statewide,2017-03-21T00:00:00.000Z,Severe Storm(s),79307.0
-4327,Statewide,2017-08-05T00:00:00.000Z,Flood,335113.65
-4327,Park,2017-08-05T00:00:00.000Z,Flood,209504.8
-4327,Fremont,2017-08-05T00:00:00.000Z,Flood,361166.9
-4327,Fremont,2017-08-05T00:00:00.000Z,Flood,4712.0
-4327,Statewide,2017-08-05T00:00:00.000Z,Flood,471935.67
-4327,Fremont,2017-08-05T00:00:00.000Z,Flood,17623.25
-4327,Park,2017-08-05T00:00:00.000Z,Flood,289599.89
-4327,Fremont,2017-08-05T00:00:00.000Z,Flood,3623224.68
-4327,Washakie,2017-08-05T00:00:00.000Z,Flood,170434.01
-4327,Fremont,2017-08-05T00:00:00.000Z,Flood,342447.74
+disasterNumber,county,year,incidentType,amountOblig
+1268,Niobrara,1999,Severe Ice Storm,471180.09
+1268,Niobrara,1999,Severe Ice Storm,150548.25
+1268,Niobrara,1999,Severe Ice Storm,4621.5
+1268,Niobrara,1999,Severe Ice Storm,26656.91
+1268,Niobrara,1999,Severe Ice Storm,1008.35
+1268,Statewide,1999,Severe Ice Storm,29009.56
+1268,Niobrara,1999,Severe Ice Storm,3739.51
+1351,Statewide,2000,Severe Storm(s),22287.83
+1351,Statewide,2000,Severe Storm(s),-7998.84
+1351,Statewide,2000,Severe Storm(s),51166.88
+1351,Crook,2000,Severe Storm(s),2318.25
+1351,Statewide,2000,Severe Storm(s),561842.25
+1351,Statewide,2000,Severe Storm(s),17124.75
+1351,Statewide,2000,Severe Storm(s),1608.8
+1923,Fremont,2010,Flood,204542.05
+1923,Fremont,2010,Flood,345721.58
+1923,Statewide,2010,Flood,22048.4
+1923,Fremont,2010,Flood,61007.73
+1923,Platte,2010,Flood,80424.42
+1923,Statewide,2010,Flood,106731.74
+1923,Fremont,2010,Flood,50828.71
+1923,Fremont,2010,Flood,917885.61
+1923,Statewide,2010,Flood,1153307.15
+1923,Fremont,2010,Flood,61525.65
+4007,Crook,2011,Severe Storm(s),860641.89
+4007,Albany,2011,Severe Storm(s),10431.67
+4007,Big Horn,2011,Severe Storm(s),412429.18
+4007,Weston,2011,Severe Storm(s),162656.76
+4007,Uinta,2011,Severe Storm(s),46155.0
+4007,Fremont,2011,Severe Storm(s),102208.06
+4007,Goshen,2011,Severe Storm(s),49824.63
+4007,Carbon,2011,Severe Storm(s),24877.25
+4007,Lincoln,2011,Severe Storm(s),144670.81
+4007,Statewide,2011,Severe Storm(s),167170.93
+4007,Lincoln,2011,Severe Storm(s),3843.75
+4007,Statewide,2011,Severe Storm(s),0.0
+4007,Lincoln,2011,Severe Storm(s),3918.02
+4007,Uinta,2011,Severe Storm(s),170182.6
+4007,Goshen,2011,Severe Storm(s),146390.52
+4007,Carbon,2011,Severe Storm(s),192638.67
+4007,Lincoln,2011,Severe Storm(s),783.75
+4007,Goshen,2011,Severe Storm(s),2997.31
+4007,Carbon,2011,Severe Storm(s),59657.21
+4007,Crook,2011,Severe Storm(s),1312.5
+4007,Sheridan,2011,Severe Storm(s),17917.2
+4007,Fremont,2011,Severe Storm(s),2644.03
+4007,Johnson,2011,Severe Storm(s),57776.92
+4007,Statewide,2011,Severe Storm(s),47215.94
+4007,Weston,2011,Severe Storm(s),144027.41
+4007,Lincoln,2011,Severe Storm(s),45789.17
+4007,Crook,2011,Severe Storm(s),4245.0
+4007,Carbon,2011,Severe Storm(s),195607.95
+4007,Teton,2011,Severe Storm(s),45287.82
+4007,Washakie,2011,Severe Storm(s),23887.13
+4007,Albany,2011,Severe Storm(s),65132.88
+4007,Sublette,2011,Severe Storm(s),4026.85
+4007,Sublette,2011,Severe Storm(s),37500.97
+4007,Lincoln,2011,Severe Storm(s),28468.86
+4007,Sheridan,2011,Severe Storm(s),386915.47
+4007,Statewide,2011,Severe Storm(s),1761.48
+4007,Statewide,2011,Severe Storm(s),634729.72
+4007,Statewide,2011,Severe Storm(s),946417.18
+4007,Sheridan,2011,Severe Storm(s),17545.1
+4007,Statewide,2011,Severe Storm(s),298891.43
+4227,Platte,2015,Flood,379112.61
+4227,Johnson,2015,Flood,4809.38
+4227,Niobrara,2015,Flood,33952.55
+4227,Statewide,2015,Flood,0.0
+4227,Niobrara,2015,Flood,101917.47
+4227,Niobrara,2015,Flood,182152.82
+4227,Albany,2015,Flood,738527.0
+4227,Niobrara,2015,Flood,19342.74
+4227,Johnson,2015,Flood,268567.81
+4227,Niobrara,2015,Flood,252743.68
+4227,Niobrara,2015,Flood,7487.21
+4227,Niobrara,2015,Flood,217443.0
+4227,Statewide,2015,Flood,244883.34
+4227,Johnson,2015,Flood,47250.12
+4306,Teton,2017,Severe Storm(s),21465.94
+4306,Teton,2017,Severe Storm(s),48963.39
+4306,Statewide,2017,Severe Storm(s),2216793.09
+4306,Teton,2017,Severe Storm(s),10087.82
+4306,Teton,2017,Severe Storm(s),88776.65
+4306,Statewide,2017,Severe Storm(s),79307.0
+4327,Statewide,2017,Flood,335113.65
+4327,Park,2017,Flood,209504.8
+4327,Fremont,2017,Flood,361166.9
+4327,Fremont,2017,Flood,4712.0
+4327,Statewide,2017,Flood,471935.67
+4327,Fremont,2017,Flood,17623.25
+4327,Park,2017,Flood,289599.89
+4327,Fremont,2017,Flood,3623224.68
+4327,Washakie,2017,Flood,170434.01
+4327,Fremont,2017,Flood,342447.74
