@@ -1,0 +1,465 @@
+,State County FIPS,Postal Code,Name,Median Household Income,Year
+2775,"49 , 1",UT,Beaver County,38039,2003
+2776,"49 , 3",UT,Box Elder County,47329,2003
+2777,"49 , 5",UT,Cache County,41802,2003
+2778,"49 , 7",UT,Carbon County,36291,2003
+2779,"49 , 9",UT,Daggett County,34824,2003
+2780,"49 , 11",UT,Davis County,56885,2003
+2781,"49 , 13",UT,Duchesne County,36501,2003
+2782,"49 , 15",UT,Emery County,41293,2003
+2783,"49 , 17",UT,Garfield County,34910,2003
+2784,"49 , 19",UT,Grand County,31699,2003
+2785,"49 , 21",UT,Iron County,35862,2003
+2786,"49 , 23",UT,Juab County,40204,2003
+2787,"49 , 25",UT,Kane County,36117,2003
+2788,"49 , 27",UT,Millard County,38825,2003
+2789,"49 , 29",UT,Morgan County,56684,2003
+2790,"49 , 31",UT,Piute County,29195,2003
+2791,"49 , 33",UT,Rich County,43200,2003
+2792,"49 , 35",UT,Salt Lake County,49076,2003
+2793,"49 , 37",UT,San Juan County,27778,2003
+2794,"49 , 39",UT,Sanpete County,34494,2003
+2795,"49 , 41",UT,Sevier County,37614,2003
+2796,"49 , 43",UT,Summit County,65610,2003
+2797,"49 , 45",UT,Tooele County,51266,2003
+2798,"49 , 47",UT,Uintah County,39140,2003
+2799,"49 , 49",UT,Utah County,46428,2003
+2800,"49 , 51",UT,Wasatch County,51180,2003
+2801,"49 , 53",UT,Washington County,39777,2003
+2802,"49 , 55",UT,Wayne County,32465,2003
+2803,"49 , 57",UT,Weber County,46718,2003
+2775,"49 , 1",UT,Beaver County,38039,2004
+2776,"49 , 3",UT,Box Elder County,47329,2004
+2777,"49 , 5",UT,Cache County,41802,2004
+2778,"49 , 7",UT,Carbon County,36291,2004
+2779,"49 , 9",UT,Daggett County,34824,2004
+2780,"49 , 11",UT,Davis County,56885,2004
+2781,"49 , 13",UT,Duchesne County,36501,2004
+2782,"49 , 15",UT,Emery County,41293,2004
+2783,"49 , 17",UT,Garfield County,34910,2004
+2784,"49 , 19",UT,Grand County,31699,2004
+2785,"49 , 21",UT,Iron County,35862,2004
+2786,"49 , 23",UT,Juab County,40204,2004
+2787,"49 , 25",UT,Kane County,36117,2004
+2788,"49 , 27",UT,Millard County,38825,2004
+2789,"49 , 29",UT,Morgan County,56684,2004
+2790,"49 , 31",UT,Piute County,29195,2004
+2791,"49 , 33",UT,Rich County,43200,2004
+2792,"49 , 35",UT,Salt Lake County,49076,2004
+2793,"49 , 37",UT,San Juan County,27778,2004
+2794,"49 , 39",UT,Sanpete County,34494,2004
+2795,"49 , 41",UT,Sevier County,37614,2004
+2796,"49 , 43",UT,Summit County,65610,2004
+2797,"49 , 45",UT,Tooele County,51266,2004
+2798,"49 , 47",UT,Uintah County,39140,2004
+2799,"49 , 49",UT,Utah County,46428,2004
+2800,"49 , 51",UT,Wasatch County,51180,2004
+2801,"49 , 53",UT,Washington County,39777,2004
+2802,"49 , 55",UT,Wayne County,32465,2004
+2803,"49 , 57",UT,Weber County,46718,2004
+2775,"49 , 1",UT,Beaver County,38039,2005
+2776,"49 , 3",UT,Box Elder County,47329,2005
+2777,"49 , 5",UT,Cache County,41802,2005
+2778,"49 , 7",UT,Carbon County,36291,2005
+2779,"49 , 9",UT,Daggett County,34824,2005
+2780,"49 , 11",UT,Davis County,56885,2005
+2781,"49 , 13",UT,Duchesne County,36501,2005
+2782,"49 , 15",UT,Emery County,41293,2005
+2783,"49 , 17",UT,Garfield County,34910,2005
+2784,"49 , 19",UT,Grand County,31699,2005
+2785,"49 , 21",UT,Iron County,35862,2005
+2786,"49 , 23",UT,Juab County,40204,2005
+2787,"49 , 25",UT,Kane County,36117,2005
+2788,"49 , 27",UT,Millard County,38825,2005
+2789,"49 , 29",UT,Morgan County,56684,2005
+2790,"49 , 31",UT,Piute County,29195,2005
+2791,"49 , 33",UT,Rich County,43200,2005
+2792,"49 , 35",UT,Salt Lake County,49076,2005
+2793,"49 , 37",UT,San Juan County,27778,2005
+2794,"49 , 39",UT,Sanpete County,34494,2005
+2795,"49 , 41",UT,Sevier County,37614,2005
+2796,"49 , 43",UT,Summit County,65610,2005
+2797,"49 , 45",UT,Tooele County,51266,2005
+2798,"49 , 47",UT,Uintah County,39140,2005
+2799,"49 , 49",UT,Utah County,46428,2005
+2800,"49 , 51",UT,Wasatch County,51180,2005
+2801,"49 , 53",UT,Washington County,39777,2005
+2802,"49 , 55",UT,Wayne County,32465,2005
+2803,"49 , 57",UT,Weber County,46718,2005
+2775,"49 , 1",UT,Beaver County,38039,2006
+2776,"49 , 3",UT,Box Elder County,47329,2006
+2777,"49 , 5",UT,Cache County,41802,2006
+2778,"49 , 7",UT,Carbon County,36291,2006
+2779,"49 , 9",UT,Daggett County,34824,2006
+2780,"49 , 11",UT,Davis County,56885,2006
+2781,"49 , 13",UT,Duchesne County,36501,2006
+2782,"49 , 15",UT,Emery County,41293,2006
+2783,"49 , 17",UT,Garfield County,34910,2006
+2784,"49 , 19",UT,Grand County,31699,2006
+2785,"49 , 21",UT,Iron County,35862,2006
+2786,"49 , 23",UT,Juab County,40204,2006
+2787,"49 , 25",UT,Kane County,36117,2006
+2788,"49 , 27",UT,Millard County,38825,2006
+2789,"49 , 29",UT,Morgan County,56684,2006
+2790,"49 , 31",UT,Piute County,29195,2006
+2791,"49 , 33",UT,Rich County,43200,2006
+2792,"49 , 35",UT,Salt Lake County,49076,2006
+2793,"49 , 37",UT,San Juan County,27778,2006
+2794,"49 , 39",UT,Sanpete County,34494,2006
+2795,"49 , 41",UT,Sevier County,37614,2006
+2796,"49 , 43",UT,Summit County,65610,2006
+2797,"49 , 45",UT,Tooele County,51266,2006
+2798,"49 , 47",UT,Uintah County,39140,2006
+2799,"49 , 49",UT,Utah County,46428,2006
+2800,"49 , 51",UT,Wasatch County,51180,2006
+2801,"49 , 53",UT,Washington County,39777,2006
+2802,"49 , 55",UT,Wayne County,32465,2006
+2803,"49 , 57",UT,Weber County,46718,2006
+2775,"49 , 1",UT,Beaver County,38039,2007
+2776,"49 , 3",UT,Box Elder County,47329,2007
+2777,"49 , 5",UT,Cache County,41802,2007
+2778,"49 , 7",UT,Carbon County,36291,2007
+2779,"49 , 9",UT,Daggett County,34824,2007
+2780,"49 , 11",UT,Davis County,56885,2007
+2781,"49 , 13",UT,Duchesne County,36501,2007
+2782,"49 , 15",UT,Emery County,41293,2007
+2783,"49 , 17",UT,Garfield County,34910,2007
+2784,"49 , 19",UT,Grand County,31699,2007
+2785,"49 , 21",UT,Iron County,35862,2007
+2786,"49 , 23",UT,Juab County,40204,2007
+2787,"49 , 25",UT,Kane County,36117,2007
+2788,"49 , 27",UT,Millard County,38825,2007
+2789,"49 , 29",UT,Morgan County,56684,2007
+2790,"49 , 31",UT,Piute County,29195,2007
+2791,"49 , 33",UT,Rich County,43200,2007
+2792,"49 , 35",UT,Salt Lake County,49076,2007
+2793,"49 , 37",UT,San Juan County,27778,2007
+2794,"49 , 39",UT,Sanpete County,34494,2007
+2795,"49 , 41",UT,Sevier County,37614,2007
+2796,"49 , 43",UT,Summit County,65610,2007
+2797,"49 , 45",UT,Tooele County,51266,2007
+2798,"49 , 47",UT,Uintah County,39140,2007
+2799,"49 , 49",UT,Utah County,46428,2007
+2800,"49 , 51",UT,Wasatch County,51180,2007
+2801,"49 , 53",UT,Washington County,39777,2007
+2802,"49 , 55",UT,Wayne County,32465,2007
+2803,"49 , 57",UT,Weber County,46718,2007
+2775,"49 , 1",UT,Beaver County,38039,2008
+2776,"49 , 3",UT,Box Elder County,47329,2008
+2777,"49 , 5",UT,Cache County,41802,2008
+2778,"49 , 7",UT,Carbon County,36291,2008
+2779,"49 , 9",UT,Daggett County,34824,2008
+2780,"49 , 11",UT,Davis County,56885,2008
+2781,"49 , 13",UT,Duchesne County,36501,2008
+2782,"49 , 15",UT,Emery County,41293,2008
+2783,"49 , 17",UT,Garfield County,34910,2008
+2784,"49 , 19",UT,Grand County,31699,2008
+2785,"49 , 21",UT,Iron County,35862,2008
+2786,"49 , 23",UT,Juab County,40204,2008
+2787,"49 , 25",UT,Kane County,36117,2008
+2788,"49 , 27",UT,Millard County,38825,2008
+2789,"49 , 29",UT,Morgan County,56684,2008
+2790,"49 , 31",UT,Piute County,29195,2008
+2791,"49 , 33",UT,Rich County,43200,2008
+2792,"49 , 35",UT,Salt Lake County,49076,2008
+2793,"49 , 37",UT,San Juan County,27778,2008
+2794,"49 , 39",UT,Sanpete County,34494,2008
+2795,"49 , 41",UT,Sevier County,37614,2008
+2796,"49 , 43",UT,Summit County,65610,2008
+2797,"49 , 45",UT,Tooele County,51266,2008
+2798,"49 , 47",UT,Uintah County,39140,2008
+2799,"49 , 49",UT,Utah County,46428,2008
+2800,"49 , 51",UT,Wasatch County,51180,2008
+2801,"49 , 53",UT,Washington County,39777,2008
+2802,"49 , 55",UT,Wayne County,32465,2008
+2803,"49 , 57",UT,Weber County,46718,2008
+2775,"49 , 1",UT,Beaver County,38039,2009
+2776,"49 , 3",UT,Box Elder County,47329,2009
+2777,"49 , 5",UT,Cache County,41802,2009
+2778,"49 , 7",UT,Carbon County,36291,2009
+2779,"49 , 9",UT,Daggett County,34824,2009
+2780,"49 , 11",UT,Davis County,56885,2009
+2781,"49 , 13",UT,Duchesne County,36501,2009
+2782,"49 , 15",UT,Emery County,41293,2009
+2783,"49 , 17",UT,Garfield County,34910,2009
+2784,"49 , 19",UT,Grand County,31699,2009
+2785,"49 , 21",UT,Iron County,35862,2009
+2786,"49 , 23",UT,Juab County,40204,2009
+2787,"49 , 25",UT,Kane County,36117,2009
+2788,"49 , 27",UT,Millard County,38825,2009
+2789,"49 , 29",UT,Morgan County,56684,2009
+2790,"49 , 31",UT,Piute County,29195,2009
+2791,"49 , 33",UT,Rich County,43200,2009
+2792,"49 , 35",UT,Salt Lake County,49076,2009
+2793,"49 , 37",UT,San Juan County,27778,2009
+2794,"49 , 39",UT,Sanpete County,34494,2009
+2795,"49 , 41",UT,Sevier County,37614,2009
+2796,"49 , 43",UT,Summit County,65610,2009
+2797,"49 , 45",UT,Tooele County,51266,2009
+2798,"49 , 47",UT,Uintah County,39140,2009
+2799,"49 , 49",UT,Utah County,46428,2009
+2800,"49 , 51",UT,Wasatch County,51180,2009
+2801,"49 , 53",UT,Washington County,39777,2009
+2802,"49 , 55",UT,Wayne County,32465,2009
+2803,"49 , 57",UT,Weber County,46718,2009
+2775,"49 , 1",UT,Beaver County,38039,2010
+2776,"49 , 3",UT,Box Elder County,47329,2010
+2777,"49 , 5",UT,Cache County,41802,2010
+2778,"49 , 7",UT,Carbon County,36291,2010
+2779,"49 , 9",UT,Daggett County,34824,2010
+2780,"49 , 11",UT,Davis County,56885,2010
+2781,"49 , 13",UT,Duchesne County,36501,2010
+2782,"49 , 15",UT,Emery County,41293,2010
+2783,"49 , 17",UT,Garfield County,34910,2010
+2784,"49 , 19",UT,Grand County,31699,2010
+2785,"49 , 21",UT,Iron County,35862,2010
+2786,"49 , 23",UT,Juab County,40204,2010
+2787,"49 , 25",UT,Kane County,36117,2010
+2788,"49 , 27",UT,Millard County,38825,2010
+2789,"49 , 29",UT,Morgan County,56684,2010
+2790,"49 , 31",UT,Piute County,29195,2010
+2791,"49 , 33",UT,Rich County,43200,2010
+2792,"49 , 35",UT,Salt Lake County,49076,2010
+2793,"49 , 37",UT,San Juan County,27778,2010
+2794,"49 , 39",UT,Sanpete County,34494,2010
+2795,"49 , 41",UT,Sevier County,37614,2010
+2796,"49 , 43",UT,Summit County,65610,2010
+2797,"49 , 45",UT,Tooele County,51266,2010
+2798,"49 , 47",UT,Uintah County,39140,2010
+2799,"49 , 49",UT,Utah County,46428,2010
+2800,"49 , 51",UT,Wasatch County,51180,2010
+2801,"49 , 53",UT,Washington County,39777,2010
+2802,"49 , 55",UT,Wayne County,32465,2010
+2803,"49 , 57",UT,Weber County,46718,2010
+2775,"49 , 1",UT,Beaver County,38039,2011
+2776,"49 , 3",UT,Box Elder County,47329,2011
+2777,"49 , 5",UT,Cache County,41802,2011
+2778,"49 , 7",UT,Carbon County,36291,2011
+2779,"49 , 9",UT,Daggett County,34824,2011
+2780,"49 , 11",UT,Davis County,56885,2011
+2781,"49 , 13",UT,Duchesne County,36501,2011
+2782,"49 , 15",UT,Emery County,41293,2011
+2783,"49 , 17",UT,Garfield County,34910,2011
+2784,"49 , 19",UT,Grand County,31699,2011
+2785,"49 , 21",UT,Iron County,35862,2011
+2786,"49 , 23",UT,Juab County,40204,2011
+2787,"49 , 25",UT,Kane County,36117,2011
+2788,"49 , 27",UT,Millard County,38825,2011
+2789,"49 , 29",UT,Morgan County,56684,2011
+2790,"49 , 31",UT,Piute County,29195,2011
+2791,"49 , 33",UT,Rich County,43200,2011
+2792,"49 , 35",UT,Salt Lake County,49076,2011
+2793,"49 , 37",UT,San Juan County,27778,2011
+2794,"49 , 39",UT,Sanpete County,34494,2011
+2795,"49 , 41",UT,Sevier County,37614,2011
+2796,"49 , 43",UT,Summit County,65610,2011
+2797,"49 , 45",UT,Tooele County,51266,2011
+2798,"49 , 47",UT,Uintah County,39140,2011
+2799,"49 , 49",UT,Utah County,46428,2011
+2800,"49 , 51",UT,Wasatch County,51180,2011
+2801,"49 , 53",UT,Washington County,39777,2011
+2802,"49 , 55",UT,Wayne County,32465,2011
+2803,"49 , 57",UT,Weber County,46718,2011
+2775,"49 , 1",UT,Beaver County,38039,2012
+2776,"49 , 3",UT,Box Elder County,47329,2012
+2777,"49 , 5",UT,Cache County,41802,2012
+2778,"49 , 7",UT,Carbon County,36291,2012
+2779,"49 , 9",UT,Daggett County,34824,2012
+2780,"49 , 11",UT,Davis County,56885,2012
+2781,"49 , 13",UT,Duchesne County,36501,2012
+2782,"49 , 15",UT,Emery County,41293,2012
+2783,"49 , 17",UT,Garfield County,34910,2012
+2784,"49 , 19",UT,Grand County,31699,2012
+2785,"49 , 21",UT,Iron County,35862,2012
+2786,"49 , 23",UT,Juab County,40204,2012
+2787,"49 , 25",UT,Kane County,36117,2012
+2788,"49 , 27",UT,Millard County,38825,2012
+2789,"49 , 29",UT,Morgan County,56684,2012
+2790,"49 , 31",UT,Piute County,29195,2012
+2791,"49 , 33",UT,Rich County,43200,2012
+2792,"49 , 35",UT,Salt Lake County,49076,2012
+2793,"49 , 37",UT,San Juan County,27778,2012
+2794,"49 , 39",UT,Sanpete County,34494,2012
+2795,"49 , 41",UT,Sevier County,37614,2012
+2796,"49 , 43",UT,Summit County,65610,2012
+2797,"49 , 45",UT,Tooele County,51266,2012
+2798,"49 , 47",UT,Uintah County,39140,2012
+2799,"49 , 49",UT,Utah County,46428,2012
+2800,"49 , 51",UT,Wasatch County,51180,2012
+2801,"49 , 53",UT,Washington County,39777,2012
+2802,"49 , 55",UT,Wayne County,32465,2012
+2803,"49 , 57",UT,Weber County,46718,2012
+2775,"49 , 1",UT,Beaver County,38039,2013
+2776,"49 , 3",UT,Box Elder County,47329,2013
+2777,"49 , 5",UT,Cache County,41802,2013
+2778,"49 , 7",UT,Carbon County,36291,2013
+2779,"49 , 9",UT,Daggett County,34824,2013
+2780,"49 , 11",UT,Davis County,56885,2013
+2781,"49 , 13",UT,Duchesne County,36501,2013
+2782,"49 , 15",UT,Emery County,41293,2013
+2783,"49 , 17",UT,Garfield County,34910,2013
+2784,"49 , 19",UT,Grand County,31699,2013
+2785,"49 , 21",UT,Iron County,35862,2013
+2786,"49 , 23",UT,Juab County,40204,2013
+2787,"49 , 25",UT,Kane County,36117,2013
+2788,"49 , 27",UT,Millard County,38825,2013
+2789,"49 , 29",UT,Morgan County,56684,2013
+2790,"49 , 31",UT,Piute County,29195,2013
+2791,"49 , 33",UT,Rich County,43200,2013
+2792,"49 , 35",UT,Salt Lake County,49076,2013
+2793,"49 , 37",UT,San Juan County,27778,2013
+2794,"49 , 39",UT,Sanpete County,34494,2013
+2795,"49 , 41",UT,Sevier County,37614,2013
+2796,"49 , 43",UT,Summit County,65610,2013
+2797,"49 , 45",UT,Tooele County,51266,2013
+2798,"49 , 47",UT,Uintah County,39140,2013
+2799,"49 , 49",UT,Utah County,46428,2013
+2800,"49 , 51",UT,Wasatch County,51180,2013
+2801,"49 , 53",UT,Washington County,39777,2013
+2802,"49 , 55",UT,Wayne County,32465,2013
+2803,"49 , 57",UT,Weber County,46718,2013
+2775,"49 , 1",UT,Beaver County,38039,2014
+2776,"49 , 3",UT,Box Elder County,47329,2014
+2777,"49 , 5",UT,Cache County,41802,2014
+2778,"49 , 7",UT,Carbon County,36291,2014
+2779,"49 , 9",UT,Daggett County,34824,2014
+2780,"49 , 11",UT,Davis County,56885,2014
+2781,"49 , 13",UT,Duchesne County,36501,2014
+2782,"49 , 15",UT,Emery County,41293,2014
+2783,"49 , 17",UT,Garfield County,34910,2014
+2784,"49 , 19",UT,Grand County,31699,2014
+2785,"49 , 21",UT,Iron County,35862,2014
+2786,"49 , 23",UT,Juab County,40204,2014
+2787,"49 , 25",UT,Kane County,36117,2014
+2788,"49 , 27",UT,Millard County,38825,2014
+2789,"49 , 29",UT,Morgan County,56684,2014
+2790,"49 , 31",UT,Piute County,29195,2014
+2791,"49 , 33",UT,Rich County,43200,2014
+2792,"49 , 35",UT,Salt Lake County,49076,2014
+2793,"49 , 37",UT,San Juan County,27778,2014
+2794,"49 , 39",UT,Sanpete County,34494,2014
+2795,"49 , 41",UT,Sevier County,37614,2014
+2796,"49 , 43",UT,Summit County,65610,2014
+2797,"49 , 45",UT,Tooele County,51266,2014
+2798,"49 , 47",UT,Uintah County,39140,2014
+2799,"49 , 49",UT,Utah County,46428,2014
+2800,"49 , 51",UT,Wasatch County,51180,2014
+2801,"49 , 53",UT,Washington County,39777,2014
+2802,"49 , 55",UT,Wayne County,32465,2014
+2803,"49 , 57",UT,Weber County,46718,2014
+2775,"49 , 1",UT,Beaver County,38039,2015
+2776,"49 , 3",UT,Box Elder County,47329,2015
+2777,"49 , 5",UT,Cache County,41802,2015
+2778,"49 , 7",UT,Carbon County,36291,2015
+2779,"49 , 9",UT,Daggett County,34824,2015
+2780,"49 , 11",UT,Davis County,56885,2015
+2781,"49 , 13",UT,Duchesne County,36501,2015
+2782,"49 , 15",UT,Emery County,41293,2015
+2783,"49 , 17",UT,Garfield County,34910,2015
+2784,"49 , 19",UT,Grand County,31699,2015
+2785,"49 , 21",UT,Iron County,35862,2015
+2786,"49 , 23",UT,Juab County,40204,2015
+2787,"49 , 25",UT,Kane County,36117,2015
+2788,"49 , 27",UT,Millard County,38825,2015
+2789,"49 , 29",UT,Morgan County,56684,2015
+2790,"49 , 31",UT,Piute County,29195,2015
+2791,"49 , 33",UT,Rich County,43200,2015
+2792,"49 , 35",UT,Salt Lake County,49076,2015
+2793,"49 , 37",UT,San Juan County,27778,2015
+2794,"49 , 39",UT,Sanpete County,34494,2015
+2795,"49 , 41",UT,Sevier County,37614,2015
+2796,"49 , 43",UT,Summit County,65610,2015
+2797,"49 , 45",UT,Tooele County,51266,2015
+2798,"49 , 47",UT,Uintah County,39140,2015
+2799,"49 , 49",UT,Utah County,46428,2015
+2800,"49 , 51",UT,Wasatch County,51180,2015
+2801,"49 , 53",UT,Washington County,39777,2015
+2802,"49 , 55",UT,Wayne County,32465,2015
+2803,"49 , 57",UT,Weber County,46718,2015
+2775,"49 , 1",UT,Beaver County,38039,2016
+2776,"49 , 3",UT,Box Elder County,47329,2016
+2777,"49 , 5",UT,Cache County,41802,2016
+2778,"49 , 7",UT,Carbon County,36291,2016
+2779,"49 , 9",UT,Daggett County,34824,2016
+2780,"49 , 11",UT,Davis County,56885,2016
+2781,"49 , 13",UT,Duchesne County,36501,2016
+2782,"49 , 15",UT,Emery County,41293,2016
+2783,"49 , 17",UT,Garfield County,34910,2016
+2784,"49 , 19",UT,Grand County,31699,2016
+2785,"49 , 21",UT,Iron County,35862,2016
+2786,"49 , 23",UT,Juab County,40204,2016
+2787,"49 , 25",UT,Kane County,36117,2016
+2788,"49 , 27",UT,Millard County,38825,2016
+2789,"49 , 29",UT,Morgan County,56684,2016
+2790,"49 , 31",UT,Piute County,29195,2016
+2791,"49 , 33",UT,Rich County,43200,2016
+2792,"49 , 35",UT,Salt Lake County,49076,2016
+2793,"49 , 37",UT,San Juan County,27778,2016
+2794,"49 , 39",UT,Sanpete County,34494,2016
+2795,"49 , 41",UT,Sevier County,37614,2016
+2796,"49 , 43",UT,Summit County,65610,2016
+2797,"49 , 45",UT,Tooele County,51266,2016
+2798,"49 , 47",UT,Uintah County,39140,2016
+2799,"49 , 49",UT,Utah County,46428,2016
+2800,"49 , 51",UT,Wasatch County,51180,2016
+2801,"49 , 53",UT,Washington County,39777,2016
+2802,"49 , 55",UT,Wayne County,32465,2016
+2803,"49 , 57",UT,Weber County,46718,2016
+2775,"49 , 1",UT,Beaver County,38039,2017
+2776,"49 , 3",UT,Box Elder County,47329,2017
+2777,"49 , 5",UT,Cache County,41802,2017
+2778,"49 , 7",UT,Carbon County,36291,2017
+2779,"49 , 9",UT,Daggett County,34824,2017
+2780,"49 , 11",UT,Davis County,56885,2017
+2781,"49 , 13",UT,Duchesne County,36501,2017
+2782,"49 , 15",UT,Emery County,41293,2017
+2783,"49 , 17",UT,Garfield County,34910,2017
+2784,"49 , 19",UT,Grand County,31699,2017
+2785,"49 , 21",UT,Iron County,35862,2017
+2786,"49 , 23",UT,Juab County,40204,2017
+2787,"49 , 25",UT,Kane County,36117,2017
+2788,"49 , 27",UT,Millard County,38825,2017
+2789,"49 , 29",UT,Morgan County,56684,2017
+2790,"49 , 31",UT,Piute County,29195,2017
+2791,"49 , 33",UT,Rich County,43200,2017
+2792,"49 , 35",UT,Salt Lake County,49076,2017
+2793,"49 , 37",UT,San Juan County,27778,2017
+2794,"49 , 39",UT,Sanpete County,34494,2017
+2795,"49 , 41",UT,Sevier County,37614,2017
+2796,"49 , 43",UT,Summit County,65610,2017
+2797,"49 , 45",UT,Tooele County,51266,2017
+2798,"49 , 47",UT,Uintah County,39140,2017
+2799,"49 , 49",UT,Utah County,46428,2017
+2800,"49 , 51",UT,Wasatch County,51180,2017
+2801,"49 , 53",UT,Washington County,39777,2017
+2802,"49 , 55",UT,Wayne County,32465,2017
+2803,"49 , 57",UT,Weber County,46718,2017
+2775,"49 , 1",UT,Beaver County,38039,2018
+2776,"49 , 3",UT,Box Elder County,47329,2018
+2777,"49 , 5",UT,Cache County,41802,2018
+2778,"49 , 7",UT,Carbon County,36291,2018
+2779,"49 , 9",UT,Daggett County,34824,2018
+2780,"49 , 11",UT,Davis County,56885,2018
+2781,"49 , 13",UT,Duchesne County,36501,2018
+2782,"49 , 15",UT,Emery County,41293,2018
+2783,"49 , 17",UT,Garfield County,34910,2018
+2784,"49 , 19",UT,Grand County,31699,2018
+2785,"49 , 21",UT,Iron County,35862,2018
+2786,"49 , 23",UT,Juab County,40204,2018
+2787,"49 , 25",UT,Kane County,36117,2018
+2788,"49 , 27",UT,Millard County,38825,2018
+2789,"49 , 29",UT,Morgan County,56684,2018
+2790,"49 , 31",UT,Piute County,29195,2018
+2791,"49 , 33",UT,Rich County,43200,2018
+2792,"49 , 35",UT,Salt Lake County,49076,2018
+2793,"49 , 37",UT,San Juan County,27778,2018
+2794,"49 , 39",UT,Sanpete County,34494,2018
+2795,"49 , 41",UT,Sevier County,37614,2018
+2796,"49 , 43",UT,Summit County,65610,2018
+2797,"49 , 45",UT,Tooele County,51266,2018
+2798,"49 , 47",UT,Uintah County,39140,2018
+2799,"49 , 49",UT,Utah County,46428,2018
+2800,"49 , 51",UT,Wasatch County,51180,2018
+2801,"49 , 53",UT,Washington County,39777,2018
+2802,"49 , 55",UT,Wayne County,32465,2018
+2803,"49 , 57",UT,Weber County,46718,2018
