@@ -1,5 +1,5 @@
 # Analysis Comparing the Federal Relief recieved by Counties Based on Their Household Income
-## [Presentation](Comparing Federal Disaster Relief and County Household Income.pptx)
+## [Presentation](ComparingFederalDisasterReliefandCountyHouseholdIncome.pptx)
 Powerpoint presentation on the analysis of the data collected.
 ## [SAPIE_Data](SAPIE_DataClean)
 Data obtained from the Census's SAPIE survey after cleaning to be used for our analysis.
